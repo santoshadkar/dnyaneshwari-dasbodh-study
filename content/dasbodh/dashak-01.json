@@ -4,7 +4,7 @@
   "dashakTitleMarathi": "स्तवननाम",
   "dashakTitleEnglish": "Stavan (Hymns of Invocation and Praise)",
   "status": "in-progress",
-  "note": "Phase 1 pilot: Samas 1 is fully populated and sourced. Samas 2-10 are not yet added.",
+  "note": "Samas 1-2 are fully populated and sourced. Samas 3-10 are not yet added.",
   "samas": [
     {
       "samasNumber": 1,
@@ -291,12 +291,229 @@
     },
     {
       "samasNumber": 2,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "गणेशस्तवन",
+      "samasTitleEnglish": "Ganesh Stavan (Praise of Lord Ganesh)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/samas-2.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "ॐ नमो जि गणनायेका । सर्वसिद्धिफळदायेका । अज्ञानभ्रांतिछेदका । बोधरुपा ॥ १ ॥",
+          "marathiMeaning": "सर्व सिद्धींची फळें देणारा, अज्ञान दूर करणारा, भ्रम नाहींसा करणारा, आणि ज्ञानस्वरुप, ओंकाररुप जो गणपति त्याला मी नमस्कार करतो.",
+          "englishMeaning": "Om, I bow to the Master of counting. You are the giver of the fruit of every accomplishment, the destroyer of ignorance and confusion, understanding itself in form.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "माझिये अंतरीं भरावें । सर्वकाळ वास्तव्य करावें । मज वाग्सुंन्यास वदवावें । कृपाकटाक्षेंकरुनी ॥ २ ॥",
+          "marathiMeaning": "गणपतीनें माझें अंतःकरणी वास्तव्य करुन आपल्या कृपाकटाक्षाने ग्रंथ वदविण्यास मला मुक्याला बळ द्यावे.",
+          "englishMeaning": "Fill my inner being and dwell there always; by the grace of your glance, let this mute one be given the power to speak.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "तुझिये कृपेचेनि बळें । वितुळती भ्रांतीचीं पडळें । आणी विश्र्वभक्षक काळें । दास्यत्व कीजे ॥ ३ ॥",
+          "marathiMeaning": "त्याच्या कृपेच्या सामर्थ्याने भ्रम व अज्ञान यांचें आवरण विरुन जातें आणि सारें विश्व गिळून टाकणारा काळ आपला गुलाम बनतो.",
+          "englishMeaning": "By the power of your grace, the veils of illusion dissolve, and even all-consuming time becomes your servant.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "येतां कृपेची निज उडी । विघ्नें कांपती बापुडीं । होऊन जाती देशधडी । नाममात्रें ॥ ४ ॥",
+          "marathiMeaning": "अशी त्याची कृपा झाली की संकटें भयाने थरथर कापूं लागतात. तसेच त्याच्या नामस्मरणाने ती नाहींशी होऊन जातात.",
+          "englishMeaning": "As soon as your grace leaps forth, obstacles tremble helplessly, and by your name alone they are driven away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "म्हणौन नामें विघ्नहर । आम्हां अनाथांचें माहेर । आदिकरुनि हरीहर । अमर वंदिती ॥ ५ ॥",
+          "marathiMeaning": "म्हणून त्याला विघ्नहर म्हणतात. आम्हां अनाथांचे ते माहेर आहे. विष्णू व शंकर त्याला नमस्कार करतात.",
+          "englishMeaning": "Therefore your name is 'remover of obstacles,' the true home for us who are orphaned in this world; even Hari and Hara bow before you.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "वंदूनियां मंगळनिधी । कार्य करितां सर्वसिद्धी । आघात अडथळें उपाधी । बाधूं सकेना ॥ ६ ॥",
+          "marathiMeaning": "जगांत जें मंगळ आहे ते तो आहे. त्याला नमस्कार करुन कार्य केल्यास ते सिद्ध होते. अडथळें, अडचणी किंवा संकटे यांचा त्रास होत नाही.",
+          "englishMeaning": "Bowing to you, the treasure of auspiciousness, every undertaking succeeds; no obstacle or hindrance can stand in the way.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "जयाचें आठवितां ध्यान । वाटे परम समाधान । नेत्रीं रिघोनियां मन । पांगुळें सर्वांगी ॥ ७ ॥",
+          "marathiMeaning": "त्याचे रुप, ध्यान आठविल्यावर समाधान वाटते. मन डोळ्यांमध्ये अवतरुन बाकी सर्व क्रिया बंद करुन ते रुप पाहू लागते.",
+          "englishMeaning": "To recall your form in meditation brings deep contentment; the mind, entering through the eyes, becomes still, absorbed in your whole form.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "सगुण रुपाची टेव माहा लावण्य लाघव । नृत्य करितां सकळ देव । तटस्त होती ॥ ८ ॥",
+          "marathiMeaning": "ते गणेशाचे सगुण रुप विलक्षण आहे. तो नाचू लागला कीं सगळे देव नुसते पाहातच बसतात.",
+          "englishMeaning": "Your embodied form is of extraordinary grace and beauty; when you dance, all the gods stand still, watching.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "सर्वकाळ मदोन्मत्त । सदा आनंदे डुल्लत । हरुषें निर्भर उद्दित । सुप्रसन्नवदनु ॥ ९ ॥",
+          "marathiMeaning": "त्याच्या गंडस्थळांतून सारखा मद गळत असतो. म्हणून जेव्हां पहावे तेव्हां तो मस्त दिसतो, परमानंदाने नेहमी डोलत असतो.",
+          "englishMeaning": "Ever intoxicated with bliss, always swaying in joy, overflowing with delight, your face forever radiant and serene.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "भव्यरुप वितंड । भीममूर्ति महा प्रचंड । विस्तीर्ण मस्तकीं उदंड । सिंधूर चर्चिला ॥ १० ॥",
+          "marathiMeaning": "तो रुपाने भव्य आणि धिप्पाड आहे. देहाने प्रचंड शक्तिमान आहे. त्याच्या विस्तीर्ण कपाळी शेंदूर विलसत आहे.",
+          "englishMeaning": "Your form is vast and towering, mighty and immense, your broad forehead richly smeared with vermilion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "नाना सुगंध परिमळें । थवथवां गळती गंडस्थळें । तेथें आली षट्पदकुळें । झुंकारशब्दें ॥ ११ ॥",
+          "marathiMeaning": "त्याच्या गंडस्थळांतून थबथबा गळणार्‍या मदाने व त्या मदाच्या सुगंधी वासाने भुंगे घूं घूं आवाज करीत तेथे जमा होतात.",
+          "englishMeaning": "Sweet fragrance flows continually from your temples, drawing swarms of bees that hum and gather there.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "मुर्डीव शुंडादंड सरळे । शोभे अभिनव आवाळें । लंबित अधर तिक्षण गळे । क्षणक्ष्णा मंदसत्वी ॥ १२ ॥",
+          "marathiMeaning": "एखाद्या सोटासारखी त्याची सोंड सरळ, मुरडलेली किंवा कधी गुंडाळलेली असते. कपाळावर दोन आवाळे आहेत. खालचा ओठ लोंबलेला व त्यांतून उग्र गंधाचा मद क्षणक्षणाला गळत आहे.",
+          "englishMeaning": "Your trunk, straight yet gently curved, is graceful and striking; your lower lip hangs slightly, ever gentle, ever composed.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "चौदा विद्यांचा गोसांवी । हरस्व लोचन ते हिलावी । लवलवित फडकावी । फडै फडै कर्णथापा ॥ १३ ॥",
+          "marathiMeaning": "हा चौदा विद्यांचा स्वामी आहे. डोळे लहान व त्यांची सारखी उघडझाप चाललेली असते. लांबरुंद असलेले लवचिक कान सारखे फडफड आवाज करीत फडकवीत असतो.",
+          "englishMeaning": "Master of the fourteen sciences, your small eyes ever moving, your broad fan-like ears flapping with a gentle sound.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "रत्नखचित मुगुटीं झळाळ । नाना सुरंग फांकती कीळ । कुंडलें तळपती नीळ । वरी जडिले झमकती ॥ १४ ॥",
+          "marathiMeaning": "त्याच्या मुगुटांत सुंदर रंगांची रत्नें आहेत. ती तेजानें झळकतात. त्यांचे सुंदर रंग आजुबाजुला प्रकाशतात. गणपतीच्या कानांतील कुंडलें चमकतातच पण त्यांत बसविलेले नीळमणी जास्त प्रकाश सोडतात.",
+          "englishMeaning": "Your crown blazes with jewels of many hues, scattering light on every side, and your earrings shine with dark-blue gems set within them.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "दंत शुभ्र सइट । रत्नखचित हेमकट्ट । तया तळवटीं पत्रें नीट । तळपती लघु लघु ॥ १५ ॥",
+          "marathiMeaning": "त्याचे दांत पांढरे व घट्ट आहेत. त्याला रत्नखचित सोन्याचें कडें आहे. त्याखाली सोन्याची लहान पानें चमकत आहेत.",
+          "englishMeaning": "Your tusks are white and firm, ringed with jewelled gold, and beneath them small golden plates glimmer brightly.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "लवथवित मलये दोंद । वेष्टित कट्ट नागबंद । क्षुद्र घंटिका मंद मंद । वाजती झणत्कारें ॥ १६ ॥",
+          "marathiMeaning": "त्याचे मोठे पोट हलत असते. कमरेला सजीव नाग कमरपट्यासारखा बांधलेला आहे. कमरेच्या साखळीला असलेली घुंगुरे मंद मंद आवाजांत झणत्कारत आहेत.",
+          "englishMeaning": "Your great belly sways gently, girded by a living serpent as a waistband, its small bells ringing softly.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "चतुर्भुज लंबोदर । कासे कासिला पीतांबर । फडके दोंदिचा फणीवर । धुधूकार टाकी ॥ १७ ॥",
+          "marathiMeaning": "त्याला चार हात आहेत. त्याचे पोट सुटलेले आहे. कमरेला पीतांबर आहे. पोटावरचा नाग फणा काढून फुत्कारत आहे.",
+          "englishMeaning": "Four-armed and large-bellied, wrapped in a yellow silk cloth, the serpent at your waist raises its hood and hisses.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "डोलवी मस्तक जिव्हा लाळी । घालून बैसला वेटाळी । उभारोनी नाभिकमळीं । टकमकां पाहे ॥ १८ ॥",
+          "marathiMeaning": "तो जिभल्या चाटत फणा काढून डोलतो. कमरेला वेढा घालून तो नाग बेंबीपाशी फणा काढून टकमका बघत आहे.",
+          "englishMeaning": "The serpent sways its head, tongue flickering, coiled about your waist, its hood raised at your navel, gazing outward.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "नाना याति कुशममाळा । व्याळपरियंत रुळती गळा । रत्नजडित हृदयकमळा । वरी पदक शोभे ॥ १९ ॥",
+          "marathiMeaning": "नाना प्रकारच्या फुलांच्या माळा गणपतीच्या गळ्यांत असून त्या कमरेपर्यंत लोंबत आहेत. हृदयावर रत्नजडित पदक शोभत आहे.",
+          "englishMeaning": "Garlands of many kinds of flowers hang from your neck down to your waist, and a jewelled locket shines upon your lotus-heart.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "शोभे फरश आणि कमळ । अंकुश तिक्षण तेजाळ । येके करीं मोदकगोळ। तयावरी अति प्रीति ॥ २० ॥",
+          "marathiMeaning": "चार हातांपैकी एका हातांत परशु, दुसर्‍यांत कमळ तर तिसर्‍या हातांत टोकदार अंकुश व चवथ्या हातांत अतिशय आवडणारा गोल मोदक आहे.",
+          "englishMeaning": "In your hands shine the axe and the lotus, the sharp and gleaming goad, and in one hand the round modak you love so dearly.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "नट नाट्य कळा कुंसरी । नाना छंदें नृत्य करी । टाळ मृदांग भरोवरी । उपांग हुंकारे ॥ २१ ।",
+          "marathiMeaning": "नाना प्रकारचे हावभावयुक्त कलाकौशल्याने तो टाळ व मृदंग यांच्या तालावर तो नृत्य करतो. मधुनच हुंकार भरतो.",
+          "englishMeaning": "Skilled as an actor in every art, you dance to many rhythms, keeping time with cymbal and drum, humming along.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "स्थिरता नाहीं येक क्षण । चपळविशंई अग्रगण । साजिरी मूर्ति सुलक्षण । लावण्यखाणी ॥ २२ ॥",
+          "marathiMeaning": "गणपति क्षणभरसुद्धा स्थिर नसतो. चपळपणांत तो अग्री आहे. त्याची सौंदर्यवान मूर्ति मोठी सुंदर व देखणी दिसते आहे.",
+          "englishMeaning": "Never still even for a moment, foremost in nimbleness, your graceful, well-formed image is a very mine of beauty.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "रुणझुणा वाजती नेपुरें । वांकी बोभाटती गजरें । घागरियासहित मनोहरें । पाउलें दोनी ॥ २३ ॥",
+          "marathiMeaning": "त्या गणेशाच्या पायांतील पैंजणें रुणुझुणु असा गोड आवाज करत आहेत. वाकींचाही मोठा मधुर आवाज होतो. घुंघरु असलेली त्याची पाऊले मनोहर दिसतात.",
+          "englishMeaning": "Your anklets ring softly, your bracelets sound sweetly, and your two feet, adorned with little bells, are utterly enchanting.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "ईश्र्वरसभेसी आली शोभा । दिव्यांबरांची फांकली प्रभा । साहित्यविशईं सुल्लभा । अष्ट नायका होती ॥ २४ ॥",
+          "marathiMeaning": "ईश्र्वराच्या सभेंत गणपति शोभा निर्माण करतो. त्याच्या वस्त्रांचे दिव्य तेज सर्वत्र फाकते. अष्टनायिका त्याच्या सान्निध्यांत साहित्य निर्माण करणारास साह्यभूत होतात.",
+          "englishMeaning": "You bring splendour to the assembly of the divine; the radiance of your garments spreads on every side, and the eight forms of nature attend easily upon you.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "ऐसा सर्वांगें सुंदरु । सकळ विद्यांचा आगरु । त्यासी माझा नमस्कारु । साष्टांग भावें ॥ २५ ॥",
+          "marathiMeaning": "असा हा गणपति सर्वांगाने सुंदर आहे. तो सर्व विद्यांचे आगर आहे. त्याला मी साष्टांग नमस्कार करतो.",
+          "englishMeaning": "Beautiful in every limb, the very treasury of all knowledge — to you I offer my full prostration.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "ध्यान गणेशाचें वर्णितां । मतिप्रकाश होये भ्रांता । गुणानुवाद श्रवण करितां । वोळे सरस्वती ॥ २६ ॥",
+          "marathiMeaning": "गणेशाच्या रुपाचे चिंतन अज्ञानी माणसाच्या बुद्धिंत ज्ञानाचा उगम करते. त्याच्या गुणांचे वर्णन ऐकले की ते ऐकणारास सरस्वती प्रसन्न होते.",
+          "englishMeaning": "To meditate and describe Ganesh's form brings light to a confused mind; and to hear his praises sung is to draw the favour of Sarasvati.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "जयासी ब्रह्मादिक वंदिती । तेथे मानव बापुडे किती । असो प्राणी मंदमती । तेहीं गणेश चिंतावा ॥ २७ ॥",
+          "marathiMeaning": "ज्याला ब्रह्मदेवासारखे देवसुद्धा नमस्कार करतात, त्याच्यापुढे मनुष्याला काय किंमत, तरीसुद्धा अल्प, मंदबुद्धि माणसाने गणपतिची उपासना व चिंतन करावे.",
+          "englishMeaning": "Even Brahma and the other gods bow before him — how small, then, is any man? Yet let even the dull of mind hold Ganesh in their thoughts.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "जे मूर्ख अवलक्षण । जे कां हीणाहूनि हीण । तेचि होती दक्ष प्रविण । सर्वविशईं ॥ २८ ॥",
+          "marathiMeaning": "जे अवलक्षणी, हीन असतात ते हुशार व सर्व विषयांत प्रवीण होतात.",
+          "englishMeaning": "Even the foolish and ill-marked, the lowest of the low, become skilled and accomplished in every matter through him.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "ऐसा जो परम समर्थ । पूर्ण करी मनोरथ । सप्रचीत भजन स्वार्थ । कल्लौ चंडीविनायेकीं ॥ २९ ॥",
+          "marathiMeaning": "असा परम समर्थ गणपति मनोरथ पूर्ण करणारा आहे. स्वानुभवाचा स्वार्थ साधकाला देणारा गणपति व देवी या कलीयुगांतील मुख्य देवता मानतात.",
+          "englishMeaning": "Such is this all-capable one, who fulfils every heart's desire; in this age of Kali, devotion to Chandi and Vinayaka brings the seeker true, direct benefit.",
+          "verified": true
+        },
+        {
+          "verseNumber": 30,
+          "original": "ऐसा गणेश मंगळमूर्ती । तो म्या स्तविला येथामती । वांछ्या धरुन चित्तीं । परमार्थाची ॥ ३० ॥",
+          "marathiMeaning": "माझ्या मनांतील परमार्थाची इच्छा पुरी व्हावी म्हणून माझ्या बुद्धीनुसार मी गणेशाचे, मंगळमूर्तिचे स्तवन केले आहे.",
+          "englishMeaning": "Such is Ganesh, the most auspicious form; I have praised him here to the best of my understanding, holding in my heart the wish for the ultimate accomplishment of paramartha.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 3,
