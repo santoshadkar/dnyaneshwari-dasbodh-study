@@ -3,16 +3,291 @@
   "dashakNumber": 1,
   "dashakTitleMarathi": "स्तवननाम",
   "dashakTitleEnglish": "Stavan (Hymns of Invocation and Praise)",
-  "status": "empty",
+  "status": "in-progress",
+  "note": "Phase 1 pilot: Samas 1 is fully populated and sourced. Samas 2-10 are not yet added.",
   "samas": [
     {
       "samasNumber": 1,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
-      "owis": []
+      "samasTitleMarathi": "ग्रंथारंभलक्षण",
+      "samasTitleEnglish": "Beginning of the Book",
+      "source": {
+        "name": "dasbodhstotra (blog) — original owi text and Marathi meaning for Dashak 1, Samas 1",
+        "url": "https://dasbodhstotra.blogspot.com/2020/05/dasbodh-dashak-1-samas-1.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015)",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "note": "Samas title cross-checked: sanskritdocuments.org and the Norwell (2015) translation's own closing colophon (\"granthaarambhalakshananaama samaas pahilaa\") both give this samas's name as ग्रंथारंभलक्षण (\"Beginning of the Book\"). One secondary source (dasbodhstotra blog) instead labelled it मंगलाचरण (\"Mangalacharan\") in its own commentary text, but its own colophon line at the end of the same post agrees with ग्रंथारंभलक्षण — so that is used here.",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "श्रोते पुसती कोण ग्रंथ । काय बोलिले जी येथ । श्रवण केल्याने प्राप्त काय आहे ॥१॥",
+          "marathiMeaning": "श्रोते विचारत आहेत की, हा कुठला ग्रंथ आहे, यात काय सांगितले आहे, आणि याच्या श्रवणाने म्हणजेच अभ्यासाने, चिंतनाने आम्हाला काय लाभ होईल.",
+          "englishMeaning": "The listener asked, \"What is this scripture and what is spoken here? And when one listens to it, what is acquired?\"",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "ग्रंथा नाम दासबोध । गुरुशिष्यांचा सवांद । येथ बोलिला विशद । भक्तिमार्ग ॥२॥",
+          "marathiMeaning": "श्री समर्थ उत्तर देतात की, या ग्रंथाचे नाव दासबोध आहे आणि त्यात गुरु-शिष्याच्या संवादरूपाने भक्तिमार्ग विस्ताराने सांगितला आहे.",
+          "englishMeaning": "This scripture's name is Dasbodh. It is a dialogue between the Guru and the disciple, in which the path of devotion is clearly spoken.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "नवविधा भक्ती आणि ज्ञान । बोलिले वैराग्याचे लक्षण । बहुधा अध्यात्मनिरूपण । निरोपिले ॥३॥",
+          "marathiMeaning": "या दासबोध ग्रंथात नवविधा भक्ती, ब्रह्मज्ञान आणि वैराग्याची लक्षणे, आणि विशेषकरून अध्यात्मनिरूपण विविध ठिकाणी केलेले आहे.",
+          "englishMeaning": "The nine forms of devotion and knowledge are spoken of, along with the signs of renunciation; and much spiritual exposition is given.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "भक्तीचेन योगे देव । निश्र्चयें पावती मानव । ऐसा आहे अभिप्राव । ईये ग्रंथी ॥४॥",
+          "marathiMeaning": "भक्तिमार्गाचा अवलंब करणाऱ्यास निश्चितपणे ईश्वरदर्शनाचा लाभ होतो, असा या ग्रंथाचा स्पष्ट अभिप्राय आहे.",
+          "englishMeaning": "Through devotion, man surely attains God — such is the import declared in this scripture.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "मुख्य भक्तीचा निश्र्चयो । शुद्धज्ञानाचा निश्र्चयो । आत्मस्थितिचा निश्र्चयो । बोलिला असे ॥५॥",
+          "marathiMeaning": "मुख्य भक्ती कोणती, शुद्ध ज्ञान कोणते, आत्मस्थिती कशी असते, याचे विवरण या ग्रंथात केले आहे.",
+          "englishMeaning": "The certainty of true devotion, the certainty of pure knowledge, and the certainty of the state of the Self are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "शुद्ध उपदेशाचा निश्र्चयो । संयोज्यमुक्तीचा निश्र्चयो । मोक्ष प्राप्तीचा निश्र्चयो । बोलिला असे ॥६॥",
+          "marathiMeaning": "शुद्ध उपदेश म्हणजे काय, सायुज्यमुक्ती कशाला म्हणतात, मोक्षप्राप्ती काय असते, याचे विवरण या ग्रंथात केले आहे.",
+          "englishMeaning": "The certainty of pure instruction, the certainty of union and liberation, and the certainty of attaining moksha are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "शुद्ध स्वरूपाचा निश्र्चयो । विदेहस्थितीचा निश्र्चयो । आलिप्तपणाचा निश्र्चयो । बोलिला असे ॥७॥",
+          "marathiMeaning": "शुद्ध स्वरूप कसे असते, विदेहस्थिती कोणती, अलिप्तपणा म्हणजे काय, याचे विवरण केले आहे.",
+          "englishMeaning": "The certainty of pure being, the certainty of the disembodied state, and the certainty of detachment are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "मुख्य देवाचा निश्र्चयो । मुख्य भक्ताचा निश्र्चयो । जीवशिवाचा निश्र्चयो । बोलिला असे ॥८॥",
+          "marathiMeaning": "मुख्य देव कोणता, उत्तम भक्त कोण, जीव-शिवस्वरूप काय, हे या ग्रंथात स्पष्ट सांगितले आहे.",
+          "englishMeaning": "The certainty of the true God, the certainty of the true devotee, and the certainty of the jiva and Shiva are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "मुख्य ब्रम्हाचा निश्र्चयो । नाना मतांचा निश्र्चयो । आपण कोण हा निश्र्चयो । बोलिला असे ॥९॥",
+          "marathiMeaning": "मुख्य ब्रह्म कसे आहे, विविध मते कोणती, आणि आपण स्वतः कोण आहोत, याचे सुस्पष्ट विवरण येथे केले आहे.",
+          "englishMeaning": "The certainty of the supreme Brahman, the certainty amid many doctrines, and the certainty of who one truly is are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "मुख्य उपासना लक्षण । नाना कवित्वलक्षण । नाना चातुर्यलक्षण । बोलिले असे ॥१०॥",
+          "marathiMeaning": "उपासनेचे मुख्य लक्षण कोणते, विविध काव्याची लक्षणे कोणती, विविध प्रकारच्या चातुर्याची लक्षणे कशी असतात, हे या ग्रंथात स्पष्ट सांगितले आहे.",
+          "englishMeaning": "The marks of true worship, the marks of poetic composition, and the marks of manifold cleverness are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "मायोद्धवाचे लक्षण । पांचभूतांचे लक्षण । कर्ता कोण हे लक्षण । बोलिले असे ॥११॥",
+          "marathiMeaning": "मायेच्या उत्पत्तीची लक्षणे कोणती, पंचमहाभूतांची लक्षणे कोणती, आणि या सृष्टीचा कर्ता कोण, याविषयी या ग्रंथात स्पष्ट सांगितले आहे.",
+          "englishMeaning": "The marks of the origin of maya, the marks of the five great elements, and the mark of who the doer is are spoken of here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "नाना किंत निवारिले । नाना संशयो छेदिले । नाना आशंका फेडिले । नाना प्रश्न ॥१२॥",
+          "marathiMeaning": "या दासबोधात अनेक शंकांचे निवारण केले आहे, अनेक चुकीच्या समजुतींचे निवारण केले आहे, अनेक संशय छेदून टाकले आहेत, आणि अनेक प्रश्नांना समाधानकारक उत्तरे दिली आहेत.",
+          "englishMeaning": "Many doubts are removed, many uncertainties are cut away, many apprehensions are dispelled, and many questions are answered here.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "ऐसे बहुधा निरोपिले । ग्रंथगर्भी जे बोलिले । ते अवघेची अनुवादले । न वचे कि कदा ॥१३॥",
+          "marathiMeaning": "दासबोधाच्या रचनेत व त्याच्या तात्पर्यात असे विविध विषय सांगितले आहेत, ते सर्व येथे पुन्हा सांगणे शक्य नाही.",
+          "englishMeaning": "Thus much has been declared; but all that lies within the heart of this scripture could never fully be retold.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "तथापि अवघा दासबोध । दशक फोडून केला विशद । जे जे दशकींचा अनुवाद । ते ते दशकी बोलिला ॥१४॥",
+          "marathiMeaning": "हा संपूर्ण दासबोध वीस दशकांत विभागला आहे, आणि प्रत्येक दशकाचा विषय त्या त्या दशकात स्पष्ट सांगितला आहे.",
+          "englishMeaning": "Even so, the whole Dasbodh has been made clear by dividing it into dashakas; whatever belongs to a given dashaka is spoken within that dashaka.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "नाना ग्रंथांच्या समती । उपनिषदे वेदांत श्रुती । आणि मुख्य आत्मप्रचिती । शास्त्रेसहित ॥१५॥",
+          "marathiMeaning": "या दासबोधातील विषयास अनेक ग्रंथांचा आधार घेतला आहे, त्यामध्ये उपनिषदे व वेद हे महत्त्वाचे आहेत, आणि शास्त्राधारासोबतच स्वानुभवाचाही आधार घेऊन हा ग्रंथ लिहिला आहे.",
+          "englishMeaning": "It agrees with many scriptures — the Upanishads, Vedanta, the Shruti — and chiefly with direct self-realization, along with the shastras.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "नाना समतीअन्वये । म्हणौनि मिथ्या म्हणंता नये । तथापि हे अनुभवासि ये । प्रत्यक्ष आता ॥१६॥",
+          "marathiMeaning": "अनेक प्रकारच्या आधारांनी मांडलेला हा दासबोधातील विषय खोटा आहे असे म्हणता येणार नाही, कारण हे प्रत्यक्ष अनुभवास येते.",
+          "englishMeaning": "Being in agreement with these many scriptures, it cannot be called false; moreover, this comes to direct experience even now.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "मत्सरे यासी मिथ्या म्हणती । तरी अवघेचि ग्रंथ उछदती । नाना ग्रंथांच्या समती । भगवद्वाक्ये ॥१७॥",
+          "marathiMeaning": "मत्सरी माणसे या विषयाला खोटे म्हणतात, पण तसे मानले तर सर्वच ग्रंथ नाकारावे लागतील, कारण अनेक ग्रंथांतील भगवद्वचनांशी हे सुसंगत आहे.",
+          "englishMeaning": "Those who out of envy call this false would thereby overturn every scripture, for it agrees with the words of God found in many scriptures.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "शिवगीता रामगीता । गुरुगीता गर्भगिता । उत्तरगीता अवधूतगीता । वेद आणि वेदांत ॥१८॥",
+          "marathiMeaning": "शिवगीता, रामगीता, गुरुगीता, गर्भगीता, उत्तरगीता, अवधूतगीता इत्यादी अनेक ग्रंथांचा आधार घेऊन हा दासबोध ग्रंथ लिहिला आहे.",
+          "englishMeaning": "The Shiva-gita, Rama-gita, Guru-gita, Garbha-gita, Uttara-gita, Avadhoota-gita, the Vedas and Vedanta —",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "भगवद्गीता ब्रह्मगीता । हंसगीता पांडवगीता । गणेशगीता यमगीता । उपनिषेद भागवत ॥१९॥",
+          "marathiMeaning": "भगवद्गीता, ब्रह्मगीता, हंसगीता, पांडवगीता, गणेशगीता, यमगीता, उपनिषदे, भागवत इत्यादी अनेक ग्रंथांचा आधार घेऊन हा दासबोध ग्रंथ लिहिला आहे.",
+          "englishMeaning": "— the Bhagavad-gita, Brahma-gita, Hansa-gita, Pandava-gita, Ganesha-gita, Yama-gita, the Upanishads and the Bhagavata —",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "इत्यादिक नाना ग्रंथ । समतीस बोलिले येथ । भगवद्वाक्ये यथार्थ । निश्र्चयेसी ॥२०॥",
+          "marathiMeaning": "अशा अनेक ग्रंथांचा आधार घेऊन, आणि भगवंतांच्या यथार्थ वचनांना अनुसरून, हा दासबोध ग्रंथ रचला आहे.",
+          "englishMeaning": "— all these many scriptures are cited here in agreement, that the words of God are indeed true, with certainty.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "भगवद्वचनी अविस्वासे । ऐसा कोण पतित असे । भगवद्वाक्याविरहित नसे । बोलणे येथीचें ॥२१॥",
+          "marathiMeaning": "या ग्रंथात जे सांगितले आहे ते भगवंतांच्या वचनांस अनुसरून आहे; भगवंतांच्या सांगण्यावर विश्वास न ठेवणारा असा कोणी अधम मनुष्य असेल असे वाटत नाही.",
+          "englishMeaning": "Who is so fallen as to have no faith in the word of God? Nothing spoken here is without the word of God.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "पूर्ण ग्रंथ पाहिल्याविण । उगाच ठेवी जो दूषण । तो दुरात्मा दुराभिमान । मत्सरे करी ॥२२॥",
+          "marathiMeaning": "एखादा ग्रंथ पूर्ण न वाचता जो उगाचच त्यावर दोष ठेवतो, तो दुष्ट बुद्धीचा असून केवळ मत्सराने असे करतो.",
+          "englishMeaning": "Whoever finds fault without having read the whole scripture is of an evil, arrogant nature, acting out of envy.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "अभिमान उठे मत्सर । मत्सरे ये तिरस्कार । पुढे क्रोधाचा विकार । प्रबळे बळे ॥२३॥",
+          "marathiMeaning": "दुराभिमानामुळे मत्सर, मत्सरापोटी तिरस्कार निर्माण होतो, आणि पुढे त्यातून क्रोधाचा विकार बळावतो.",
+          "englishMeaning": "From pride arises envy; from envy comes contempt; and afterward the affliction of anger grows ever stronger.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "ऐसा अंतरी नासला । कामक्रोध खवळला । अहंभावे पालटला । प्रत्यक्ष दिसे ॥२४॥",
+          "marathiMeaning": "अशा रीतीने मन विकृत होऊन कामक्रोध खवळतो आणि अहंभावाने ते बदललेले प्रत्यक्ष दिसून येते.",
+          "englishMeaning": "Thus one is spoiled within, inflamed by desire and anger, and visibly transformed by egoism.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "कामक्रोध लिथाडिला । तो कैसा म्हणावा भला । अमृत सेवितांच पावला । मृत्य राहो ॥२५॥",
+          "marathiMeaning": "कामक्रोधाने बरबटलेल्या माणसाला भला कसे म्हणावे? अमृत पिऊनही तो जणू मरणानेच ग्रासलेला असतो.",
+          "englishMeaning": "One overpowered by desire and anger — how can he be called good? Though he tastes nectar, death still overtakes him.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "आतां असो हे बोलणें । अधिकारासारिखें घेणें । परंतु अभिमान त्यागणे । हे उत्तमोत्तम ॥२६॥",
+          "marathiMeaning": "आता हे बोलणे पुरे करतो; ज्याची जितकी कुवत असेल तेवढेच त्याने दासबोधातून घ्यावे, पण अहंकार त्यागून घ्यावे, हे सर्वांत उत्तम.",
+          "englishMeaning": "Enough said now — let each take according to his capacity, but to give up pride is the very best thing to do.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "मागां श्रोती आक्षेपिलें । जी ये ग्रंथी काय बोलिलें । तें सकळही निरोपिलें । संकळीत मार्गे ॥२७॥",
+          "marathiMeaning": "या ग्रंथात काय सांगितले आहे, असा प्रश्न श्रोत्यांनी सुरुवातीला विचारला होता; त्याचे आतापर्यंत थोडक्यात उत्तर दिले आहे.",
+          "englishMeaning": "Earlier the listener had asked what is spoken in this scripture; that has now been briefly answered, in short compass.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "आतां श्रवण केलियाचें फळ । क्रिया पालटे तत्काळ । तुटे संशयाचें मूळ । येकसरां ॥२८॥",
+          "marathiMeaning": "दासबोधाच्या श्रवणाने साधकाचे वर्तन तत्काळ बदलते, आणि त्याच्या मनातील संशयाचे मूळच नाहीसे होते.",
+          "englishMeaning": "Now, the fruit of listening is this: conduct is transformed at once, and the very root of doubt is cut away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "मार्ग सांपडे सुगम । नलगे साधन दुर्गम । सायोज्यमुक्तीचें वर्म । ठाइं पडे ॥२९॥",
+          "marathiMeaning": "ईश्वरदर्शनाचा सोपा व सुखाचा मार्ग सापडतो, कठीण साधना न करताच सायुज्यमुक्तीचे रहस्य सहज हाती येते.",
+          "englishMeaning": "An easy path is found; no arduous practice is needed; the secret of union and liberation falls into place.",
+          "verified": true
+        },
+        {
+          "verseNumber": 30,
+          "original": "नासे अज्ञान दु:ख भ्रांती । शीघ्रचि येथे ज्ञानप्राप्ती । ऐसी आहे फळश्रुती । ईये ग्रंथीं ॥३०॥",
+          "marathiMeaning": "अज्ञान, दुःख आणि भ्रांती नष्ट होऊन शीघ्रच ज्ञानप्राप्ती होते — असे या ग्रंथाचे फलित आहे.",
+          "englishMeaning": "Ignorance, suffering and delusion are destroyed, and knowledge is swiftly attained — such is the declared fruit of this scripture.",
+          "verified": true
+        },
+        {
+          "verseNumber": 31,
+          "original": "योगियांचे परम भाग्य । आंगी बाणे तें वैराग्य । चातुर्य कळे यथायोग्य । विवेकेंसहित ॥३१॥",
+          "marathiMeaning": "योगी पुरुष वैराग्याला मोठे भाग्य समजतात; ते वैराग्य अंगी बाणते, आणि विवेकासह यथायोग्य चातुर्य समजते.",
+          "englishMeaning": "That renunciation which is the supreme fortune of yogis comes to be embodied, and true discernment and wisdom are understood.",
+          "verified": true
+        },
+        {
+          "verseNumber": 32,
+          "original": "भ्रांत अवगुणी अवलक्षण । तेचि होती सुलक्षण । धूर्त तार्किक विचक्षण । समयो जाणती ॥३२॥",
+          "marathiMeaning": "भ्रांत, अवगुणी व कुलक्षणी असलेला मनुष्यही उत्तम गुणांचा होतो; तो चतुर, तार्किक व विचक्षण बनून प्रसंगाची जाण ठेवतो.",
+          "englishMeaning": "Those deluded, faulty and ill-marked become well-marked; they grow shrewd, discerning and wise to the occasion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 33,
+          "original": "आळसी तेचि साक्षपी होती । पापी तेचि प्रस्तावती । निंदक तेचि वंदूं लागती । भक्तिमार्गासी ॥३३॥",
+          "marathiMeaning": "आळशी माणसे उद्योगी होतात, पापी माणसांना पश्चात्ताप होऊन ते सुधारतात, आणि भक्तिमार्गाची निंदा करणारे आदराने भक्ती करू लागतात.",
+          "englishMeaning": "The idle become diligent; sinners turn toward amendment; and those who scorned the path of devotion begin to revere it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 34,
+          "original": "बद्धचि होती मुमुक्ष । मूर्ख होती अति दक्ष । अभक्तचि पावती मोक्ष । भक्तिमार्गे ॥३४॥",
+          "marathiMeaning": "संसारात गुंतलेले लोक मुमुक्षु होतात, मूर्ख लोक सावध होतात, आणि अभक्त लोकही भक्तिमार्गाने मोक्ष पावतात.",
+          "englishMeaning": "The bound become seekers of liberation; the foolish grow very alert; and even non-devotees attain moksha through the path of devotion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 35,
+          "original": "नाना दोष ते नासती । पतित तेचि पावन होती । प्राणी पावे उत्तम गती । श्रवणमात्रे ॥३५॥",
+          "marathiMeaning": "अशा रीतीने अनेक दोष नष्ट होऊन पतित माणसेही पावन होतात, आणि केवळ श्रवणानेच प्राणी उत्तम गतीस पोहोचतो.",
+          "englishMeaning": "Many faults are destroyed, the fallen become pure, and a being attains the highest state merely by listening.",
+          "verified": true
+        },
+        {
+          "verseNumber": 36,
+          "original": "नाना धोके देहबुध्दीचे । नाना किंत संदेहाचे । नाना उद्वेग संसाराचे । नासती श्रवणें ॥३६॥",
+          "marathiMeaning": "देहबुद्धीमुळे येणारे अनेक धोके, संशयामुळे निर्माण होणाऱ्या शंका, आणि संसारातील अनेक उद्वेग — हे सर्व श्रवणानेच नाहीसे होतात.",
+          "englishMeaning": "The many dangers of body-consciousness, the many doubts of uncertainty, and the many anxieties of worldly life are destroyed by listening.",
+          "verified": true
+        },
+        {
+          "verseNumber": 37,
+          "original": "ऐसी याची फलश्रुती । श्रवणे चुके अधोगती । मनास होय विश्रांती । समाधान ॥३७॥",
+          "marathiMeaning": "अशी याची फलश्रुती आहे की, श्रवणाने अधोगती चुकते, आणि मनाला खरी विश्रांती व समाधान लाभते.",
+          "englishMeaning": "Such is its declared fruit: by listening, a lowly state is avoided, and the mind finds rest and contentment.",
+          "verified": true
+        },
+        {
+          "verseNumber": 38,
+          "original": "जयाचा भावार्थ जैसा । तयास लाभ तैसा । मत्सर धरी जो पुसा । तयास तेंचि प्राप्त ॥३८॥",
+          "marathiMeaning": "ज्याची श्रद्धा जशी असेल, त्याला तसाच लाभ मिळतो; जो मत्सर धरून विचारतो, त्यालाही त्याच्या वृत्तीप्रमाणेच फळ मिळते.",
+          "englishMeaning": "As one's faith is, so is the benefit gained; and whoever approaches this with envy receives, in turn, just that.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 2,
@@ -20,7 +295,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -29,7 +304,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -38,7 +313,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -47,7 +322,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -56,7 +331,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -65,7 +340,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -74,7 +349,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -83,7 +358,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     },
     {
@@ -92,7 +367,7 @@
       "samasTitleEnglish": "",
       "source": null,
       "status": "empty",
-      "note": "Title and owi content pending research (Phase 1/2). Preliminary research found conflicting samas-1 titles across secondary sources for Dashak 1 — titles will be entered only once cross-checked against a primary/authoritative edition.",
+      "note": "Title and owi content pending research (Phase 2).",
       "owis": []
     }
   ]

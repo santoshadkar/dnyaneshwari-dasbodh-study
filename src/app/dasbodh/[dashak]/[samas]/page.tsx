@@ -57,9 +57,17 @@ export default async function DasbodhSamasPage({
         )}
         {samasData.source && (
           <p className="mt-2 text-xs text-[var(--color-ink-soft)]">
-            Source:{" "}
+            Original &amp; Marathi meaning source:{" "}
             <a href={samasData.source.url} className="underline" target="_blank" rel="noreferrer">
               {samasData.source.name}
+            </a>
+          </p>
+        )}
+        {samasData.englishSource && (
+          <p className="mt-1 text-xs text-[var(--color-ink-soft)]">
+            English meaning source:{" "}
+            <a href={samasData.englishSource.url} className="underline" target="_blank" rel="noreferrer">
+              {samasData.englishSource.name}
             </a>
           </p>
         )}

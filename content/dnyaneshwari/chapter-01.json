@@ -3,8 +3,227 @@
   "chapterNumber": 1,
   "chapterTitleMarathi": "अर्जुनविषादयोग",
   "chapterTitleEnglish": "Arjuna Vishada Yoga (The Yoga of Arjuna's Grief)",
-  "source": null,
-  "numberingConvention": null,
-  "status": "empty",
-  "verses": []
+  "source": {
+    "name": "सार्थ ज्ञानेश्वरी (Sartha Dnyaneshwari) by Dhananjay Maharaj More — original ovi text and Marathi meaning",
+    "url": "https://96kulimaratha.com/shabdashodh-sartha-dnyaneshwari-adhyay-1/"
+  },
+  "englishSource": {
+    "name": "Dnyaneshwari, English translation by D. A. Ghaisas",
+    "url": "https://archive.org/download/Dnyadeva_vangmay/Dnyaneshwari-english-by-Ghaisas.pdf"
+  },
+  "numberingConvention": "Ovi numbers follow the Sartha Dnyaneshwari (96kulimaratha.com) edition; the Ghaisas English translation uses the same ovi numbering, and its wording was cross-checked against the Marathi for each ovi below. This chapter has 275 ovis in this edition (numbering conventions vary slightly between editions) — only ovis 1-30 are populated so far as a Phase 1 pilot.",
+  "status": "in-progress",
+  "note": "Phase 1 pilot: ovis 1-30 (the invocation to Ganesha, Sharada, and the Guru) are fully sourced and cross-checked. Ovis 31-275 are not yet added.",
+  "verses": [
+    {
+      "verseNumber": 1,
+      "original": "ॐ नमो जी आद्या । वेद प्रतिपाद्या । जय जय स्वसंवेद्या । आत्मरूपा ॥1.1॥",
+      "marathiMeaning": "अनादीसिद्ध वेदांनी वर्णन केलेल्या, ज्याच्या त्याच्या स्वतः प्रत्ययास येणाऱ्या, विश्वस्वरूप निर्गुण आत्मरूपा, तुझा जयजयकार करून तुला नमस्कार करत आहे.",
+      "englishMeaning": "Om! Salutations to the primordial! You are the subject of the Vedas! Victory to you, victory to you, who are known by yourself only. You are the Atman!",
+      "verified": true
+    },
+    {
+      "verseNumber": 2,
+      "original": "देवा तूचि गणेशु । सकलार्थमतिप्रकाशु । म्हणे निवृत्तिदासु । अवधारिजो जी ॥1.2॥",
+      "marathiMeaning": "हे देवा! सर्व विश्वाच्या बुद्धीला प्रकाश देणारा जो गणेश, तो तूच आहेस. निवृत्तीनाथांचे शिष्य ज्ञानेश्वर म्हणतात, तो गणेश कसा आहे ते अवधानपूर्वक ऐक.",
+      "englishMeaning": "O God! You are yourself Ganesha, who illuminates the intelligence of all persons. I, the servant of Nivrutti, request you to please pay attention to what I am describing.",
+      "verified": true
+    },
+    {
+      "verseNumber": 3,
+      "original": "हे शब्दब्रह्म अशेष । तेचि मूर्ति सुवेष । जेथ वर्णवपु निर्दोष । मिरवत असे ॥1.3॥",
+      "marathiMeaning": "संपूर्ण वेद हीच जणू काही पोषाख केलेली गणेशाची मूर्ती होय आणि तिच्या ठिकाणी निर्दोष वर्णरूपी शरीराचे सौंदर्य शोभून दिसते आहे.",
+      "englishMeaning": "Your auspiciously clad body is the Absolute Brahman in the form of words, in which the alphabets form themselves in the flawless and glorious shape of this body.",
+      "verified": true
+    },
+    {
+      "verseNumber": 4,
+      "original": "स्मृति तेचि अवयव । देखा आंगीक भाव । तेथ लावण्याची ठेव । अर्थशोभा ॥1.4॥",
+      "marathiMeaning": "मन्वादिकांच्या स्मृती हे त्याचे अवयव आहेत. ते अवयव या स्मृतीतील अर्थ-सौंदर्याने जणू लावण्याची केवळ खाणच बनले आहेत.",
+      "englishMeaning": "The Smritis — the books of Law — are the inherent limbs of this body, and the beautiful meaning is the reservoir of all charm.",
+      "verified": true
+    },
+    {
+      "verseNumber": 5,
+      "original": "अष्टादश पुराणे । तीचि मणिभूषणे । पदपद्धति खेवणे । प्रमेयरत्‍नांची ॥1.5॥",
+      "marathiMeaning": "अठरा पुराणे हे गणपतीच्या अंगावरील रत्नखचित अलंकार आहेत. त्यामध्ये सांगितलेली ही रत्ने; आणि शब्दांची छंदयुक्त रचना ही त्यांची कोंदणे आहेत.",
+      "englishMeaning": "The eighteen mythological books (Puranas) are the ornaments of jewels, and the terms and their proper logical use in these books are beautiful designs of the principles expounded therein.",
+      "verified": true
+    },
+    {
+      "verseNumber": 6,
+      "original": "पदबंध नागर । तेचि रंगाथिले अंबर । जेथ साहित्य वाणे सपूर । उजाळाचे ॥1.6॥",
+      "marathiMeaning": "लालित्यपूर्ण पदरचना हेच उत्कृष्ट रंगाने रंगविलेले वस्त्र आहे. शब्द-अलंकार आणि अर्थ-अलंकार हे त्या वस्त्रावरील तेज:पुंज दिसणारे जरीचे तलम तंतू आहेत.",
+      "englishMeaning": "The sophisticated phrases and arrangements of words make the colourful dress of this body, where the figures of speech have made the dress especially dazzling.",
+      "verified": true
+    },
+    {
+      "verseNumber": 7,
+      "original": "देखा काव्य नाटका । जे निर्धारिता सकौतुका । त्याचि रुणझुणती क्षुद्रघंटिका । अर्थध्वनि ॥1.7॥",
+      "marathiMeaning": "काव्य आणि नाटक यांचा कौतुकाने विचार केला असता, त्या गणपतीच्या पायातील रूणझुणणाऱ्या छोट्या-छोट्या घागऱ्या आहेत; अर्थ हा त्या घागऱ्यांना बसविलेल्या घुंगराचा मंजूळ असा ध्वनी आहे.",
+      "englishMeaning": "Please see how the poetry and the dramas are the most amusing little bells which jingle with the sound of the implied meanings.",
+      "verified": true
+    },
+    {
+      "verseNumber": 8,
+      "original": "नाना प्रमेयांची परी । निपुणपणे पाहता कुसरी । दिसती उचित पदे माझारी । रत्‍ने भली ॥1.8॥",
+      "marathiMeaning": "व्यास, वाल्मिकी, भरतमुनी यांच्या काव्य-नाटकातील विविध सिद्धांतांच्या शब्दांचा एकाग्रतेने अभ्यास केला, तर त्यात कवीचे अलौकिक कौशल्य दिसून येते. अशी ही अनमोल शब्द-घागऱ्यांतील उत्तमोत्तम रत्ने आहेत.",
+      "englishMeaning": "For the learned one, looking at the doctrines, the words and the phrases of poetry and dramas are the valuable gems which shiningly express the final principles or theories.",
+      "verified": true
+    },
+    {
+      "verseNumber": 9,
+      "original": "तेथ व्यासादिकांच्या मती । तेचि मेखळा मिरवती । चोखाळपणे झळकती । पल्लवसडका ॥1.9॥",
+      "marathiMeaning": "महर्षी व्यासादिकांची बुद्धी ही गणपतीची मेखला म्हणजे कटिभूषण होय. त्याला लोंबत असलेल्या मोत्यांच्या पदरातील घोष हे त्या बुद्धीतील शुद्धत्व सात्विकपणे झळकत आहे.",
+      "englishMeaning": "On this body the intelligence of the great sages like Vyasa and others becomes the girdle around his waist, and the lucid thoughts become the loose dangling parts of the cloth tied around it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 10,
+      "original": "देखा षड्दर्शने म्हणिपती । तेची भुजांची आकृति । म्हणौनि विसंवादे धरिती । आयुधे हाती ॥1.10॥",
+      "marathiMeaning": "गणपतीचे सहा हात ही सहा शास्त्रे होत; म्हणून त्यातील विविध प्रकारचा अभिप्राय ही त्या त्या हातातील वेगवेगळी शस्त्रे होत.",
+      "englishMeaning": "Please see and understand that the six sciences have become the forms of the six arms of this body, and they therefore hold different weapons each, like the different arguments in the sciences, all aiming at the one Brahman.",
+      "verified": true
+    },
+    {
+      "verseNumber": 11,
+      "original": "तरी तर्कु तोचि फरशु । नीतिभेदु अंकुशु । वेदांतु तो महारसु । मोदकु मिरवे ॥1.11॥",
+      "marathiMeaning": "न्यायदर्शनातील पदार्थांचे विश्लेषण करणारा तर्क म्हणजे गणपतीच्या हातातील परशू होय. वैशेषिक दर्शनातील सिद्धांतभेद हा दुसऱ्या हातातील अंकुश आहे, आणि उत्तरमीमांसा दर्शनातील ब्रह्मस्वरूप सिद्धांत हा गणपतीच्या हातातील अमृतमधुर मोदक होय.",
+      "englishMeaning": "The logic (Nyaya shastra) is the hatchet in his hand; the different doctrines are the goad in his hand; and Vedanta, the great essence, is the sweet Modaka he displays.",
+      "verified": true
+    },
+    {
+      "verseNumber": 12,
+      "original": "एके हाती दंतु । जो स्वभावता खंडितु । तो बौद्धमतसंकेतु । वार्तिकाचा ॥1.12॥",
+      "marathiMeaning": "वार्तिककारांनी सांगितलेले आणि स्वभावतःच खंडित झालेले जे बौद्ध मत आहे, ते एका हातात असणाऱ्या खंडित दाताच्या ठिकाणी शोभते.",
+      "englishMeaning": "There is a broken tusk held in one hand, which indicates how the philosophy of the Buddhists, as expounded and commented upon by the Vartika school, is naturally defeated.",
+      "verified": true
+    },
+    {
+      "verseNumber": 13,
+      "original": "मग सहजे सत्कारवादु । तो पद्मकरु वरदु । धर्मप्रतिष्ठा तो सिद्धु । अभयहस्तु ॥1.13॥",
+      "marathiMeaning": "सत्कारवाद हा गणपतीचा वर देणारा कमलासमान हात होय. धर्माची प्रतिष्ठा करणारा हा सिद्ध असा अभय देणारा हात आहे.",
+      "englishMeaning": "The doctrine of affirmation (Satkaravada) is his lotus-like, boon-giving hand; the establishment of dharma is his accomplished hand of reassurance.",
+      "verified": true
+    },
+    {
+      "verseNumber": 14,
+      "original": "देखा विवेकवंतु सुविमळु । तोचि शुंडादंडु सरळु । जेथ परमानंदु केवळु । महासुखाचा ॥1.14॥",
+      "marathiMeaning": "गणपतीच्या ठिकाणी विवेक ही सरळ, निर्मळ अशी सोंड आहे, जेथे केवळ महासुखाचा परमानंद आहे.",
+      "englishMeaning": "See how the pure, discerning one is the straight trunk of this God, in which lies the sheer supreme bliss of the greatest happiness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 15,
+      "original": "तरी संवादु तोचि दशनु । जो समता शुभ्रवर्णु । देवो उन्मेषसूक्ष्मेक्षणु । विघ्नराजु ॥1.15॥",
+      "marathiMeaning": "गुरु-शिष्याचा हा संवाद म्हणजे गणपतीच्या मुखातील दात असून, समता हा त्या दातांचा शुभ्र रंग होय. सूक्ष्म ज्ञानदृष्टी म्हणजे त्या विघ्नराजाचे नेत्र होत.",
+      "englishMeaning": "The dialogue itself is his tooth, whose whiteness is equanimity; and God Vighnaraja has small, keen eyes of subtle insight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 16,
+      "original": "मज अवगमलिया दोनी । मिमांसा श्रवणस्थानी । बोधमदामृत मुनी । अली सेविती ॥1.16॥",
+      "marathiMeaning": "पूर्वमीमांसा आणि उत्तरमीमांसा हेच त्या गणपतीचे दोन कान असून, बोध हे त्याचे मदरूपी अमृत मुनिरूपी भ्रमर सेवन करतात, असे मला वाटते.",
+      "englishMeaning": "The two Mimamsas — the earlier and the later — are, to my understanding, his two ears, at which sages, like bees, sip the intoxicating nectar of realization.",
+      "verified": true
+    },
+    {
+      "verseNumber": 17,
+      "original": "प्रमेयप्रवाल सुप्रभ । द्वैताद्वैत तेचि निकुंभ । सरिसेपणे एकवटत इभ- । मस्तकावरी ॥1.17॥",
+      "marathiMeaning": "वेदशास्त्रपुराणांत सिद्धांतरूपाने सांगितलेली तत्त्वे ही गणपतीच्या अंगावरील तेजयुक्त पोवळी होत. द्वैत आणि अद्वैत मते ही मस्तकावरील गंडस्थळे असून समानपणे तेथे एकवटली आहेत.",
+      "englishMeaning": "The bright coral of settled doctrines, and Duality and Non-duality as the two temples, merge equally on this elephant head.",
+      "verified": true
+    },
+    {
+      "verseNumber": 18,
+      "original": "उपरि दशोपनिषदे । जिये उदारे ज्ञानमकरंदे । तिये कुसुमे मुगुटी सुगंधे । शोभती भली ॥1.18॥",
+      "marathiMeaning": "ज्ञानरूपी मकरंदाने परिपूर्ण भरलेली दहा उपनिषदे ही जणू सुगंधी फुले असून, ती गणपतीच्या मुकुटावर उत्तम रीतीने शोभून दिसत आहेत.",
+      "englishMeaning": "Above, the ten Upanishads, generous with the honey of knowledge, shine beautifully on his crown like fragrant flowers.",
+      "verified": true
+    },
+    {
+      "verseNumber": 19,
+      "original": "अकार चरण युगल । उकार उदर विशाल । मकार महामंडल । मस्तकाकारे ॥1.19॥",
+      "marathiMeaning": "ओंकाराची पहिली अकारमात्रा हे गणपतीचे दोन्ही पाय आहेत, दुसरी उकारमात्रा हे त्याचे विशाल उदर आहे, आणि तिसरी मकारमात्रा हा त्याच्या मोठ्या गोल मस्तकाचा आकार आहे.",
+      "englishMeaning": "The syllable 'A' forms his two feet, 'U' his large belly, and 'M' the great circle of his head.",
+      "verified": true
+    },
+    {
+      "verseNumber": 20,
+      "original": "हे तीन्ही एकवटले । तेथ शब्दब्रह्म कवळले । ते मिया श्रीगुरुकृपा नमिले । आदिबीज ॥1.20॥",
+      "marathiMeaning": "अकार, उकार, मकार या तिन्ही मात्रा एकवटल्या की त्या ओंकारात संपूर्ण शब्दब्रह्म सामावलेले असते. त्या बीजरूप आदिस मी सद्गुरु श्रीनिवृत्तीनाथांच्या कृपेने नमस्कार करतो.",
+      "englishMeaning": "When these three unite, the Word-Brahman is contained within them; to that primal seed I have bowed, by the grace and blessing of my Guru.",
+      "verified": true
+    },
+    {
+      "verseNumber": 21,
+      "original": "आता अभिनव वाग्विलासिनी । ते चातुर्यार्थकलाकामिनी । ते शारदा विश्वमोहिनी । नमिली मिया ॥1.21॥",
+      "marathiMeaning": "यानंतर, नित्यनूतन प्रतिभेने व वाणीच्या रूपाने क्रीडा करणारी, चातुर्य-अर्थ-कला यांची अधिष्ठात्री, संपूर्ण विश्वाला मोहित करणारी अशी जी शारदा, तिला मी नमस्कार केला.",
+      "englishMeaning": "Now I have bowed to Goddess Sharada, ever fresh in her play of speech, the very image of cleverness and art, who enchants the whole universe.",
+      "verified": true
+    },
+    {
+      "verseNumber": 22,
+      "original": "मज हृदयी सद्‍गुरु । जेणे तारिलो हा संसारपूरु । म्हणौनि विशेषे अत्यादरु । विवेकावरी ॥1.22॥",
+      "marathiMeaning": "माझ्या हृदयात सद्गुरू वास करतात, ज्यांच्यामुळे मी या संसारसागरातून तरून गेलो; म्हणून अंतःकरणातील विवेकावर माझे विशेष प्रेम आहे.",
+      "englishMeaning": "In my heart dwells my Sadguru, by whom I have crossed this flood of worldly existence; therefore I hold discrimination in special reverence.",
+      "verified": true
+    },
+    {
+      "verseNumber": 23,
+      "original": "जैसे डोळ्या अंजन भेटे । ते वेळी दृष्टीसी फाटा फुटे । मग वास पाहिजे तेथ । प्रगटे महानिधी ॥1.23॥",
+      "marathiMeaning": "ज्याप्रमाणे डोळ्यांत अंजन घातले असता दृष्टी विशेष तीक्ष्ण होते आणि नुसते पाहताच भूमीतील मोठा खजिना दिसू लागतो.",
+      "englishMeaning": "Just as when ointment touches the eyes, the sight sharpens, and wherever one merely looks, a great treasure is revealed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 24,
+      "original": "का चिंतामणी जालिया हाती । सदा विजयवृत्ति मनोरथी । तैसा मी पूर्णकाम श्रीनिवृत्ति । ज्ञानदेवो म्हणे ॥1.24॥",
+      "marathiMeaning": "किंवा चिंतामणी हाती आला असता मनातील सर्व इच्छा सदैव पूर्ण होतात; त्याप्रमाणे श्रीनिवृत्तीच्या कृपेने मी पूर्णकाम झालो आहे, असे ज्ञानदेव म्हणतात.",
+      "englishMeaning": "Or as when the wish-fulfilling gem Chintamani is in hand, every desire is met — so, by the grace of my Guru Nivritti, I have become one whose every desire is fulfilled, says Dnyandeva.",
+      "verified": true
+    },
+    {
+      "verseNumber": 25,
+      "original": "म्हणोनि जाणतेने गुरु भजिजे । तेणे कृतकार्य होईजे । जैसे मुळसिंचने सहजे । शाखापल्लव संतोषती ॥1.25॥",
+      "marathiMeaning": "यासाठी जाणकारांनी सद्गुरूची सेवा करावी, त्यामुळे जीवन कृतकृत्य होते; ज्याप्रमाणे झाडाच्या मुळाला पाणी घातले असता फांद्या व पाने सहजच टवटवीत होतात.",
+      "englishMeaning": "Therefore let the wise serve the Guru, by which one's purpose is fulfilled — just as watering the root of a tree naturally delights its branches and leaves.",
+      "verified": true
+    },
+    {
+      "verseNumber": 26,
+      "original": "का तीर्थे जिये त्रिभुवनी । तिये घडती समुद्रावगाहनी । ना तरी अमृतरसास्वादनी । रस सकळ ॥1.26॥",
+      "marathiMeaning": "एका समुद्रस्नानाने त्रैलोक्यातील सर्व तीर्थांच्या स्नानाचे पुण्य मिळते; किंवा अमृतरसाच्या सेवनाने जगातील सर्व रसांचे सेवन झाल्यासारखे होते.",
+      "englishMeaning": "As bathing in the ocean is as good as bathing in every sacred water of the three worlds, or as tasting nectar is as good as tasting every flavour there is —",
+      "verified": true
+    },
+    {
+      "verseNumber": 27,
+      "original": "तैसा पुढतपुढती तोचि । मिया अभिवंदिला श्रीगुरुचि । जो अभिलषित मनोरुचि । पुरविता तो ॥1.27॥",
+      "marathiMeaning": "त्याप्रमाणे मी वारंवार त्याच सद्गुरूंना वंदन केले, जे मनातील सर्व अभिलषित इच्छा पूर्ण करणारे आहेत.",
+      "englishMeaning": "— so, again and again, I have bowed to that same Sadguru, who fulfils every desire the heart holds.",
+      "verified": true
+    },
+    {
+      "verseNumber": 28,
+      "original": "आता अवधारा कथा गहन । जे सकळा कौतुका जन्मस्थान । की अभिनव उद्यान । विवेकतरूचे ॥1.28॥",
+      "marathiMeaning": "आता ही गहन कथा श्रवण करा, जी सर्व कौतुकाचे जन्मस्थान आहे, किंवा विवेकरूपी वृक्षांचे नवीन उद्यान आहे.",
+      "englishMeaning": "Now hear this profound story, the very birthplace of all wonder, or a fresh garden of the trees of discernment.",
+      "verified": true
+    },
+    {
+      "verseNumber": 29,
+      "original": "ना तरी सर्व सुखाचि आदि । जे प्रमेयमहानिधि । नाना नवरससुधाब्धि । परिपुर्ण हे ॥1.29॥",
+      "marathiMeaning": "किंवा ही सर्व सुखांचे मूळ आहे, सिद्धांतांचा महान खजिना आहे, नवरसांनी परिपूर्ण भरलेला अमृताचा सागर आहे.",
+      "englishMeaning": "Or it is the very origin of all happiness, a great treasury of doctrines, an ocean of the nectar of the nine sentiments, ever full.",
+      "verified": true
+    },
+    {
+      "verseNumber": 30,
+      "original": "की परमधाम प्रकट । सर्व विद्यांचे मूळपीठ । शास्त्रजाता वसौट । अशेषांचे ॥1.30॥",
+      "marathiMeaning": "किंवा हे परमधाम प्रकट झाले आहे, सर्व विद्यांचे मूळपीठ आहे, समस्त शास्त्रांचे आश्रयस्थान आहे.",
+      "englishMeaning": "Or it is the manifest supreme abode, the root-seat of all learning, the dwelling place of every branch of the sciences without exception.",
+      "verified": true
+    }
+  ]
 }

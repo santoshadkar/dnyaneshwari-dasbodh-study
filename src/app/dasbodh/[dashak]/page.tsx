@@ -39,7 +39,10 @@ export default async function DasbodhDashakPage({
         </h1>
         <StatusBadge status={data.status} />
       </header>
-      <p className="-mt-4 mb-6 text-[var(--color-ink)]">{data.dashakTitleEnglish}</p>
+      <p className="-mt-4 mb-2 text-[var(--color-ink)]">{data.dashakTitleEnglish}</p>
+      {data.note && (
+        <p className="mb-6 text-xs italic text-[var(--color-ink-soft)]">{data.note}</p>
+      )}
 
       <ol className="space-y-2">
         {data.samas.map((s) => (

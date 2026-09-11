@@ -44,12 +44,25 @@ export default async function DnyaneshwariChapterPage({
         <p className="mt-1 text-[var(--color-ink)]">{data.chapterTitleEnglish}</p>
         {data.source && (
           <p className="mt-2 text-xs text-[var(--color-ink-soft)]">
-            Source:{" "}
+            Original &amp; Marathi meaning source:{" "}
             <a href={data.source.url} className="underline" target="_blank" rel="noreferrer">
               {data.source.name}
             </a>
-            {data.numberingConvention && ` · Numbering: ${data.numberingConvention}`}
           </p>
+        )}
+        {data.englishSource && (
+          <p className="mt-1 text-xs text-[var(--color-ink-soft)]">
+            English meaning source:{" "}
+            <a href={data.englishSource.url} className="underline" target="_blank" rel="noreferrer">
+              {data.englishSource.name}
+            </a>
+          </p>
+        )}
+        {data.numberingConvention && (
+          <p className="mt-2 text-xs italic text-[var(--color-ink-soft)]">{data.numberingConvention}</p>
+        )}
+        {data.note && (
+          <p className="mt-2 text-xs italic text-[var(--color-ink-soft)]">{data.note}</p>
         )}
       </header>
 

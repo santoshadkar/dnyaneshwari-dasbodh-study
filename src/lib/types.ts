@@ -20,8 +20,10 @@ export interface DnyaneshwariChapter {
   chapterTitleMarathi: string;
   chapterTitleEnglish: string;
   source: Source | null;
+  englishSource?: Source | null;
   numberingConvention: string | null;
   status: ContentStatus;
+  note?: string;
   verses: Verse[];
 }
 
@@ -42,6 +44,7 @@ export interface DasbodhSamas {
   samasTitleMarathi: string;
   samasTitleEnglish: string;
   source: Source | null;
+  englishSource?: Source | null;
   status: ContentStatus;
   note?: string;
   owis: Verse[];
@@ -53,6 +56,7 @@ export interface DasbodhDashak {
   dashakTitleMarathi: string;
   dashakTitleEnglish: string;
   status: ContentStatus;
+  note?: string;
   samas: DasbodhSamas[];
 }
 
