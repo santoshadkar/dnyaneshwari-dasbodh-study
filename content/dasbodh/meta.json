@@ -1,0 +1,21 @@
+{
+  "book": "dasbodh",
+  "titleMarathi": "दासबोध",
+  "titleEnglish": "Dasbodh",
+  "author": "Samarth Ramdas Swami",
+  "composedApprox": "c. 1654 CE, narrated orally to his disciple Kalyan Swami; in Marathi ovi meter",
+  "totalDashaks": 20,
+  "samasPerDashak": 10,
+  "totalSamas": 200,
+  "totalOwisApprox": 7751,
+  "structureNote": "Dasbodh is organized into 20 dashaks (sections), each containing 10 samas (sub-sections), for 200 samas in total, composed in the ovi verse form.",
+  "dashakTitleSource": {
+    "name": "Sanskrit Documents (sanskritdocuments.org) — list of chapters and subsections in Samartha Dasabodh",
+    "url": "https://sanskritdocuments.org/marathi/dndAs/dAsabodhsUchi_unic.html"
+  },
+  "crossCheckSource": {
+    "name": "Wikipedia — Dasbodh",
+    "url": "https://en.wikipedia.org/wiki/Dasbodh"
+  },
+  "contentStatus": "Scaffold only (Phase 0). Dashak-level titles are sourced and cross-checked. Samas titles and owi text/meanings are NOT yet populated — samas placeholders are numbered only until researched chapter-by-chapter with a verifiable source, per the project's accuracy rules."
+}

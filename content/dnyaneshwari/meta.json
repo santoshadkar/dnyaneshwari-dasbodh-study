@@ -1,0 +1,14 @@
+{
+  "book": "dnyaneshwari",
+  "titleMarathi": "ज्ञानेश्वरी",
+  "titleEnglish": "Dnyaneshwari (also known as Bhavartharthadipika)",
+  "author": "Sant Dnyaneshwar (Jnaneshwar Maharaj)",
+  "composedApprox": "c. 1290 CE (Shaka 1212), in Marathi ovi meter",
+  "totalChapters": 18,
+  "structureNote": "Dnyaneshwari is a chapter-by-chapter Marathi commentary on the Bhagavad Gita, composed in the ovi verse form. It follows the Gita's traditional 18-chapter structure and chapter titles, and contains over 9,000 ovis in total.",
+  "chapterTitleSource": {
+    "name": "Traditional Bhagavad Gita chapter titles (followed by Dnyaneshwari as its source text's structure)",
+    "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+  },
+  "contentStatus": "Scaffold only (Phase 0). No ovi text, Marathi meaning, or English meaning has been populated yet. Content is added and source-cited chapter-by-chapter in later phases; see each chapter-XX.json 'source' and 'status' fields."
+}
