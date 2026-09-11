@@ -948,21 +948,379 @@
     },
     {
       "samasNumber": 5,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "संतस्तवन",
+      "samasTitleEnglish": "Santa Stavan (In Praise of the Saints)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "https://ioustotra.blogspot.com/2016/12/dashak-pahila-samas-pachava-santastavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां वंदीन सज्जन । जे परमार्थाचें अधिष्ठान । जयांचेनि गुह्यज्ञान । प्रगटे जनीं ॥ १ ॥",
+          "marathiMeaning": "आतां मी संतांना जे सज्जन असून परमार्थाचा आधार आहेत त्यांना नमस्कार करतो. त्यांच्यामुळे जे गुप्त असे आत्मस्वरुपाचे ज्ञान लोकांमधे प्रगट होते.",
+          "englishMeaning": "Now I bow to the sajjana, the true saints who are the very foundation of ultimate truth, through whom the hidden knowledge of the Self becomes manifest to people.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "जे वस्तु परम दुल्लभ । जयेचा अलभ्य लाभ । तेंचि होये सुल्लभ । संतसंगेकरुनी ॥ २ ॥",
+          "marathiMeaning": "संतांच्या संगतीमुळे जी परमात्मवस्तु दुर्लभ आहे तीचा लाभ लोकांना सुलभ होतो.",
+          "englishMeaning": "That which is exceedingly rare to attain, that most difficult treasure, becomes easily attained through the company of saints.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "वस्तु प्रगटचि असे । पाहातां कोणासीच न दिसे । नाना साधनीं सायासें । न पडे ठाईं ॥ ३ ॥",
+          "marathiMeaning": "ती आत्मरुपाची वस्तु उघड आहे पण देहबुद्धीनें ती कोणालाच दिसत नाही. नाना प्रकारची साधने, प्रयास करुनही तीचा अनुभव येत नाही.",
+          "englishMeaning": "That Truth is manifest and open, yet no one sees it by mere looking; through many kinds of striving and effort it still is not found.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "जेथे परीक्षवंत ठकले । नांतरी डोळस चि अंध जाले । पाहात असतांचि चुकले । निजवस्तूसी ॥ ४ ॥",
+          "marathiMeaning": "आत्मवस्तु शोधुन काढण्यांत नाना वस्तु शोधुन काढु शकणारे परीक्षवंतसुद्धा फसतात. ते डोळे असुनही आंधळे होतात. ती वस्तु जवळच व पहात असुनही तीला पहायला चुकतात.",
+          "englishMeaning": "There even the sharpest examiners are deceived, the clear-sighted become as if blind, and even while looking directly they miss that true Self.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "जें दीपाचेनि दिसेना । नाना प्रकाशें गवसेना । नेत्रांजनेंहि वसेना । दृष्टीपुढें ॥ ५ ॥",
+          "marathiMeaning": "दिव्याच्या उजेडांत, निरनिराळ्या इतर अनेक प्रकाशांत ती सापडत नाही. डोळ्यांत तेल घालूनही ती दृष्टीला दिसत नाही.",
+          "englishMeaning": "It is not seen by lamplight, nor found by any other light; nor does it come into view even with medicine applied to the eyes.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "सोळां कळी पूर्ण शशी । दाखऊं शकेना वस्तूसी । तीव्र आदित्य कळारासी । तोहि दाखविना ॥ ६ ॥",
+          "marathiMeaning": "सोळा कळा असलेला पौर्णिमेचा चंद्र ती वस्तु दाखवु शकत नाही; सर्व कळांनीयुक्त असा तेजस्वी सूर्यसुद्धा ती वस्तु दाखवू शकत नाही.",
+          "englishMeaning": "The full moon of sixteen digits cannot reveal that Self, nor can even the most brilliant sun uncover it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "जया सूर्याचेनि प्रकाशें । ऊर्णतंत तोहि दिसे । नाना सूक्ष्म पदार्थ भासे । अणुरेणादिक ॥ ७ ॥",
+          "marathiMeaning": "कोळ्यांनी विणलेल्या जाळ्याचा बारीक धागा सूर्यप्रकाशांत दिसतो. अणु-रेणुसारखे अतिसूक्ष्म पदार्थ सूर्याच्या प्रकाशांत दिसतात.",
+          "englishMeaning": "By whose light even the spider's fine thread is seen, and the subtlest of things — atoms and the like — become visible.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "चिरलें वाळाग्र तेंहि प्रकासी । परी तो दाखविना वस्तूसी । ते जयाचेनि साधकांसी । प्राप्त होये ॥ ८ ॥",
+          "marathiMeaning": "केससुद्धा चिरला तरीसुद्धा त्याचे टोक सूर्यप्रकाशांत दिसते. परंतु सूर्यप्रकाश ते दाखवू शकत नाही. ते आत्मवस्तु संताच्या सान्निध्यांत साधकाला दिसते.",
+          "englishMeaning": "Even a split hair's tip is revealed in that same light — yet the light itself cannot show the Self; that, the seeker attains only in the company of the saint.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "जेथें आक्षेप आटले । जेथ प्रेत्न प्रस्तावले । जेथें तर्क मंदावले । तर्कितां निजवस्तूसी ॥ ९ ॥",
+          "marathiMeaning": "त्या निजवस्तुपुढे सर्व शंका नाहीशा होतात, प्रयत्न व्यर्थ ठरतात व तर्कसुद्धा कमी पडतात.",
+          "englishMeaning": "There, before that true Self, all objections dry up, every effort proves in vain, and even reasoning grows faint trying to fathom it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "वळे विवेकाची वेगडी । पडे शब्दाची बोबडी । जेथें मनाची तांतडी । कामा नये ॥ १० ॥",
+          "marathiMeaning": "विवेकाची लुळा पडतो, शब्दांची बोबडी वळते, आणि मनाची धडपड उपयोगी येत नाही.",
+          "englishMeaning": "There, discrimination itself falters, words stumble like a stammering tongue, and all the haste of the mind is of no use at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "जो बोलकेपणें विशेष । सहस्त्र मुखांचा जो शेष । तोहि सिणला निःशेष । वस्तु न संगवे ॥ ११ ॥",
+          "marathiMeaning": "जो बोलण्यांत प्रवीण असा हजार तोंडांचा शेष नागसुद्धा त्या आत्मवस्तुचे वर्णन करतांना थकला.",
+          "englishMeaning": "Even Shesha, the thousand-mouthed serpent of matchless eloquence, grew utterly weary and still could not fully describe that Self.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "वेदे प्रकाशिलें सर्वहि । वेदविरहित कांही नाहीं । तो वेद कोणासहि । दाखऊं सकेना ॥ १२ ॥",
+          "marathiMeaning": "सगळे ज्ञान वेदांनी प्रकाशांत आणले. वेदांत नाही असे काहींच नाही. परंतु ते वेदही आत्मवस्तु दाखवू शकत नाहीत.",
+          "englishMeaning": "The Vedas have illumined everything, and nothing at all lies outside them — yet even the Vedas cannot reveal that Self to anyone.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "तेचि वस्तु संतसंगें । स्वानुभवें कळों लागे । त्याचा महिमा वचनीं सांगें । ऐसा कवणु ॥ १३ ॥",
+          "marathiMeaning": "संतसंगतीने मात्र साधकाला आत्मस्वरुपाचा स्वानुभव येऊं लागतो. त्याचा महिमा सांगु शकणारा असा कोणीच नाही.",
+          "englishMeaning": "That very Self is known through one's own direct experience, in the company of saints; who indeed could ever express its greatness in mere words?",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "विचित्र कळा ये मायेची । परी वोळखी न संगवे वस्तूची । मायातीता अनंताची । संत सोये सांगती ॥ १४ ॥",
+          "marathiMeaning": "मायेच्या वेगवेगळ्या शक्ती, कला त्या आत्मस्वरुपाची ओळख करुन देऊं शकत नाहीत. मायेच्या पलीकडे असलेल्या आत्मवस्तुचे ज्ञान संत सोप्या पद्धतीने साधकास करुन देतात.",
+          "englishMeaning": "The wondrous powers of maya can be known, yet they cannot convey the true recognition of the Self; saints alone show the seeker the way to that endless Reality beyond maya.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "वस्तूसी वर्णिलें नवचे । तेंचि स्वरुप संतांचें । या कारणें वचनाचें । कार्य नाहीं ॥ १५ ॥",
+          "marathiMeaning": "वाचेने वर्णन करता येत नाही असे ते आत्मस्वरुपच संत झालेले असतात. तेथे बोलण्याचा काही उपयोगच नाही.",
+          "englishMeaning": "That Self which cannot be described in words is itself the very nature of the saints; there, words are of no use at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "संत आनंदाचे स्थळ । संत सुखचि केवळ । नाना संतोषाचें मूळ । ते हे संत ॥ १६ ॥",
+          "marathiMeaning": "संत म्हणजे आनंद, संत म्हणजे सुख आणि नाना प्रकारचा संतोष असे संत असतात.",
+          "englishMeaning": "The saint is the very abode of bliss, the saint is happiness itself, the saint is the root of every kind of joy — such are the saints.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "संत विश्रांतीची विश्रांती । संत तृप्तीची निजतृप्ती । नांतरी भक्तीची फळश्रुती । ते हे संत ॥ १७ ॥",
+          "marathiMeaning": "संताजवळ कायम विश्रांती असते. तसेच त्यांच्याजवळ कायम तृप्ती असते. अंतरी असलेल्या भक्तीची फळश्रुती म्हणजे संत.",
+          "englishMeaning": "The saint is rest within all rest, the saint is contentment's own true contentment, the saint is the very fruit of devotion — such are the saints.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "संत धर्माचें धर्मक्षेत्र । संत स्वरुपाचें सत्पात्र । नातरी पुण्याची पवित्र । पुण्य भूमी ॥ १८ ॥",
+          "marathiMeaning": "संत म्हणजे धर्माचे धर्मक्षेत्र, संत म्हणजे आत्मस्वरुप ठेवलेले चांगले भांडे, संत म्हणजे पुण्य साठवलेली पुण्यभूमीच होय.",
+          "englishMeaning": "The saint is the very field of dharma, the saint is the worthy vessel of the true Self, the saint is the sacred, merit-filled ground of holiness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "संत समाधीचें मंदिर । संत विवेकाचें भांडार । नातरी बोलिजे माहेर । सायोज्यमुक्तीचें ॥ १९ ॥",
+          "marathiMeaning": "संत म्हणजे समाधीरुपी देवाचे मंदिर, सुविचारांचा खजिना आणि सायोज्यमुक्तीचे माहेरच असते.",
+          "englishMeaning": "The saint is the temple of samadhi, the saint is the treasury of discernment, the saint is truly called the maternal home of final liberation.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "संत सत्याचा निश्र्चयी । संत सार्थकाचा जयो । संत प्राप्तीचा समयो । सिद्धरुप ॥ २० ॥",
+          "marathiMeaning": "संत म्हणजे दृढनिश्र्चयि सत्य, संत म्हणजे सफल जीवनाचा जय, संतांचा संग म्हणजे आत्मस्वरुप दर्शनाचा योग.",
+          "englishMeaning": "The saint is the very certainty of truth, the saint is the triumph of a fulfilled life, the saint is the accomplished occasion of attaining the Self.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "मोक्षश्रिया आळंकृत । ऐसे हे संत श्रीमंत । जीव दरिद्री असंख्यात । नृपती केले ॥ २१ ॥",
+          "marathiMeaning": "मोक्षलक्ष्मीने अलंकृत असे हे संत श्रीमंतच असतात. ते इतर अज्ञानी जीवांना आत्मस्वरुपाचे दर्शन देऊन ज्ञानी म्हणजे राजे बनवितात.",
+          "englishMeaning": "Adorned with the wealth of liberation, such are these truly wealthy saints; they turn countless impoverished souls into kings.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "जे समर्थपणें उदार । जे कां अत्यंत दानशूर । तयांचेनि हा ज्ञानविचार । दिधला न वचे ॥ २२ ॥",
+          "marathiMeaning": "संत म्हणजे उदार सामर्थ्य, ते हे सामर्थ्य दुसर्‍यांना म्हणजेच अज्ञानी साधकांना दान करतात, ते आत्मज्ञान देणार नाहीत हा विचार मनांत येतच नाही.",
+          "englishMeaning": "Generous in their power, exceedingly openhanded in giving, it would never occur to such saints to withhold this knowledge of the Self from anyone.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "माहांराजे चक्रवती । जाले आहेत पुढें होती । परंतु कोणी सायोज्यमुक्ती । देणार नाहीं ॥ २३ ॥",
+          "marathiMeaning": "मोठेमोठे राजे पूर्वी झाले, अजुनही होतील पण सायोज्यमुक्ती कोठलाच राजा देऊं शकत नाही.",
+          "englishMeaning": "Great emperors and sovereign kings have come, are here, and will come again — but not one of them can grant that final liberation of union.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "जें त्रैलोकीं नाहीं दान । तें करिती संतसज्जन । तयां संतांचें महिमान । काय म्हणौनि वर्णावें ॥ २४ ॥",
+          "marathiMeaning": "त्रैलोक्यांत शोधून सापडणार नाही असे दान ते संतसज्जन देऊं शकतात, त्यांचे वर्णन काय, कसे करावे?",
+          "englishMeaning": "That gift found nowhere in the three worlds, only the saints and the truly good can give; how, then, could their greatness ever be fully described?",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "जें त्रैलोक्याहून वेगळें । जें वेदश्रुतीसी नाकळे । तेंचि जयांचेनि वोळे । परब्रह्म अंतरीं ॥ २५ ॥",
+          "marathiMeaning": "जें परब्रह्म त्रैलोक्याहून वेगळे आहे, जे वेद व श्रुतींनाही कळत नाही, ते आत्मस्वरुप संतांच्या कृपेने साधकाच्या अंतरी प्रगट होते.",
+          "englishMeaning": "That which stands apart from the three worlds, which even the Vedas and Shruti cannot grasp — through the saints alone, that Supreme Brahman is revealed within the heart.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "ऐसी संतांची महिमां । बोलिजे तितुकी उणी उपमा । जयांचेनि मुख्य परमात्मा । प्रगट होये ॥ २६ ॥",
+          "marathiMeaning": "अशा संताचा मोठेपणा वर्णन करण्यास सर्व उपमा कमी पडतात. अशा संताच्यामुळे परमात्मा प्रगट होतो.",
+          "englishMeaning": "Such is the greatness of the saints that every comparison falls short in describing it; yet through them, the Supreme Self itself is made manifest.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 6,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "श्रोतेस्तवन",
+      "samasTitleEnglish": "Shrote Stavan (Praise of the Listeners)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/samas-sahava-shrotejan-stavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "note": "Norwell's translation leans heavily on his own Advaita-Vedanta gloss for this samas; the English here follows the plainer sense given in the Marathi meaning above, cross-checked for agreement with Norwell's core narrative rather than his interpretive layer.",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां वंदूं श्रोते जन । भक्त ज्ञानी संत सज्जन । विरक्त योगी गुणसंपन्न । सत्यवादी ॥ १ ॥",
+          "marathiMeaning": "आतां मी भक्त, ज्ञानी, संत, सज्जन, विरक्त, योगी, गुणसंपन्न आणि सत्यवादी या सर्व श्रोत्यांना नमस्कार करतो.",
+          "englishMeaning": "Now I bow to all these listeners — devotees, the wise, saints and the virtuous, dispassionate yogis rich in good qualities, and speakers of truth.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "येक सत्वाचे सागर । येक बुद्धीचे आगर । येक श्रोते वैरागर । नाना शब्दरत्नाचे ॥ २ ॥",
+          "marathiMeaning": "एकजण सत्वगुणाचा सागर आहे, तर दुसरा एक अत्यंत बुद्धिमान आहे, तर तिसरा शब्दप्रभु म्हणजे त्याच्याजवळ शब्दरुपी जणु खाणच आहे.",
+          "englishMeaning": "One is an ocean of goodness, another a mine of intellect, and yet another a treasury of words, a mine of many rare jewels of speech.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "जे नाना अर्थांवृताचे भोक्ते । जे प्रसंगीं वक्तयाचे वक्ते । नाना संशयातें छेदिते । निश्र्चै पुरुष ॥ ३ ॥",
+          "marathiMeaning": "त्यांतील कांही वक्त्याच्या बोलण्यांत लक्ष देऊन अर्थ समजुन घेणारे, कोणी उत्तम वक्तृत्व गाजविणारे, तर कोणी निश्र्चित मताने संशयाचा छेद करणारे.",
+          "englishMeaning": "Among them are those who attentively grasp the speaker's meaning, some who are themselves eloquent speakers when called upon, and resolute souls who cut through every doubt.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "ज्यांची धारणा अपार । जे ईश्र्वराचे अवतार । नातरी प्रत्यक्ष सुरवर । बैसले जैसे ॥ ४ ॥",
+          "marathiMeaning": "कोणी अपार ज्ञानी व बु्द्धिमान असे जणु सभेंत आलेले प्रत्यक्ष देवच.",
+          "englishMeaning": "Some hold boundless understanding, as if very incarnations of God, or as if the gods themselves had come and taken their seats among us.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "किं हे ऋषेश्र्वरांची मंडळी । शांतस्वरुप सत्वागळी । जयांचेनि सभामंडळीं । परमशोभा ॥ ५ ॥",
+          "marathiMeaning": "अशा श्रोत्यांमुळे शांती व सत्वगुणयुक्त ऋषिच सभेची शोभा वाढवित आहेत असे वाटते.",
+          "englishMeaning": "It is as though an assembly of great sages, peaceful in nature and full of goodness, has gathered, lending supreme beauty to this hall.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "हृदईं वेदगर्भ विलसे । मुखीं सरस्वती विळासे । साहित्य बोलतां जैसे । भासती देवगुरु ॥ ६ ॥",
+          "marathiMeaning": "त्यांच्या अंतःकरणांत वेदांचा समग्र अर्थ भरलेला आहे. त्यांच्याजवळ सरस्वतीचा वास आहे व ते साहित्याचा प्रकार वर्णु लागले कीं, देवगुरु बृहस्पतीच वाटतात.",
+          "englishMeaning": "The essence of the Vedas dwells in their hearts, Sarasvati plays upon their tongues; when they speak of literature, they seem like Brihaspati, guru of the gods, himself.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "जे पवित्रपणें वैश्र्वानर । जे स्फूर्तिकिरणाचे दिनकर । ज्ञातेपणें दृष्टीसमोर । ब्रह्मांड नये ॥ ७ ॥",
+          "marathiMeaning": "ते पवित्रपणांत अग्निसारखे, सूर्याच्या किरणांसारखी स्फूर्ति पसरविणारे, आपल्या अमर्याद ज्ञानाने दृश्य सृष्टीला किंमत न देणारे.",
+          "englishMeaning": "Pure as sacred fire, radiant as the sun scattering rays of inspiration, so vast is their knowledge that the visible universe holds no weight before them.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "जे अखंड सावधान । जयांस त्रिकाळाचें ज्ञान । सर्वकाळ निराभिमान । आत्मज्ञानी ॥ ८ ॥",
+          "marathiMeaning": "ते नेहमीेसावधच असतात. त्यांना त्रिकाळाचे ज्ञान असते. ते आत्मज्ञानाने संपन्न व अभिमानरहित असतात.",
+          "englishMeaning": "Ever alert, possessing knowledge of all three times, always free of pride, and endowed with true knowledge of the Self.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "ज्यांचे दृष्टीखालून गेलें । ऐसें कांहींच नाहीं उरलें । पदार्थमात्रासी लक्षिलें मनें जयांच्या ॥ ९ ॥",
+          "marathiMeaning": "आत्मज्ञानी असल्याने त्यांच्या दृष्टींतून कांहींच सुटत नाही. सर्व दृश्य वस्तु त्यांच्या मनाने पाहीलेल्याच असतात.",
+          "englishMeaning": "Nothing at all escapes their sight; every single thing has already been beheld by their minds.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "जें जें कांहीं आठवावें । तें तें तयांस पूर्वींच ठावें । तेथें काये अनुवादावें । ज्ञातेपणेंकरुनी ॥ १० ॥",
+          "marathiMeaning": "आपल्याला जे जे आठवते ते ते त्यांना आधींच माहीत असते. आपल्याला माहीतआहे व त्यांना माहीत नाही असे काहींच नसल्याने त्यांना कांहीं सांगताच येत नाही.",
+          "englishMeaning": "Whatever one might think to recall, they already know beforehand; what, then, is left to explain to such knowers?",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "परंतु हे गुणग्राहिक । म्हणौन बोलतों निःशंक । भाग्यपुरुष काये येक । सेवीत नाहीं ॥ ११ ॥",
+          "marathiMeaning": "परंतु असे असले तरी ते भाग्यवंत लोक गुणग्राहक असलेने व ते अव्हेर करणारे नसल्याने मी निःशंकपणे दासबोध सांगत आहे.",
+          "englishMeaning": "Yet since these fortunate ones are appreciative of merit and do not spurn what is offered, I speak on without hesitation.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "सदा सेविती दिव्यान्नें । पालटाकारणें आवेट अन्नें । तैसींच माझीं वचनें । पराकृतें ॥ १२ ॥",
+          "marathiMeaning": "नेहमी संस्कृत वेदवचने ऐकणारे म्हणजेच दिव्य अन्ने सेवन करणारे केवळ रुचिपालट म्हणुन प्राकृतांतील माझा दासबोध ऐकत आहेत.",
+          "englishMeaning": "Those who ever partake of divine fare take plain food too, now and then, for a change of taste; just so, my humble vernacular words are received by you.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "आपुले शक्तिनुसार । भावें पुजावा परमेश्र्वर । परंतु पुजूं नये हा विचार । कोठेंचि नाहीं ॥ १३ ॥",
+          "marathiMeaning": "आपापल्या शक्तिनुसार भगवंताची पूजा करावी परंतु पूजाकरुच नये असे कोठेंच नाही.",
+          "englishMeaning": "Each should worship the Lord with devotion according to one's own capacity; but the notion that one should not worship at all has no place anywhere.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "तैसा मी येक वाग्दुर्बळ । श्रोते परमेश्र्वरचि केवळ । यांची पूजा वाचाबरळ । करुं पाहे ॥ १४ ॥",
+          "marathiMeaning": "मी तसाच एक वाचा कमी म्हणुन दुर्बळ असलेला आहे. श्रोते हे परमेश्र्वर आहेत. मी माझ्या ओबडदोबड शब्दांनी त्या परमेश्र्वराची पूजा करत आहे.",
+          "englishMeaning": "So I too, feeble in speech, seek with my clumsy words to worship you, the listeners, who are none other than God himself.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "वित्पत्ती नाहीं कळा नाहीं । चातुर्य नाहीं प्रबंद नाहीं । भक्ति ज्ञान वैराग्य नाहीं । गौल्यता नाहीं वचनाची ॥ १५ ॥",
+          "marathiMeaning": "माझ्याजवळ विद्वत्ता नाही, चातुर्य नाही, कला नाही, व्यवस्थित लिहीलेला प्रबंध नाही, भक्ति, ज्ञान, वैराग्य, शब्दवैभव नाही.",
+          "englishMeaning": "I have no scholarship, no skill, no cleverness, no well-composed treatise; no devotion, no knowledge, no renunciation, nor sweetness of speech.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "ऐसा माझा वाग्विळास । म्हणौन बोलतों सावकाश । भावाचा भोक्ता जगदीश । म्हणौनियां ॥ १६ ॥",
+          "marathiMeaning": "माझा वाग्विलास असा असूनही मी सावकाश बोलतो आहे कारण भगवंतरुपी आपण श्रोते भावाचे भोक्ते व रसग्रहण करणारे आहात.",
+          "englishMeaning": "Such is my poor gift of speech; and so I speak slowly and carefully, since it is Jagadish, the Lord of the World, who truly savours this feeling.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "तुम्ही श्रोते जगदीशमूर्ति । तेथें माझी वित्पत्ती किती । बुद्धिहीण अल्पमती । सलगी करितों ॥ १७ ॥",
+          "marathiMeaning": "तुम्ही सर्व श्रोते परमात्मा असे जगदीश आहात. त्यामुळे अल्पमती व मंदबुद्धि मी माझ्या कमी विचार शक्तीने आपल्याशी सलगी करत आहे.",
+          "englishMeaning": "You, the listeners, are the very image of the Lord of the World — before you, what is my learning? Yet I, of dull wit and shallow understanding, take this liberty with you.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "समर्थाचा पुत्र मूर्ख जगीं । परी सामर्थ्य असे त्याचा आंगी । तुम्हां संतांचा सलगी । म्हणौनि करितों ॥ १८ ॥",
+          "marathiMeaning": "मोठ्या माणसाचा मूर्ख मुलगासुद्धां सामर्थ्यवान असतो तसाच मी तुम्हां संतांचा असल्याने धारिष्ट्य करत आहे.",
+          "englishMeaning": "Even a foolish son of a great man carries something of his father's power in him; so, being a child of you saints, I take this same liberty.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "व्याघ्र सिंह भयानक । देखोनि भयाचकित लोक । परी त्यांची पिलीं निःशंक । तयांपुढें खेळती ॥ १९ ॥",
+          "marathiMeaning": "अति भयानक वाघ, सिंह असले तरी त्यांची पिल्ले निःशंक होऊन त्यांच्याजवळच खेळतात.",
+          "englishMeaning": "Though people flee in terror at the sight of a fearsome tiger or lion, its own cubs play fearlessly right before it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "तैसा मी संतांचा अंकित । तुम्हां संतांपासीं बोलत । तरी माझी चिंता तुमचें चित्त । वाहेलच कीं ॥ २० ॥",
+          "marathiMeaning": "त्याचप्रमाणे मी तुमचाच असल्याने निःशंक मनाने दासबोध सांगत आहे. माझी तुम्हीच काळजी घ्यालच.",
+          "englishMeaning": "So too, I, devoted to you saints, speak here among you saints; surely, then, your hearts will carry the burden of my care.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "आपलेंचि बोले वाउगें । त्याची संपादणी करणें लागे । परंतु कांहीं सांगणें नलगे । न्यून तें पूर्ण करावें ॥ २१ ॥",
+          "marathiMeaning": "आपले माणूस कांहीं चुकिचे बोलले तरी आपण त्याला सांभाळून घेतो, तसे माझे दासबोध निरुपणांत कांही चुकीचे असले तरी ते तुम्ही सांभाळून घ्यालच.",
+          "englishMeaning": "One overlooks the careless words of one's own kin and quietly makes up for them; so too, whatever falls short here needs no pointing out — simply complete it for me.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "हें तों प्रीतीचें लक्षण । स्वभावेंचि करी मन । तैसे तुम्ही संतसज्जन । मायेबाप विश्र्वाचे ॥ २२ ॥",
+          "marathiMeaning": "तुम्ही संतसज्जन सर्व जगाचे मायबाप आहात. त्यामुळे स्वाभाविकच प्रेमाने तुम्ही मला सांभाळून घ्याल.",
+          "englishMeaning": "This is the very mark of true affection, done naturally by a loving heart; and you, saints and sajjans, are truly the mother and father of the whole world.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "माझा आशय जाणोनि जीवें । आतां उचीत तें करावें । पुढें कथेसि अवधान द्यावें । म्हणे दासानुदास ॥ २३ ॥",
+          "marathiMeaning": "माझा सांगण्याचा आशय ओळखून आपणास योग्य असे उचित आपण करावे व मी सांगत असलेला दासबोध लक्षपूर्वक ऐकावा, अशी हा दासानुदास रामदास आपल्याला विनंती करत आहे.",
+          "englishMeaning": "Knowing my true intent, please do now what is fitting, and give your full attention to the story that follows — so requests this servant of servants, Dasanudas.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 7,
