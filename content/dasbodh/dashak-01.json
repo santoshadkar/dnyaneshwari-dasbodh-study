@@ -3,8 +3,8 @@
   "dashakNumber": 1,
   "dashakTitleMarathi": "स्तवननाम",
   "dashakTitleEnglish": "Stavan (Hymns of Invocation and Praise)",
-  "status": "in-progress",
-  "note": "Samas 1-2 are fully populated and sourced. Samas 3-10 are not yet added.",
+  "status": "complete",
+  "note": "All 10 samas are fully populated and sourced. Samas 7's final owi (34) has no counterpart in the English source and is flagged verified:false with an explanatory note.",
   "samas": [
     {
       "samasNumber": 1,
@@ -1799,21 +1799,658 @@
     },
     {
       "samasNumber": 9,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "परमार्थस्तवन",
+      "samasTitleEnglish": "Paramarth Stavan (In Praise of the Ultimate Truth)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/samas-navava-parmarth-stavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां स्वऊं हा परमार्थ । जो साधकांचा निजस्वार्थ । नांतरी समर्थामध्यें समर्थ । योग हा॥ १ ॥",
+          "marathiMeaning": "मी आता परमार्थाचे मोठेपण सांगतो. साधकांचे खरे ध्येय व मानवी जीवनांतील उच्चतम ध्येय असा हा परमार्थ आहे.",
+          "englishMeaning": "Now I praise this ultimate truth, the very wealth of the seeker's own self, indeed the highest attainment among all attainments.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "आहे तरी परम सुगम । परी जनासी जाला दुर्गम । कां जयाचें चुकले वर्म । सत्समागमाकडे ॥ २ ॥",
+          "marathiMeaning": "लोकांना परमार्थ हा सोपा, सत्समागमाने असुनही नेमके तेच लोक करत नसल्याने कठीण झाला आहे.",
+          "englishMeaning": "This truth is exceedingly easy to reach, yet it has become hard for people, simply because they miss its essence found in the company of the wise.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "नाना साधनाचे उधार । हा रोकडा ब्रह्मसाक्षात्कार । वेदशास्त्रीं जे सार । तें अनुभवास ये ॥ ३ ॥",
+          "marathiMeaning": "नाना प्रकारची साधने आहेत पण हा ब्रह्मसाक्षात्कार करुन देणारा, जे वेदांचे सार आहे ते लगेचच अनुभवुन देणारा रोकडा व्यवहार म्हणजे परमार्थ आहे.",
+          "englishMeaning": "There are countless spiritual practices, yet this is the direct, ready realization of Brahman itself — the very essence of the Vedas and scriptures, at once experienced.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "आहे तरी चहूंकडे । परी अणुमात्र दृष्टी न पडे । उदास परी येकीकडे । पाहातां दिसेना ॥ ४ ॥",
+          "marathiMeaning": "हा परमार्थ, हे ब्रह्मज्ञान सर्वत्र भरलेले आहे पण ते पाहायला गेल्यावर साध्या दृष्टीला दिसत नाही. सर्वस्वाचा त्याग केला तरी हा अणुएवढाही दिसत नाही.",
+          "englishMeaning": "It is present on every side, yet not even an atom of it can be seen by mere looking; however one gazes, it remains unseen.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "आकाशमार्गी गुप्तपंथ । जाणती योगिये समर्थ । इतरांस हा गुह्यार्थ । सहसा न कळे ॥ ५ ॥",
+          "marathiMeaning": "हृदयस्थ आकाशमार्गाने स्वस्वरुपाला पोहोचविणारा गुप्त मार्ग फक्त योग्यांनाच माहित आहे. इतरांना हा गुह्यार्थ माहित नाही.",
+          "englishMeaning": "It is the secret path known only to the great yogis; to others, this hidden meaning is not easily grasped at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "साराचेंहि निजसार । अखंड अक्षै अपार । नेऊं न सकती तश्कर । कांही केल्या ॥ ६ ॥",
+          "marathiMeaning": "सर्व ज्ञानाचे सार असा हा अखंड, अक्षय आणि अपार परमार्थ चोरालाही चोरुन नेता येत नाही.",
+          "englishMeaning": "It is the very essence of every essence, whole, imperishable and boundless; by no means can any thief ever carry it away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "तयास नाहीं राजभये । अथवा नाहीं अग्निभये । अथवा स्वापदभये । बोलोंच नये ॥ ७ ॥",
+          "marathiMeaning": "त्याला राजभय, अग्निभय किंवा श्वापदें यांपासून भय नाही. त्याबद्दल काहीं बोलूच नये.",
+          "englishMeaning": "It fears no king, no fire, and no wild beast — indeed, there is nothing more even to be said of it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "परब्रह्म तें हालवेना । अथवा ठावहि चुकेना । काळांतरीं चळेना । जेथीचा तेथें ॥ ८ ॥",
+          "marathiMeaning": "परब्रह्म कोणीहीं हालवूं शकत नाही. ते एका स्थानावरुन ढळत नाही. कितीही काळ लोटला तरी ते चळत नाही.",
+          "englishMeaning": "That Supreme Brahman cannot be moved, nor does it ever lose its place; it remains just where it is, unshaken by the passage of time.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "ऐसें तें निज ठेवणें । कदापि पालटों नेणें । अथवा नव्हे आदिक उणें । बहुतां काळें ॥ ९ ॥",
+          "marathiMeaning": "अशी ही आपली स्वतःची ठेव आहे. तीच्यांत कधी बदल होत नाही. किंवा ती कमी जास्त होत नाही.",
+          "englishMeaning": "Such is this treasure that is truly our own: it never undergoes change, and it neither grows nor diminishes with the passing of time.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "अथवा तें घसवटेना । अथवा अदृश्य होयेना । नातरी पाहातां दिसेना । गुरुअंजनेविण ॥ १० ॥",
+          "marathiMeaning": "परब्रह्म कधी झिजत नाही. किंवा अदृश्य होत नाही. परंतु गुरुनें अंजन घातल्याशिवाय ते दिसत नाही.",
+          "englishMeaning": "It never wears away, nor does it ever vanish from sight; and yet, without the eye-opening grace of the Guru, it cannot be seen at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "मागा योगिये समर्थ । त्यांचाहि निजस्वार्थ । यासी बोलिजे परमार्थ । परमगुह्य म्हणौनि ॥ ११ ॥",
+          "marathiMeaning": "पूर्वी जे मोठे मोठे योगी होऊन गेले त्यांचासुद्धा निजस्वार्थ परमार्थच होता. तो गुह्यमार्गाने साध्य होतो म्हणून त्याला परमार्थ म्हणतात.",
+          "englishMeaning": "Even the great yogis of old sought this very wealth as their own true purpose; therefore it is called paramartha, the most secret of all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "जेंहीं शोधून पाहिला । त्यासी अर्थ सांपडला । येरां असोनि अलभ्य जाला । जन्मोजन्मीं ॥ १२ ॥",
+          "marathiMeaning": "ज्यांनी त्याचा शोध घेतला त्यांना तो सापडला. इतरांना तो जवळ असूनही जन्मोजन्मी सापडत नाही.",
+          "englishMeaning": "Whoever has sought it out has found its true meaning; for others, though it is right there with them, it remains unattained birth after birth.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "अपूर्वता या परमार्थाची । वार्ता नाहीं जन्ममृत्याची । आणी पदवी सायोज्यतेची । सन्निधचि लाभे ॥ १३ ॥",
+          "marathiMeaning": "परमार्थाची अपूर्वता म्हणजे याच्याजवळ जन्म-मृत्यु नाही व सायुज्यमुक्ती मात्र याजवळ आहे.",
+          "englishMeaning": "Such is the wonder of this truth: there is no longer any talk of birth and death, and the state of final union is close at hand.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "माया विविकें मावळे । सारासार विचार कळे । परब्रह्म तेंहि निवळे । अंतर्यामीं ॥ १४ ॥",
+          "marathiMeaning": "विवेक-विचाराने माया लोपते. सारासाराचे ज्ञान होते. अंतर्यामींचे परब्रह्म निवळून उमजु लागते.",
+          "englishMeaning": "Through discernment, maya fades away, and understanding of the essential and the inessential dawns; that Supreme Brahman then becomes clear within.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "ब्रह्म भासलें उदंड । ब्रह्मीं बुडालें ब्रह्मांड । पंचभूतांचें थोतांड । तुछ्य वाटे ॥ १५ ॥",
+          "marathiMeaning": "ब्रह्म फार मोठे भासमान होऊं लागते व सगळीकडे तेच दिसूं लागते. पंचभूतांचा पसारा खोटा समजल्याने तुछ्य वाटूं लागतो.",
+          "englishMeaning": "Brahman appears vast beyond measure, and the whole universe seems to dissolve into it; the illusion of the five elements comes to seem worthless.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "प्रपंच वाटे लटिका । माया वाटे लापणिका । शुद्ध आत्मा विवेका । अंतरीं आला ॥ १६ ॥",
+          "marathiMeaning": "प्रपंच खोटा म्हणुन समजते व मायाही कल्पनामय म्हणून ज्ञान होते. विवेकाच्या साहाय्याने शुद्ध आत्मस्वरुपाचे अंतरी ज्ञान होऊं लागते.",
+          "englishMeaning": "The world of worldly life seems false, and maya seems a mere fable; through discernment, the pure Self is known within the heart.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "ब्रह्मस्थित बाणतां अंतरीं । संदेह गेला ब्रह्मांडाबाहेरी । दृश्याची जुनी जर्जरी । कुहिट जाली ॥ १७ ॥",
+          "marathiMeaning": "अंतरी ब्रह्मज्ञान झाल्याने सर्व संशय मावळतात. दृश्य विश्र्व जुने, जीर्ण झालेले, फाटलेले वाटू लागते.",
+          "englishMeaning": "Once Brahman is firmly established within, every doubt vanishes beyond the bounds of creation, and this old, worn-out visible world crumbles away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "ऐसा हा परमार्थ । जो करी त्याचा निजस्वार्थ । आतां या समर्थास समर्थ । किती म्हणौनि म्हणावें ॥ १८ ॥",
+          "marathiMeaning": "हा परमार्थ असा आहे, जो करील त्याचा तो निजस्वार्थ आहे. आता यास श्रेष्ठ, थोर, शक्तिमान वगैरे कायकाय म्हणुन मोठे वर्णावे.",
+          "englishMeaning": "Such is this ultimate truth — whoever pursues it gains their own true fulfillment; how great, then, should this greatest of the great be called?",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "या परमार्थाकरितां । ब्रह्मादिकांसि विश्रामता । योगी पावती तन्मयता । परब्रह्मीं ॥ १९ ॥",
+          "marathiMeaning": "या परमार्थामुळेमच ब्रह्मादिकांना समाधान मिळते. योगीजनांना परब्रह्मीच तल्लीनता लाभते.",
+          "englishMeaning": "Because of this ultimate truth, even Brahma and the other gods find their rest, and yogis attain complete absorption in that Supreme Brahman.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "परमार्थ सकळांस विसांवा । सिद्ध साधु माहानुभावां । सेखीं सात्विक जड जीवां । सत्संगेंकरुनी ॥ २० ॥",
+          "marathiMeaning": "सिद्ध, साधु, माहात्मे यांना परमार्थ समाधान देतो. सात्वीक जड जीवांना हा सत्संगाने समाधान देतो.",
+          "englishMeaning": "This ultimate truth brings rest to the accomplished, the holy, and the great-souled; and finally, through the company of saints, even dull and heavy souls attain it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "परमार्थ जन्माचें सार्थक । परमार्थ संसारीं तारक । परमार्थ दाखवी परलोक । धार्मिकासी ॥ २१ ॥",
+          "marathiMeaning": "परमार्थ मानवास जन्माचे सार्थक करणारा, त्याला संसारांतुन तारुन नेणारा, व धार्मिकास परलोकींचे सुख देणारा आहे.",
+          "englishMeaning": "This ultimate truth fulfills the very purpose of birth, saves one from worldly bondage, and reveals the world beyond to the righteous.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "परमार्थ तापसांसी थार । परमार्थ साधकांसी आधार । परमार्थ दाखवी पार । भवसागराचा ॥ २२ ॥",
+          "marathiMeaning": "परमार्थ तापसींना आश्रय देतो. साधकांना परमार्थ आधार देतो. भवसागररुपी संसार कसा पार करावा ह्याचे ज्ञान परमार्थ देतो.",
+          "englishMeaning": "This ultimate truth is the refuge of ascetics and the support of every seeker; it carries one across to the far shore of the ocean of worldly existence.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "परमार्थी तो राज्यधारी । परमार्थ नाहीं तो भिकारी । या परमार्थाची सरी । कोणांस द्यावी ॥ २३ ॥",
+          "marathiMeaning": "ज्याला परमार्थ साधला तो राजाच झाला. ज्याला साधला नाही तो भिकारीच राहीला. या परमार्थाची तुलना कशाचीच करता येत नाही.",
+          "englishMeaning": "One who attains this ultimate truth becomes a true sovereign; one without it remains but a beggar — to what, then, can this truth ever be compared?",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "अनंत जन्मीचें पुण्य जोडे । तरीच परमार्थ घडे । मुख्य परमात्मा आतुडे । अनुभवासी ॥ २४ ॥",
+          "marathiMeaning": "पुष्कळ जन्मांचे पुण्य फळफळले म्हणजे परमार्थ घडतो. त्यामुळे साक्षात अनुभव येतो.",
+          "englishMeaning": "Only when merit accumulated across countless births ripens does this ultimate truth come to pass, and the Supreme Self is directly experienced.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "जेणें परमार्थ वोळखिला । तेणें जन्म सार्थक केला । येर तो पापी जन्मला । कुलक्षयाकारणें ॥ २५ ॥",
+          "marathiMeaning": "ज्याने परमार्थ जाणला त्याचा जन्म सार्थक झाला. याउलट इतर पापीजन केवळ कुलक्षयासाठींच जन्मतात.",
+          "englishMeaning": "Whoever has recognized this ultimate truth has made their birth truly worthwhile; all others are born again merely as sinners, for the ruin of their own lineage.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "असो भगवत्प्राप्तीविण । करी संसाराचा सीण । त्या मूर्खाचें मुखावलोकन । करुंच नये ॥ २६ ॥",
+          "marathiMeaning": "भगवंताची प्राप्ती करुन न घेता जो संसारांत शीणतो, त्या मूर्खाचे तोंडही बघु नये.",
+          "englishMeaning": "Enough said — without attaining God, one merely wearies oneself in worldly toil; the face of such a fool ought not even be looked upon.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "भल्यानें परमार्थीं भरावें । शरीर सार्थक करावें । पूर्वजांस उद्धरावें । हरिभक्ती करुनी ॥ २७ ॥",
+          "marathiMeaning": "म्हणून भल्या माणसाने परमार्थाच्या मार्गाने जावे व आपल्या शरीराचे सार्थक करावे आणि हरिभक्ती करुन आपल्या पूर्वजांस उद्धरावे.",
+          "englishMeaning": "Let the good and wise devote themselves fully to this ultimate truth, make their bodies worthwhile, and redeem their ancestors through devotion to Hari.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 10,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "नरदेहस्तवननिरूपण",
+      "samasTitleEnglish": "Naradeha Stavan (Praise of the Human Body)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "https://ioustotra.blogspot.com/2016/12/samas-dahava-nardehstavan-nirupan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "धन्य धन्य हा नरदेहो । येथील अपूर्वता पाहो । जो जो कीजे परमार्थलाहो । तो तो पावे सिद्धीतें ॥ १ ॥",
+          "marathiMeaning": "हा नरदेह फार धन्य आहे. याची अपूर्वता अशी आहे की, परमार्थ साधावा म्हणून जो जो प्रयत्न करावा तो यशस्वी होतो.",
+          "englishMeaning": "Blessed, truly blessed is this human body — its wonder is such that whatever effort is made toward the ultimate truth surely succeeds.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "या नरदेहाचेनि लागवेगें । येक लागले भक्तिसंगे । येकीं परम वीतरागें । गिरिकंदरें सेविलीं ॥ २ ॥",
+          "marathiMeaning": "या नरदेहाच्या प्राप्तीमुळे कांहींजण भक्तिमार्गास लागले तर कांहींजण वैराग्य धारण करुन डोंगर-दर्‍यांत जाऊन राहीले.",
+          "englishMeaning": "Because of this human body, some took up the path of devotion, while others, in utter dispassion, went to dwell in mountain caves.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "येक फिरती तीर्थाटणें । करिती पुरश्र्चरणें । येक अखंड नामस्मरणें । निष्ठावंत राहिले ॥ ३ ॥",
+          "marathiMeaning": "कांहींजण तीर्थयात्रा करतात तर कांहींजण पुरश्र्चरणें करतात तर कांहींजण मोठ्या निष्ठेने नामस्मरण करतात.",
+          "englishMeaning": "Some wander on pilgrimage, some perform vows of repeated recitation, and some remain steadfast in ceaseless remembrance of the divine name.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "येक तपें करुं लागले । येक योगाभ्यासी माहाभले । येक अभ्यासयोगें जाले । वेदशास्त्रीं वित्पन्न ॥ ४ ॥",
+          "marathiMeaning": "कांहीजण तपें करु लागलें, तर कांहीं महाजन योगाभ्यासी झाले. कोणी अभ्यासानें वेदशास्त्रसंपन्न असे मोठे विद्वान झाले.",
+          "englishMeaning": "Some took up austerities, some became great practitioners of yoga, and some, through diligent study, became learned in the Vedas and scriptures.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "येकीं हटनिग्रह केला । देह अत्यंत पीडिला । येकीं देव ठांई पाडिला । भावार्थबळें ॥ ५ ॥",
+          "marathiMeaning": "काहीं जणांनी हटयोगाचा मार्ग धरुन देहास फार कष्टविले. काहींनी देव आहे असा श्रद्धाभाव वाढवून देवास आपला केला.",
+          "englishMeaning": "Some took the path of forceful discipline and greatly tormented the body; others, through the strength of pure faith, made God their very own.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "येक माहानुभाव विख्यात । येक भक्त जाले ख्यात । येक सिद्ध अकस्मात । गगन वोळगती ॥ ६ ॥",
+          "marathiMeaning": "कोणी मोठे महात्मा म्हणुन तर कोणी मोठे भक्त म्हणुन विख्यात झाले. कोणी सिद्धि मिळवून गगनाला गवसणी घालण्याची सिद्धि मिळवून मोठे झाले.",
+          "englishMeaning": "Some became renowned as great souls, others became famed as great devotees, and some, suddenly perfected, gained the power to travel through the sky.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "येक तेजीं तेजचि जाले । येक जळीं मिळोन गेले । येक ते दिसतचि अदृश्य जाले । वायोस्वरुपी ॥ ७ ॥",
+          "marathiMeaning": "कोणी तेजरुपी होऊन तेजांत, तर कोणी पाण्यांत आपरुप होऊन मिसळून गेले. तर कोणी वायुरुप होऊन अदृश्य झाले.",
+          "englishMeaning": "Some merged into light itself and became light; some dissolved into water; and some, taking the form of wind, vanished from sight before one's very eyes.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "येक येकचि बहुधा होती । येक देखतचि निघोन जाती । येक बैसले असतांचि भ्रमति । नाना स्थानीं समुद्रीं ॥ ८ ॥",
+          "marathiMeaning": "कोणी अनेक रुपें घेऊ लागले, तर कोणी बघता बघता अदृश्य होऊ लागले. कोणी एका जागी बसले असूनही अनेक ठिकाणी हिंडून येतात. अगदी समुद्रांतही फिरुन येतात.",
+          "englishMeaning": "Some, being one, became many forms; some vanish before one's very eyes; and some, while sitting still in one place, roam to many places, even across the ocean.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "येक भयानकावरी बैसती । येक अचेतनें चालविती । येक प्रेतें उठविती । तपाबळेंकरुनी ॥ ९ ॥",
+          "marathiMeaning": "कोणी हिंस्र श्वापदांवर सत्ता गाजवून बसतात. तर कोणी अचेतन वस्तु चालवितात. तर कोणी तपोबळाने मेलेल्या माणसांना जिवंत करतात.",
+          "englishMeaning": "Some ride upon ferocious beasts, some set lifeless things into motion, and some, by the power of their austerities, raise the dead.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "येक तेजें मंद करिती । येक जळें आटविती । येक वायो निरोधिती । विश्र्वजनाचा ॥ १० ॥",
+          "marathiMeaning": "कोणी तेज स्वबळावर मंद करतात. तर कोणी जलाशयांना आटवून टाकतात. काहींजण विश्र्वजनांचा प्राण म्हणजे वायु रोखून धरतात.",
+          "englishMeaning": "Some dim the brightness of fire by their own power; some dry up entire bodies of water; and some hold in check the very breath of all living beings.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "ऐसे हटनिग्रही कृतबुद्धी । जयांस वोळल्या नाना सिद्धि । ऐसे सिद्ध लक्षावधी । होऊन गेले ॥ ११ ॥",
+          "marathiMeaning": "कोणी निग्रहाने बुद्धिपूर्वक नाना सिद्धि अवगत करुन घेतात. असे लक्षावधि सिद्ध होऊन गेले.",
+          "englishMeaning": "Such disciplined and resolute souls, to whom countless powers came naturally — such accomplished ones have appeared by the hundreds of thousands.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "येक मनोसिद्ध येक वाचासिद्ध । येक अल्पसिद्ध येक सर्वसिद्ध । ऐसे नाना प्रकारीचे सिद्ध । विख्यात जाले ॥ १२ ॥",
+          "marathiMeaning": "त्यांच्या मनांत येईल ते घडविणारे मनोसिद्ध, जसे बोलतील तसे घडवणारे वाचासिद्ध, काहीं थोड्या सिद्धि जाणणारे तर सर्व सिद्धि जाणणारे कांहीजण मोठे विख्यात झाले.",
+          "englishMeaning": "Some became masters of mind, whose every thought comes true; some masters of speech, whose every word comes to pass; some of lesser powers, some of every power — such various masters became renowned.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "येक नवविधाभक्तिराजपंथे । गेले परलोकींच्या निजस्वार्थें । येक योगी गुप्तपंथें । ब्रह्मभुवना पावले ॥ १३ ॥",
+          "marathiMeaning": "कोणी नवविधाभक्तिच्या राजपंथाने जाऊन स्वस्वरुपाचा निजस्वार्थाने अनुभव घेऊन कृतार्थ झाले. तर कांहीं गुप्तमार्गाने ब्रह्मलोकीं गेले.",
+          "englishMeaning": "Some, walking the royal road of ninefold devotion, attained their true good in the world beyond; and some yogis, by the secret path, reached the world of Brahman.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "येक वैकुंठास गेले । येक सत्यलोकीं राहिले । येक कैळासीं बैसले । शिवरुप होऊनी ॥ १४ ॥",
+          "marathiMeaning": "कांहींजण ब्रह्मज्ञान मिळवून वैकुंठास गेले तर कांहीं सत्यलोकीं गेले. कांहींजण सिवरुप होऊन कैलासांत जाऊन बसले.",
+          "englishMeaning": "Some went to Vaikuntha, some remained in Satyaloka, and some, becoming one with Shiva's own form, took their seat in Kailasa.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "येक इंद्रलोकीं इंद्र जाले । येक पितृलोकीं मिळाले । येक ते उडगणीं बैसले । येक ते क्षीरसागरीं ॥ १५ ॥",
+          "marathiMeaning": "कांहींजण इंद्रलोकांत इंद्र होऊन, तर कांहींजण पितृलोकांत जाऊन बसले. तर कांहींजण नक्षत्रलोकीं तर कांहींजण क्षीरसागरी गेले.",
+          "englishMeaning": "Some became Indra in Indra's own realm, some joined the world of the ancestors, some took their seat among the stars, and some reached the Ocean of Milk.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "सलोकता समीपता । स्वरुपता सायोज्यता । या चार मुक्ती तत्वता । इच्छा सेऊन राहिले ॥ १६ ॥",
+          "marathiMeaning": "ज्या चार मुक्ती म्हटल्या जातात, सलोकता, समीपता, स्वरुपता आणि सायोज्यता यापैकी ज्याला जी योग्य वाटली तीच्या मार्गे कांहींजण गेले.",
+          "englishMeaning": "Salokata, samipata, swarupata and sayujyata — these are the four kinds of liberation; each pursued and attained the one desired according to their own wish.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "ऐसे सिद्ध साधु संत । स्वहिता प्रवर्तले अनंत । ऐसा हा नरदेह विख्यात । काय म्हणौनि वर्णावा ॥ १७ ॥",
+          "marathiMeaning": "याप्रमाणे असंख्य साधु, सिद्ध, संत स्वस्वरुप जाणण्याच्या मार्गे या प्रसिद्ध नरदेहाच्यामुळेंच गेले. तेव्हा या नरदेहाचा महिमा काय वर्णावा?",
+          "englishMeaning": "Thus countless accomplished ones, sadhus and saints have devoted themselves to their own true good through this renowned human body — how, then, should its glory be described?",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "या नरदेहाचेनि आधारें । नाना साधनांचेनि द्वारें । मुख्य सारासारविचारें । बहुत सुटले ॥ १८ ॥",
+          "marathiMeaning": "या नरदेहामुळेंच अनेक साधनांच्यामार्गे स्वहित साधता येते. परंतु मुख्य सारासार विचारानेंच बहुतेकजण मुक्त झाले.",
+          "englishMeaning": "Through the support of this human body, and by way of many spiritual practices, most of all it is through the discernment of the essential from the inessential that many have found freedom.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "या नरदेहाचेनि संमंधें । बहुत पावले उत्तम पदें । अहंता सांडून स्वानंदें । सुखी जाले ॥ १९ ॥",
+          "marathiMeaning": "या नरदेहामुळेंच अहंकाराचा त्याग करुन पुष्कळजण आत्मानंदाची प्राप्ती करुन घेऊन उत्तम पदे मिळवते झाले.",
+          "englishMeaning": "Through the connection of this human body, many have attained the highest states — casting off ego, they found the bliss of their own true Self.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "नरदेहीं येऊन सकळ । उधरागती पावले केवळ । येथें संशयाचे मूळ । खंडोन गेलें ॥ २० ॥",
+          "marathiMeaning": "या नरदेही येऊनच सकळ उत्तम गती लाभले. तेव्हां हा नरदेह श्रेष्ठ आहे याबद्दल आता कोणास संशय राहणार नाही.",
+          "englishMeaning": "Coming into this human body, all have attained the highest liberation; here, the very root of doubt is cut away entirely.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "पशुदेहीं नाहीं गती । ऐसे सर्वत्र बोलती । म्हणौन नरदेहींच प्राप्ती । परलोकाची ॥ २१ ॥",
+          "marathiMeaning": "पशुदेहांमधे उत्तम गती मिळत नाही, असे सर्वत्र बोलले जाते. म्हणूनच परलोकाची प्राप्ती नरदेहामुळेंच होते हे नक्की.",
+          "englishMeaning": "In the body of an animal there is no such attainment — this is said everywhere; therefore, only through the human body is the world beyond truly gained.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "संत महंत ऋषी मुनी । सिद्ध साधु समाधानी । भक्त मुक्त ब्रह्मज्ञानी । विरक्त योगी तपस्वी ॥ २२ ॥",
+          "marathiMeaning": "या नरदेही कोणकोण झाले ते पाहा — संत, महंत, ऋषी, मुनी, सिद्ध, साधु, समाधानी, भक्त, मुक्त, ब्रह्मज्ञानी, विरक्त, योगी, तपस्वी.",
+          "englishMeaning": "Saints and great souls, sages and seers, the accomplished and holy, the contented, devotees, the liberated, knowers of Brahman, the dispassionate, yogis and ascetics —",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "तत्त्वज्ञानी योगाभ्यासी । ब्रह्मच्यारी दिगंबर संन्यासी । शडदर्शनी तापसी । नरदेहींच जाले ॥ २३ ॥",
+          "marathiMeaning": "तत्वज्ञानी, योगाभ्यासी, ब्रह्मचारी, दिगंबर, संन्यासी, षड्दर्शनी, तापसी आदी — हे सर्व केवळ नरदेहानेच शक्य झाले.",
+          "englishMeaning": "— knowers of ultimate principles, practitioners of yoga, celibates, sky-clad renunciates, sannyasis, scholars of the six systems of philosophy, and ascetics — all these have come to be only through the human body.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "म्हणौनि नरदेह श्रेष्ठ । नाना देहांमधें वरिष्ठ । जयाचेनि चुके आरिष्ट । येमयातनेचें ॥ २४ ॥",
+          "marathiMeaning": "म्हणून नरदेह सर्व देहांमधे श्रेष्ठ, ज्याच्यामुळे यम यातनेचे दुःख टळू शकते.",
+          "englishMeaning": "Therefore the human body is supreme, the highest among all forms of life, for through it one may escape the torments of the lord of death.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "नरदेह हा स्वाधेन । सहसा नव्हे पराधेन । परंतु हा परोपकारीं झिजऊन । कीर्तिरुपें उरवावा ॥ २५ ॥",
+          "marathiMeaning": "नरदेह हा स्वतंत्र आहे. तो पराधीन सहसा होत नाही. परंतु या नरदेहाद्वारे परोपकार करुन कीर्तिरुपाने तो मागे ठेवावा.",
+          "englishMeaning": "The human body is one's own — it does not easily fall under another's control; therefore it should be spent in service to others, so as to leave behind a lasting good name.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "अश्र्व वृषभ गाई म्हैसी । नाना पशु स्त्रिया दासी । कृपाळूपणें सोडितां त्यांसी । कोणी तरी धरील ॥ २६ ॥",
+          "marathiMeaning": "घोडे, बैल, गाऊ, म्हशी, अनेक पशु, स्त्रिया, दासी जर दया म्हणुन मोकळे सोडले तर त्यांना कोणीतरी धरेल.",
+          "englishMeaning": "Horses, bulls, cows and buffaloes, various animals, women and maidservants — if set free out of kindness, someone else will surely capture them.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "तैसा नव्हे नरदेहो । इछा जाव अथवा राहो । परी यास कोणी पाहो । बंधन करुं सकेना ॥ २७ ॥",
+          "marathiMeaning": "परंतु नरदेहाचे मात्र असे नाही, बाहेर किंवा आंत आपल्या इच्छेने राहीला तरी त्याला कोणी पकडू शकत नाही.",
+          "englishMeaning": "The human body is not so — whether it wishes to go or to stay, no one, however they may try, can ever truly hold it captive.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "नरदेह पांगुळ असता । तरी तो कार्यास न येतां । अथवा थोंटा जरी असता । तरी परोपकारस नये ॥ २८ ॥",
+          "marathiMeaning": "नरदेह पांगळा असेल तर तो कार्यास येत नाही किंवा थोटा असेल तर परोपकाराच्या कामी येत नाही.",
+          "englishMeaning": "If the human body is crippled, it is of no use for action; and if it is maimed, it cannot be used for the good of others.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "नरदेह अंध असिला । तरी तो निपटचि वायां गेला । अथवा बधिर जरी असिला । तरी निरुपण नाहीं ॥ २९ ॥",
+          "marathiMeaning": "तो आंधळा असेल तर पूर्णपणे वायाच गेला. बहिरा असेल तर निरुपण, प्रवचन श्रवण करता येत नाही.",
+          "englishMeaning": "If it is blind, it is entirely wasted; and if it is deaf, it cannot receive spiritual teaching at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 30,
+          "original": "नरदेह असिला मुका । तरी घेतां नये आशंका । अशक्त रोगी नासका । तरी तो निःकारण ॥ ३० ॥",
+          "marathiMeaning": "नरदेह मुका असेल तर त्याला शंका बोलून दाखविता येत नाहीत. अशक्त, रोगी किंवा नासका असेल तर तो कांहींच कामाचा नाही.",
+          "englishMeaning": "If it is mute, doubts cannot even be voiced; and if it is weak, diseased or ruined, it serves no purpose at all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 31,
+          "original": "नरदेह असिला मूर्ख । अथवा फेंपर्‍या समंधाचें दुःख । तरी तो जाणावा निरार्थक । निश्र्चयेंसीं ॥ ३१ ॥",
+          "marathiMeaning": "तो मूर्ख असेल, त्याला फेफर्‍यांचे दुःख असेल किंवा समंधाने पछाडला असेल तर तो निश्चितच निरुपयोगी होय.",
+          "englishMeaning": "If it is foolish, or afflicted with epilepsy, or troubled by possession, it must certainly be considered useless.",
+          "verified": true
+        },
+        {
+          "verseNumber": 32,
+          "original": "इतुकें हे नस्तां वेंग । नरदेह आणी सकळ सांग । तेणें धरावा परमार्थमार्ग । लागवेगें ॥ ३२ ॥",
+          "marathiMeaning": "ही वर वर्णिलेली व्यंगे नसतील आणि तो नरदेह चांगला धष्ट असेल तर त्यानें वेळ न दवडता लगेचच परमार्थाचा मार्ग धरावा.",
+          "englishMeaning": "But when none of these defects are present, and the human body is whole and sound, one should at once and without delay take up the path of ultimate truth.",
+          "verified": true
+        },
+        {
+          "verseNumber": 33,
+          "original": "सांग नरदेह जोडलें । आणी परमार्थबुद्धि विसर्लें । तें मूर्ख कैसें भ्रमलें । मायाजाळीं ॥ ३३ ॥",
+          "marathiMeaning": "चांगला नरदेह मिळुनही मूर्ख परमार्थाचा मार्ग विसरले आणि मायेच्या जाळ्यांत कसे गुरफटले.",
+          "englishMeaning": "Having obtained a sound human body, yet forgetting the pursuit of ultimate truth — how strangely the fool becomes entangled in the web of illusion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 34,
+          "original": "मृत्तिका खाणोन घर केलें । ते माझें ऐसें दृढ कल्पिलें । परी तें बहुतांचें हें कळलें । नाहींच तयासी ॥ ३४ ॥",
+          "marathiMeaning": "कोणी एक असाच मूर्ख घर बांधतो आणि भ्रमांत राहतो की हें माझे घर आहे. परंतु त्याला माहीत नसते की हे घर पुष्कळांचे असते.",
+          "englishMeaning": "Digging up clay to build a house, one firmly believes, 'This is mine' — yet he never realizes that this same house truly belongs to many others.",
+          "verified": true
+        },
+        {
+          "verseNumber": 35,
+          "original": "मुष्यक म्हणती घर आमुचें । पाली म्हणती घर आमुचें । मक्षिका म्हणती घर आमुचें । निश्र्चयेंसीं ॥ ३५ ॥",
+          "marathiMeaning": "उंदिर म्हणतात माझे घर, पाली म्हणतात माझे घर, माश्या म्हणतात आमचे घर.",
+          "englishMeaning": "The mice say, 'This house is ours'; the lizards say, 'This house is ours'; the flies say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 36,
+          "original": "कांतण्या म्हणती घर आमुचें । मुंगळे म्हणती घर आमुचें । मुंग्या म्हणती घर आमुचें । निश्र्चयेंसीं ॥ ३६ ॥",
+          "marathiMeaning": "कांतण्या, मुंगळे, मुंग्या हेदेखील तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The spiders say, 'This house is ours'; the black ants say, 'This house is ours'; the little ants say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 37,
+          "original": "विंचू म्हणती आमुचें घर । सर्प म्हणती आमुचें घर । झुरळें म्हणती आमुचें घर । निश्र्चयेंसीं ॥ ३७ ॥",
+          "marathiMeaning": "विंचू, सर्प, झुरळें हेही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The scorpions say, 'This house is ours'; the snakes say, 'This house is ours'; the cockroaches say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 38,
+          "original": "भ्रमर म्हणती आमुचें घर । भिंगोर्‍या म्हणती आमुचें घर । आळिका म्हणती आमुचें घर । काष्ठामधें ॥ ३८ ॥",
+          "marathiMeaning": "भुंगे, भिंगोर्‍या, आणि लाकडांतील आळ्या हेही तेच घर आपले असल्याचे म्हणतात.",
+          "englishMeaning": "The black bees say, 'This house is ours'; the crickets say, 'This house is ours'; the grubs in the wood say, 'This house is ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 39,
+          "original": "मार्जरें म्हणती आमुचें घर । स्वानें म्हणती आमुचें घर । मुंगसें म्हणती आमुचें घर । निश्र्चयेंसीं ॥ ३९ ॥",
+          "marathiMeaning": "मांजरे, कुत्री, मुंगुसे हेही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The cats say, 'This house is ours'; the dogs say, 'This house is ours'; the mongooses say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 40,
+          "original": "पुंगळ म्हणती आमुचें घर । वाळव्या म्हणती आमुचें घर । पिसुवा म्हणती आमुचें घर । निश्र्चयेंसीं ॥ ४० ॥",
+          "marathiMeaning": "पुंगळ, वाळव्या, पिसवा हेही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The moths say, 'This house is ours'; the termites say, 'This house is ours'; the fleas say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 41,
+          "original": "ढेंकुण म्हणती आमुचें घर । चांचण्या म्हणती आमुचें घर । घुंगर्डी म्हणती आमुचें घर । निश्र्चयेंसी ॥ ४१ ॥",
+          "marathiMeaning": "ढेकुण, चांचण्या, घुंगर्ड्या हेही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The bedbugs say, 'This house is ours'; the mites say, 'This house is ours'; the sand-flies say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 42,
+          "original": "पिसोळे म्हणती आमुचें घर । गांधेले म्हणती आमुचें घर । सोट म्हणती आमुचें घर । आणी गोंबी ॥ ४२ ॥",
+          "marathiMeaning": "पिसोळे, गांधिलमाशा, सोट व गोंबी हेही तेच घर आपले असल्याचे म्हणतात.",
+          "englishMeaning": "The stinging insects say, 'This house is ours'; the hornets say, 'This house is ours'; and so too say the wood-borers and worms.",
+          "verified": true
+        },
+        {
+          "verseNumber": 43,
+          "original": "बहुत किड्यांचा जोजार । किती सांगावा विस्तार । समस्त म्हणती आमुचें घर । निश्र्चयेंसी ॥ ४३ ॥",
+          "marathiMeaning": "किती कोणकोण म्हणावे, या सर्व किड्यांचा जमाव — सगळेच निश्चयाने म्हणतात, हे आमचेच घर.",
+          "englishMeaning": "So many kinds of insects there are — how far should this list be extended? All of them alike say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 44,
+          "original": "पशु म्हणती आमुचें घर । दासी म्हणती आमुचें घर । घरींची म्हणती आमुचें घर । निश्र्चयेंसी ॥ ४४ ॥",
+          "marathiMeaning": "पशु, दासी, आणि घरातील इतर मंडळीही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The animals say, 'This house is ours'; the servants say, 'This house is ours'; the members of the household say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 45,
+          "original": "पाहुणे म्हणती आमुचें घर । मित्र म्हणती आमुचें घर । ग्रामस्त म्हणती आमुचें घर । निश्र्चयेंसीं ॥ ४५ ॥",
+          "marathiMeaning": "पाहुणे, मित्र, आणि गावकरीही तेच घर आपले असल्याचे निश्चयाने म्हणतात.",
+          "englishMeaning": "The guests say, 'This house is ours'; the friends say, 'This house is ours'; the fellow villagers say, 'This house is truly ours.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 46,
+          "original": "तश्कर म्हणती आमुचें घर । राजकी म्हणती आमुचें घर । आग्न म्हणे आमुचें घर । भस्म करुं ॥ ४६ ॥",
+          "marathiMeaning": "चोर, राजसेवक, आणि अग्नि — तेही आपापल्या परीने ते घर आपलेच मानून, अग्नि तर ते जाळून भस्म करण्याची भाषा करतो.",
+          "englishMeaning": "The thieves say, 'This house is ours'; the king's men say, 'This house is ours'; and fire says, 'This house is mine — I shall reduce it to ashes.'",
+          "verified": true
+        },
+        {
+          "verseNumber": 47,
+          "original": "समस्त म्हणती घर माझें । हे मूर्खहि म्हणे माझें माझें । सेवट जड जालें वोझें । टाकिला देश ॥ ४७ ॥",
+          "marathiMeaning": "सर्व म्हणतात माझेंच घर. शेवटी हे घराचे ओझें जड होऊन गांव सोडून निघुन जातो.",
+          "englishMeaning": "Everyone claims, 'This house is mine' — and the fool too says, 'Mine, mine!' In the end this burden grows too heavy, and he abandons the place altogether.",
+          "verified": true
+        },
+        {
+          "verseNumber": 48,
+          "original": "अवघीं घरें भंगलीं । गावांची पांढरी पडिली । मग ते गृहीं राहिलीं । आरण्यस्वापदें ॥ ४८ ॥",
+          "marathiMeaning": "अशा प्रकारे गावांतील सर्व घरे कांही काळाने पडतात. गांव ओस पडतो. आणि श्वापदे तेथे राहु लागतात.",
+          "englishMeaning": "In time all such houses crumble, the village turns to ruin, and afterward wild beasts of the forest come to dwell there.",
+          "verified": true
+        },
+        {
+          "verseNumber": 49,
+          "original": "किडा मुंगी वाळवी मूषक । त्यांचेच घर हें निश्र्चयात्मक । हें प्राणी बापुडें मूर्ख । निघोन गेलें ॥ ४९ ॥",
+          "marathiMeaning": "खरे म्हणजे किडा, मुंगी, वाळवी, उंदिर यांचेच ते घर असते. माझे माझे म्हणणारा मूर्ख मात्र निघुन जातो.",
+          "englishMeaning": "In truth, the house belongs only to the insects, the ants, the termites, and the rats — while the poor fool who called it his own has already departed.",
+          "verified": true
+        },
+        {
+          "verseNumber": 50,
+          "original": "ऐसी गृहांची स्थिती । मिथ्या आली आत्मप्रचिती । जन्म दों दिसांची वस्ती । कोठें तरी करावी ॥ ५० ॥",
+          "marathiMeaning": "अशी घराची प्रचिती येऊन माझे म्हणणे खोटे हे समजुन येते. या दोन दिवसांच्या जन्माची वस्ती कोठेंतरी करावी.",
+          "englishMeaning": "Such is the true state of every house — the falseness of 'mine' becomes evident; this life is but a brief two-day stay, to be spent somewhere or other.",
+          "verified": true
+        },
+        {
+          "verseNumber": 51,
+          "original": "देह म्हणावें आपुलें । तरी हें बहुतां कारणें निर्मिलें । प्राणीयांच्या माथां घर केले । वा मस्तकीं भक्षिती ॥ ५१ ॥",
+          "marathiMeaning": "देह माझा म्हणावा तर तेही खोटेच, कारण घरासारखाच तो देहसुद्धा अनेकांसाठींच निर्मिला असतो — जसे कीं डोक्यांत उवा होतात, केसांच्या मुळाशी राहतात व मांस खातात.",
+          "englishMeaning": "If one calls the body one's own, that too is false — for it, too, was made for the sake of many others, who build their homes upon it and feed there.",
+          "verified": true
+        },
+        {
+          "verseNumber": 52,
+          "original": "रोमेमुळीं किडे भक्षिती । खांडुक जाल्यां किडे पडती । पोटामध्यें जंत होती । प्रत्यक्ष प्राणियांच्या ॥ ५२ ॥",
+          "marathiMeaning": "केसांच्या मुळाशी किडे राहून मांस खातात. गळवे होऊन त्यांत किडे पडतात. पोटांत जंत होतात.",
+          "englishMeaning": "Insects feed at the roots of the hair; boils form and breed maggots within them; and worms grow directly in the belly of every living creature.",
+          "verified": true
+        },
+        {
+          "verseNumber": 53,
+          "original": "कीड लागे दांतासी । कीड लागे डोळ्यांसीं । कीड लागे कर्णासी । आणी गोमाशा भरती ॥ ५३ ॥",
+          "marathiMeaning": "दांताला, डोळ्यांना, कानाला किड लागते. गोमाशा मग त्रास देतात.",
+          "englishMeaning": "Decay attacks the teeth, decay attacks the eyes, decay attacks the ears, and swarms of flies gather besides.",
+          "verified": true
+        },
+        {
+          "verseNumber": 54,
+          "original": "गोंचिड अशुद्ध सेविती । चामवा मांसांत घुसती । पिसोळे चाऊन पळती । अकस्मात ॥ ५४ ॥",
+          "marathiMeaning": "रक्तपिपासु गोचिड रक्त पितात. चामवा मांसांत शिरतात. पिसोळे येऊन चावतात.",
+          "englishMeaning": "Ticks drink the impure blood, mites burrow into the flesh, and stinging insects suddenly bite and dart away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 55,
+          "original": "भोंगे गांधेलें चाविती । गोंवी जळवा अशुद्ध घेती । विंचू सर्प दंश करिती । कानटें फुर्सीं ॥ ५५ ॥",
+          "marathiMeaning": "भुंगे, गांधिलमाशा चावतात. गोमा व जळवा रक्त पितात. विंचु, साप, फुरसे, घोणस दंश करतात.",
+          "englishMeaning": "Wasps and hornets bite, leeches and worms draw off impure blood, and scorpions, cobras and vipers of every kind strike with their venom.",
+          "verified": true
+        },
+        {
+          "verseNumber": 56,
+          "original": "जन्मून देह पाळिले । तें अकस्मात व्याघ्रें नेलें । कां तें लांडगींच भक्षिलें । बळात्कारें ॥ ५६ ॥",
+          "marathiMeaning": "जन्मापासून सांभाळलेला देह अचानक वाघ घेऊन जातो. किंवा लांडगा खाऊन टाकतो.",
+          "englishMeaning": "The body, nurtured since birth, is suddenly seized by a tiger, or else forcibly devoured by a wolf.",
+          "verified": true
+        },
+        {
+          "verseNumber": 57,
+          "original": "मूषकें मांजरे दंश करिती । स्वानें अश्र्वें लोले तोडिती । रीसें मर्कटें मारिती । कासावीस करुनी ॥ ५७ ॥",
+          "marathiMeaning": "उंदिर, मांजरे दंश करतात, कुत्री, घोडे लचके तोडतात. अस्वले, माकडे बोचकारुन कासावीस करतात.",
+          "englishMeaning": "Rats and cats bite, dogs and horses tear at its flesh, and bears and monkeys claw and torment it mercilessly.",
+          "verified": true
+        },
+        {
+          "verseNumber": 58,
+          "original": "उष्टरें डसोन उचलिती । हस्थी चिर्डून टाकिती । वृषभ टोचून मारिती । अकस्मात ॥ ५८ ॥",
+          "marathiMeaning": "उंट चावतात, हत्ती देह चिरडून टाकतात, बैल शिंगांनी टोचून अचानक मारतात.",
+          "englishMeaning": "Camels bite and toss it aside, elephants trample and crush it, and bulls suddenly gore it to death with their horns.",
+          "verified": true
+        },
+        {
+          "verseNumber": 59,
+          "original": "तश्कर तडतडां तोडिती । भूतें झडपोन मारिती । असो या देहाची स्थिती । ऐसी असे ॥ ५९ ॥",
+          "marathiMeaning": "चोर देहाचे तुकडे करतात. भूतें अंगांत शिरुन मारतात. अशी या देहाची अवस्था आहे.",
+          "englishMeaning": "Thieves hack it to pieces, evil spirits seize and destroy it — such, indeed, is the fragile condition of this body.",
+          "verified": true
+        },
+        {
+          "verseNumber": 60,
+          "original": "ऐसें शरीर बहुतांचें । मूर्ख म्हणे आमुचें । परंतु खाजें जिवाचें । तापत्रैं बोलिले ॥ ६० ॥",
+          "marathiMeaning": "असा हा देह पुष्कळांचा आहे. पण मूर्ख म्हणतो माझा आहे. परंतु हा देह इतर जीवांचे खाद्य आहे; याविषयी पुढे तापत्रयाच्या वर्णनांत सांगितले आहे.",
+          "englishMeaning": "Such is this body, belonging truly to many others; yet the fool still calls it his own. But it is, in truth, mere food for other beings, as will be told in the account of the threefold suffering.",
+          "verified": true
+        },
+        {
+          "verseNumber": 61,
+          "original": "देह परमार्थीं लाविलें । तरीच याचें सार्थक जालें । नाहीं तरी हें वेर्थचि गेलें । नाना आघातें मृत्युपंथें ॥ ६१ ॥",
+          "marathiMeaning": "देह परमार्थी लावला तरच त्याचे सार्थक होते, अन्यथा नाना आघातांनी तो मृत्युमुखीं पडतो.",
+          "englishMeaning": "Only when the body is dedicated to the ultimate truth does it fulfill its purpose; otherwise it is entirely wasted, falling to death through countless accidents and afflictions.",
+          "verified": true
+        },
+        {
+          "verseNumber": 62,
+          "original": "असो जे प्रापंचिक मूर्ख । ते काये जाणती परमार्थसुख । त्या मूर्खाचें लक्षण कांहीं येक । पुढें बोलिलें असे ॥ ६२ ॥",
+          "marathiMeaning": "प्रापंचिक सुखांत गुंतलेल्या मूर्खांना परमार्थांतील सुख उमजत नाही. अशा मूर्खांची कांहीं लक्षणें पुढें सागितली आहेत.",
+          "englishMeaning": "As for those fools absorbed in worldly life, how could they ever know the joy of ultimate truth? Some of the marks of such fools will now be described.",
+          "verified": true
+        }
+      ]
     }
   ]
 }
