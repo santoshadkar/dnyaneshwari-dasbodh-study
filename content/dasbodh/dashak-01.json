@@ -517,21 +517,434 @@
     },
     {
       "samasNumber": 3,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "शारदास्तवन",
+      "samasTitleEnglish": "Sharada Stavan (Praise to Goddess Sharada/Saraswati)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/samas-tisara-sharada-stavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां वंदीन वेदमाता । श्रीशारदा ब्रह्मसुता । शब्दमूळ वाग्देवता । माहं माया ॥ १ ॥",
+          "marathiMeaning": "शारदेचें मूळ स्वरुप: शारदा वेदांची माता, मुलगी ब्रह्मदेवांची, तीच्यापासून नाद उत्पन्न होतात, आणि महामाया अशी शारदा तीला मी नमस्कार करतो.",
+          "englishMeaning": "Now I bow to the mother of the Vedas, Sharada, daughter of Brahma, the source of the word and goddess of speech; she is this great maya.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "जे उठती शब्दांकुर । वदे वैखरी अपार । जे शब्दाचें अभ्यांतर । उकलून दावी ॥ २ ॥",
+          "marathiMeaning": "तिच्यामुळें सूक्ष्मरुपांत शब्द निर्माण होतात. वैखरीनें अपार शब्द बोलले जातात. आणि तीच शब्दांचें अंतरंग म्हणजे अर्थ स्पष्ट करुन दाखविते.",
+          "englishMeaning": "She is the arising of every word-sprout, speaking through boundless articulate speech, and she unfolds and reveals what lies hidden within the word.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "जे योगियांची समाधी । जे धारिष्टांची कृतबुद्धी । जे विद्या अविद्या उपाधी । तोडून टाकी ॥ ३ ॥",
+          "marathiMeaning": "योग्यांच्या समाधीमधे व शूर पुरुषांच्या निर्भयतेंत ती आढळते. विद्या व अविद्या या दोन्ही उपाधी ती नाहीशा करते.",
+          "englishMeaning": "She is the yogi's samadhi, the resolved intellect of the courageous; she cuts away the limiting attachments of both knowledge and ignorance.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "जे माहापुरुषाची भार्या । अति सलग्न अवस्था तुर्या । जयेकरितां महत्कार्या । प्रवर्तले साधु ॥ ४ ॥",
+          "marathiMeaning": "आदिपुरुष ईश्र्वराची ती भार्या आहे. ईश्र्वराशी अत्यंत नीकट असतां भक्तांच्या अनुभवास येणारी तुर्यावस्था ती हीच होय. तिच्याच जोरावर साधु पुरुष महान कार्य करण्यास प्रवृत्त होतात.",
+          "englishMeaning": "She is the consort of the great Purusha, ever closely joined to the fourth state of witnessing; for her sake the sadhus take up their great endeavours.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "जे महंतांची शांती । जे ईश्र्वराची निज शक्ती । ते ज्ञानियांची विरक्ती । नैराशशोभा ॥ ५ ॥",
+          "marathiMeaning": "थोर पुरुषांच्या शांतीमधे आणि ज्ञानी पुरुषांच्या विरक्तीमधे हीच शारदा प्रगट होते.",
+          "englishMeaning": "She is the peace of the great, the very power of the divine, and the shining dispassion and desirelessness of the wise.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "जे अनंत ब्रह्मांडे घडी । लीळाविनोदेचि मोडी । आपण आदिपुरुषीं दडी । मारुन राहे ॥ ६ ॥",
+          "marathiMeaning": "शारदा अनंत विश्र्वे निर्माण करते व गंमतीने खेळत त्यांना मोडून टाकते. पण स्वतः मात्र ईश्र्वराच्या स्वरुपांत लीन राहून लपून बसते.",
+          "englishMeaning": "She fashions endless universes and, in playful sport, breaks them apart again — herself remaining hidden within the Original Being.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "जे प्रत्यक्ष पाहातां आडळे । विचार घेतां तरी नाडळे । जयेचा पार न कळे । ब्रह्मादिकांसी ॥ ७ ॥",
+          "marathiMeaning": "इंद्रियांनी पाहूं लागलो तर ती प्रत्यक्ष दिसते पण विचाराने शोध घेता आढळत नाही. म्हणून ब्रह्मादिकांना तीचा अंत लागत नाही.",
+          "englishMeaning": "She is seen directly by the senses, yet cannot be found by reasoning; even Brahma and the other gods cannot fathom her limit.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "जे सर्व नाटकअंतर्कळा । जाणीव स्फूर्ति निर्मळा । जयेचेनि स्वानंदसोहळा । ज्ञानशक्ती ॥ ८ ॥",
+          "marathiMeaning": "विश्र्वरुपीं नाटकांतील दृश्य घटकांना त्यांच्या अंतर्यामी राहून शारदा आपल्या शक्तीनें नाचविते. जाणिवेमधे निर्माण होणारी अत्यंत निर्मळ स्फूर्ति तीच आहे.",
+          "englishMeaning": "She is the hidden art within every drama of creation, the pure inspiration of awareness; by her power of knowledge, one's own bliss becomes a festival.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "जे लावण्यस्वरुपाची शोभा । जे परब्रह्मसूर्याची प्रभा । जे शब्दीं वदोनि उभा । संसार नासी ॥ ९ ॥",
+          "marathiMeaning": "विश्वांतील सौंदर्याची ती सुंदर स्वामिनी शोभते, परब्रह्मरुप सूर्याशीं त्याच्या तेजाप्रमाणे ती अगदी एकरुप असते. दृश्य विश्र्वाचा हा पसारा शब्दांच्या साहाय्यानें ती नाहींसा करते.",
+          "englishMeaning": "She is the very beauty of every graceful form, the radiance of the sun that is Brahman; by the word she raises up this worldly existence, and by the word she destroys it.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "जे मोक्षश्रिया माहांमंगळा । जे सत्रावी जीवनकळा । जे सत्वलीळा सुसीतळा । लावण्यखाणी ॥ १० ॥",
+          "marathiMeaning": "शारदा म्हणजे मोक्षाचे वैभव व मंगलांत मंगल अशी अमृतरुपी सतरावी जीवनकलाच होय. लावण्यखाणी शारदा जीवाला शांति देणारी सत्त्वगुणाची लीला आहे.",
+          "englishMeaning": "She is the glory of liberation, the most auspicious of all, the seventeenth vital current of life; she is the cool, sattvic play that is the very mine of beauty.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "जे अवेक्त पुरुषाची वेक्ती । विस्तारें वाढली इच्छाशक्ती । जे कळीकाळाची नियंती । सद्गुरुकृपा ॥ ११ ॥",
+          "marathiMeaning": "अव्यक्त ईश्र्वराला ती व्यक्त बनविते. त्याच्या संकल्पाचा विस्तार करणारी इच्छाशक्ति तीच आहे. काळावर स्वामित्व गाजविणारी सद्गुरुकृपा ती हीच आहे.",
+          "englishMeaning": "She is the manifestation of the unmanifest Purusha, the will-power that expands his intent; by the Sadguru's grace, she is the one who governs even time itself.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "जे परमार्थमार्गींचा विचार । निवडून दावी सारासार । भवसिंधूचा पैलपार । पाववी शब्दबळें ॥ १२ ॥",
+          "marathiMeaning": "परमार्थाचें साधन करणार्‍या साधकाला आत्मानात्म विवेकानें शारदा आत्मस्वरुपाची बरोबर कल्पना देते. शब्दांच्या श्रवण मननाने ती साधकाला दृश्य संसाराच्या पलीकडे घेऊन जाते.",
+          "englishMeaning": "On the path of truth she shows the seeker how to discern the essential from the inessential, and by the power of the word she carries him across the ocean of worldly existence.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "ऐसी बहुवेषें नटली । माया शारदा येकली । सिद्धचि अंतरीं संचली । चतुर्विधा प्रकारें ॥ १३ ॥",
+          "marathiMeaning": "अशा रीतीने पुष्कळ रुपांनी नटणारी ही शारदा एकच माया आहे. ती स्वयंभू व पूर्ण आणि एकरुप असली तरी माणसाच्या अंतर्यामी चार प्रकारें सांचलेली आढळते.",
+          "englishMeaning": "Thus adorned in many disguises, this one maya is Sharada; only the accomplished holds her, gathered within, in her four forms of speech.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "तींहीं वाचा अंतरीं आलें । तें वैखरिया प्रगट केलें । म्हणौन कर्तुत्व जितुकें जालें । तें शारदागुणें ॥ १४ ॥",
+          "marathiMeaning": "माणसाच्या अंतःकरणांत परा, पश्यंती व मध्यमा या तीन वाणींमध्ये जे स्फुरते तें प्रत्यक्ष शब्दांत प्रगट होते. शब्दांने सर्व व्यवहार चालतो. म्हणून जगांतील सगळें कर्तृत्व शारदेच्या शक्तीने चालते.",
+          "englishMeaning": "What stirs within the three inner speeches, she brings forth as the spoken word; therefore whatever action occurs in this world happens by the power of Sharada alone.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "जे ब्रह्मादिकांची जननी । हरीहर जयेपासुनी । सृष्टिरचना लोक तिनी । विस्तार जयेचा ॥ १५ ॥",
+          "marathiMeaning": "शारदा ब्रम्हादिकांची आई आहे. विष्णु, शिव तीच्या पोटी जन्मतात. तीन लोक असलेली ही अफाट विश्वरचना हा एक शारदेचाच विस्तार आहे.",
+          "englishMeaning": "She is the mother of Brahma and the other gods; from her come Hari and Hara, and the vast creation of the three worlds is her own expansion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "जे परमार्थाचे मूळ । नांतरी सद्विद्याचि केवळ । निवांत निर्मळ निश्र्चळ । स्वरुपस्थिती ॥ १६ ॥",
+          "marathiMeaning": "शारदा परमार्थाचे मूळ आहे. तसेच ती केवळ आत्मविद्या आहे. शारदा म्हणजे ईश्र्वराची निवांत, निर्मळ व निश्चळ अवस्था होय.",
+          "englishMeaning": "She is the very root of ultimate truth, pure knowledge alone — the calm, spotless, unmoving state of one's own being.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "जे योगियांचे ध्यानीं । जे साधकांचे चिंतनीं । जे सिद्धांचे अंतःकर्णी । समाधिरुपें ॥ १७ ॥",
+          "marathiMeaning": "योगी लोकांना ध्यान लावण्यास मदत करणारी, साधकांना आत्मचिंतनाची कला देणारी आणि सिद्धांच्या अंतःकरणांत समाधिरुपाने स्थिर होणारी हीच आहे.",
+          "englishMeaning": "She is present in the yogi's meditation, in the seeker's contemplation, and in the accomplished one's heart as the very form of samadhi.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "जे निर्गुणाची वोळखण । जे अनुभवाची खूण । जे व्यापकपणें संपूर्णं । सर्वाघटीं ॥ १८ ॥",
+          "marathiMeaning": "शारदेचे स्वरुप आकलन झाले कीं निर्गुणाची ओळख होते. मग स्वस्वरुपाचा अनुभव आला अशी खूण पटते. सर्व दृश्य आकारांत ती संपूर्ण भरुन राहिलेली आहे असा अनुभव येतो.",
+          "englishMeaning": "Through her, the formless is recognized, and the mark of true experience is known; she pervades completely, whole and entire, within every vessel.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "शास्त्रें पुराणें वेदश्रुति । अखंड जयेचे स्तवन करिती । नाना रुपीं जयेसी स्तविती । प्राणिमात्र ॥ १९ ॥",
+          "marathiMeaning": "शास्त्रें, पुराणें, वेद, श्रुति इत्यादि ग्रंथ सारखें शारदेचेंच स्तवन करतात. सगळी माणसेंसुद्धा नाना रुपांनी तीचीच स्तुति करतात.",
+          "englishMeaning": "The shastras, puranas, vedas and shrutis ceaselessly sing her praise; and every living being, in its many forms, praises her too.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "जे वेदशास्त्रांची महिमा । जे निरोपमाची उपमा । जयेकरितां परमात्मा । ऐसें बोलिजे ॥ २० ॥",
+          "marathiMeaning": "शारदेमुळें वेदशास्त्रांना मोठेपणा आहे. खरतर परमात्मस्वरुप कल्पेच्या पल्याड आहे. शब्द तेथें पोंचूंच शकत नाही. त्याला मानवी कल्पनेच्या कक्षेंत आणून 'परमात्मा' असे नांव देणारी, ही शारदा आहे.",
+          "englishMeaning": "She is the very glory of the Vedas and shastras, the likeness given to what has no likeness, by whom that Supreme is even spoken of as 'Paramatma'.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "नाना विद्या कळा सिद्धी । नाना निश्र्चयाची बुद्धी । जे सूक्ष्म वस्तूची शुद्धी । ज्ञेप्तीमात्र ॥ २१ ॥",
+          "marathiMeaning": "परमात्मस्वरुपाला 'मी आहे' अशी केवळ ज्ञानमय शुद्ध जाणीव होणे हे शारदेचेच स्वरुप समजावे. मुळांत ती ज्ञानमयच असल्याने सर्व प्रकारच्या विद्या, कला, सिद्धि आणि निश्चित बुद्धिरुप ज्ञान हा शारदेचाच विलास असतो.",
+          "englishMeaning": "The many sciences, arts and accomplishments, the certainty of firm resolve, and the purity of the subtlest thing — all of these are but her pure awareness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "जे हरिभक्तांची निजभक्ती । अंतर्निष्ठांची अंतरस्थिती । जे जीवन्मुक्तांची मुक्ती । सायोज्यता ते ॥ २२ ॥",
+          "marathiMeaning": "याप्रमाणे हरिभक्तांची भक्ति, अंतर्मुख होऊन आत्मनिष्ठ राहणार्‍या ज्ञानी पुरुषांची आत्मस्थिति, आणि जीवनमुक्तांची सायुज्यमुक्ति ही शारदाच आहे.",
+          "englishMeaning": "She is the true devotion of Hari's devotees, the inward state of the self-absorbed, and the very union — the final liberation — of those already freed in this life.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "जे अनंत माया वैष्णवी । न कळे नाटक लाघवी । जे थोराथोरासी गोवी । जाणपणें ॥ २३ ॥",
+          "marathiMeaning": "शारदा म्हणजे जिचा अंत लागत नाही अशी भगवंताची माया. तिनें मोठ्या कुशलतेने रचलेले विश्वरुप नाटक कोणालाच आकलन होत नाही. स्वतःला ज्ञानी समजणार्‍या मोठमोठ्या ज्ञानी पुरुषांना ती त्यांच्याच ज्ञानाच्या अभिमानांत गुंतवते.",
+          "englishMeaning": "She is the endless, playful maya of Vishnu, her skilful drama beyond anyone's grasp; she entangles even the greatest of the great in the pride of their own knowing.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "जें जें दृष्टीनें देखिलें । जें जें शब्दे वोळखिलें । जें जें मनास भासलें । तितुकें रुप जयेचें ॥ २४ ॥",
+          "marathiMeaning": "डोळ्यांनी जे दिसते, शब्दांनी जे जाणता येते आणि मनाला जे कल्पिता येते तें सगळें हिचेंच रुप समजावे.",
+          "englishMeaning": "Whatever is seen by the eye, whatever is recognized by word, whatever appears to the mind — all of it, know, is her very form.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "स्तवन भजन भक्ति भाव । मायेवांचून नाहीं ठाव । या वचनाचा अभिप्राव । अनुभवी जाणती ॥ २५ ॥",
+          "marathiMeaning": "भगवंताचे स्तवन, भजन किंवा भक्ति शारदेच्या म्हणजेच मायेच्या मदतीशिवाय करता येत नाही. माझ्या या वचनाचा खरा अर्थ स्वानुभवी पुरुषांनाच कळेल.",
+          "englishMeaning": "Praise, worship, devotion and feeling have no ground apart from maya; the true meaning of this statement is known only to those of direct experience.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "म्हणौनि थोराहूनि थोर । जे ईश्र्वराचा ईश्र्वर । तयेसी माझा नमस्कार । तदांशेंचि आतां ॥ २६ ॥",
+          "marathiMeaning": "म्हणून शेवटीं थोराहूनी थोर, व ईश्र्वराचाही ईश्र्वर अशा शारदेला तीच्याच अंशाने मी नमस्कार करतो.",
+          "englishMeaning": "Therefore, to her who is greater than the greatest, the very God of Gods, I offer my salutation now, as a part of her own self.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 4,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "सद्गुरुस्तवन",
+      "samasTitleEnglish": "Sadguru Stavan (Praise to the Sadguru)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/dashak-pahila-samas-choutha.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां सद् गुरु वर्णवेना । जेथे माया स्पर्शो सकेना । तें स्वरुप मज अज्ञाना । काये कळे ॥ १ ॥",
+          "marathiMeaning": "सद् गुरुच्या रुपाला माया स्पर्श करु शकत नाही. आपले सर्व ज्ञान हे मायेच्या कक्षेंतील असते. त्यामुळे सद् गुरुस्वरुप आपल्यासारख्या माणसाला कळणे शक्य नसते.",
+          "englishMeaning": "Sadguru cannot be described, for maya itself cannot touch him; how then could I, ignorant as I am, ever understand that true nature?",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "न कळे न कळे नेति नेति । ऐसें बोलतसे श्रुती । तेथें मज मूर्खाची मती । पवाडेल कोठें ॥ २ ॥",
+          "marathiMeaning": "श्रुतिसुद्धा हे नाही हे नाही; कळत नाही कळत नाही म्हणून गप्प झाली. तेथे माझ्यासारख्या मूर्खाची बुद्धि त्या गुरुस्वरुपाचे वर्णन कसे करु शकेल.",
+          "englishMeaning": "'It is not known, it is not known; not this, not that' — so speaks the Shruti itself. How then could my foolish mind ever reach there?",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "मज न कळे हा विचार । दुर्‍हुनि माझा नमस्कारु । गुरुदेवा पैलपारु । पाववी मज ॥ ३ ॥",
+          "marathiMeaning": "सद् गुरुस्वरुपाचा विचार मला कळत नाही म्हणून मी त्याला दुरुनच नमस्कार करतो. हे गुरुदेवा मला या मायेच्या कक्षेंतून पलीकडे न्या.",
+          "englishMeaning": "This thought is beyond me, so from afar I offer my namaskar: O Gurudev, carry me across to that far shore.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "होती स्तवनाची दुराशा । तुटला मायेचा भर्वसा । आतां असाल तेसे असा । सद् गुरु स्वामी ॥ ४ ॥",
+          "marathiMeaning": "सद् गुरुचे स्तवन करावे ही आशा मी धरली होती. माया मला मदत करील असे वाटत होते. पण तसे झाले नाही. म्हणून हे सद् गुरुस्वामी तुम्ही असाल तसेच असा.",
+          "englishMeaning": "I had hoped to sing your praise, trusting maya's power to help me, but that trust has failed — so, Sadguru Swami, remain as you are.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "मायेच्या बळे करीन स्तवन । ऐसें वांछित होतें मन । माया जाली लज्यायमान । काय करुं ॥ ५ ॥",
+          "marathiMeaning": "मायेची मदत घेऊन तुमची स्तुति करावी ही इच्छा होती पण माया लाजली व ती मागे सरली त्यामुळेंच मला तुमची स्तुति करता येत नाही.",
+          "englishMeaning": "My mind wished to praise you by the strength of maya, but maya herself grew abashed — what, then, can I do?",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "नातुडे मुख्य परमात्मा । म्हणौनि करावी लागे प्रतिमा । तैसा मायायोगें महिमा । वर्णीन सद् गुरुचा ॥ ६ ॥",
+          "marathiMeaning": "परमात्म्याचेही आकलन होत नाही म्हणून त्याचे प्रतिमा कल्पावी लागते. त्याप्रमाणे सद् गुरु स्वरुप अनाकलनीय असले तरी मायेच्या मदतीने मी त्यास्वरुपाचे वर्णन करेन.",
+          "englishMeaning": "Since the Supreme cannot be grasped directly, an image must be fashioned; so, with maya's help, I shall now describe the greatness of Sadguru.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "आपल्या भावासारिखा मनीं । देव आठवावा ध्यानीं । तैसा सद् गुरु हा स्तवनीं । स्तऊं आतां ॥ ७ ॥",
+          "marathiMeaning": "जशी ज्याची भावना तशी देवाची कल्पना करुन मानव त्याचे ध्यान करतो, त्यालाच अनुसरुन मी आता सद् गुरुचे स्तवन करतो.",
+          "englishMeaning": "Just as one calls God to mind in meditation according to one's own feeling, so now I shall offer this praise of Sadguru.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "जय जया जि सद् गुरुराजा । विश्र्वंभरा विश्र्वबीजा । परमपुरुषा मोक्षध्वजा । दीनबंधु ॥ ८ ॥",
+          "marathiMeaning": "विश्र्वांत भरुन उरणार्‍या, विश्र्वाचे बीज असलेल्या, सर्वोत्तम परम पुरुष, मोक्षाची ध्वजा व दिनांचा बंधु असा सद् गुरु त्याचा जयजयकार असो.",
+          "englishMeaning": "Victory, victory to you, Sadguru-raja — pervading the universe, the seed of the universe, the Supreme Purusha, the banner of liberation, friend of the helpless!",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "तुझीयेन अभयंकरें । अनावर माया हे वोसरे । जैसें सूर्यप्रकाशें अंधारें । पळोन जाये ॥ ९ ॥",
+          "marathiMeaning": "सूर्यप्रकाशाने जसा अंधकार नाहीसा होतो, तसा सद् गुरुचा अभय देणारा हात शिष्याच्या डोक्यावर पडला की अनावर मायेचा प्रभाव नाहीसा होतो.",
+          "englishMeaning": "By your fearless, blessing hand, unrestrainable maya recedes, just as darkness flees before the light of the sun.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "आदित्यें अंधकार निवारे । परंतु मागुतें ब्रह्मांड भरे । नीसी जालिया नंतरें । पुन्हा काळोखें ॥ १० ॥",
+          "marathiMeaning": "सूर्य अंधकार घालवितो हे खरे तरी संध्याकाळ झाल्यावर परत अंधार पडायला सुरवात होते.",
+          "englishMeaning": "The sun dispels the darkness, true enough, but once evening comes the world fills with darkness once again.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "तैसा नव्हे स्वामीराव । करी जन्ममृत्य वाव । समूळ अज्ञानाचा ठाव । पुसून टाकी ॥ ११ ॥",
+          "marathiMeaning": "सद् गुरु कृपेचे असे नाही, अज्ञानरुपी मायेला ती पूर्णपणे काढून टाकते. त्यामुळे जीवाची जन्म-मृत्युच्या चक्रांतुन सुटका होते.",
+          "englishMeaning": "Swami-raja is not so: he makes birth and death of no account, wiping away the very root of ignorance.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "सुवर्णाचें लोहो कांहीं । सर्वथा होणार नाहीं । तैसा गुरुदास संदेहीं । पडोंचि नेणे सर्वथा ॥ १२ ॥",
+          "marathiMeaning": "सोन्याचे लोखंड होत नाही तसेच दासाचे (शिष्याचे) मनांत संशय निर्माण होत नाही.",
+          "englishMeaning": "Gold never turns back into iron; likewise, the servant of the Guru never again falls into the doubt of body-consciousness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "कां सरिता गंगेसी मिळाली । मिळणी होतां गंगा जाली । मग जरी वेगळी केली । तरी होणार नाहीं सर्वथा ॥ १३ ॥",
+          "marathiMeaning": "एखादी नदी गंगेला मिळाली कीं, ती गंगाच होते, परत वेगळी करावयाची म्हटले तरी ती वेगळी होऊ शकत नाही.",
+          "englishMeaning": "When a stream joins the Ganga it becomes the Ganga itself, and even if separated again, it can never truly be separate.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "परी ते सरिता मिळणीमागें । वाहाळ मानिजेत जगें । तैसा नव्हे शिष्य वेगें । स्वामीच होये ॥ १४ ॥",
+          "marathiMeaning": "त्या नदीला गंगेला मिळण्यापूर्वी लहान ओढा, नदी म्हणतात. तसेच शिष्य सद् गुरुची कृपा होण्याआधी सामान्य असतो पण नंतर मात्र सद् गुरुच होतो.",
+          "englishMeaning": "Before joining the Ganga, that stream was thought a small river by the world; but the disciple, the moment grace comes, quickly becomes the Master himself.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "परीस आपणा ऐसें करीना । सुवर्णें लोहो पालटेना । उपदेश करी बहुत जना । अंकित सद् गुरुचा ॥ १५ ॥",
+          "marathiMeaning": "परीस मात्र असे करु शकत नाही. अशा सोन्याने लोखंड सोने बनु शकत नाही. मात्र गुरुकृपा झालेला शिष्य दुसर्‍या सामान्यांना आपल्यासारखे बनवु शकतो.",
+          "englishMeaning": "The philosopher's stone does not make another stone of itself, and gold made from it cannot turn iron to gold again — yet Sadguru's teaching makes many people into his own likeness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "शिष्यास गुरुत्व प्राप्त होये । सुवर्णे सुवर्ण करितां न ये । म्हणौनि उपमा न साहे । सद् गुरुसी परिसाची ॥ १६ ॥",
+          "marathiMeaning": "त्याला गुरुपद प्राप्त झालेले असते म्हणुन तो इतर लोकांना उपदेश करुन तारुन नेऊ शकतो. परीसस्पर्शाने बनलेले सोने दुसर्‍या लोखंडाचे सोने बनवु शकत नाही. म्हणुन परीसाची उपमा गुरुला देता येत नाही.",
+          "englishMeaning": "The disciple attains the very state of Guru-hood, though gold cannot make more gold; therefore even the philosopher's stone is not a fit comparison for Sadguru.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "उपमे द्यावा सागर । तरी तो अत्यंतचि क्षार । अथवा म्हणों क्षीरसागर । तरी तो नासेल कल्पांतीं ॥ १७ ॥",
+          "marathiMeaning": "सद् गुरुला सागर म्हणावे तर तो खारट असतो, तसेच क्षीरसागरसुद्धा कल्पांती नासतो. म्हणुन गुरुला सागराची उपमा देता येत नाही.",
+          "englishMeaning": "One might compare him to the ocean, but that is utterly salty; or call him the ocean of milk, but even that is destroyed at the end of the age.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "उपमे द्यावा जरी मेरु । तरी तो जड पाषाण कठोर । तैसा नव्हे कीं सद् गुरु । कोमळ दिनाचा ॥ १८ ॥",
+          "marathiMeaning": "सद् गुरुला मेरुपर्वतासारखा म्हणावे तर मेरु पर्वत अचेतन व कठीण दगड आहे, गुरु काहीं तसा नाही. तो चेतनेनेयुक्त, कोमल मनाचा आहे.",
+          "englishMeaning": "One might compare him to Mount Meru, but that is inert and unfeeling stone; Sadguru is not so — he is tender and humble toward the lowly.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "उपमे म्हणों गगन । तरी गगनापरीस तें निर्गुण । या कारणें दृष्टांत हीण । सद् गुरुस गगनाचा ॥ १९ ॥",
+          "marathiMeaning": "सद् गुरुला गगनासारखा म्हणणेही योग्य नाही कारण आकाश शून्य दिसले तरी गुरु शून्यापलीकडचा आहे. म्हणुन ही उपमा बरोबर नाही.",
+          "englishMeaning": "One might call him the sky, but even the sky, compared to him, still carries an attribute; for this reason the sky too is an unfit comparison for Sadguru.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "धीरपणें उपमूं जगती । तरी हेहि खचेल कल्पांतीं । म्हणौन धीरत्वास दृष्टांतीं । हीण वसुंधरा ॥ २० ॥",
+          "marathiMeaning": "सद् गुरुला पृथ्वीसारखा निश्चल, निर्भय व गंभीर म्हणावे तर पृथ्वी कल्पांती नष्ट होईल पण सद् गुरु अभंग राहील. म्हणुन हीही उपमा बरोबर नाही.",
+          "englishMeaning": "If his steadiness were compared to the earth's, that too will crumble at the end of the age; so even the earth falls short as an example of his steadiness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "आतां उपमावा गभस्ती । तरी गभस्तीचा प्रकाश किती । शास्त्रें मर्यादा बोलती । सद् गुरु अमर्याद ॥ २१ ॥",
+          "marathiMeaning": "सद् गुरु सूर्यासारखाही म्हणता येत नाही कारण सूर्याच्या प्रकाशाला, तेजाला मर्यादा आहेत सद् गुरुच्याबाबतींत तसे नाही.",
+          "englishMeaning": "Now one might compare him to the sun, but how much can the sun's light truly reach? The scriptures speak of its limits, while Sadguru is without limit.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "म्हणौनि उपमे उणा दिनकर । सद् गुरु ज्ञानप्रकाश थोर । आतां उपमावा फणीवर । तरी तोहि भारवाही ॥ २२ ॥",
+          "marathiMeaning": "सद् गुरुच्या ज्ञानाच्या प्रकाशाला मर्यादा नाही, त्यामुळे सूर्याची उपमा देता येत नाही. शेषाची उपमा द्यावी तर शेषाच्या डोक्यावर ओझे आहे सद् गुरुच्या डोक्यावर तसे नाही.",
+          "englishMeaning": "Thus the sun falls short as a comparison, for Sadguru's light of knowledge is far greater still; and comparing him to the great serpent Shesha fails too, for even Shesha bears a burden on his head.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "आतां उपमे द्यावे जळ । तरी तें काळांतरीं आटेल सकळ । सद् गुरुरुप तें निश्र्चळ । जाणार नाहीं ॥ २३ ॥",
+          "marathiMeaning": "सद् गुरुला पाणी म्हणावे तर पाणी चंचळ व नष्ट होणारे तर सद् गुरुस्वरुप निश्चल व नाश न पावणारे त्यामुळे सद् गुरुला पाण्याचीही उपमा देता येत नाही.",
+          "englishMeaning": "Now if compared to water, that too will dry up entirely in time; but the form of Sadguru is unwavering and will never pass away.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "सद् गुरुसी उपमावें अमृत । तरी अमर धरिती मृत्युपंथ । सद् गुरुकृपा यथार्थ । अमर करी ॥ २४ ॥",
+          "marathiMeaning": "सद् गुरुला अमृत म्हणावे तर नित्य अमृत पिणारे देवही मृत्युच्या मार्गाने जातात या उलट सद् गुरु कृपा झालेला साधक अमर होतो. त्यामुळे अमृताची उपमा देता येत नाही.",
+          "englishMeaning": "If Sadguru is likened to nectar, still even the immortals who drink it walk the path of death; only Sadguru's true grace makes one genuinely immortal.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "सद् गुरुसी म्हणावें कल्पतरु । तरी हा कल्पनेतीत विचारु । कल्पवृक्षाचा अंगिकारु । कोण करी ॥ २५ ॥",
+          "marathiMeaning": "सद् गुरुला कल्पतरु म्हणावे तर कल्पतरु कल्पना केलेलेच तेवढे देतो, तर सद् गुरुकृपा झाल्यावर कल्पनेपलीकडील मोक्षप्राप्ती व जन्म-मृत्युंतुन मुक्ति शिष्यास मिळते.",
+          "englishMeaning": "One may call Sadguru the wish-fulfilling tree, but he is a thought that lies beyond all imagining — who, then, could truly lay claim to that wishing-tree?",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "चिंता मात्र नाहीं मनीं । कोण पुसे चिंतामणी । कामधेनूचीं दुभणीं । निःकामासी न लगती ॥ २६ ॥",
+          "marathiMeaning": "सद् गुरुला चिंतामणीची उपमाही योग्य नाही कारण सद् गुरु शिष्याच्या मनांत चिंताच उरुं देत नाही. असा शिष्य कामनारहीत असल्याने कामधेनुची धार काढालाच जाणार नाही.",
+          "englishMeaning": "When the mind holds no anxious thought at all, who has need of the wish-granting gem? And to one free of desire, even the milk of Kamadhenu, the wish-fulfilling cow, is of no use.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "सद् गुरु म्हणों लक्ष्मीवंत । तरी ते लक्ष्मी नाशिवंत । ज्याचे द्वारीं असे तिष्ठत । मोक्षलक्ष्मी ॥ २७ ॥",
+          "marathiMeaning": "सद् गुरुला श्रीमंताची उपमा देता येत नाही कारण सर्व धन नाश पावते. परंतु सद् गुरुच्या द्वारी मात्र मोक्षलक्ष्मी तिष्ठत असते.",
+          "englishMeaning": "Should Sadguru be called the lord of wealth, that wealth too is perishable; but at his door waits Moksha-Lakshmi, the imperishable wealth of liberation itself.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "स्वर्गलोक इंद्र संपती । हे काळांतरी विटंबती । सद् गुरुकृपेची प्राप्ती । काळांतरी चळेना ॥ २८ ॥",
+          "marathiMeaning": "स्वर्गलोक, इंद्रपद आणि त्यांचे ऐश्वर्य याचीही उपमा देता येत नाही कारण हे सर्व नाशिवंत आहे. परंतु सद् गुरुची कृपा नाश पावत नाही.",
+          "englishMeaning": "Heaven, Indra's throne and their glory are all in time brought low; but the attainment of Sadguru's grace is never shaken by time.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "हरीहर ब्रह्मादिक । नाश पावती सकळिक । सर्वदा अविनाश येक । सद् गुरुपद ॥ २९ ॥",
+          "marathiMeaning": "ब्रह्मा, विष्णु व महेश यांना नाश आहे. सद् गुरुपदच एक अविनाशी आहे.",
+          "englishMeaning": "Hari, Hara, Brahma and all the rest are in the end destroyed; the state of Sadguru alone is forever imperishable.",
+          "verified": true
+        },
+        {
+          "verseNumber": 30,
+          "original": "तयासी उपमा काय द्यावी । नाशिवंत सृष्टी आघवी । पंचभूतिक उठाठेवी । न चले तेथें ॥ ३० ॥",
+          "marathiMeaning": "सर्व सृष्टी नाश पावणारी असल्याने दृष्यमान विश्वांतील कोणत्याही वस्तुची उपमा सद् गुरुस देता येत नाही. पंचभूतांची लुडबुड तेथे चालत नाही.",
+          "englishMeaning": "What comparison, then, could ever be given? All of visible creation is perishable, and the workings of the five elements have no power there.",
+          "verified": true
+        },
+        {
+          "verseNumber": 31,
+          "original": "म्हणौनि सद् गुरु वर्णवेना । हे गे हेचि माझी वर्णना । अंतरस्थितीचिया खुणा । अंतर्निष्ठ जाणती ॥ ३१ ॥",
+          "marathiMeaning": "म्हणुन सद् गुरुचे वर्णन करता येत नाही, त्यास्वरुपाचे वर्णन उपमेद्वारा करुनही करीता येत नाही हे सद् गुरुस्वरुपाचेच वर्णन समजावे. जे स्वान्तर्यामी स्थित झालेले आहेत तेच सद् गुरुस्वरुपास समजु शकतात.",
+          "englishMeaning": "Therefore Sadguru cannot be described — this very statement is itself my only description of him; the mark of that inner state is known only to those established within.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 5,
