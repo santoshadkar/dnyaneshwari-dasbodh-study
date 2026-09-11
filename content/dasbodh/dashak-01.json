@@ -1324,21 +1324,478 @@
     },
     {
       "samasNumber": 7,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "कवीश्वरस्तवन",
+      "samasTitleEnglish": "Kavishwar Stavan (Praise of the Great Poets)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "http://ioustotra.blogspot.com/2016/12/samas-satava-kaveshwar-stavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "note": "The Marathi source numbers 34 owis; Norwell's translation ends this samas at owi 33 and has no separate 34th owi, suggesting a different edition/numbering here. Owi 34 is included from the Marathi source alone and flagged unverified below.",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां वंदू कवेश्र्वर । शब्दसृष्टीचे ईश्र्वर । नातरी हे परमेश्र्वर । वेदावतारी ॥ १ ॥",
+          "marathiMeaning": "मी आतां थोर कवींना नमस्कार करतो. ते शब्दसृष्टीचे जणूं ईश्र्वरच असतात. हा ईश्र्वर वेदरुपानेच अवतरलेला आहे.",
+          "englishMeaning": "Now I bow to the great poets, the very lords of the realm of words, who are as if the Supreme Self himself, descended in the form of the Veda.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "कीं हे सरस्वतीचें निजस्थान । कीं हे नाना कळांचे जीवन । नाना शब्दांचे भुवन । येथार्थ होये ॥ २ ॥",
+          "marathiMeaning": "कवि म्हणजे प्रत्यक्ष सरस्वतीचे स्वगृहच होय. ते निरनिराळ्या कला जीवंत ठेवतात. निरनिराळ्या शब्दांचे ते घरच होत.",
+          "englishMeaning": "The poet is the very home of Sarasvati, the life of many arts, and truly the dwelling place of countless words.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "कीं हे पुरुषार्थाचें वैभव । कीं हे जगदेश्र्वराचे महत्व । नाना लाघवें सत्कीर्तीस्तव । निर्माण कवी ॥ ३ ॥",
+          "marathiMeaning": "कवी हे पुरुषार्थाचे वैभवच आहेत. ते परमेश्र्वराचे महत्व कृतीने सांगत असतात. निरनिराळ्या प्रकारे परमेश्र्वराची, संताची ते कीर्ति गात असतात.",
+          "englishMeaning": "The poet is the glory of human striving, the greatness of the Lord of the world made visible; by many skillful means, poets bring forth true and lasting fame.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "कीं हे शब्दरत्नाचे सागर । कीं हे मुक्तांचें मुक्त सरोवर । नाना बुद्धीचे वैरागर । निर्माण जाले ॥ ४ ॥",
+          "marathiMeaning": "कवी हे शब्दरुपी रत्नांचे सागरच होत. त्यांच्यांत मुक्त प्रतिभेचे सरोवरच असते. असेच हे कलावंत किंवा कवी बुद्धीचातुर्याने वेगळे वेगळे खेळ करतात.",
+          "englishMeaning": "The poet is an ocean of word-jewels, a still lake of liberated genius; poets have become the varied mines of wisdom.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "अध्यात्मग्रंथांची खाणी । कीं हे बोलिले चिंतामणी । नाना कामधेनूचीं दुभणीं । वोळलीं श्रोतयांसी ॥ ५ ॥",
+          "marathiMeaning": "ते अध्यात्म ग्रंथांची खाणच असतात. ते वाक्चातुर्याने जणु बोलके चिंतामणीच असतात. कामधेनुचे जणु दुधच ते आपल्या श्रोत्यांना पाजतात.",
+          "englishMeaning": "Poets are the very mine of spiritual scriptures, the speaking wish-fulfilling gem; the milk of the wish-granting cow flows to their listeners through them.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "कीं हे कल्पनेचे कल्पतरु । कीं हे मोक्षाचे मुख्य पडीभरु । नाना सायोज्यतेचे विस्तारु । विस्तारले ॥ ६ ॥",
+          "marathiMeaning": "हे जणु कल्पनेचे कल्पतरुच असतात. कारण मोक्ष मिळवुन देणार्‍या कल्पनेचा, प्रतिभेचा साठा त्यांच्यात असतो. सायोज्यमुक्तीचा त्यांच्या ठिकाणी विस्तार झालेला असतो.",
+          "englishMeaning": "Poets are the wish-fulfilling tree of imagination, the chief means to liberation; through them the vastness of final union comes to unfold.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "कीं हा परलोकींचा निजस्वार्थु । कीं हा योगियांचा गुप्त पंथु । नाना ज्ञानियांचा परमार्थु । रुपासि आला ॥ ७ ॥",
+          "marathiMeaning": "हा परलोकाचा (परलोक मिळवून देणारा) निजस्वार्थ, किंवा योगी साधकांचा गुप्तपंथ, किंवा ज्ञानाने परमार्थाची साधना करणाराचाच जणु जन्म झालेला असतो.",
+          "englishMeaning": "The poet is the seeker's own true purpose beyond this world, the secret path of the yogi, and the highest truth of the wise given visible form.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "कीं हे निरंजनाची खूण । कीं हे निर्गुणाची वोळखण । मायाविलक्षणाचें लक्षण । ते हे कवी ॥ ८ ॥",
+          "marathiMeaning": "कवी म्हणजे निरंजन दर्शविणारी खूणच, किंवा निर्गुण दर्शनाची ओळख करुन देणारी, मायेच्या खेळाचे लक्षण दर्शविणारे असे हे कवी असतात.",
+          "englishMeaning": "The poet is the mark of the pure formless, the recognition of the attributeless; such is the singular nature of these poets.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "कीं हा श्रुतीचा भावगर्भ । कीं हा परमेश्र्वराचा अलभ्य लाभ । नातरी होये सुल्लभ । निजबोध कविरुपें ॥ ९ ॥",
+          "marathiMeaning": "ते श्रुतीचा भाव उलगडतात, परमेश्र्वराचा लाभ मिळवण्याचा मार्ग दर्शवितात, हे कवीमुळे सोपे होते.",
+          "englishMeaning": "The poet holds the inner meaning of the scriptures, the rare and hard-won attainment of God himself; through the poet's form, that deep understanding becomes easily accessible to all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "कवि मुमुक्षाचें अंजन । कवि साधकांचें साधन । कवि सिद्धांचें समाधान । निश्र्चयात्मक ॥ १० ॥",
+          "marathiMeaning": "कवींची प्रतिभा मुमुक्षुंसाठी अंजनासारखी, तर साधकांसाठी एक साधनच दर्शविणारी व सिद्धांसाठी निश्र्चयात्मक समाधान मिळवून देणारी असते.",
+          "englishMeaning": "The poet is a guiding light for those seeking liberation, a means of practice for the spiritual seeker, and the settled, certain contentment of the accomplished.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "कवि स्वधर्माचा आश्रयो । कवि मनाचा मनोजयो । कवि धार्मिकाचा विनयो । विनयकर्ते ॥ ११ ॥",
+          "marathiMeaning": "कवीच्या प्रतिभेंत स्वकर्तव्याची जाणीव, मनोजय कसा मिळेल आणि धार्मिकांना विनय प्राप्त करुन देण्याची शक्ती असते.",
+          "englishMeaning": "The poet is the refuge of one's own duty, the mastery of one's own mind, and the humility instilled in the righteous.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "कवि वैराग्याचें संरक्षण । कवि भक्तांचे भूषण । नाना स्वधर्मरक्षण । ते हे कवी ॥ १२ ॥",
+          "marathiMeaning": "ते वैराग्याचे महत्व विशद करतात. भक्तांच्या भक्तिचे महत्व सांगतात. स्वधर्माचे आचारविचार सांगुन धर्मरक्षण करतात.",
+          "englishMeaning": "The poet safeguards renunciation, is the very ornament of devotees, and protects the manifold duties proper to each person.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "कवि प्रेमळांची प्रेमळ स्थिती । कवि ध्यानस्थांची ध्यानमूर्ती । कवि उपासकांची वाढ कीर्ती । विस्तारली ॥ १३ ॥",
+          "marathiMeaning": "प्रेमी लोकांची प्रेमावस्था ते सगब्दरुपाने सांगतात. ध्यान लावणार्‍यांना ध्यानमूर्तिचे वर्णन करतात. आणि थोर भक्तांचे चरित्रे लिहून त्यांची कीर्ती वाढवतात.",
+          "englishMeaning": "The poet is the very state of loving devotion for the loving, the image of contemplation for those absorbed in meditation, and the ever-growing fame of true worshippers.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "नाना साधनाचें मूळ । कवि नाना प्रेत्नाचें फळ । नाना कार्यसिद्धी केवळ । कविचेनि प्रसादें ॥ १४ ॥",
+          "marathiMeaning": "ते निरनिराळ्या साधनांची त्यांना माहिती असते. निरनिराळ्या प्रयत्नांचे फळ काय मिळते हे त्यांना माहित असते. त्यांच्या प्रसादाने, सहकार्याने निरनिराळी कामे सफळ होतात.",
+          "englishMeaning": "The poet is the root of every spiritual practice, and the fruit of every effort; through the poet's grace alone do various undertakings come to fruition.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "आधीं कवींचा वाग्विळास । तरी मग श्रवणीं तुंबळे रस । कवीचेनि मतिप्रकाश । कवित्वास होये ॥ १५ ॥",
+          "marathiMeaning": "कविंची प्रतिभा जागृत होऊन वाणी वाग्विलासाने श्रोत्यांना निरनिराळे रसांनी तृप्त करते. पूर्वींची कवित्वें त्यांची काव्यशक्ति जागृत करतात.",
+          "englishMeaning": "First comes the poet's own delight in words, and only then the listener's ear overflows with feeling; earlier poetic works awaken the poet's own creative power.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "कवि वित्पन्नाची योग्यता । कवि सामर्थ्यवंतांची सत्ता । कवि विचक्षणाची कुशळता । नाना प्रकारें ॥ १६ ॥",
+          "marathiMeaning": "विद्वानांची योग्यता, सामर्थवंतांची सत्ता आणि हुषार पुरुषांची कुशलता याचे वर्णन कवी अनेक प्रकारे करतात.",
+          "englishMeaning": "The poet embodies the worth of the truly learned, the authority of the powerful, and the skill of the discerning, in countless ways.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "कवि कवित्वाचा प्रबंद । कवि नाना धाटी मुद्रा छंद । कवि गद्यपद्येंभेदाभेद । पदत्रासकर्ते ॥ १७ ॥",
+          "marathiMeaning": "ते निरनिराळे काव्य, प्रबंध रचतात, त्यांत धाटी, छंद, समास, अलंकार रचतात. नविन नविन प्रतिभेचे प्रकार त्यांत योजतात.",
+          "englishMeaning": "The poet composes works of many kinds, in various forms, styles, and meters; through prose and verse alike, poets craft new distinctions of expression.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "कवि सृष्टीचा आळंकार । कवि लक्ष्मीचा शृंघार । सकळ सिद्धीचा निर्धार । ते हे कवि ॥ १८ ॥",
+          "marathiMeaning": "कवी हा सृष्टीचा अलंकारच आहे. जणु तो लक्ष्मीचा शृंगार आणि सकळ सिद्धि निश्र्चयाने मिळवून देणार असा हा कवी आहे.",
+          "englishMeaning": "The poet is the very ornament of creation, the adornment of fortune itself, and the certain guarantor of every accomplishment.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "कवि सभेचें मंडण । कवि भाग्याचे भूषण । नाना सुखाचें संरक्षण । ते हे कवि ॥ १९ ॥",
+          "marathiMeaning": "हे कवि सभेला शोभा देतात, भाग्याचे ते भूषण आहेत आणि नाना प्रकारच्या सुखांचे ते संरक्षण करतात.",
+          "englishMeaning": "The poet is the very pride of any assembly, the decoration of good fortune, and the protector of manifold happiness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "कवि देवांचे रुपकर्ते । कवि ऋषीचे महत्ववर्णिते । नाना शास्त्रांचें सामर्थ्य ते । कवि वाखाणिती ॥ २० ॥",
+          "marathiMeaning": "कवि देवांचे रुप वर्णितात, ऋषिंचे महत्व विशद करतात, निरनिराळ्या शास्त्रांचे सामर्थ्य गौरवतात.",
+          "englishMeaning": "Poets give form to the gods, extol the greatness of the sages, and celebrate the power of the various sciences.",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "नस्ता कवींचा व्यापार । तरी कैंचा अस्ता जगोद्धार । म्हणौनि कवि हे आधार । सकळ सृष्टीसी ॥ २१ ॥",
+          "marathiMeaning": "कवींनी मोठमोठी काव्यें केली नसती तर जगाचा उद्धार झाला नसता. त्यामुळे सकळ सृष्टीसाठी ते मोठे आधारच आहेत.",
+          "englishMeaning": "Had there been no work of poets, how could the world ever have been uplifted? Poets, therefore, are the very support of all creation.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "नाना विद्या ज्ञातृत्व कांहीं । कवेश्र्वरेविण तों नाहीं । कविपासून सर्वहि । सर्वज्ञता ॥ २२ ॥",
+          "marathiMeaning": "नाना प्रकारचे ज्ञान व विद्या या कवीशिवाय मिळाल्या नसत्या. कवीच सारे ज्ञान सर्वत्र पसरवतात.",
+          "englishMeaning": "There would be no knowledge or learning of any kind without the great poets; from the poet comes all-encompassing wisdom.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "मागां वाल्मीक व्यासादिक । जाले कवेश्र्वर अनेक । तयांपासून विवेक । सकळ जनासी ॥ २३ ॥",
+          "marathiMeaning": "पूर्वी वाल्मिकी, व्यास आदि असे अनेक मोठे मोठे कवी होऊन गेले ज्यांनी लोकांना विवेकाचे दर्शन करविले.",
+          "englishMeaning": "Long ago there were Valmiki, Vyasa, and many other great poets, from whom all people came to gain true discernment.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "पूर्वीं काव्यें होतीं केलीं । तरीच वित्पत्ती प्राप्त जाली । तेणें पंडिताआंगी बाणली । परम योग्यता ॥ २४ ॥",
+          "marathiMeaning": "पूर्वी उत्तमोत्तम काव्यें केलेली होती. त्यांच्यायोगे पंडितांना विद्वत्ता प्राप्त झाली. ज्यामुळे जगांत त्यांना योग्यता मिळाली.",
+          "englishMeaning": "It was earlier poetic works that first brought forth true scholarship; through them, learned men attained their great distinction.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "ऐसें पूर्वी थोर थोर । जाले कवेश्र्वर अपार । आतां आहेत पुढें होणार । नमन त्यांसी ॥ २५ ॥",
+          "marathiMeaning": "पूर्वी जे मोठेमोठे कवीश्र्वर होऊन गेले, आताही आहेत व पुढेही होतील त्या सर्वांना माझा नमस्कार आहे.",
+          "englishMeaning": "Such were the great poets of old, and such there are now, and such there will be in the future — to all of them I bow.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "नाना चातुर्याच्या मूर्ती । कीं हे साक्षात् बृहस्पती । वेद श्रुती बोलों म्हणती । ज्यांच्या मुखें ॥ २६ ॥",
+          "marathiMeaning": "कवि हे चातुर्याच्या मूर्ति असलेले प्रत्यक्ष बृहस्पतीच आहेत. वेद व श्रुती यांनासुद्धा कविंच्या मुखांतून प्रगट व्हावेसे वाटले.",
+          "englishMeaning": "Poets are the very embodiment of wit, veritable Brihaspatis; through their mouths, the Vedas and Shruti themselves seem to speak.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "परोपकाराकारणें । नाना निश्र्चय अनुवादणें । सेखीं बोलिले पूर्णपणें संशयातीत ॥ २७ ॥",
+          "marathiMeaning": "परोपकारासाठी वेगवेगळे सिद्धांत कवि सांगतात. पूर्णपणे संशयविरहीत सिद्धांतांचे ज्ञान ते प्रगट करतात.",
+          "englishMeaning": "For the sake of others' welfare, poets set forth many certain truths, declaring in the end doctrines entirely free of doubt.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "कीं हे अमृताचे मेघ वोळले । कीं हे नवरसाचे वोघ लोटले । नाना सुखाचे उचंबळले । सरोवर हे ॥ २८ ॥",
+          "marathiMeaning": "कवि म्हणजे अमृत वर्षाव करणारे मेघच, नदींतून वाहणारे नवरसांचे मोठेमोठे प्रवाह, किंवा निरनिराळ्या सुखांनी उचंबळणारे सरोवरच असतात.",
+          "englishMeaning": "Poets are like gathering clouds of nectar, like great rivers of the nine sentiments flowing forth, like lakes overflowing with manifold joys.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "कीं हे विवेकनिधींचीं भांडारें । प्रगट जालीं मनुष्याकारें । नाना वस्तूचेनि विचारें । कोंदाटले हे ॥ २९ ॥",
+          "marathiMeaning": "जणु मनुष्यरुपाने विवेकरुपी संपत्तीने भरलेली भांडारगृहे, नाना प्रकारच्या विचारांनी भरलेलेच हे कवि असतात.",
+          "englishMeaning": "Poets are treasuries brimming with discernment, made manifest in human form, filled to overflowing with thought about countless things.",
+          "verified": true
+        },
+        {
+          "verseNumber": 30,
+          "original": "कीं हे आदिशक्तीचें ठेवणें । नाना पदार्थास आणी उणें । लाधलें पूर्व संचिताच्या गुणें । विश्र्वजनासी ॥ ३० ॥",
+          "marathiMeaning": "जणु आदिशक्तीची ठेव महामाया जी सर्व पदार्थांना तुच्छ लेखते, ती पूर्वपुण्याने सर्व जनांना लाभते.",
+          "englishMeaning": "Poets are the very treasure-house of the primal power, surpassing all other things, granted to the world through the merit of past good deeds.",
+          "verified": true
+        },
+        {
+          "verseNumber": 31,
+          "original": "कीं हे सुखाचीं तारुवें लोटलीं । आक्षै आनंदें उलटलीं । विश्र्वजनास उपेगा आली । नाना प्रयोगाकारणें ॥ ३१ ॥",
+          "marathiMeaning": "कवि म्हणजे अक्षय आनंदाने भरलेली जीवनप्रवाहांत तरंगत असलेली नाव जी विश्र्वांतील सर्व लोकांना वेगवेगळ्या योजनांची पूर्ति करण्यास उपयोगी पडते.",
+          "englishMeaning": "Poets are ships launched upon the sea of happiness, overflowing with boundless joy, of use to all people for their many purposes.",
+          "verified": true
+        },
+        {
+          "verseNumber": 32,
+          "original": "कीं हे निरंजनाचीं संपत्ती । कीं हे विराटाची योगस्थिती । नातरी भक्तीची फळश्रुती । फळास आली ॥ ३२ ॥",
+          "marathiMeaning": "कवि म्हणजे शुद्ध परब्रह्माचे ऐश्र्वर्य, त्या विराटाची समाधी अवस्था, परम भक्तीची फळश्रुती असे हे कवि असतात.",
+          "englishMeaning": "Poets are the wealth of the pure formless, the yogic state of the cosmic Being; and truly, the fruit of devotion has, through them, come to ripen.",
+          "verified": true
+        },
+        {
+          "verseNumber": 33,
+          "original": "कीं हा ईश्र्वराचा पवाड । पाहातां गगनाहून वाड । ब्रह्मांडरचनेहून जाड । कविप्रबंदरचना ॥ ३३ ॥",
+          "marathiMeaning": "आकाशापेक्षां मोठी ईश्र्वराची देणगी असे हे कवि कीं, ज्यांची काव्यरचना ब्रह्मांडाहूनही मोठी असते.",
+          "englishMeaning": "Truly, poets are God's own wonder — vaster to behold than the very sky, greater still than the structure of the universe, such is the composition of a poet's great work.",
+          "verified": true
+        },
+        {
+          "verseNumber": 34,
+          "original": "आतां असो हा विचार । जगास आधार कवेश्र्वर । तयांसी माझा नमस्कार । साष्टांग भावें ॥ ३४ ॥",
+          "marathiMeaning": "आता कविवर्णनाचे विचार मी पुरे करतो. जगाला आधारभूत असलेल्या त्या कविवर्यांना माझा साष्टांग नमस्कार आहे.",
+          "englishMeaning": "Now let this discourse on the poets rest; to those great poets who are the world's very support, I offer my full prostration.",
+          "verified": false,
+          "note": "This owi is present in the Marathi source (ioustotra.blogspot.com) but has no matching verse in Norwell's English translation, which ends the samas at owi 33. The English above is a direct rendering of the sourced Marathi rather than an independently cross-checked translation."
+        }
+      ]
     },
     {
       "samasNumber": 8,
-      "samasTitleMarathi": "",
-      "samasTitleEnglish": "",
-      "source": null,
-      "status": "empty",
-      "note": "Title and owi content pending research (Phase 2).",
-      "owis": []
+      "samasTitleMarathi": "सभास्तवन",
+      "samasTitleEnglish": "Sabha Stavan (Praise of the Assembly)",
+      "source": {
+        "name": "Stotra (hymns) blog by Prakash Ketkar — original owi text and Marathi meaning",
+        "url": "https://ioustotra.blogspot.com/2016/12/samas-aathava-sabha-stavan.html"
+      },
+      "englishSource": {
+        "name": "Dasbodh, English translation by John Norwell (2015) — condensed here from his fuller annotated rendering",
+        "url": "https://www.advaita.cz/wcd/docs/ramdas/dasbodh_john_2015/dasbodh_output_pdf/00_celek_en_mar/dasbodh_john_norwell_2015_a4.pdf"
+      },
+      "status": "complete",
+      "owis": [
+        {
+          "verseNumber": 1,
+          "original": "आतां वंदू सकळ सभा । जये सभेसी मुक्ति सुल्लभा । जेथें स्वयें जगदीश उभा । तिष्टतु भरें ॥ १ ॥",
+          "marathiMeaning": "आतां मी सर्व सभांना नमस्कार करतो. जेथे जन्म-मरणापासून मुक्ति सुलभ होते. आणि जेथे स्वतः जगदिश तिष्ठत उभा असतो.",
+          "englishMeaning": "Now I bow to every gathering where liberation itself is easily won, and where the Lord of the World himself stands present in fullness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 2,
+          "original": "श्र्लोक । नाहं वसामि वैकुंठे योगिनां हृदये रवौ । मद्भक्ता यत्र गायन्ति तत्र तिष्ठामि नारद ॥ नाहीं वैकुंठीचा ठाईं । नाहीं योगियांचा हृदईं । माझे भक्त गाती ठांईं ठांईं । तेथें मीं तिष्ठतु नारदा ॥ २ ॥",
+          "marathiMeaning": "नारदाला भगवंत सांगतात मी वैकुंठांत नाही, योग्यांच्या हृदयांतही मी नाही, तर मी माझे भक्त जिथे माझे गुणगान गातात त्या ठिकाणी मी असतो.",
+          "englishMeaning": "'I do not dwell in Vaikuntha, nor in the hearts of yogis; wherever my devotees sing, there, O Narada, I stand,' says the Lord.",
+          "verified": true
+        },
+        {
+          "verseNumber": 3,
+          "original": "याकारणें सभा श्रेष्ठ । भक्त गाती तें वैकुंठ । नामघोषें धडधडाट । जयजयकारें गर्जती ॥ ३ ॥",
+          "marathiMeaning": "यामुळें सभा श्रेष्ठ आहे जेथे भगवंताचे नामाचे गायन व नामघोषाचा जयजयकार करतात तोच वैकुंठ आहे.",
+          "englishMeaning": "For this reason such an assembly is supreme — wherever devotees sing, that itself is Vaikuntha, and the resounding chant of the divine name roars forth in victory.",
+          "verified": true
+        },
+        {
+          "verseNumber": 4,
+          "original": "प्रेमळ भक्तांचीं गायनें । भगवत्कथा हरिकीर्तनें । वेदव्याख्यान पुराणश्रवणें । जेथें निरंतर ॥ ४ ॥",
+          "marathiMeaning": "जेथे प्रेमळ भक्त गायन करतात, भगवंताच्या कथा, किर्तनें चाललेली असतात, वेद-व्याख्यान, पुराणें यांचे श्रवण नेहमी होत असते.",
+          "englishMeaning": "Where loving devotees sing without end, where the stories of God and Hari's kirtan are told, where the Vedas are expounded and the Puranas heard.",
+          "verified": true
+        },
+        {
+          "verseNumber": 5,
+          "original": "परमेश्र्वराचे गुणानुवाद । नाना निरुपणाचे संवाद । अध्यात्मविद्या भेदाभेद । मथन जेंथें ॥ ५ ॥",
+          "marathiMeaning": "परमेश्र्वराचे गुणगायन चालू असते, नानाप्रकारची निरुपणें, संवाद, अध्यात्मविद्येचे भेदाभेदांचे मंथन, चर्विचरण चाललेले असते.",
+          "englishMeaning": "Where the virtues of God are sung, where discourses and dialogues abound, and the many distinctions of spiritual knowledge are churned over.",
+          "verified": true
+        },
+        {
+          "verseNumber": 6,
+          "original": "नाना समाधानें तृप्ती । नाना आशंकानिवृत्ती । चित्तीं बैसे ध्यानमूर्ति । वाग्विळासें ॥ ६ ॥",
+          "marathiMeaning": "नाना प्रकारच्या शंकाकुशंका यांचे निरसन होते व त्या फिटतात व समाधान होऊन चित्तामध्ये भगवंताची मूर्ति स्थिर होते.",
+          "englishMeaning": "Where every kind of contentment is found and every doubt dispelled, and the mind, through this delight of speech, settles upon the image of meditation.",
+          "verified": true
+        },
+        {
+          "verseNumber": 7,
+          "original": "भक्त प्रेमळ भाविक । सभ्य सखोल सात्विक । रम्य रसाळ गायक । निष्ठावंत ॥ ७ ॥",
+          "marathiMeaning": "भक्त, प्रेमळ भाविक जन, सभ्य, ज्ञानाने सखोल, सात्विक, रम्य रसाळ गायक, निष्ठावंत.",
+          "englishMeaning": "Devotees who are loving and faithful, courteous, deeply wise, virtuous, delightful and sweet-voiced singers, utterly steadfast.",
+          "verified": true
+        },
+        {
+          "verseNumber": 8,
+          "original": "कर्मसीळ आचारसीळ । दानसीळ धर्मसीळ । सुचिस्मंत पुण्यसीळ । अंतरशुद्ध कृपाळु ॥ ८ ॥",
+          "marathiMeaning": "कर्मनिष्ठ, आचारनिष्ठ, दानशूर, धर्मनिष्ठ, पवित्र, पुण्यवान, शुद्ध अंतःकरणी, कृपाळू.",
+          "englishMeaning": "Devoted to right action and right conduct, given to charity and righteousness, pure-minded and meritorious, of clean heart and full of compassion.",
+          "verified": true
+        },
+        {
+          "verseNumber": 9,
+          "original": "योगी वीतरागी उदास । नेमक निग्रह तापस । विरक्त निस्पृह बहुवस । आरण्यवासी ॥ ९ ॥",
+          "marathiMeaning": "योगी, विरक्त, उदास, नेमी, निग्रही, तापसी, विरक्त, निस्पृह, वनांत वास करणारे.",
+          "englishMeaning": "Yogis, the dispassionate and indifferent, the disciplined and self-restrained ascetics, the desireless — many of them dwelling in the forest.",
+          "verified": true
+        },
+        {
+          "verseNumber": 10,
+          "original": "दंडधारी जटाधारी । नाथपंथी मुद्राधारी । येक बाळ ब्रह्मचारी । योगेश्र्वर ॥ १० ॥",
+          "marathiMeaning": "दंडधारी, जटाधारी, नाथपंथी, मुद्रा धारण करणारे, बालब्रह्मचारी, मोठे योगी.",
+          "englishMeaning": "Staff-bearers and matted-haired ascetics, followers of the Nath tradition and bearers of yogic seals, celibate youths, and masters of yoga.",
+          "verified": true
+        },
+        {
+          "verseNumber": 11,
+          "original": "पुरश्र्चरणी आणी तपस्वी । तीर्थवासी आणी मनस्वी । महायोगी आणी जनस्वी । जनासारखे ॥ ११ ॥",
+          "marathiMeaning": "पुरश्चरण करणारे, तपस्वी, तीर्थावर राहणारे, मन जिंकणारे, महायोगी, लोकांत राहुन अलिप्त असणारे.",
+          "englishMeaning": "Those repeating sacred mantras and performing austerities, dwellers at holy places, masters of their own minds, great yogis living simply among the people.",
+          "verified": true
+        },
+        {
+          "verseNumber": 12,
+          "original": "सिद्ध साधु आणी साधक । मंत्रयंत्रशोधक । येकनिष्ठ उपासक । गुणग्राही ॥ १२ ॥",
+          "marathiMeaning": "सिद्ध, साधु, साधक, मंत्रयंत्र देणारे, एकनिष्ठ उपासक, गुणग्राही.",
+          "englishMeaning": "The accomplished, the holy, and the striving seekers, students of mantra and sacred diagrams, single-minded worshippers who recognize true virtue.",
+          "verified": true
+        },
+        {
+          "verseNumber": 13,
+          "original": "संत सज्जन विद्वजन । वेदज्ञ शास्त्रज्ञ माहाजन । प्रबुद्ध सर्वज्ञ समाधान । विमळकर्ते ॥ १३ ॥",
+          "marathiMeaning": "संत, सज्जन, विद्वान, वेदज्ञ, शास्त्रज्ञ, महाजन, प्रौढ पंडित, सर्वज्ञानी, समाधान करुन निर्मळ करणारे.",
+          "englishMeaning": "Saints and the virtuous, the learned, those versed in the Vedas and scriptures, great and noble souls, wise and all-knowing, bringing peace and purity to all.",
+          "verified": true
+        },
+        {
+          "verseNumber": 14,
+          "original": "योगी वित्पन्न ऋषेश्र्वर । धूर्त तार्किक कवेश्र्वर । मनोजयाचे मुनेश्र्वर । आणी दिग्वल्की ॥ १४ ॥",
+          "marathiMeaning": "योगी, विद्वान, ऋषीश्र्वर, धूर्त, तार्किक, महाकवि, मनावर विजय मिळविलेले मुनि, दिगंबर.",
+          "englishMeaning": "Learned yogis, great sages, the shrewd and logical thinkers, master poets, sages who have conquered the mind, and ascetics who wear the very sky as their garment.",
+          "verified": true
+        },
+        {
+          "verseNumber": 15,
+          "original": "ब्रह्मज्ञानी आत्मज्ञानी ।तत्वज्ञानी पिंडज्ञानी । योगाभ्यासी योगज्ञानी । उदासीन ॥ १५ ॥",
+          "marathiMeaning": "ब्रह्मज्ञानी, आत्मज्ञानी, तत्वज्ञानी, पिंडज्ञानी, योगाभ्यासी, योगज्ञानी, उदासीन.",
+          "englishMeaning": "Knowers of Brahman, knowers of the Self, knowers of first principles, knowers of the body, practitioners and knowers of yoga, and the truly detached.",
+          "verified": true
+        },
+        {
+          "verseNumber": 16,
+          "original": "पंडित आणी पुराणिक । विद्वांस आणी वैदिक । भट आणी पाठक । येजुर्वेदी ॥ १६ ॥",
+          "marathiMeaning": "पंडित, पुराणीक, विद्वान, वैदिक, भट, यजुर्वेदी पाठक.",
+          "englishMeaning": "Scholars and reciters of the Puranas, the learned and the ritual specialists, Brahmin priests and teachers, followers of the Yajurveda.",
+          "verified": true
+        },
+        {
+          "verseNumber": 17,
+          "original": "माहाभले माहाश्रोत्री । याज्ञिक आणी आग्नहोत्री । वैद्य आणी पंचाक्षरी । परोपकारकर्ते ॥ १७ ॥",
+          "marathiMeaning": "मोठे चांगले लोक, मोठे श्रोते, यज्ञ करणारे, अग्नीहोत्र व्रती, वैद्य, पंचाक्षरी, परोपकार करणारे.",
+          "englishMeaning": "The truly noble and the widely learned, performers of sacrifice and keepers of the sacred fire, physicians and healers, all working for the good of others.",
+          "verified": true
+        },
+        {
+          "verseNumber": 18,
+          "original": "भूत भविष्य वर्तमान । जयांस त्रिकाळाचें ज्ञान । बहुश्रुत निराभिमान । निरापेक्षी ॥ १८ ॥",
+          "marathiMeaning": "भूत, भविष्य व वर्तमानाचे त्रिकाळ ज्ञानी, बहुश्रुत, निराभिमानी, अपेक्षा रहित.",
+          "englishMeaning": "Those with knowledge of past, present and future, widely read yet free of pride, desiring nothing for themselves.",
+          "verified": true
+        },
+        {
+          "verseNumber": 19,
+          "original": "शांती क्ष्मा दयासीळ । पवित्र आणी सत्वसीळ । अंतरशुद्ध ज्ञानसीळ । ईश्र्वरी पुरुष ॥ १९ ॥",
+          "marathiMeaning": "शांत, दयाळू, क्षमाशील, पवित्र, सत्वशील, शुद्ध अंतःकरणाचे ज्ञानी, असे सर्व ते ईश्र्वरासारखे पुरुष.",
+          "englishMeaning": "Peaceful, forgiving and compassionate, pure and virtuous, of clean inner mind and true knowledge — such are these godly persons.",
+          "verified": true
+        },
+        {
+          "verseNumber": 20,
+          "original": "ऐसे जे कां सभानायेक । जेथें नित्यानित्यविवेक । त्यांचा महिमा अलोलिक । काय म्हणोनि वर्णावा ॥ २० ॥",
+          "marathiMeaning": "आतां या सभेंत कोणकोण असतात ते स्वामी समर्थ रामदास सांगत आहेत. त्या सभेचे नायकच जेथे नेहमी नित्य कोणते व अनित्य कोणते याचाच विचार चालतो. त्या सभेचा मोठेपणा किती सांगावा.",
+          "englishMeaning": "Such are the leaders of this assembly, where the discernment between the eternal and the transient is ever practiced — how could their wondrous glory ever be fully described?",
+          "verified": true
+        },
+        {
+          "verseNumber": 21,
+          "original": "जेथें श्रवणाचा उपाये । आणी परमार्थसमुदाये । तेथें जनासी तरणोपाये । सहजचि होये ॥ २१ ॥",
+          "marathiMeaning": "अशा सभेमध्ये परमार्थी लोकच असल्याने परमार्थ श्रवणाचाच लाभ सामान्य जनांना विनासायास होतो.",
+          "englishMeaning": "Where the means of true listening and the gathered company of ultimate truth exist, there people naturally find their own way to liberation.",
+          "verified": true
+        },
+        {
+          "verseNumber": 22,
+          "original": "उत्तम गुणाची मंडळी । सत्वधीर सत्वागळी । नित्य सुखाची नव्हाळी । जेथें वसे ॥ २२ ॥",
+          "marathiMeaning": "अत्यंत सत्वगुणी, धैर्यवान, उत्तम गुणाने युक्त मंडळी तेथे असल्याने तेथे नेहमी नित्य नविन सुखच लाभते.",
+          "englishMeaning": "Where a company of the finest qualities dwells, steadfast and full of goodness, there resides an ever-fresh and constant happiness.",
+          "verified": true
+        },
+        {
+          "verseNumber": 23,
+          "original": "विद्यापात्रें कळापात्रें । विशेष गुणांची सत्पात्रें । भगवंताचीं प्रीतिपात्रें । मिळालीं जेथें ॥ २३ ॥",
+          "marathiMeaning": "विद्यावान, कलावंत, विशेषगुणयुक्त, भगवंताची आवडती मंडळी येथे एकत्र येतात.",
+          "englishMeaning": "Where the worthy in learning, the worthy in art, the worthy in special virtue, and those beloved of God himself all come together.",
+          "verified": true
+        },
+        {
+          "verseNumber": 24,
+          "original": "प्रवृत्ती आणी निवृत्ती । प्रपंची आणी परमार्थी । गृहस्ताश्रमी वानप्रहस्ती । संन्यासादिक ॥ २४ ॥",
+          "marathiMeaning": "प्रवृत्त आणि निवृत्त, प्रपंची व परमार्थी, गृहस्थाश्रमी व वानप्रस्थाश्रमी, संन्यासी.",
+          "englishMeaning": "The active and the withdrawn, the worldly and the spiritual, householders and forest-dwellers, renunciates and the like.",
+          "verified": true
+        },
+        {
+          "verseNumber": 25,
+          "original": "वृद्ध तरुण आणी बाळ । पुरुष स्त्रियादिक सकळ । अखंड ध्याती तमाळनीळ । अंतर्यामी ॥ २५ ॥",
+          "marathiMeaning": "वयस्कर, तरुण आणि बाळ, पुरुष, स्त्रीयां असे सगळे तेथे बसून त्या अंतर्यामी असलेल्या भगवंताचे ध्यान करतात.",
+          "englishMeaning": "The old, the young and the children, men and women alike, all constantly meditate there upon the dark-hued Lord who dwells within.",
+          "verified": true
+        },
+        {
+          "verseNumber": 26,
+          "original": "ऐसे परमेश्र्वराचे जन । त्यांसी माझें अभिवंदन । जयांचेनि समाधान । अकस्मात बाणे ॥ २६ ॥",
+          "marathiMeaning": "अशा परमेश्र्वराच्या भक्तांना कीं, ज्यांच्यामुळें तत्काळ समाधान मिळते, त्यांना माझा नमस्कार आहे.",
+          "englishMeaning": "To such devotees of God I offer my salutation, through whose very presence contentment is suddenly and unexpectedly attained.",
+          "verified": true
+        },
+        {
+          "verseNumber": 27,
+          "original": "ऐसिये सभेचा गजर । तेथे माझा नमस्कार । जेथें नित्य निरंतर । कीर्तन भगवंताचें ॥ २७ ॥",
+          "marathiMeaning": "अशा त्या सभेमध्ये निरंतर भगवंताचे भजन-किर्तन चालते, त्या सभेला माझा नमस्कार आहे.",
+          "englishMeaning": "To such a resounding assembly I bow, where the eternal, unceasing kirtan of God is forever sung.",
+          "verified": true
+        },
+        {
+          "verseNumber": 28,
+          "original": "जेथें भगवंताच्या मूर्ती । तेथें पाविजे उत्तम गती । ऐसा निश्र्चय बहुतां ग्रंथी । महंत बोलिले ॥ २८ ॥",
+          "marathiMeaning": "मोठ्या लोकांनी पुष्कळ ग्रंथामधे असे म्हटले आहे की, जेथे भगवंताचे नामसंकिर्तन चालते तेथे उत्तम गति मिळते.",
+          "englishMeaning": "Where the image of God resides, there the highest state is attained — such certainty has been declared by the great, in many scriptures.",
+          "verified": true
+        },
+        {
+          "verseNumber": 29,
+          "original": "कल्लौ कीर्तन वरिष्ठ । जेथे होय ते सभा श्रेष्ठ । कथाश्रवणें नाना नष्ट । संदेह मावळती ॥ २९ ॥",
+          "marathiMeaning": "कलियुगांत कीर्तन हेच वरिष्ठ आहे. त्या सभेंत कथा-संकिर्तन ऐकल्याने सर्व संदेह नष्ट होतात.",
+          "englishMeaning": "In this age of Kali, kirtan is the highest practice; wherever it takes place, that assembly is supreme, and by hearing such stories, every doubt melts away.",
+          "verified": true
+        }
+      ]
     },
     {
       "samasNumber": 9,
