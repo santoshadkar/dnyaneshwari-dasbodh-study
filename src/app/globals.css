@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+:root {
+  --color-cream: #fbf3e7;
+  --color-cream-soft: #f4e8d8;
+  --color-parchment: #efe0c9;
+  --color-ink: #3a2a1e;
+  --color-ink-soft: #6b5745;
+  --color-saffron: #e08a1e;
+  --color-saffron-dark: #c26f0a;
+  --color-maroon: #7a1f2b;
+  --color-maroon-dark: #5c1620;
+  --color-gold: #b8860b;
+  --color-border: #e2cfae;
+
+  --background: var(--color-cream);
+  --foreground: var(--color-ink);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-cream: var(--color-cream);
+  --color-cream-soft: var(--color-cream-soft);
+  --color-parchment: var(--color-parchment);
+  --color-ink: var(--color-ink);
+  --color-ink-soft: var(--color-ink-soft);
+  --color-saffron: var(--color-saffron);
+  --color-saffron-dark: var(--color-saffron-dark);
+  --color-maroon: var(--color-maroon);
+  --color-maroon-dark: var(--color-maroon-dark);
+  --color-gold: var(--color-gold);
+  --color-border: var(--color-border);
+  --font-devanagari-serif: var(--font-devanagari-serif);
+  --font-devanagari-sans: var(--font-devanagari-sans);
+  --font-sans: var(--font-sans);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-cream: #201811;
+    --color-cream-soft: #241b13;
+    --color-parchment: #2b2016;
+    --color-ink: #f1e6d6;
+    --color-ink-soft: #cbb99e;
+    --color-saffron: #f0a13e;
+    --color-saffron-dark: #f5b45c;
+    --color-maroon: #e0808c;
+    --color-maroon-dark: #c96470;
+    --color-gold: #d9a838;
+    --color-border: #4a3a28;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), "Noto Sans", sans-serif;
+}
+
+.font-devanagari-serif {
+  font-family: var(--font-devanagari-serif), "Noto Serif Devanagari", serif;
+}
+
+.font-devanagari-sans {
+  font-family: var(--font-devanagari-sans), "Noto Sans Devanagari", sans-serif;
+}
+
+::selection {
+  background: var(--color-saffron);
+  color: var(--color-cream);
+}
