@@ -11,218 +11,1933 @@
     "name": "Dnyaneshwari, English translation by D. A. Ghaisas",
     "url": "https://archive.org/download/Dnyadeva_vangmay/Dnyaneshwari-english-by-Ghaisas.pdf"
   },
-  "numberingConvention": "Ovi numbers follow the Sartha Dnyaneshwari (96kulimaratha.com) edition; the Ghaisas English translation uses the same ovi numbering, and its wording was cross-checked against the Marathi for each ovi below. This chapter has 275 ovis in this edition (numbering conventions vary slightly between editions) — only ovis 1-30 are populated so far as a Phase 1 pilot.",
-  "status": "in-progress",
-  "note": "Phase 1 pilot: ovis 1-30 (the invocation to Ganesha, Sharada, and the Guru) are fully sourced and cross-checked. Ovis 31-275 are not yet added.",
+  "numberingConvention": "Ovi numbers follow the Sartha Dnyaneshwari (96kulimaratha.com) edition; the Ghaisas English translation uses the same ovi numbering, and its wording was cross-checked against the Marathi for each ovi below. This chapter has 275 ovis in this edition (numbering conventions vary slightly between editions).",
+  "status": "complete",
+  "note": "All 275 ovis are populated and cross-checked between the two sources. The source page interleaves the underlying Sanskrit Bhagavad Gita shlokas (quoted verbatim, with the Gita's own chapter.verse numbering) alongside Dnyaneshwar's Marathi ovi commentary; these Sanskrit quotations are not counted as separate ovis and are not included as verse content here -- only the numbered Marathi ovis are. Ovi 56's and 57's English meaning is identical because the Ghaisas translation renders them as one combined passage.",
   "verses": [
     {
       "verseNumber": 1,
       "original": "ॐ नमो जी आद्या । वेद प्रतिपाद्या । जय जय स्वसंवेद्या । आत्मरूपा ॥1.1॥",
-      "marathiMeaning": "अनादीसिद्ध वेदांनी वर्णन केलेल्या, ज्याच्या त्याच्या स्वतः प्रत्ययास येणाऱ्या, विश्वस्वरूप निर्गुण आत्मरूपा, तुझा जयजयकार करून तुला नमस्कार करत आहे.",
-      "englishMeaning": "Om! Salutations to the primordial! You are the subject of the Vedas! Victory to you, victory to you, who are known by yourself only. You are the Atman!",
+      "marathiMeaning": "(आत्मरूप-वंदन) अनादीसिद्ध वेदांनी वर्णन केलेल्या, ज्याच्या त्याच्या स्वतः प्रत्येयास येणाऱ्या, विश्वस्वरूप निर्गुण आत्मरूपा, तुझा जयजयकार करून तुला नमस्कार करत आहे.",
+      "englishMeaning": "Om! Salutations to the primordial! You are the subject of Vedas! Victory to you, victory to you, who are known by yourself only. You are the Atman!",
       "verified": true
     },
     {
       "verseNumber": 2,
       "original": "देवा तूचि गणेशु । सकलार्थमतिप्रकाशु । म्हणे निवृत्तिदासु । अवधारिजो जी ॥1.2॥",
-      "marathiMeaning": "हे देवा! सर्व विश्वाच्या बुद्धीला प्रकाश देणारा जो गणेश, तो तूच आहेस. निवृत्तीनाथांचे शिष्य ज्ञानेश्वर म्हणतात, तो गणेश कसा आहे ते अवधानपूर्वक ऐक.",
-      "englishMeaning": "O God! You are yourself Ganesha, who illuminates the intelligence of all persons. I, the servant of Nivrutti, request you to please pay attention to what I am describing.",
+      "marathiMeaning": "(ओंकार रूप गणेश वंदन) हे देवा! सर्व विश्वाच्या बुद्धीला प्रकाश देणारा जो गणेश, तो तूच आहेस. निवृत्तीनाथांचे शिष्य ज्ञानेश्वर म्हणतात, तो गणेश कसा आहे ते अवधानपूर्वक ऐक.",
+      "englishMeaning": "O God! You are yourself Ganesha, who illuminates the intelligence of all persons. I, the servant of Nivrutti requests you to please pay attention to what I am describing.",
       "verified": true
     },
     {
       "verseNumber": 3,
       "original": "हे शब्दब्रह्म अशेष । तेचि मूर्ति सुवेष । जेथ वर्णवपु निर्दोष । मिरवत असे ॥1.3॥",
       "marathiMeaning": "संपूर्ण वेद हीच जणू काही पोषाख केलेली गणेशाची मूर्ती होय आणि तिच्या ठिकाणी निर्दोष वर्णरूपी शरीराचे सौंदर्य शोभून दिसते आहे.",
-      "englishMeaning": "Your auspiciously clad body is the Absolute Brahman in the form of words, in which the alphabets form themselves in the flawless and glorious shape of this body.",
+      "englishMeaning": "Your auspiciously clad body is the Absolute Brahman in the form of words in which the alphabets form themselves in the flawless and glorious shape of this body.",
       "verified": true
     },
     {
       "verseNumber": 4,
       "original": "स्मृति तेचि अवयव । देखा आंगीक भाव । तेथ लावण्याची ठेव । अर्थशोभा ॥1.4॥",
-      "marathiMeaning": "मन्वादिकांच्या स्मृती हे त्याचे अवयव आहेत. ते अवयव या स्मृतीतील अर्थ-सौंदर्याने जणू लावण्याची केवळ खाणच बनले आहेत.",
-      "englishMeaning": "The Smritis — the books of Law — are the inherent limbs of this body, and the beautiful meaning is the reservoir of all charm.",
+      "marathiMeaning": "मन्वादिकांच्या स्मुर्ती हे त्याचे अवयव आहते. ते अवयव या स्मुर्तीतील अर्थ-सौंदर्याने जणू लावण्याची केवळ खाणच बनले आहेत.",
+      "englishMeaning": "The Smritis, - the books of Law - are the inherent limbs of this body, and the beautiful meaning is the reservoir of all charm.",
       "verified": true
     },
     {
       "verseNumber": 5,
       "original": "अष्टादश पुराणे । तीचि मणिभूषणे । पदपद्धति खेवणे । प्रमेयरत्‍नांची ॥1.5॥",
-      "marathiMeaning": "अठरा पुराणे हे गणपतीच्या अंगावरील रत्नखचित अलंकार आहेत. त्यामध्ये सांगितलेली ही रत्ने; आणि शब्दांची छंदयुक्त रचना ही त्यांची कोंदणे आहेत.",
-      "englishMeaning": "The eighteen mythological books (Puranas) are the ornaments of jewels, and the terms and their proper logical use in these books are beautiful designs of the principles expounded therein.",
+      "marathiMeaning": "अठरा पुराणे हे गणपतीच्या अंगावरील रत्नखचित अलंकार आहेत. त्यामध्ये सांगितलेली ही रत्ने; आणि शब्दांची छंदयुक्त रचना ही त्यांची कोंदणे आहेत",
+      "englishMeaning": "The eighteen mythological books (Puranas) are the ornaments of jewels and the terms and their proper logical use in these books are beautiful designs of the principles expounded therein.",
       "verified": true
     },
     {
       "verseNumber": 6,
       "original": "पदबंध नागर । तेचि रंगाथिले अंबर । जेथ साहित्य वाणे सपूर । उजाळाचे ॥1.6॥",
-      "marathiMeaning": "लालित्यपूर्ण पदरचना हेच उत्कृष्ट रंगाने रंगविलेले वस्त्र आहे. शब्द-अलंकार आणि अर्थ-अलंकार हे त्या वस्त्रावरील तेज:पुंज दिसणारे जरीचे तलम तंतू आहेत.",
-      "englishMeaning": "The sophisticated phrases and arrangements of words make the colourful dress of this body, where the figures of speech have made the dress especially dazzling.",
+      "marathiMeaning": "लालित्यपूर्ण पदरचना हेच उत्कृष्ट रंगाने रंगविलेले वस्त्र आहे. शब्द-अलंकार आणि अर्थ-अलंकार हे त्या वस्रवरील तेज:पुंज दिसणारे जरीचे तलम तंतू आहेत.",
+      "englishMeaning": "The sophisticated phrases and arrangements of words make the colourful dress of this body where the figures of speech have made the dress especially dazzling.",
       "verified": true
     },
     {
       "verseNumber": 7,
       "original": "देखा काव्य नाटका । जे निर्धारिता सकौतुका । त्याचि रुणझुणती क्षुद्रघंटिका । अर्थध्वनि ॥1.7॥",
-      "marathiMeaning": "काव्य आणि नाटक यांचा कौतुकाने विचार केला असता, त्या गणपतीच्या पायातील रूणझुणणाऱ्या छोट्या-छोट्या घागऱ्या आहेत; अर्थ हा त्या घागऱ्यांना बसविलेल्या घुंगराचा मंजूळ असा ध्वनी आहे.",
+      "marathiMeaning": "काव्य आणि नाटक यांचा कौतुकाने विचार केला आसता, त्या गणपतीच्या पायातील रूणझुंणाऱ्या छोट्या-छोटया घागऱ्या आहेत अर्थ हा त्या घागऱ्यांना बसविलेल्या घुंगराचा मंजूळ असा ध्वनी आहे.",
       "englishMeaning": "Please see how the poetry and the dramas are the most amusing little bells which jingle with the sound of the implied meanings.",
       "verified": true
     },
     {
       "verseNumber": 8,
       "original": "नाना प्रमेयांची परी । निपुणपणे पाहता कुसरी । दिसती उचित पदे माझारी । रत्‍ने भली ॥1.8॥",
-      "marathiMeaning": "व्यास, वाल्मिकी, भरतमुनी यांच्या काव्य-नाटकातील विविध सिद्धांतांच्या शब्दांचा एकाग्रतेने अभ्यास केला, तर त्यात कवीचे अलौकिक कौशल्य दिसून येते. अशी ही अनमोल शब्द-घागऱ्यांतील उत्तमोत्तम रत्ने आहेत.",
-      "englishMeaning": "For the learned one, looking at the doctrines, the words and the phrases of poetry and dramas are the valuable gems which shiningly express the final principles or theories.",
+      "marathiMeaning": "व्यास,वाल्मिकी,भरतमुनी यांच्या काव्य नाटकातील विविध सिद्धांताच्या शब्दांचा एकाग्रतेने अभ्यास केला, तर त्यात कवीचे अलौकिक कौशल्य दिसून येते. अशी ही अनमोल शब्द-घागऱ्यातील उत्तमोत्तम रत्ने आहेत",
+      "englishMeaning": "For the learned one, looking at the doctrines the words and the phrases of poetry and dramas are the valuable gems which express shiningly the final principles or theories.",
       "verified": true
     },
     {
       "verseNumber": 9,
       "original": "तेथ व्यासादिकांच्या मती । तेचि मेखळा मिरवती । चोखाळपणे झळकती । पल्लवसडका ॥1.9॥",
       "marathiMeaning": "महर्षी व्यासादिकांची बुद्धी ही गणपतीची मेखला म्हणजे कटिभूषण होय. त्याला लोंबत असलेल्या मोत्यांच्या पदरातील घोष हे त्या बुद्धीतील शुद्धत्व सात्विकपणे झळकत आहे.",
-      "englishMeaning": "On this body the intelligence of the great sages like Vyasa and others becomes the girdle around his waist, and the lucid thoughts become the loose dangling parts of the cloth tied around it.",
+      "englishMeaning": "On this body the intelligence of the great sages like Vyasa, and others, becomes the girdle around his waist and the lucid thoughts become the loose dangling parts of the cloth tied around it.",
       "verified": true
     },
     {
       "verseNumber": 10,
       "original": "देखा षड्दर्शने म्हणिपती । तेची भुजांची आकृति । म्हणौनि विसंवादे धरिती । आयुधे हाती ॥1.10॥",
       "marathiMeaning": "गणपतीचे सहा हात ही सहा शास्त्रे होत; म्हणून त्यातील विविध प्रकारचा अभिप्राय ही त्या त्या हातातील वेगवेगळी शस्त्रे होत.",
-      "englishMeaning": "Please see and understand that the six sciences have become the forms of the six arms of this body, and they therefore hold different weapons each, like the different arguments in the sciences, all aiming at the one Brahman.",
+      "englishMeaning": "Please see and understand that the six sciences have become the forms of the six arms of this body and they therefore hold different weapons each, like the different way of arguments in the sciences, which aim at to the only one Brahman.",
       "verified": true
     },
     {
       "verseNumber": 11,
       "original": "तरी तर्कु तोचि फरशु । नीतिभेदु अंकुशु । वेदांतु तो महारसु । मोदकु मिरवे ॥1.11॥",
-      "marathiMeaning": "न्यायदर्शनातील पदार्थांचे विश्लेषण करणारा तर्क म्हणजे गणपतीच्या हातातील परशू होय. वैशेषिक दर्शनातील सिद्धांतभेद हा दुसऱ्या हातातील अंकुश आहे, आणि उत्तरमीमांसा दर्शनातील ब्रह्मस्वरूप सिद्धांत हा गणपतीच्या हातातील अमृतमधुर मोदक होय.",
-      "englishMeaning": "The logic (Nyaya shastra) is the hatchet in his hand; the different doctrines are the goad in his hand; and Vedanta, the great essence, is the sweet Modaka he displays.",
+      "marathiMeaning": "न्याय दर्शनातील सोळा पदार्थांचे विश्लेषण करणारा तर्क म्हणजे गणपतीच्या हातातील परशू होय. वैशेषिक दर्शनातील सात पदार्थांचा सिद्धांतभेद हा दुसऱ्या हातातील अंकुश आहे आणि उत्तरमीमांसा दर्शनातील ब्रम्हस्वरूप सिद्धांत हा गणपतीच्या हातातील अमृतमधुर मोदक होय.",
+      "englishMeaning": "The logic (Nyaya shastra) is the hatchet in his hand, the different moral conducts is the goad in his hand, which defines the religion as a means to achieve fulfilment of the worldly life aswell as the attainment of final illumination and Vedanta is the sweet Modaka in his hands which gives us the joyous bliss of Realization of Brahman.",
       "verified": true
     },
     {
       "verseNumber": 12,
       "original": "एके हाती दंतु । जो स्वभावता खंडितु । तो बौद्धमतसंकेतु । वार्तिकाचा ॥1.12॥",
-      "marathiMeaning": "वार्तिककारांनी सांगितलेले आणि स्वभावतःच खंडित झालेले जे बौद्ध मत आहे, ते एका हातात असणाऱ्या खंडित दाताच्या ठिकाणी शोभते.",
-      "englishMeaning": "There is a broken tusk held in one hand, which indicates how the philosophy of the Buddhists, as expounded and commented upon by the Vartika school, is naturally defeated.",
+      "marathiMeaning": "वार्तिककरांनी सांगितलेले आणि स्वभावतःच खंडीत झालेले जी बौद्ध मत आहे, ते एका हातात असणाऱ्या खंडित दाताच्या ठिकाणी शोभते.",
+      "englishMeaning": "There is a broken tooth held in one hand which indicates how the philosophy of Bouddhas as expounded and commented upon by Wartikas is defeated by the philosophy of Adwaita or \"oneness of all existence\".",
       "verified": true
     },
     {
       "verseNumber": 13,
       "original": "मग सहजे सत्कारवादु । तो पद्मकरु वरदु । धर्मप्रतिष्ठा तो सिद्धु । अभयहस्तु ॥1.13॥",
-      "marathiMeaning": "सत्कारवाद हा गणपतीचा वर देणारा कमलासमान हात होय. धर्माची प्रतिष्ठा करणारा हा सिद्ध असा अभय देणारा हात आहे.",
-      "englishMeaning": "The doctrine of affirmation (Satkaravada) is his lotus-like, boon-giving hand; the establishment of dharma is his accomplished hand of reassurance.",
+      "marathiMeaning": "सत्कारवाद हा गणपतीचा वर देणारा कामलासमान हात होय. हा धर्माची सिद्धी करतो आणि हा अभय देणारा हात आहे.",
+      "englishMeaning": "The hand which appears as beautiful as lotus and denotes that the philosophy that \"the universe being the manifestation of Reality which is Brahman, is also real;\" is the true understanding; while the hand which gives us the message of \"Fear Not\", or a blessing, denotes the Sootras of Jaimini which prove the religion to be the true aim of mankind.",
       "verified": true
     },
     {
       "verseNumber": 14,
       "original": "देखा विवेकवंतु सुविमळु । तोचि शुंडादंडु सरळु । जेथ परमानंदु केवळु । महासुखाचा ॥1.14॥",
-      "marathiMeaning": "गणपतीच्या ठिकाणी विवेक ही सरळ, निर्मळ अशी सोंड आहे, जेथे केवळ महासुखाचा परमानंद आहे.",
-      "englishMeaning": "See how the pure, discerning one is the straight trunk of this God, in which lies the sheer supreme bliss of the greatest happiness.",
+      "marathiMeaning": "गणपतीच्या ठिकाणी ब्रम्हानंद ही सरळ, निर्मळ आणि चांगले व वाईट याची निवड करण्यास समर्थ अशी सोंड आहे.",
+      "englishMeaning": "Please see the straight trunk of this God Gajanan which by its straightness shows the straight intelligence of right choice and right discrimination, where there lies the great bliss of the greatest happiness.",
       "verified": true
     },
     {
       "verseNumber": 15,
       "original": "तरी संवादु तोचि दशनु । जो समता शुभ्रवर्णु । देवो उन्मेषसूक्ष्मेक्षणु । विघ्नराजु ॥1.15॥",
-      "marathiMeaning": "गुरु-शिष्याचा हा संवाद म्हणजे गणपतीच्या मुखातील दात असून, समता हा त्या दातांचा शुभ्र रंग होय. सूक्ष्म ज्ञानदृष्टी म्हणजे त्या विघ्नराजाचे नेत्र होत.",
-      "englishMeaning": "The dialogue itself is his tooth, whose whiteness is equanimity; and God Vighnaraja has small, keen eyes of subtle insight.",
+      "marathiMeaning": "गुरू-शिष्याचा हा सुखसवांद म्हणजे गणपतीच्या मुखतील दात असून ब्रम्हज्ञान प्राप्त झाल्यानंतर सर्व भूतमात्रांच्या ठिकाणी निर्माण होणारी समता हा त्या दातांचा पांढरा रंग होय. ज्ञानदृष्टी म्हणजे त्या विघ्नराजाचे सूक्ष्म असे नेत्र होत.",
+      "englishMeaning": "The one complete tooth shows the conforming dialogue and synthesis of arguments which has the white colour of equality, dispassionate in its outlook. This God is having very small, keen eyes and is the controller of and the ruler over, all calamities.",
       "verified": true
     },
     {
       "verseNumber": 16,
       "original": "मज अवगमलिया दोनी । मिमांसा श्रवणस्थानी । बोधमदामृत मुनी । अली सेविती ॥1.16॥",
-      "marathiMeaning": "पूर्वमीमांसा आणि उत्तरमीमांसा हेच त्या गणपतीचे दोन कान असून, बोध हे त्याचे मदरूपी अमृत मुनिरूपी भ्रमर सेवन करतात, असे मला वाटते.",
-      "englishMeaning": "The two Mimamsas — the earlier and the later — are, to my understanding, his two ears, at which sages, like bees, sip the intoxicating nectar of realization.",
+      "marathiMeaning": "पूर्वमीमांसा आणि उत्तरमीमांसा हाच त्या गणपतीच्या कानांच्या ठिकाणी असून बोध हे त्याचे मदरूपी अमृत मुनिरूपी भ्रमर सेवन करतात, असे मला वाटते.",
+      "englishMeaning": "The primary commentary called Poorva-Meemansa and the later doctrine of Upanishads which is called Uttara-Meemansa, are indicated by the two ears of this God; and the juice from the forehead and the temples of this God, which is the nectar of realization, is being sipped by the blue-beetles which are the great sages.",
       "verified": true
     },
     {
       "verseNumber": 17,
       "original": "प्रमेयप्रवाल सुप्रभ । द्वैताद्वैत तेचि निकुंभ । सरिसेपणे एकवटत इभ- । मस्तकावरी ॥1.17॥",
-      "marathiMeaning": "वेदशास्त्रपुराणांत सिद्धांतरूपाने सांगितलेली तत्त्वे ही गणपतीच्या अंगावरील तेजयुक्त पोवळी होत. द्वैत आणि अद्वैत मते ही मस्तकावरील गंडस्थळे असून समानपणे तेथे एकवटली आहेत.",
-      "englishMeaning": "The bright coral of settled doctrines, and Duality and Non-duality as the two temples, merge equally on this elephant head.",
+      "marathiMeaning": "वेदशास्त्र पुराणात सिद्धांतरुपाने संगतलेली तत्वे ही गणपतीच्या अंगावरील तेजयुक्त पोवळी होत. द्वैत आणि अद्वैत मते ही मस्तकावरील गंडस्थळे असून सारखे पणाने ती तेथे एकत्र झाली आहेत. ॥",
+      "englishMeaning": "All the theories in all the Darshanas (systems of philosophy) are the coral ornaments of great luminosity, and both the doctrines of Duality and Unity, are the equal parts of His large forehead, which are near each other, glorifying the elephant head.",
       "verified": true
     },
     {
       "verseNumber": 18,
       "original": "उपरि दशोपनिषदे । जिये उदारे ज्ञानमकरंदे । तिये कुसुमे मुगुटी सुगंधे । शोभती भली ॥1.18॥",
-      "marathiMeaning": "ज्ञानरूपी मकरंदाने परिपूर्ण भरलेली दहा उपनिषदे ही जणू सुगंधी फुले असून, ती गणपतीच्या मुकुटावर उत्तम रीतीने शोभून दिसत आहेत.",
-      "englishMeaning": "Above, the ten Upanishads, generous with the honey of knowledge, shine beautifully on his crown like fragrant flowers.",
+      "marathiMeaning": "ज्ञानरूपी मकरंद ज्या मध्ये परिपूर्ण भरलेला आहे, अशी ईशावास्य इत्यादी दहा उपनिषदे ही जणू सुगंधी फुले असून ती गणपतीच्या मुकुटावर उत्तम तऱ्हेने शोभून दिसत आहेत. ॥",
+      "englishMeaning": "The ten Upanishads are higher still decorating the crown as if by fragrant flowers, which are very abundantly generous in giving to all, the sweet smell of selfknowledge.",
       "verified": true
     },
     {
       "verseNumber": 19,
       "original": "अकार चरण युगल । उकार उदर विशाल । मकार महामंडल । मस्तकाकारे ॥1.19॥",
-      "marathiMeaning": "ओंकाराची पहिली अकारमात्रा हे गणपतीचे दोन्ही पाय आहेत, दुसरी उकारमात्रा हे त्याचे विशाल उदर आहे, आणि तिसरी मकारमात्रा हा त्याच्या मोठ्या गोल मस्तकाचा आकार आहे.",
-      "englishMeaning": "The syllable 'A' forms his two feet, 'U' his large belly, and 'M' the great circle of his head.",
+      "marathiMeaning": "ओंकाराची पहिली अकारमात्रा हे गणपतीचे दोन्ही पाय आहेत. दुसरी उकरमात्रा हे त्याचे मोठे पोट आहे. तिसरीमात्रा हा त्याचा मोठ्या वाटोळ्या मस्तकाच्या आकार आहे. ॥",
+      "englishMeaning": "The symbolic Brahman contains three and a half syllables viz. A, U, M, the last prolonged in utterance producing a delicate hum of sound `M'. In the divine body of Shri Ganesha, the A (or ) forms the two feet, u or forms the big stomach and M or denotes the great orb of his head.",
       "verified": true
     },
     {
       "verseNumber": 20,
       "original": "हे तीन्ही एकवटले । तेथ शब्दब्रह्म कवळले । ते मिया श्रीगुरुकृपा नमिले । आदिबीज ॥1.20॥",
-      "marathiMeaning": "अकार, उकार, मकार या तिन्ही मात्रा एकवटल्या की त्या ओंकारात संपूर्ण शब्दब्रह्म सामावलेले असते. त्या बीजरूप आदिस मी सद्गुरु श्रीनिवृत्तीनाथांच्या कृपेने नमस्कार करतो.",
-      "englishMeaning": "When these three unite, the Word-Brahman is contained within them; to that primal seed I have bowed, by the grace and blessing of my Guru.",
+      "marathiMeaning": "अकार, उकार, मकार या तिन्ही मात्रा एकत्रित झाल्या, म्हणजे त्या ओंकारात संपूर्ण वेद संक्षेपाने समाविष्ट होत असतो. त्या बिजरूप ओंकाररूप गणपती देवरायास मी सद्गुरु श्री निवृत्तीनाथ यांच्या कृपेने नमस्कार करतो. ॥",
+      "englishMeaning": "All the three become unified with each other and thus Brahman in the form of WORD becomes manifest, to which, by the grace and the blessing of my Guru, I have bowed down.",
       "verified": true
     },
     {
       "verseNumber": 21,
       "original": "आता अभिनव वाग्विलासिनी । ते चातुर्यार्थकलाकामिनी । ते शारदा विश्वमोहिनी । नमिली मिया ॥1.21॥",
-      "marathiMeaning": "यानंतर, नित्यनूतन प्रतिभेने व वाणीच्या रूपाने क्रीडा करणारी, चातुर्य-अर्थ-कला यांची अधिष्ठात्री, संपूर्ण विश्वाला मोहित करणारी अशी जी शारदा, तिला मी नमस्कार केला.",
-      "englishMeaning": "Now I have bowed to Goddess Sharada, ever fresh in her play of speech, the very image of cleverness and art, who enchants the whole universe.",
+      "marathiMeaning": "(सरस्वती-वंदन) या नंतर नित्यनूतन प्रतिभा आणि वाणीच्या रुपाने क्रीडा करणारे चातुर्य, अर्थ व कला यांची कामिनी, विविध रस आणि अलंकार युक्त मधुर भाषेद्वारा संपूर्ण विश्वाला मोहित करणारी अशी जी शारदा, तिला मी विनम्र भावाने नमस्कार करतो.",
+      "englishMeaning": "Now I have bowed down to Goddess Sharada, who plays with novel, ever new speech, who is the damsel as the very image of cleverness and Arts, and who enchants the whole universe.",
       "verified": true
     },
     {
       "verseNumber": 22,
       "original": "मज हृदयी सद्‍गुरु । जेणे तारिलो हा संसारपूरु । म्हणौनि विशेषे अत्यादरु । विवेकावरी ॥1.22॥",
-      "marathiMeaning": "माझ्या हृदयात सद्गुरू वास करतात, ज्यांच्यामुळे मी या संसारसागरातून तरून गेलो; म्हणून अंतःकरणातील विवेकावर माझे विशेष प्रेम आहे.",
-      "englishMeaning": "In my heart dwells my Sadguru, by whom I have crossed this flood of worldly existence; therefore I hold discrimination in special reverence.",
+      "marathiMeaning": "(सद्गुरु-स्तवन) श्री सद्गुरूंनी सांगितलेले ज्ञान मी माझ्या हृदयामध्ये साठविले; त्या मुळे मला भवसागर तरुण जाता आला. म्हणून अंतःकरणातील विवेकावर माझे आत्यंतिक प्रेम आहे.",
+      "englishMeaning": "In my heart Sadguru dwells and because of him I have transcended the flood of this worldly life, and therefore I have more respect for discrimination.",
       "verified": true
     },
     {
       "verseNumber": 23,
       "original": "जैसे डोळ्या अंजन भेटे । ते वेळी दृष्टीसी फाटा फुटे । मग वास पाहिजे तेथ । प्रगटे महानिधी ॥1.23॥",
-      "marathiMeaning": "ज्याप्रमाणे डोळ्यांत अंजन घातले असता दृष्टी विशेष तीक्ष्ण होते आणि नुसते पाहताच भूमीतील मोठा खजिना दिसू लागतो.",
-      "englishMeaning": "Just as when ointment touches the eyes, the sight sharpens, and wherever one merely looks, a great treasure is revealed.",
+      "marathiMeaning": "ज्या प्रमाणे पायाळू माणसाच्या डोळ्यात अंजन घातले असता त्याची दृष्टी सर्वत्र पसरते आणि त्याला भूमीमध्ये असणाऱ्या संपत्तीचा ठसा दिसू लागतो.",
+      "englishMeaning": "When we put some Anjana (ointment) in our eyes, our vision becomes clairvoyant and great treasures become visible wherever we look.",
       "verified": true
     },
     {
       "verseNumber": 24,
       "original": "का चिंतामणी जालिया हाती । सदा विजयवृत्ति मनोरथी । तैसा मी पूर्णकाम श्रीनिवृत्ति । ज्ञानदेवो म्हणे ॥1.24॥",
-      "marathiMeaning": "किंवा चिंतामणी हाती आला असता मनातील सर्व इच्छा सदैव पूर्ण होतात; त्याप्रमाणे श्रीनिवृत्तीच्या कृपेने मी पूर्णकाम झालो आहे, असे ज्ञानदेव म्हणतात.",
-      "englishMeaning": "Or as when the wish-fulfilling gem Chintamani is in hand, every desire is met — so, by the grace of my Guru Nivritti, I have become one whose every desire is fulfilled, says Dnyandeva.",
+      "marathiMeaning": "मनोकामना पूर्ण करणारा चिंतामणी हाती आला असता सर्व हेतू पूर्ण होतात, त्या प्रमाणे सद्गुरु निवृत्तीनाथांच्या मूळे मी पूर्णकाम झालो आहे. माझ्या सर्व सदिच्छा पूर्ण झाल्या आहेत, असे ज्ञानदेव म्हणतात.",
+      "englishMeaning": "Or when the gem Chintamani is found by us, we are always successful in achieving what our mind imagines. Thus, by the grace of My Guru Nivrutti I have become one whose all desires are fulfilled - so says Dnyandeva.",
       "verified": true
     },
     {
       "verseNumber": 25,
-      "original": "म्हणोनि जाणतेने गुरु भजिजे । तेणे कृतकार्य होईजे । जैसे मुळसिंचने सहजे । शाखापल्लव संतोषती ॥1.25॥",
-      "marathiMeaning": "यासाठी जाणकारांनी सद्गुरूची सेवा करावी, त्यामुळे जीवन कृतकृत्य होते; ज्याप्रमाणे झाडाच्या मुळाला पाणी घातले असता फांद्या व पाने सहजच टवटवीत होतात.",
-      "englishMeaning": "Therefore let the wise serve the Guru, by which one's purpose is fulfilled — just as watering the root of a tree naturally delights its branches and leaves.",
+      "original": "म्हणोनि जाणतेने गुरु भजिजे । तेणे कृतकार्य होईजे । जैसे मुळसिंचने सहजे । शाखापल्लव संतोषती ॥1-25॥",
+      "marathiMeaning": "या साठी जाणकारांनी सद्गुरुवर परम श्रद्धा ठेवून आत्मज्ञान प्राप्त करून घ्यावे, म्हणजे जीवन कृतकृत्य होईल. जसे, झाडाच्या मुळाला पाणी घातले असता फांद्या व पाने सहजच विकसित होतात.",
+      "englishMeaning": "Therefore, a man who is wise in his discrimination, should serve the preceptor, and thus become entirely accomplished, just as by sprinkling water at the roots of a tree, the branches and the leaves get satisfactory nourishment.",
       "verified": true
     },
     {
       "verseNumber": 26,
       "original": "का तीर्थे जिये त्रिभुवनी । तिये घडती समुद्रावगाहनी । ना तरी अमृतरसास्वादनी । रस सकळ ॥1.26॥",
-      "marathiMeaning": "एका समुद्रस्नानाने त्रैलोक्यातील सर्व तीर्थांच्या स्नानाचे पुण्य मिळते; किंवा अमृतरसाच्या सेवनाने जगातील सर्व रसांचे सेवन झाल्यासारखे होते.",
-      "englishMeaning": "As bathing in the ocean is as good as bathing in every sacred water of the three worlds, or as tasting nectar is as good as tasting every flavour there is —",
+      "marathiMeaning": "एका समुद्र स्नानामुळे त्रैलोक्यात जेवढी तीर्थे आहेत, त्या सर्वाचे स्नान केल्याचे पुण्य प्राप्त होते; किंवा एका अमृत रसाच्या सेवनाने जगातील सर्व रस सेवन केल्या प्रमाणे होते.",
+      "englishMeaning": "Or, by taking bath in an ocean, the merit of bathing in all the sacred places of the three worlds is earned, or in tasting the nectar, we have virtually tasted all the juices in the world.",
       "verified": true
     },
     {
       "verseNumber": 27,
       "original": "तैसा पुढतपुढती तोचि । मिया अभिवंदिला श्रीगुरुचि । जो अभिलषित मनोरुचि । पुरविता तो ॥1.27॥",
-      "marathiMeaning": "त्याप्रमाणे मी वारंवार त्याच सद्गुरूंना वंदन केले, जे मनातील सर्व अभिलषित इच्छा पूर्ण करणारे आहेत.",
-      "englishMeaning": "— so, again and again, I have bowed to that same Sadguru, who fulfils every desire the heart holds.",
+      "marathiMeaning": "तसे एका सद्गुरूंना वंदन केले असता, सर्वाना वंदन केल्याचे पुण्य प्राप्त होते; म्हणून मी वारंवार सद्गुरूंना वंदन करतो, जे सद्गुरु मनातील सर्व सदिच्छा पूर्ण करतात.",
+      "englishMeaning": "In the same manner I have again and again bowed down to the same preceptor who fulfils all the things my heart yearns for.",
       "verified": true
     },
     {
       "verseNumber": 28,
       "original": "आता अवधारा कथा गहन । जे सकळा कौतुका जन्मस्थान । की अभिनव उद्यान । विवेकतरूचे ॥1.28॥",
-      "marathiMeaning": "आता ही गहन कथा श्रवण करा, जी सर्व कौतुकाचे जन्मस्थान आहे, किंवा विवेकरूपी वृक्षांचे नवीन उद्यान आहे.",
-      "englishMeaning": "Now hear this profound story, the very birthplace of all wonder, or a fresh garden of the trees of discernment.",
+      "marathiMeaning": "आता सखोल विचारांची कथा श्रवण करा. ही कथा सर्वाच्या मनात कौतुक उत्पन्न करणारी आहे अथवा विवेकरूपी वृक्षाचे नाविन्यपूर्ण उद्यान आहे.",
+      "englishMeaning": "Now please listen to the comprehensive and exhaustive story, which is the birthplace of the pleasures of Arts, or a novel garden full of trees of `discrimination'.",
       "verified": true
     },
     {
       "verseNumber": 29,
       "original": "ना तरी सर्व सुखाचि आदि । जे प्रमेयमहानिधि । नाना नवरससुधाब्धि । परिपुर्ण हे ॥1.29॥",
-      "marathiMeaning": "किंवा ही सर्व सुखांचे मूळ आहे, सिद्धांतांचा महान खजिना आहे, नवरसांनी परिपूर्ण भरलेला अमृताचा सागर आहे.",
-      "englishMeaning": "Or it is the very origin of all happiness, a great treasury of doctrines, an ocean of the nectar of the nine sentiments, ever full.",
+      "marathiMeaning": "ही महाभारतातील गीता रुपी कथा सर्व मूळ कारण आहे. हे सर्व प्रमुख सिद्धांताचे भांडार आहे किंवा नवरसांनी परिपूर्ण भरलेला अमृताचा सागर आहे.",
+      "englishMeaning": "Or, it may be called the origin of all happiness, which is the great reservoir of all doctrines, or, for that matter, it is the ocean of the nectar of nine moods of literature, which is always full.",
       "verified": true
     },
     {
       "verseNumber": 30,
       "original": "की परमधाम प्रकट । सर्व विद्यांचे मूळपीठ । शास्त्रजाता वसौट । अशेषांचे ॥1.30॥",
-      "marathiMeaning": "किंवा हे परमधाम प्रकट झाले आहे, सर्व विद्यांचे मूळपीठ आहे, समस्त शास्त्रांचे आश्रयस्थान आहे.",
-      "englishMeaning": "Or it is the manifest supreme abode, the root-seat of all learning, the dwelling place of every branch of the sciences without exception.",
+      "marathiMeaning": "किंवा महाभारताच्या रुपाने मोक्षच प्रगटलेला आहे. हे सर्व विद्यांचे मूळपीठ आहे. जगातील सर्व ज्ञानाचे आश्रयस्थान आहे.",
+      "englishMeaning": "Or this story is the manifest home of the highest fortune, or the root of all knowledge and the place of residence for all the branches of sciences, without exception.",
+      "verified": true
+    },
+    {
+      "verseNumber": 31,
+      "original": "ना तरी सकळ धर्मांचे माहेर । सज्जनांचे जिव्हार । लावण्यरत्‍नभांडार । शारदेचे ॥1.31॥",
+      "marathiMeaning": "महाभारत हे सर्व धर्माचे माहेर आहे, सज्जनांच्या जिव्हाळ्याचा, आनंदाचा विषय आहे; आणि सरस्वतीच्या सौंदर्यरूपी रत्नांचे भांडार आहे.",
+      "englishMeaning": "In other words, it is the maternal home of all religions, the delicate heart of gentle sages, and the storehouse of the jewels of great beauty, of goddess Sharada.",
+      "verified": true
+    },
+    {
+      "verseNumber": 32,
+      "original": "नाना कथारूपे भारती । प्रकटली असे त्रिजगती । आविष्करोनि महामती । व्यासाचिये ॥1.32॥",
+      "marathiMeaning": "सरस्वती महर्षी व्यासांच्या विशाल बुद्धीत प्रगट होऊन विविध कथेच्या त्रैलोक्यात प्रसारित झाली.॥",
+      "englishMeaning": "No, No! Bharati, the very goddess of speech, has become manifest in the form of this story in all the three worlds, by giving all expressions to the supra-intelligence of the sage Vyasa.",
+      "verified": true
+    },
+    {
+      "verseNumber": 33,
+      "original": "म्हणौनि हा काव्यारावो । ग्रंथ गुरुवतीचा ठावो । एथूनि रसा झाला आवो । रसाळपणाचा ॥1.33॥",
+      "marathiMeaning": "हा महाभारत ग्रंथ सर्व काव्यग्रंथाचा राजा आहे. या ग्रंथाच्या ठिकाणी महानतेची परिसीमा झाली आहे. या ग्रंथा पासून काव्यातील रसांना रसाळपणाचा डौल आला आहे.",
+      "englishMeaning": "Therefore, this story is the queen of all poetry, a storehouse of the greatness of books and the giver of shape and clarity to all the esthetic moods of literature.",
+      "verified": true
+    },
+    {
+      "verseNumber": 34,
+      "original": "तेवीचि आइका आणिक एक । एथूनि शब्दश्री सच्छास्त्रिक । आणि महाबोधी कोवळीक । दुणावली ॥1.34॥",
+      "marathiMeaning": "तसेच, या ग्रंथाचे आणखी महत्व श्रवण करा. महाभारतापासून शब्दरूप संपत्तीला शास्त्रीयता प्राप्त झाली आणि ब्रम्हज्ञानाच्या ठिकाणी कोवळिकता अधिकच वाढली. ॥1-34",
+      "englishMeaning": "So also, please listen to something more about its greatness. From this story, the glory of words got the scientific base and the delicateness of the subtle spiritual understanding has doubled itself.",
+      "verified": true
+    },
+    {
+      "verseNumber": 35,
+      "original": "एथ चातुर्य शहाणे झाले । प्रमेय रुचीस आले । आणि सौभाग्य पोखले । सुखाचे एथ ॥1.35॥",
+      "marathiMeaning": "या महाभारतात चातुर्य शहाणे झाले, सिद्धांताना अमृतमय गोडी प्राप्त झाली आणि सुखाचे ऐश्वर्य अधिकच पुष्ट झाले. ॥1-35",
+      "englishMeaning": "Here, (in this story of Mahabharat) cleverness has become endowed with wisdom, the Brahman has got sweet taste, and the good fortune of happiness has received nourishment.",
+      "verified": true
+    },
+    {
+      "verseNumber": 36,
+      "original": "माधुर्यी मधुरता । श्रुंगारी सुरेखता । रूढपण उचिता । दिसे भले ॥1.36॥",
+      "marathiMeaning": "माधुर्याला मधुरता, शृंगाराला सुरेखपणा आणि योग्य वस्तुंना श्रेष्ठपणा येऊन त्या सर्व उत्तम रीतीने शोभून दिसू लागल्या. ॥1-36",
+      "englishMeaning": "Here, the sweetness has got itself enhanced by more sweetness, the decorative aspect of love has got accuracy of design and the traditionally proper actions have become more popular.",
+      "verified": true
+    },
+    {
+      "verseNumber": 37,
+      "original": "एथ कळाविदपण कळा । पुण्यासि प्रतापु आगळा । म्हणौनि जनमेजयाचे अवलीळा । दोष हरले ॥1.37॥",
+      "marathiMeaning": "यातील कथेपासून कलांना विशेष कौशल्य प्राप्त झाले. पुण्याचा प्रताप वाढू लागला. महाभारताच्या श्रावणाने जनमेजयाचे ब्रम्हहत्येचे दोष नाहीसे झाले. ॥1-37",
+      "englishMeaning": "In this story Arts gained the quality of being `specialist in appreciation,' the merit of good deeds has become more powerful, and it is because of this, that the sins of King Janamejaya (to whom this story was first told) were washed away easily by listening to it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 38,
+      "original": "आणि पाहता नावेक । रंगी सुरंगतेची आगळीक । गुणा सगुणपणाचे बिक । बहुवस एथ ॥1.38॥",
+      "marathiMeaning": "सुक्षमबुद्धीने महाभारताचे निरीक्षण केले असता असे दिसून येते की, विविध कलांतील गुण त्याने वाढले. या कथेमुळे सद्गुणांचे सामर्थ्य प्रगट झाले. ॥",
+      "englishMeaning": "And if some further observation is done, we find that in this story, the colours got more colourful, the virtuous qualities became brilliant with the goodness and purity in a very great measure.",
+      "verified": true
+    },
+    {
+      "verseNumber": 39,
+      "original": "भानुचेनि तेजे धवळले । जैसे त्रैलोक्य दिसे उजळिले । तैसे व्यासमति कवळिले । मिरवे विश्व ॥1.39॥",
+      "marathiMeaning": "सूर्याच्या तेजाने त्रैलोक्य जसे उजळून निघते, त्या प्रमाणे महर्षी व्यासांच्या विशाल बुद्धीतून निर्माण झालेल्या या कथेमुळे सर्व जगावर ज्ञानाचा प्रकाश पसरला आणि ते शोभून दिसू लागले. ॥",
+      "englishMeaning": "Just as the three worlds dazzle by the brilliance of the Sun, the universe which is comprehended by the great intellect of Vyasa is now shining with enhanced glory.",
+      "verified": true
+    },
+    {
+      "verseNumber": 40,
+      "original": "का सुक्षेत्री बीज घातले । ते आपुलियापरी विस्तारले । तैसे भारती सुरवाडले । अर्थजात ॥1.40॥",
+      "marathiMeaning": "उत्तम जमिनीत बी पेरले असता जसा त्याचा सहज विस्तार होत जातो, त्या प्रमाणे महाभारतात सर्व विषय शोभायमान झाले आहेत. ॥1-40",
+      "englishMeaning": "When seed is sown in a very fertile field, it gives rich crops. Similarly various meanings have become flowery in this story of Bh�rata.",
+      "verified": true
+    },
+    {
+      "verseNumber": 41,
+      "original": "ना तरी नगरांतरी वसिजे । तरी नागराचि होईजे । तैसे व्यासोक्तितेजे । धवळत सकळ ॥1.41॥",
+      "marathiMeaning": "ज्याप्रमाणेनगरात राहिल्यावर मानवास शहाणपण प्राप्त होते, त्या प्रमाणे व्यासांच्या सात्विक वाणीच्या तेजामुळे सर्व जग ज्ञानसंपन्न झाले. ॥1-41",
+      "englishMeaning": "Or, just as a man becomes good-mannered and sophisticated when he dwells in a good city, similarly every subject has become more luminous by the light of the words of Vyasa.",
+      "verified": true
+    },
+    {
+      "verseNumber": 42,
+      "original": "की प्रथम वयसाकाळी । लावण्याची नव्हाळी । प्रगटे जैसी आगळी । अंगनाअंगी ॥1.42॥",
+      "marathiMeaning": "तारुण्यात पदार्पण केल्यानंतर मुलीच्या अंगी सौंदर्याचा नवा बहर आलेला असतो आणि तो स्पष्टपणे दिसू लागतो. ॥1-42",
+      "englishMeaning": "This is just like the beauty of a lady becoming extraordinary and more enchanting when she is in her prime youth.",
+      "verified": true
+    },
+    {
+      "verseNumber": 43,
+      "original": "ना तरी उद्यानी माधवी घडे । तेथ वनशोभेची खाणी उघडे । आदिलापासौनि अपाडे । जियापरी ॥1.43॥",
+      "marathiMeaning": "वसंत ऋतूचे आगमन झाले, की बागेतील वनशोभा पूर्वी पेक्षा अधिकच बहरून येते; जणू काही सौंदर्याची खाणच उघडते.",
+      "englishMeaning": "Or, this is similar to the beauty of a forest becoming extremely flowery with the advent of the `spring' and everything becoming profoundly glorious.",
+      "verified": true
+    },
+    {
+      "verseNumber": 44,
+      "original": "नानाघनीभूत सुवर्ण । जैसे न्याहाळिता साधारण । मग अलंकारी बरवेपण । निवाडु दावी ॥1.44॥",
+      "marathiMeaning": "लगडीच्या रुपात सोने पाहीले, तर त्याचे सौंदर्य सर्वसाधारण वाटते; परंतु त्या सोन्याच्या विविध कलाकुसरीचे दागिने बनविले, तर त्या सोन्याचे सौंदर्य विशेष रुपाने खुलून दिसते. ॥1-44",
+      "englishMeaning": "Or, this is just as the gold when looked at in its chip form appears ordinary but shows its beauty when an ornament is made out of it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 45,
+      "original": "तैसे व्यासोक्ति अळंकारिले । आवडे ते बरवेपण पातले । ते जाणोनि काय आश्रयिले । इतिहासी ॥1.45॥",
+      "marathiMeaning": "महर्षी व्यासांच्या तेजस्वी बुद्धीतून प्रगटलेल्या विषयामध्ये सत्य, शिव आणि सुंदरतेचे दर्शन होते, हे पाहून जगातील अनेक इतिहासकारांनी महाभारताचा आश्रय केला आहे.",
+      "englishMeaning": "Similarly, the history has secured a place for itself in this story of Bh�rata, thinking that it would become beautiful enough only if decorated by the words of Vyasa.",
+      "verified": true
+    },
+    {
+      "verseNumber": 46,
+      "original": "नाना पुरतिये प्रतिष्ठेलागी । सानीव धरूनि आंगी । पुराणे आख्यानरूपे जगी । भारता आली ॥1.46॥",
+      "marathiMeaning": "आपणास मोठी प्रतिष्ठा लाभावी म्हणून स्वतःच्या अंगी नम्रता धरून सर्व पुराणे आख्यानरुपाने महाभारतात येऊन जगामध्ये प्रसिद्ध पावली. ॥1-46",
+      "englishMeaning": "Or we can say that mythological stories have taken a miniature form, in order to get place and prestige; and have become miscellenous episodes in this Mahabharata.",
+      "verified": true
+    },
+    {
+      "verseNumber": 47,
+      "original": "म्हणौनि महाभारती नाही । ते नोहेचि लोकी तिही । येणे कारणे म्हणिपे पाही । व्यासोच्छिष्ट जगत्रय ॥1.47॥",
+      "marathiMeaning": "म्हणूनच महाभारतामध्ये जे नाही, ते तिन्ही लोकांमध्ये नाही. महर्षी व्यासांच्या नंतर त्रैलोक्यात जे भाष्यकार झाले, त्यांनी महाभारतातील सिद्धांताचा अभ्यास केला. 'व्यासोंच्छिष्ट जगतत्रय' असे म्हणतात. ॥1-47",
+      "englishMeaning": "Therefore, whatever is not included in Mahabharata is not anywhere else in the three worlds and thus the saying has become popular that ``The three worlds are already tasted by Vyasa.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 48,
+      "original": "ऐसी जगी सुरस कथा । जे जन्मभूमि परमार्था । मुनि सांगे नृपनाथा । जनमेजया ॥1.48॥",
+      "marathiMeaning": "अशी ही जगात सुरस म्हणून प्रसिद्ध असलेली आणि परमार्थाची जन्मभूमी असलेली महाभारताची कथा आहे. ही कथा जनमेजय राजाला वैंशपायन ऋषींनी सांगितली. ॥1-48",
+      "englishMeaning": "This is the most interesting story, which is the birthplace of spiritual fulfillment of human life, which the sage Shuka told to the King Janamejaya.",
+      "verified": true
+    },
+    {
+      "verseNumber": 49,
+      "original": "जे अद्वितीय उत्तम । पवित्रैक निरुपम । परम मंगलधाम । अवधारिजो ॥1.49॥",
+      "marathiMeaning": "श्रोते हो ! ही कथा एकाग्रतेने श्रवण करा. हे महाभारत अद्वितीय,उत्तम,अतिपवित्र निरुपम आणि सर्व मांगल्याचे परम स्थान आहे. ॥1-49",
+      "englishMeaning": "Please now listen to this story which is the best, which is without any equal, which is the most sacred, and the sanctified home of auspiciousness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 50,
+      "original": "आता भारती कमळपरागु । गीताख्यु प्रसंगु । जो संवादला श्रीरंगु । अर्जुनेसी ॥1.50॥",
+      "marathiMeaning": "महाभारत हे जणू काही कमळ असून भगवान श्रीकृष्णांनी अर्जुनास सुखसंवादाच्या रुपाने सांगितलेली गीता जणू काही त्यातील सुगंधी पराग आहे. ॥1-50",
+      "englishMeaning": "And in the story of Mahabharata, the episode called Geeta, which is the dialogue of Lord Shriranga (Krishna) with Arjuna, is just like the pollen in the lotus.",
+      "verified": true
+    },
+    {
+      "verseNumber": 51,
+      "original": "ना तरी शब्दब्रह्माब्धि । मथियेला व्यासबुद्धि । निवडिले निरवधि । नवनीत हे ॥1.51॥",
+      "marathiMeaning": "महर्षी व्यासांनी आपल्या प्रखर बुध्दीने वेदरूपी समुद्राचे मंथन करून महाभारतरूपी अनुपमेय नवनीत काढले",
+      "englishMeaning": "We can say that the ocean of Brahman in the form of words, was churned by the intellect of Vyasa and this Geeta is the butter gathered from it, which is without any lacunae.",
+      "verified": true
+    },
+    {
+      "verseNumber": 52,
+      "original": "मग ज्ञानाग्निसंपर्के । कडसिलेंनि विवेके । पद आले परिपाके । आमोदासी ॥1.52॥",
+      "marathiMeaning": "मग ते नवनीत ज्ञानरुप अग्नीच्या संबंधाने विवेकपूर्वक घडविले; आणि त्याचा उत्तम परिपाक होऊन त्या लोण्याचे सुगंधी साजूक तूप झाले, ते म्हणजे गीता होय. ॥1-52",
+      "englishMeaning": "Then this butter was boiled with the heat of knowledge, with the help of Viveka, the discriminative faculty, and thus every word in it has fragrance.",
+      "verified": true
+    },
+    {
+      "verseNumber": 53,
+      "original": "जे अपेक्षिजे विरक्ती । सदा अनुभविजे संती । सोहंभावे पारंगती । रमिजे जेथ ॥1.53॥",
+      "marathiMeaning": "वैराग्यवान देखील या गीतेची इच्छा करतात. संतदेखील नेहमी या गीतेचा अनुभव घेतात. 'तो परमात्मा मी आहे' अशा अभेद भावात असणारे ब्रम्हनिष्टदेखील या गीतेत रममाण होतात. ॥1-53",
+      "englishMeaning": "This is such a philosophy which the ascetics are fond of, which is the subject of experience of saints, and where those who are masters of the experience of unity with THAT, always get themselves absorbed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 54,
+      "original": "जे आकर्णिजे भक्ती । जे आदिवंद्य त्रिजगती । ते भीष्मपर्वी संगती । म्हणितली कथा ॥1.54॥",
+      "marathiMeaning": "भक्त जिचे परम श्रद्धेने श्रवण करतात, जी त्रैलोक्यात प्रथम वंदनीय आहे, जी भीष्मपर्वात प्रसंगाच्या अनुरोधाने सांगितली आहे. ॥1-54",
+      "englishMeaning": "This is listened to by devotees. This is first saluted with respect in all the three worlds, and will be told in the section of Mahabharata which is dedicated to the description of war when Bheeshma was the Commander General; in the flow of the story.",
+      "verified": true
+    },
+    {
+      "verseNumber": 55,
+      "original": "जे भगवद्गीता म्हणिजे । जे ब्रह्मेशांनी प्रशंसिजे । जे सनकादिकी सेविजे । आदरेसी ॥1.55॥",
+      "marathiMeaning": "ती &#8221; भगवतगीता &#8221; होय. ब्रम्हदेव आणि महादेव तिची स्तुती करतात, सनकादिक परम श्रद्धेने तिचे श्रवण, मनन, पठण करतात. ॥1-55",
+      "englishMeaning": "It is called Bhagawadgeeta. The God Brahma and the God Shankara praise it and the sages led by Sanaka reverently follow it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 56,
+      "original": "जैसे शारदीचिये चंद्रकळे । माजि अमृतकण कोवळे । ते वेचिती मने मवाळे । चकोरतलगे ॥1.56॥",
+      "marathiMeaning": "शरद ऋतूतील चंद्रकलेत असलेले कोवळे अमृतकण चकोर पक्षांची पिल्ले जसे अतिशय मृदू मनाने वेचतात. ॥1-56",
+      "englishMeaning": "The listeners are requested to appreciate the sweetness of this story making their minds as sensitive and tender as the young ones of the bird Chakora enjoy the delicate moon-rays in the Sharad season, as if they are little drops of nectar.",
+      "verified": true
+    },
+    {
+      "verseNumber": 57,
+      "original": "तियापरी श्रोता । अनुभवावी हे कथा । अतिहळुवारपण चित्ता । आणूनिया ॥1.57॥",
+      "marathiMeaning": "त्या प्रमाणे श्रोत्यांने चित्त शुद्ध करून एकाग्रतेने, अत्यन्त हळुवार पणे भगवदगीतेचा अनुभव घ्यावा. ॥1-57",
+      "englishMeaning": "The listeners are requested to appreciate the sweetness of this story making their minds as sensitive and tender as the young ones of the bird Chakora enjoy the delicate moon-rays in the Sharad season, as if they are little drops of nectar.",
+      "verified": true
+    },
+    {
+      "verseNumber": 58,
+      "original": "हे शब्देवीण संवादिजे । इंद्रिया नेणता भोगिजे । बोलाआधि झोंबिजे । प्रमेयासी ॥1.58॥",
+      "marathiMeaning": "शब्दांशिवाय या गीतेच्या अर्थाची मनातल्या मनात चर्चा करावी. इंद्रियांना नकळत याच्या अर्थाचा अनुभव घ्यावा. वक्ताच्या मुखातून शब्द प्रकट होण्यापूर्वीच त्यातील सिद्धांताशी एकरूप होऊन राहावे. ॥1-58",
+      "englishMeaning": "This story is such that it should be narrated without words, should be understood without the knowledge of senses, and the essential principle of it should be grasped even before it is spoken.",
+      "verified": true
+    },
+    {
+      "verseNumber": 59,
+      "original": "जैसे भ्रमर परागु नेती । परी कमळदळे नेणती । तैसी परी आहे सेविती । ग्रंथी इये॥1.59॥",
+      "marathiMeaning": "ज्या प्रमाणे भ्रमर कमलदलाला समजू न देता त्यातील पराग सेवन करतात, त्याप्रमाणे हा ग्रंथ जाणून घेण्याची पद्धत आहे. ॥1-59",
+      "englishMeaning": "The petals of lotus do not know it when the pollen is taken away by the blue beetles. Similar is the case in respect of enjoying the listening to this book.",
+      "verified": true
+    },
+    {
+      "verseNumber": 60,
+      "original": "का आपुला ठावो न सांडिता । आलिंगिजे चंद्रु प्रकटता । हा अनुरागु भोगिता । कुमुदिनी जाणे ॥1.60॥",
+      "marathiMeaning": "नभामध्ये चंद्रमा उदय पावला, की चंद्रविकासी कुमुदनी प्रफुल्ल होतात आणि आपले पाण्यातील स्थान न सोडता त्याला अलिंगन देण्याचे परमसुख जाणतात. ॥1-60",
+      "englishMeaning": "Only the lily knows how to enjoy the embrace of the moon-light without leaving its place.",
+      "verified": true
+    },
+    {
+      "verseNumber": 61,
+      "original": "ऐसेनि गंभीरपणे । स्थिरावलोनि अंतःकरणे । आथिला तोचि जाणे । मानू इये ॥1-61",
+      "marathiMeaning": "त्या प्रमाणे शुद्ध, सात्विक आणि स्थिर चित्ताने जो संपन्न आहे, तोच गीतेतील अर्थ जाणू शकतो. असे आम्ही समजतो. ॥1-61",
+      "englishMeaning": "Only he who is having a steady mind with all the seriousness, can understand this subject (of Geeta).",
+      "verified": true
+    },
+    {
+      "verseNumber": 62,
+      "original": "अहो अर्जुनाचिये पांती । जे परिसणया योग्य होती । तिही कृपा करूनि संती । अवधान द्यावे ॥1.62॥",
+      "marathiMeaning": "श्रोतेहो ! अर्जुनाच्या पंक्तीला बसून गीतेचा अर्थ श्रवण करण्यास जे योग्य आहेत, त्या संतांनी कृपा करून इकडे पूर्ण लक्ष द्यावे. ॥1-62",
+      "englishMeaning": "O the listeners, who are sages and who are worthy of sitting by the side of Arjuna (in their capacity to listen, and to act), may please pay attention.",
+      "verified": true
+    },
+    {
+      "verseNumber": 63,
+      "original": "हे सलगी म्या म्हणितले । चरणा लागोनि विनविले । प्रभू सखोल हृदय आपुले । म्हणौनिया ॥1.63॥",
+      "marathiMeaning": "महाराज ! आपले हृदय सखोल आहे; म्हणून मी लडिवाळपणे आपणास लक्ष द्या, अस म्हंटल. खरोखर ही माझी आज्ञा नाही; आपल्या चरणांना स्पर्श करून विनंती केली आहे.",
+      "englishMeaning": "O Lord, I have spoken this with a bit of intimacy and entreated you by bowing to your feet, because your heart is broad and generous enough.",
+      "verified": true
+    },
+    {
+      "verseNumber": 64,
+      "original": "जैसा स्वभावो मायबापांचा । अपत्य बोले जरी बोबडी वाचा । तरी अधिकचि तयाचा । संतोष आथी ॥1.64॥",
+      "marathiMeaning": "ज्याप्रमाणे आपले मुल बोबडे बोलले, तरी त्याचा स्वभावतः अधिक संतोष आईवडिलांना होत असतो.",
+      "englishMeaning": "It is natural for parents that though their child speaks inarticulately, they are happier to listen to it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 65,
+      "original": "तैसा तुम्ही मी अंगिकारिला । सज्जनी आपुला म्हणितला । तरी उणे सहजे उपसाहला । प्रार्थू कायी ॥1.65॥",
+      "marathiMeaning": "त्याप्रमाणे तुम्ही सज्जनांनी माझा अंगीकार करून मला आपले म्हंटले आहे. त्यामुळे माझ्यातील उणीवा सहन कराल. त्यासाठी मी स्वतंत्र प्रार्थना करावयास पाहिजे, असे नाही.",
+      "englishMeaning": "Similarly you have accepted me, saints like you have considered me to be your own. Therefore, it is natural that you will sympathize with me about the lacunae in my speech. Is it necessary to pray again?",
+      "verified": true
+    },
+    {
+      "verseNumber": 66,
+      "original": "परी अपराधु तो आणिक आहे । जे मी गीतार्थु कवळु पाहे । ते अवधारा विनवू लाहे । म्हणौनिया ॥1.66॥",
+      "marathiMeaning": "परंतु माझ्याकडून एक अपराध घडत आहे. मी गीतेचा अर्थ स्पष्ट करण्याचा प्रयत्न करीत आहे; म्हणून सांगितलेला अर्थ बरोबर आहे की नाही, याकडे लक्ष द्यावे, अशी विनंती केली.",
+      "englishMeaning": "But my crime is quite extra-ordinary because I am trying to grasp the meaning of Geeta. It is because of this that I am praying that you may please listen to it very kindly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 67,
+      "original": "हे अनावर न विचारिता । वायाचि धिंवसा उपनला चित्ता । येर्‍हवी भानुतेजी काय खद्योता । शोभा आथी ॥1.67॥",
+      "marathiMeaning": "गीतेचा अर्थ सांगणे फार कठीण कार्य आहे. याचा विचार न करता तो अर्थ स्पष्ट करण्यासाठी माझ्या चित्तात व्यर्थ धैर्य उत्पन्न झाले; परंतु सूर्याच्या प्रकाशात काजव्याची शोभा असते काय?",
+      "englishMeaning": "Without giving a thought to the difficulties of the task, my mind has ventured to do so. Otherwise how can a fire-fly shine in brilliant sunlight?",
+      "verified": true
+    },
+    {
+      "verseNumber": 68,
+      "original": "की टिटिभू चांचुवरी । माप सूये सागरी । मी नेणतु त्यापरी । प्रवर्ते येथ ॥1-68॥",
+      "marathiMeaning": "एखाद्या टिटवीने समुद्राची अथांग खोली मोजण्याकरता चोच बुडेपर्यंत त्यात माप घालावे, त्याप्रमाणे मी जाणकार नसताना गीतेचा अर्थ प्रकट करण्यास प्रवृत्त झालो आहे.",
+      "englishMeaning": "I am doing this adventure ignorantly just as a little bird, a lapwing may try to suck up the ocean with the help of its tiny beak.",
+      "verified": true
+    },
+    {
+      "verseNumber": 69,
+      "original": "आइका आकाश गिवसावे । तरी आणीक त्याहूनि थोर होआवे । म्हणौनि अपाडू हे आघवे । निर्धारिता ॥1-69॥",
+      "marathiMeaning": "आकाशाला कवटाळायचे असेल, तर त्यापेक्षा विशाल व्हावे लागते. गीतेवर भाष्य करण्यासाठी प्रकांड पांडित्य हवे; म्हणून मी तर गीतेवर भाष्य करण्यास योग्य नाही, असे दिसते.",
+      "englishMeaning": "If one wants to cover the whole sky with bare hands, one must be larger than the sky, which is quite impossible. When one thinks properly, this task is also quite impossible.",
+      "verified": true
+    },
+    {
+      "verseNumber": 70,
+      "original": "या गीतार्थाची थोरी । स्वये शंभू विवरी । जेथ भवानी प्रश्नु करी । चमत्कारौनि ॥1-70॥",
+      "marathiMeaning": "(गीतेची थोरवी) एकदा भगवान शंकरांनी गीतेची थोरवी सांगितली. ते शब्द ऐकून पार्वतीला आश्चर्य वाटले व ती म्हणाली, आपण गीतेची विस्तारपूर्वक सांगा.",
+      "englishMeaning": "When the God Shankara was describing the depth of the meaning of Geeta, the Goddess Bhavani was surprised and asked, \"How great is the doctrine of Geeta?\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 71,
+      "original": "तेथ हरु म्हणे नेणिजे । देवी जैसे का स्वरूप तुझे । तैसे हे नित्य नूतन देखिजे । गीतातत्व ॥1.71॥",
+      "marathiMeaning": "भगवान शंकर म्हणाले, गीतेचे महत्व मी पूर्णपणे जाणू शकत नाही. पार्वती ! तुझे स्वरूप जसे नित्यनूतन आहे, तसे गीतार्थ हा नित्यनूतन आहे.",
+      "englishMeaning": "The God Shankara replied, \"I do not know. My dear, just as your beauty is new every moment, this doctrine of Geeta is also new every time.",
+      "verified": true
+    },
+    {
+      "verseNumber": 72,
+      "original": "हा वेदार्थ सागरु । जया निद्रिताचा घोरु । तो स्वये सर्वेश्वरु । प्रत्यक्ष अनुवादला ॥1-72॥",
+      "marathiMeaning": "ज्या सर्वेश्वराच्या योगनिद्रेतील घोरण्यापासून समुद्राप्रमाणे अगाध वेद निर्माण झाले, त्या जगदीश्वर श्रीकृष्णाने स्वतः जागृतीत गीतेच्या रुपाने वेदार्थाचे सार सांगितले.",
+      "englishMeaning": "The almighty primordial God Narayana, in whose sleep Vedas became manifest while He was snoring, has Himself taught this doctrine, in His waking consciousness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 73,
+      "original": "ऐसे जे अगाध । जेथ वेडावती वेद । तेथ अल्प मी मतिमंद । काई होये ॥1.73॥",
+      "marathiMeaning": "असे हे गीताशास्त्र अगाध, गहन आहे. या कामी वेदांचीही मती कुंठित होऊन जाते. मी तर लहान आहे, माझी बुद्धी अल्प आहे मी तरी कसे सांगणार??",
+      "englishMeaning": "How can I, who am dull and of a very small intellect, try to explain that doctrine which is so unfathomable and where Vedas are non- plussed? (Vedas have become helpless.)",
+      "verified": true
+    },
+    {
+      "verseNumber": 74,
+      "original": "हे अपार कैसेनि कवळावे । महातेज कवणे धवळावे । गगन मुठी सुवावे । मशके केवी? ॥1.74॥",
+      "marathiMeaning": "हे अमर्याद गीताशास्त्र मला कसे बरे आकलन होणार? महातेजाला कशाने बरे उजळावे? छोट्याश्या चिलटाने आकाश आपल्या मुठीत कसे बरे ठेवावे?",
+      "englishMeaning": "How can one grasp this vast philosophy? How can one make sunshine more brilliant? How can a small insect hold the whole sky in its fist?",
+      "verified": true
+    },
+    {
+      "verseNumber": 75,
+      "original": "परी एथ असे एकु आधारु । तेणेचि बोले मी सधरु । जे सानुकूळ श्रीगुरु । ज्ञानदेवो म्हणे ॥1.75॥",
+      "marathiMeaning": "परंतु मला सद्गुरु निवृत्तीनाथांचा मोठा आधार आहे. ते मला अनुकूल आहेत; म्हणून मी हे धैर्य करत आहे, असे ज्ञानदेव म्हणतात.",
+      "englishMeaning": "Dnyanadeva says - Even then there is a support here by which I considered myself to be able. My Guru is giving me full support.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 76,
+      "original": "येर्‍हवी तरी मी मुर्खु । जरी जाहला अविवेकु । तर्‍ही संतकृपादीपकु । सोज्वळु असे ॥1.76॥",
+      "marathiMeaning": "एरव्ही तरी मी अज्ञानी आहे, माझ्याकडून भाष्य लिहिताना अविवेक होत आहे. तरीपण संतकृपेचा प्रकाशमान दीप प्रज्वलित आहे.",
+      "englishMeaning": "Even though I am foolish and indiscrete too, there is the brilliant light of the blessings of the saints to guide me.",
+      "verified": true
+    },
+    {
+      "verseNumber": 77,
+      "original": "लोहाचे कनक होये । हे सामर्थ्य परिसीच आहे । की मृतही जीवित लाहे । अमृतसिद्धि ॥1.77॥",
+      "marathiMeaning": "लोखंडाचे सोने करण्याचे सामर्थ्य परिसात आहे. किंवा अमृताची प्राप्ती झाली की, मृतसुद्धा जिवंत होतो.",
+      "englishMeaning": "To turn iron into gold is the capacity of the magic stone `Parees' and it is the power of nectar to revive life in a dead person.",
+      "verified": true
+    },
+    {
+      "verseNumber": 78,
+      "original": "जरी प्रकटे सिद्धसरस्वती । तरी मुकयाहि आथी भारती । एथ वस्तुसामर्थ्यशक्ति । नवल कयी ॥1-78॥",
+      "marathiMeaning": "सरस्वती देवता प्रसन्न झाली, तर मुक्यालाही भावमधुर वाचा फुटते. असा बदल होण्याविषयी वस्तूचे सामर्थ्य किंवा शक्ती कारण आहे, यात आश्यर्य ते काय आहे?",
+      "englishMeaning": "If the Goddess Saraswati with all Her occult powers is pleased and becomes actively manifest, even a dumb man can speak. Similarly, there is nothing surprising here because some things are having such miraculous powers.",
+      "verified": true
+    },
+    {
+      "verseNumber": 79,
+      "original": "जयाते कामधेनु माये । तयासी अप्राप्य काही आहे । म्हणौनि मी प्रवर्तो लाहे । ग्रंथी इये ॥1-79॥",
+      "marathiMeaning": "ज्याची आई कामधेनू आहे, त्याला या जगात दुर्लभ असे काही नाही; म्हणून मी या गीता ग्रंथावर भाष्य करण्यास प्रवृत्त झालो.",
+      "englishMeaning": "One who has the divine cow `Kamdhenu' as his mother, has nothing beyond his reach and, therefore, I dare to start explaining this book.",
+      "verified": true
+    },
+    {
+      "verseNumber": 80,
+      "original": "तरी न्यून ते पुरते । अधिक ते सरते । करूनि घेयावे हे तुमते । विनवितु असे ॥1-80॥",
+      "marathiMeaning": "माझ्या या भाष्यामध्ये काही कमतरता असेल, तर ती पूर्ण करून घ्या आणि अधिक असेल, तर समजून घ्या, अशी तुम्हाला मी नम्र विनंती करत आहे.",
+      "englishMeaning": "Therefore, I am requesting you to please make good what is wanting in this and tolerate what is more than necessary.",
+      "verified": true
+    },
+    {
+      "verseNumber": 81,
+      "original": "आता देईजो अवधान । तुम्ही बोलविल्या मी बोलेन । जैसे चेष्टे सूत्राधीन । दारुयंत्र ॥1-81॥",
+      "marathiMeaning": "आता आपण भाष्या कडे लक्ष द्या. तुम्ही जसे मला बोलवाल, त्या प्रमाणे मी बोलेन. सूत्रधार ज्या प्रमाणे दोरी हलवीत असतो, तशी दोरीच्या आधीन असलेली कळसूत्री बाहुली नाचत असते.",
+      "englishMeaning": "Now please pay attention; If you inspire me, I will talk, just like a puppet dancing according to the strings that are pulled.",
+      "verified": true
+    },
+    {
+      "verseNumber": 82,
+      "original": "तैसा मी अनुग्रहीतु । साधूंचा निरूपितु । ते आपुलियापरी अलंकारितु । भलतयापरी ॥1-82॥",
+      "marathiMeaning": "त्याप्रमाणे मी साधूंच्या अनुग्रहित असून साधूंचा निरोप सांगणार आहे. त्यामुळे त्यांनी मला भाष्य करताना हवे तेवढे अलंकृत करावे.",
+      "englishMeaning": "Similarly I am blessed by the sages and directed by them. They may beautify and adorn me as they wish.",
+      "verified": true
+    },
+    {
+      "verseNumber": 83,
+      "original": "तव श्रीगुरु म्हणती राही । हे तुज बोलावे नलगे काही । आता ग्रंथा चित्त देई । झडकरी वेगा ॥1-83॥",
+      "marathiMeaning": "तेंव्हा सद्गुरु निवृत्तीनाथ म्हणले, ज्ञानदेवा ! आता विनवणीचे बोलणे थांबवावे आणि गीतेवर भाष्य करण्यास प्रारंभ करावा.",
+      "englishMeaning": "Upon this, the great Guru said, \"Wait, wait! It is not necessary for you to tell all this. Please turn your mind to the book itself without delay.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 84,
+      "original": "या बोला निवृत्तिदासु । पावूनि परम उल्हासु । म्हणे परियसा मना अवकाशु । देऊनिया ॥1-84॥",
+      "marathiMeaning": "सद्गुरूंची आज्ञा ऐकून निवृत्तीदास ज्ञानदेव यांना परम उल्हास झाला आणि ते म्हणाले, माझ्या मुखातून प्रकट होणारे शब्द आपण शांत मनाने श्रवण करावेत.",
+      "englishMeaning": "On this advice, the servant of saint Nivrutti (viz. Dnyandeva) was overjoyed and said, \"Now, please listen, giving generous attention, to what is being said.",
+      "verified": true
+    },
+    {
+      "verseNumber": 85,
+      "original": "तरी पुत्रस्नेहे मोहितु । धृतराष्ट्र असे पुसतु । म्हणे संजया सांगे मातु । कुरुक्षेत्रीची ॥1-85॥",
+      "marathiMeaning": "पुत्रांच्या प्रेमाने मोहित झालेला धृतराष्ट्र राजा हा संजयास म्हणाला, &#8221; हे संजय ! कुरुक्षेत्रांवर काय घडत आहे, ती हकीकत मला सांग.",
+      "englishMeaning": "Dhritarashtra was much attached to his son. He asked, \"O Sanjaya, please tell me the news from Kurukshetra, the battlefield.",
+      "verified": true
+    },
+    {
+      "verseNumber": 86,
+      "original": "जे धर्मालय म्हणिजे । तेथ पांडव आणि माझे । गेले असती व्याजे । जुंझाचेनि ॥1-86॥",
+      "marathiMeaning": "ज्या कुरुक्षेत्राला धर्माचे स्थान म्हणतात, तेथे पंडुचे पुत्र आणि माझे पुत्र युद्धाच्या निमित्ताने गेले आहेत.",
+      "englishMeaning": "That is a field which is called a religious place. There the Pandavas and my sons have gone for fighting.",
+      "verified": true
+    },
+    {
+      "verseNumber": 87,
+      "original": "तरी तेचि येतुला अवसरी । काय किजत असे येरयेरी । ते झडकरी कथन करी । मजप्रती ॥1-87॥",
+      "marathiMeaning": "तरी ते परस्परात एवढा वेळ काय करीत आहेत, हे मला लवकर सांग.",
+      "englishMeaning": "So, please tell me quickly what they did during this time.",
+      "verified": true
+    },
+    {
+      "verseNumber": 88,
+      "original": "तिये वेळी तो संजय बोले । म्हणे पांडव सैन्य उचलले । जैसे महाप्रळयी पसरले । कृतांतमुख ॥1-88॥",
+      "marathiMeaning": "संजय म्हणाला तेव्हा संजय म्हणाला, ज्याप्रमाणे महाप्रलयाचे वेळी काळाने आपले विशाल तोंड उघडलेले असते, त्याप्रमाणे पांडवाचे सैन्य युद्धासाठी प्रक्षुब्ध झाले आहे.",
+      "englishMeaning": "At that time, Sanjaya said, \"The army of Pandavas appeared like the open jaws of death at the time of total destruction of the universe.",
+      "verified": true
+    },
+    {
+      "verseNumber": 89,
+      "original": "तैसे ते घनदाट । उठावले एकवाट । जैसे उसळले काळकूट । धरी कवण ॥1-89॥",
+      "marathiMeaning": "त्याप्रमाणे त्या घनदाट सैन्याने एकत्रितपणाने उठाव केला आहे. काळकूट नावाचे विष उचळले, तर त्याला कोण बरे शांत करू शकणार?",
+      "englishMeaning": "The concentrated army collectively upsurged just like the boiling poison Kalakoota. Who can prevent it?",
+      "verified": true
+    },
+    {
+      "verseNumber": 90,
+      "original": "नातरी वडवानळु सादुकला । प्रळयवाते पोखला । सागरु शोषूनि उधवला । अंबरासी ॥1-90॥",
+      "marathiMeaning": "किंवा वडवानल पेटून प्रज्वलित होऊन वाऱ्याच्या साहाय्याने वाढत चालला, तर तो जसा सागरालाही शोषून आकाशापर्यंत धडकतो,",
+      "englishMeaning": "Or, it appeared as if the fire in the ocean has become very forceful by the winds of destruction and having sucked up the ocean dry, has risen up to the high skies.",
+      "verified": true
+    },
+    {
+      "verseNumber": 91,
+      "original": "तैसे दळ दुर्धर । नानाव्यूही परीकर । अवगमले भयासुर । तिये काळी ॥1-91॥",
+      "marathiMeaning": "त्याप्रमाणे विविध प्रकारच्या व्युहांची रचना करून युद्धासाठी सज्ज झालेले सैन्य महाभयंकर दिसत आहे.",
+      "englishMeaning": "Similar to these, that well-organised uncontrollable army which was arranged in various strategic positions of warriors, appeared very fearsome.",
+      "verified": true
+    },
+    {
+      "verseNumber": 92,
+      "original": "ते देखोनिया दुर्योधने । अव्हेरिले कवणे माने । जैसे न गणिजे पंचानने । गजघटांते ॥1-92॥",
+      "marathiMeaning": "ज्याप्रमाणे सिंह हत्तीच्या कळपाळा मोजत नाही, त्याप्रमाणे ते विशाल सैन्य पाहून दुर्योधनाने त्याची काहीच पर्वा केली नाही.",
+      "englishMeaning": "However, though Duryodhana saw that army, he did not care about it, just as a lion does not care about a group of elephants.",
+      "verified": true
+    },
+    {
+      "verseNumber": 93,
+      "original": "मग द्रोणापासी आला । तयाते म्हणे हा देखिला । कैसा दळभारू उचलला । पांडवांचा ॥1-93॥",
+      "marathiMeaning": "नंतर दुर्योधन द्रोणाचर्याजवळ जवळ येऊन त्यांना म्हणाला, पांडवाचे हे सैन्य युद्धासाठी कसे उसळले आहे, ते पहिले का?",
+      "englishMeaning": "Then he came up to Drona and said to him, \"Have you seen how the army of Pandavas has taken an offensive stance?",
+      "verified": true
+    },
+    {
+      "verseNumber": 94,
+      "original": "गिरिदुर्ग जैसे चालते । तैसे विविध व्यूह सभंवते । रचिले आथी बुद्धिमंते । द्रुपदकुमरे ॥1-94॥",
+      "marathiMeaning": "बुद्धिवंत असा जो द्रुपदपुत्र धृष्टदुउम त्याने विविध प्रकारचे विशाल व्यूह सभोवार रचले आहेत. ते चालत्या डोंगरी किल्ल्याप्रमाणे दिसत आहेत.",
+      "englishMeaning": "The various strategic arrangements of their army are like mountain-forts on the move. These arrangements are made by Dhrushtadyumna, who is the intelligent son of Drupada.",
+      "verified": true
+    },
+    {
+      "verseNumber": 95,
+      "original": "जो हा तुम्ही शिक्षापिला । विद्या देऊनि कुरुठा केला । तेणे हा सैन्यसिंहु पाखरिला । देख देख ॥1-95॥",
+      "marathiMeaning": "ज्याला तुम्ही शिकविले, विद्या देऊन शहाणे केले, त्या धृष्टदुउमनाने हा सेनासागर सर्वत्र पसरविला आहे, तो आपण पाहा.",
+      "englishMeaning": "O Master! See! See! How this Dhrushtadyumna to whom you taught and made Master of the science of war, has spread out at large the ocean of the army of Pandavas!",
+      "verified": true
+    },
+    {
+      "verseNumber": 96,
+      "original": "आणिकही असाधारण । जे शस्त्रास्त्री प्रवीण । क्षात्रधर्मी निपुण । वीर आहाती ॥1-96॥",
+      "marathiMeaning": "आणखी जे शस्त्रात्रांत अतिप्रवीन आणि शस्त्रधर्मामध्ये निपुण असे महान योद्धे आहेत,",
+      "englishMeaning": "There are also extraordinary warriors who have mastery over all the weapons and missiles, and are experts in the skill and duty of kshatriyas.",
+      "verified": true
+    },
+    {
+      "verseNumber": 97,
+      "original": "जे बळे प्रौढी पौरुषे । भीमार्जुनांसारिखे । ते सांगेन कौतुके । प्रसंगेची ॥1-97॥",
+      "marathiMeaning": "हे शक्तीने, महाधैर्याने आणि पराक्रमाने भीम व अर्जुन यासारखे आहेत. त्यांची नावे प्रसंग आला म्हणून कौतुकाने म्हणून सांगतो.",
+      "englishMeaning": "There are heroes who are equal to Bheema and Arjuna in physical strength, pride and bravery. I am going to tell you their names as the occasion arises.",
+      "verified": true
+    },
+    {
+      "verseNumber": 98,
+      "original": "एथ युयुधानु सुभटु । आला असे विराटु । महारथी श्रेष्ठु । द्रुपद वीरु ॥1-98॥",
+      "marathiMeaning": "या रणांगणामध्ये महायोद्धा युयुधान, विराट राजा आणि महारथ्यात श्रेष्ठ असा द्रुपद राजा आले आहेत.",
+      "englishMeaning": "In this army are gathered the great fighter Yuyudhana and Virata as also Drupada the great chariotrider and hero par excellence.",
+      "verified": true
+    },
+    {
+      "verseNumber": 99,
+      "original": "चेकितान धृष्टकेतु । काशिराज वीर विक्रांतु । उत्तमौजा नृपनाथु । शैब्य देख ॥1-99॥",
+      "marathiMeaning": "चेकितान, धृष्टकेतू, पराक्रमी असा काशीराज, नृपश्रेष्ठ उत्तमौजा व शैब्य राजा पाहा.",
+      "englishMeaning": "Please see Chekitana, Dhristaketu, Kashiraja who is fighter of great valour, then the king Uttamouja, and Shaibya, the son of Shibi.",
+      "verified": true
+    },
+    {
+      "verseNumber": 100,
+      "original": "हा कुंतिभोज पाहे । एथ युधामन्यु आला आहे । आणि पुरुजितादि राय हे । सकळ देख॥1-100॥",
+      "marathiMeaning": "हा कुंतीभोज पाहा, येथे युधामन्यु आलेला आहे. आणखी हे पुरुजित वगैरे सर्वच राजे आलेले आहेत, ते पाहा.",
+      "englishMeaning": "Please see Kuntibhoja. Yudhamanyu has also come here and kings like Purujit etc. have also gathered.",
+      "verified": true
+    },
+    {
+      "verseNumber": 101,
+      "original": "हा सुभद्राहृदयनंदनु । जो अपरु नवार्जुनु । तो अभिमन्यु म्हणे दुर्योधनु । देखे द्रोणा ॥1-101॥",
+      "marathiMeaning": "दुर्योधन पुन्हा म्हणाला, हे द्रोणाचार्य ! सुभद्रेच्या अंतःकरणाला आनंद देणारा तिचा मुलगा प्रतिअर्जुन असा अभिमन्यू पाहा.",
+      "englishMeaning": "Duryodhana said to Drona, ''O Drona, please see this Abhimanyu who is the giver of joy to the heart of his mother Subhadra and is as if a new Arjuna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 102,
+      "original": "आणीकही द्रौपदीकुमर । हे सकळही महारथी वीर । मिती नेणिजे परी अपार । मीनले असती ॥1-102॥",
+      "marathiMeaning": "शिवाय, द्रौपदीचे पुत्रही रणांगणात आले आहेत. हे सर्वही योद्धे महारथी आणि शूरवीर आहेत. पांडवांच्या सेनेत आणखी किती वीर आहेत हे मला माहित नाही; परंतु असंख्य अपरिचित पराक्रमी वीर येथे जमले आहेत.",
+      "englishMeaning": "There are other sons of Draupadi. All these are great heros, chariotriders, who are gathered in such a large number that they cannot be counted.",
+      "verified": true
+    },
+    {
+      "verseNumber": 103,
+      "original": "आता आमुच्या दळी नायक । जे रूढवीर सैनिक । ते प्रसंगे आइक । सांगिजती ॥1-103॥",
+      "marathiMeaning": "आता आमच्या सैन्यातील प्रसिद्ध असे शूर सैनिक, सेनाप्रमुख जे आहेत त्यांचीही नावे प्रसंगाच्या अनुरोधाने सांगतो, ते आपण ऐकावे.",
+      "englishMeaning": "Now I will tell you the leaders of our army who are well-experienced soldiers. Please listen.",
+      "verified": true
+    },
+    {
+      "verseNumber": 104,
+      "original": "उद्देशे एक दोनी । जायिजती बोलोनी । तुम्ही आदिकरूनी । मुख्य जे जे ॥104॥",
+      "marathiMeaning": "तुम्ही आदी करून जे प्रमुख वीर आहात, त्यापैकी एक-दोन नावे थोडक्यात सांगतो.",
+      "englishMeaning": "I will tell you the names of only top-ranking main warriors of your calibre, just as an indication.",
+      "verified": true
+    },
+    {
+      "verseNumber": 105,
+      "original": "हा भीष्म गंगानंदनु । जो प्रतापतेजस्वी भानु । रिपुगजपंचाननु । कर्णवीरु ॥1-105॥",
+      "marathiMeaning": "पराक्रमाने सूर्यासारखा तेजस्वी असणारा असा हा गंगेचा पुत्र म्हणजे भीष्म आहे आणि शत्रुरूपी हत्तीला जणू काही सिंहासारखा असणारा हा वीर कर्ण आपल्या सेनेमध्ये आहे.",
+      "englishMeaning": "Here is Bheeshma, son of Ganga, who is by his bravery as brilliant as Sun and the warrior Karna who is like a lion against the elephant-like enemy.",
+      "verified": true
+    },
+    {
+      "verseNumber": 106,
+      "original": "या एकेकाचेनी मनोव्यापारे । हे विश्व होय संहरे । हा कृपाचार्यु न पुरे । एकलाचि ॥1-106॥",
+      "marathiMeaning": "या एकाच्याही फक्त मनात आले, तर या विश्वाचा संहार होऊन जाईल. एवढेच काय, एकटे कृपाचार्यदेखील हे कृत्य करू शकतील.",
+      "englishMeaning": "By merely the will of each of these, this world can come into existence and be destroyed. Will not this Kripacharya alone be sufficient to finish everything easily?",
+      "verified": true
+    },
+    {
+      "verseNumber": 107,
+      "original": "एथ विकर्ण वीरु आहे । हा अश्वत्थामा पैल पाहे । याचा आडदरु सदां वाहे । कृतांतु मनी ॥1-107॥",
+      "marathiMeaning": "येथे विकर्ण महावीर आहे. तो पाहा, पलीकडे अश्वत्थामा आहे. काळाला देखील सदैव याची भीती वाटत असते.",
+      "englishMeaning": "Here is the brave Vikarna and beyond, there is Ashwatthama to whom the God of death also fears in his heart.",
+      "verified": true
+    },
+    {
+      "verseNumber": 108,
+      "original": "समितिंजयो सौमदत्ती । ऐसे आणीकही बहुत आहाती । जयांचिया बळा मिती । धाताही नेणे ॥1-108॥",
+      "marathiMeaning": "त्याचप्रमाणे विजयश्री प्राप्त करणारा सोमदत्ताचा पुत्र भुरिश्रवा व त्यासारखे असे आणखीन खूप महावीर आहेत. त्यांच्या सामर्थ्याची मर्यादा ब्रम्हदेवालाही समजू शकत नाही.",
+      "englishMeaning": "There are many more like Soumadatti, who is victorious over large group of soldiers; and those whose strength cannot be measured even by God the Creator.",
+      "verified": true
+    },
+    {
+      "verseNumber": 109,
+      "original": "जे शास्त्रविद्यापारंगत । मंत्रावतार मूर्त । हो का जे अस्त्रजात । एथूनि रूढ ॥109॥",
+      "marathiMeaning": "हे अस्त्रविद्येमध्ये तरबेज आहेत, जणू काही मंत्रविद्येचे प्रत्येक्ष अवतारच आहेत. यांच्यापासूनच अस्त्रविद्देचा प्रसार होऊन ती रूढ झाली आहेत.",
+      "englishMeaning": "These are experts in the science of war-fare and the very images of Mantras. They have as if become pioneers of the tradition of use of missiles.",
+      "verified": true
+    },
+    {
+      "verseNumber": 110,
+      "original": "हे अप्रतिमल्ल जगी । पुरता प्रतापु अंगी । हे अप्रतिमल्ल जगी । पुरता प्रतापु अंगी । परी सर्व प्राणे मजलागी । आरायिले असती ॥1-110॥",
+      "marathiMeaning": "या जगात हे अप्रतिम योद्धे आहेत. त्यांच्या अंगी पुरेपुर बळ, सामर्थ्य आहे. असे हे सर्व वीर असूनही ते जिवावरती उदार होऊन माझ्या बाजूला येऊन मिळालेले आहेत.",
+      "englishMeaning": "These are unequalled in the world and they are fully imbibed with valour but they have totally staked their lives for my sake.",
+      "verified": true
+    },
+    {
+      "verseNumber": 111,
+      "original": "पतिव्रतेचे हृदय जैसे । पतिवाचूनि न स्पर्शे । मी सर्वस्व या तैसे । सुभटांसी ॥1-111॥",
+      "marathiMeaning": "ज्याप्रमाणे पतिव्रतेचे हृदय शुद्ध असते, ते मनाने देखील पतीशिवाय कोणाला स्पर्श करत नाही, त्याप्रमाणे या शूरवीरांना मीच सर्वस्व आहे.",
+      "englishMeaning": "As the heart of a faithful wife does not touch anyone other than her husband, so, for these great warriors I am their whole and sole.",
+      "verified": true
+    },
+    {
+      "verseNumber": 112,
+      "original": "आमुचिया काजाचेनि पाडे । देखती आपुले जीवित थोकडे । ऐसे निरवधि चोखडे । स्वामिभक्त ॥1-112॥",
+      "marathiMeaning": "आमच्या या कार्यापुढे यांना आपल्या जीवाचेदेखील काही वाटत नाही. ते प्राणाची पर्वा करत नाहीत. ते निस्सीम स्वामिभक्त आहेत.",
+      "englishMeaning": "They consider their life as nothing when compared to our cause. These are true devotees of limitless loyalty.",
+      "verified": true
+    },
+    {
+      "verseNumber": 113,
+      "original": "झुंजती कुळकणी जाणती । कळे किर्तीसी जिती । हे बहु असो क्षात्रनीति । एथोनिया ॥113॥",
+      "marathiMeaning": "हे सर्व युद्धकलेत कुशल आहेत; त्यामुळे जय मिळवून कीर्ती निर्माण करणारे आहेत. क्षात्रधर्म मुळात त्यांच्यापासूनच निर्माण झाला आहे.",
+      "englishMeaning": "They know the skill of war, it is they who have kept the fame of science of war alive. Even the spirit of the fighter caste, Kshatriyas, has its beginning in them.",
+      "verified": true
+    },
+    {
+      "verseNumber": 114,
+      "original": "ऐसे सर्वापरि पुरते । वीर दळी आमुते । आतं काय गणू याते । अपार हे ॥1-114॥",
+      "marathiMeaning": "याप्रमाणे युद्धकलेत परिपूर्ण असे वीर आमच्या सैन्यात आहेत. ते अपार असल्यामुळे त्यांची गणना करता येत नाही",
+      "englishMeaning": "Such greatest warriors are there in our army. How can I count them? They are numberless.",
+      "verified": true
+    },
+    {
+      "verseNumber": 115,
+      "original": "वरी क्षत्रियांमाजी श्रेष्ठु । जो जगजेठी जगी सुभटु । तया दळवैपणाचा पाटु । भीष्मासि पै ॥1-115॥",
+      "marathiMeaning": "शिवाय, क्षत्रियांमध्ये श्रेष्ठ आणि जगात प्रसिद्ध असलेले असे योद्धे जे भीष्माचार्य आहेत, त्यांना सैन्याचे आधिपत्य दिले आहे.",
+      "englishMeaning": "Among these, the greatest of all the Kshatriyas, the senior-most of the fighters of the world is Bheeshma who has been honoured as commander-in-chief.",
+      "verified": true
+    },
+    {
+      "verseNumber": 116,
+      "original": "आता याचेनि बळे गवसले । हे दुग जैसे पन्नासिले । येणे पाडे थेकुले । लोकत्रय ॥1-116॥",
+      "marathiMeaning": "भीष्माचार्यांनी या सैन्याची अशी काही रचना केली आहे की, सुरक्षिततेसाठी जणू काही मजबुत असे किल्लेच उभारले आहेत. यांच्यासमोर त्रैलोक्यदेखील तोकडे वाटते.",
+      "englishMeaning": "And all this army being covered and protected by the power of Bheeshma, seems like a great fort, properly built and the three worlds as if appear smaller than it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 117,
+      "original": "आधींच समुद्र पाही । तेथ दुवाडपण कवणा नाही । मग वडवानळु तैसे याही । विरजा जैसा ॥1-117॥",
+      "marathiMeaning": "समुद्र हा मुळातच सर्वाना भीतिदायक आहे आणि त्या समुद्राला जर वडवानळाने साहाय्य केले, तर तो अधिकच भयानक होणार.",
+      "englishMeaning": "Ocean is originally already difficult to be crossed and the fire in the ocean may add its ferocity to it;",
+      "verified": true
+    },
+    {
+      "verseNumber": 118,
+      "original": "ना तरी प्रळयवन्ही महावातु । या दोघां जैसा सांधातु । तैसा हा गंगासुतु । सेनापति ॥1-118॥",
+      "marathiMeaning": "प्रलयकाळचा महान अग्नी आणि प्रलयकाळचा महाभयंकर वारा या दोघांचा जसा संयोग घडावा, त्याप्रमाणे हा गंगापुत्र आहे; आणि त्याला सेनापतिपद मिळालेले आहे.",
+      "englishMeaning": "Or the fires of total destruction and the great tornado may come together. Similar is the case with Bheeshma, the son of Ganga, being the commander-in-chief.",
+      "verified": true
+    },
+    {
+      "verseNumber": 119,
+      "original": "आता येणेसि कवण भिडे । हे पांडवसैन्य कीर थोकडे । परि वरचिलेनि पाडे । दिसत असे ॥1-119॥",
+      "marathiMeaning": "तरी आमच्या सैन्याबरोबर कोण बरे लढू शकेल? आम्ही वर्णन केलेल्या सैन्यापुढे पांडवाचे सैन्य अपुरे दिसत आहे.",
+      "englishMeaning": "Now, who can confront this army? On the other hand, the army of Pandavas is very small, but even that army appears to be vast.",
+      "verified": true
+    },
+    {
+      "verseNumber": 120,
+      "original": "वरी भीमसेनु बेथु । तो जाहला असे सेनानाथु । ऐसे बोलोनिया मातु । सांडिली तेणे ॥1-120॥",
+      "marathiMeaning": "शिवाय युद्धातील कैशल्य न जाणणारा भीम हा पांडव-सैन्याचा अधिपती झाला आहे. दुर्योधनाने एवढे बोलून सैन्याचे वर्णन थांबविले.",
+      "englishMeaning": "Over and above this, the burly Bheema is the leader of that army-'' So saying Duryodhana ended his speech.",
+      "verified": true
+    },
+    {
+      "verseNumber": 121,
+      "original": "मग पुनरपि काय बोले । सकळ सैनिकांते म्हणितले । आता दळभार आपुलाले । सरसे करा ॥1-121॥",
+      "marathiMeaning": "मग पुन्हा दुर्योधन सर्व सेनांप्रमुखाना म्हणाला, आता आपापल्या सैन्याला सज्य करा.",
+      "englishMeaning": "Then again he addressed all his soldiers, \"Now keep all your companies well-arrayed.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 122,
+      "original": "जया जिया अक्षौहिणी । तेणे तिया आरणी । वरगण कवणकवणी । महारथीया ॥1-122॥",
+      "marathiMeaning": "ज्या प्रमुख सेनापतीँच्या सत्तेखाली ज्या अक्षौहिणी सेना आहेत, त्यांनी आपल्या सेनेवर युद्ध संपेपर्यँत पूर्ण नियंत्रण ठेवावे. विशेष सेनापती म्हणून जे महारथी आहेत.",
+      "englishMeaning": "All leaders should see that the great chariotriders who have been given the charge of their respective Akshouhini (divisions of army).",
+      "verified": true
+    },
+    {
+      "verseNumber": 123,
+      "original": "तेणे तिया आवरिजे । भीष्मातळी राहिजे । द्रोणाते म्हणे पाहिजे । तुम्ही सकळ ॥1-123॥",
+      "marathiMeaning": "त्यांनी सर्व सैन्यावर देखरेख करावी. तसेच प्रमुख सैनिकांनी भीष्म सांगतील, त्याप्रमाणे वागावे. दुर्योधन एवढे बोलून द्रोणाचार्यांना म्हणाला, तुम्ही सर्वावर लक्ष ठेवावे.",
+      "englishMeaning": "Exercise proper control over the division and be under the command of Bheeshma.\" Again Duryodhana turned to Drona and said, \"Please listen! All of you -\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 124,
+      "original": "हाचि एकु रक्षावा । मी तैसा हा देखावा । येणे दळभारु आघवा । साचु आमुचा ॥1-124॥",
+      "marathiMeaning": "भीष्माचार्याचे सर्वानी मिळून रक्षण करावे. माझ्याप्रमाणे त्याना रक्षणीय मानावे. त्यांच्यामूळे आमची सर्व सेना विजय प्राप्त करण्यास समर्थ आहे.",
+      "englishMeaning": "Should protect Bheeshma alone by respecting him as equal to me, because the strength of all our army is dependant upon him.",
+      "verified": true
+    },
+    {
+      "verseNumber": 125,
+      "original": "या राजयाचिया बोला । सेनापति संतोषला । मग तेणे केला । सिंहनादु ॥125॥",
+      "marathiMeaning": "दुर्योधन राजाचे बोलणे ऐकून सेनापती भीष्माचार्याना संतोष झाला आणि त्यांनी सिहंनादासमान गर्जना केली.",
+      "englishMeaning": "Listening to these words of the King, the commander-in-chief was pleased and he roared.",
+      "verified": true
+    },
+    {
+      "verseNumber": 126,
+      "original": "तो गाजत असे अद्‍भुतु । दोन्ही सैन्याआंतु । प्रतिध्वनि न समातु । उपजत असे ॥1-126॥",
+      "marathiMeaning": "तो प्रचंड नाद दोन्ही सैन्यात दुमदुमून गेला. त्या नादाचा प्रतिध्वनी आकाशात देखील मावेना; आणि आकाशातून पुनः पुन्हा नवीन नाद निर्माण होऊ लागले.",
+      "englishMeaning": "That great voice thundered in both the armies in such a way that its echo could not be contained anywhere.",
+      "verified": true
+    },
+    {
+      "verseNumber": 127,
+      "original": "तयाचि तुलगासवे । वीरवृत्तीचेनि थावे । दिव्य शंख भीष्मदेवे । आस्फुरिला ॥1-127॥",
+      "marathiMeaning": "भीष्माचार्यानी आपल्या वीर वृत्तीप्रमाणे त्या पहिल्या नादाबरोबर आपला दिव्य शंख वाजविला.",
+      "englishMeaning": "Inspired more by the echo, the great Bheeshma blew his divine conch with greater force.",
+      "verified": true
+    },
+    {
+      "verseNumber": 128,
+      "original": "ते दोन्ही नाद मीनले । तेथ त्रैलोक्य बधिरीभूत जाहले । जैसे आकाश का पडिले । तुटोनिया ॥1-128॥",
+      "marathiMeaning": "ते दोन्ही महानाद एकत्र झाले, त्या वेळी त्रैलोक्याच्या कानठळ्या बसल्या. त्या वेळी आता जणू काय आकाश तुटून पडते की काय, असे वाटू लागले.",
+      "englishMeaning": "When his roaring and the resounding of the conch were mixed with each other, it was felt, as if the three worlds were deafened, or as if the whole sky fell down with a great noise.",
+      "verified": true
+    },
+    {
+      "verseNumber": 129,
+      "original": "घडघडीत अंबर । उचंबळत सागर । क्षोभले चराचर । कांपत असे ॥1-129॥",
+      "marathiMeaning": "त्या प्रचंड नादामुळे आकाश भीतीने थडथडू लागले, समुद्रातील लाटा उसळल्या; आणि सर्व चराचर भीतीने कापू लागले.",
+      "englishMeaning": "There was thundering sound in the sky, the ocean became turbulent and the greatly disturbed nature, with all the creatures, began to tremble.",
+      "verified": true
+    },
+    {
+      "verseNumber": 130,
+      "original": "तेणे महाघोषगजरे । दुमदुमिताती गिरिकंदरे । तव दळामाजी रणतुरे । आस्फुरिली ॥1-130॥",
+      "marathiMeaning": "त्या प्रचंड नादाने डोंगर-दऱ्यातून प्रतिध्वनी निर्माण होऊ लागले. त्याच वेळी सैन्यात रणवाद्ये वाजू लागली.",
+      "englishMeaning": "While the great harangue was echoing repeatedly in the caves of the mountains far away, there began the great beating and sounding of war-drums.",
+      "verified": true
+    },
+    {
+      "verseNumber": 131,
+      "original": "उदंड सैंघ वाजते । भयानखे खाखाते । महाप्रळयो जेथे । धाकडांसी ॥1-131॥",
+      "marathiMeaning": "जिकडे तिकडे रणवाद्ये कर्कश व भयानक स्वरूपात वाजू लागली. बलशाही लोकांना देखील तो महाप्रलय वाटला.",
+      "englishMeaning": "When the tumult of the war-drums began with great deafening and terrifying sound, the great leading warriors felt that, it was the time of total destruction.",
+      "verified": true
+    },
+    {
+      "verseNumber": 132,
+      "original": "भेरी निशाण मांदळ । शंख काहळ भोंगळ । आणि भयासुर रणकोल्हाळ । सुभटांचे ॥1-132॥",
+      "marathiMeaning": "नौबती, डंके, ढोल, शंख, मोठं-मोठया झान्जा, कर्णे इत्यादी रणवाद्यांचा गजर सुरु झाला; आणि त्यात वीरांच्या भयानक रनगर्जना मिसळून गेल्या.",
+      "englishMeaning": "What to say about cowards? Those who were not so brave were thrown off-balance! One can even say that the God of death was also so much afraid that he dared not stay steady.",
+      "verified": true
+    },
+    {
+      "verseNumber": 133,
+      "original": "आवेशे भुजा त्राहाटिती । विसणेले हाका देती । जेथ महामद भद्रजाती । आवरती ना ॥1-133॥",
+      "marathiMeaning": "कोणी युद्धातील विरश्रीच्या आवेशाने दंड ठोकू लागले आणि अतिशय त्वेषाने युद्धासाठी एकमेकांना हाका मारू लागले. त्यामुळे हत्तीदेखील बेफाम झाले आणि त्यांना आवरणे अशक्य झाले.",
+      "englishMeaning": "The battle-drums like bheri, Nishana, mandala, conch, Kahala, horns, cymbals and others, created terrific sound which was accompanied and mixed with the war-cries of the great fighters.",
+      "verified": true
+    },
+    {
+      "verseNumber": 134,
+      "original": "तेथ भेडांची कवण मातु । कांचया केर फिटतु । जेणे दचकला कृतांतु । आंग नेघे ॥1-134॥",
+      "marathiMeaning": "तेथील भित्रा माणसाचे तर काय सांगावे? ते कस्पटासारखे दूर गेले. यमालादेखील दहशत बसली आणि तो इकडे पाहण्यास तयार होईना.",
+      "englishMeaning": "Some of the fighters bet their arms by their hands, patting them with pride and some began to shout angrily while the great wild elephants became uncontrollable.",
+      "verified": true
+    },
+    {
+      "verseNumber": 135,
+      "original": "एका उभयाचि प्राण गेले । चांगांचे दांत बैसले । बिरुदाचे दादुले । हिंवताती ॥1-135॥",
+      "marathiMeaning": "कित्येकांचे तिथेच प्राण गेले. जे धैर्यवान होते, त्यांची दातखिळी बसली. जे नामवंत वीर होते, ते थरथर कापू लागले.",
+      "englishMeaning": "The effect of this sound was that some were dead while standing, many brave soldiers gritted their teeth with fear and those who were swearing earlier were also silent with fearful shivering!",
+      "verified": true
+    },
+    {
+      "verseNumber": 136,
+      "original": "ऐसा अद्भुत तूरबंबाळु । ऐकोनि ब्रह्मा व्याकुळु । देव म्हणती प्रळयकाळु । वोढवला आजी ॥1-136॥",
+      "marathiMeaning": "अशा प्रकारचा महाभयंकर वाद्यनाद ऐकून ब्राम्हदेवदेखील व्याकुळ झाले. आपला प्रलयकाळ जवळ आला आहे, असे देव म्हणू लागले.",
+      "englishMeaning": "Even the God Brahma became afraid by listening to the tumult of the war-gongs and the gods began to say \"Is the time of total annihilation really at hand!\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 137,
+      "original": "ऐसी स्वर्गी मातु । देखोनि तो आकांतु । तव पांडवदळाआंतु । वर्तले कायी ॥1-137॥",
+      "marathiMeaning": "तो आकांत पाहून स्वर्गलोकामध्ये प्रलयकालाची साशंकता निर्माण झाली. त्या वेळी इकडे पांडवसैन्यामध्ये काय घडले, ते श्रवण करा.",
+      "englishMeaning": "While in the heaven the conditions were so tragic, what happened in the army of Pandavas?",
+      "verified": true
+    },
+    {
+      "verseNumber": 138,
+      "original": "हो का निजसार विजयाचे । की ते भांडार महातेजाचे । जेथ गरुडाचिये जावळियेचे । कांतले चार्‍ही ॥1-138॥",
+      "marathiMeaning": "जे का विजयाचे केवळ सार, महातेजाचे भांडार आणि जे वेगाच्या बाबतीत गरुडाची बरोबरी करू शकतील, असे चार घोडे जुंपले असून,",
+      "englishMeaning": "The chariot of Arjuna was as if the essence of victory in war or the store-house of great brilliance and there were four horses yoked to that chariot, who were as if twins of the divine eagle in the matter of speed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 139,
+      "original": "की पाखांचा मेरु जैसा । रहंवरु मिरवतसे तैसा । तेजे कोंदाटलिया दिशा । जयाचेनि ॥1-139॥",
+      "marathiMeaning": "पंख असलेला मेरू पर्वत जसा असावा, त्याप्रमाणे ज्याच्या दिव्य तेजाने सर्व दिशा भरून गेल्या आहेत, असा तो अतिवेगवान रथ त्या सैन्यात शोभत होता.",
+      "englishMeaning": "That chariot was looking like a flying mountain `Meru' and all the ten directions were filled with its great light.",
+      "verified": true
+    },
+    {
+      "verseNumber": 140,
+      "original": "जेथ अश्ववाहकु आपण । वैकुंठीचा राणा जाण । तया रथाचे गुण । काय वर्णू ॥1-140॥",
+      "marathiMeaning": "अशा त्या रथावर वैकुंठाचा राजा (अधिपती) भगवान श्रीकृष्ण घोडे हाकीत होता, त्या रथाचे गुण काय बरे वर्णन करावेत??",
+      "englishMeaning": "The God Narayana who is the King of Vaikuntha was the charioteer to control its horses. How can I describe the quality of that chariot sufficiently!",
+      "verified": true
+    },
+    {
+      "verseNumber": 141,
+      "original": "ध्वजस्तंभावरी वानरु । तो मुर्तिमंत शंकरु । सारथी शारङ्गधरु । अर्जुनेसी ॥1-141॥",
+      "marathiMeaning": "त्या रथाच्या ध्वजस्तंभावर प्रत्येक्ष शंकराचा अवतार मारुती होता. अर्जुनासह रथावर बसलेले श्रीकृष्ण रथाचे सारथी होते.",
+      "englishMeaning": "The monkey Hanuman on the flag was the very image of Lord Shankara; and Lord Shri Krishna (the holder of the bow Sharnga), was the driver.",
+      "verified": true
+    },
+    {
+      "verseNumber": 142,
+      "original": "देखा नवल तया प्रभूचे । अद्‍भुत प्रेम भक्ताचे । जे सारथ्यपण पार्थाचे । करितु असे ॥1-142॥",
+      "marathiMeaning": "त्या विश्वचालक प्रभूंचे नवल पाहा. प्रभूच्या मनात भक्तांविषयी अतिविलक्षण असे प्रेम आहे; म्हणून तो विश्वनियंता असूनदेखील अर्जुनाचे सारथ्य करत होता.",
+      "englishMeaning": "See the great, wonderful love of God for His devotee, evinced by His doing the duty of a charioteer for Partha (Arjuna).",
+      "verified": true
+    },
+    {
+      "verseNumber": 143,
+      "original": "पाइकु पाठीसी घातला । आपण पुढा राहिला । तेणे पाञ्चजन्यु आस्फुरिला । अवलीळाचि ॥1-143॥",
+      "marathiMeaning": "त्याने आपल्या भक्ताला पाठीशी घातले आणि सर्व संकटाचे निवारण करण्यासाठी आपण पुढे बसला. त्या श्रीकृष्णाने पांचजन्य नावाचा शंख सहज लीलेने वाजविला.",
+      "englishMeaning": "He kept his servant at the back and Himself remained in front. He blew his conch Panchajanya easily.",
+      "verified": true
+    },
+    {
+      "verseNumber": 144,
+      "original": "परि तो महाघोषु थोरु । गर्जतु असे गंहिरु । जैसा उदेला लोपी दिनकरु । नक्षत्रांते ॥1-144॥",
+      "marathiMeaning": "ज्याप्रमाणे सूर्याचा उदय झाला की नक्षत्रे लोप पावतात, त्याप्रमाणे शंखांचा ध्वनी सर्वत्र घुमत राहिला.",
+      "englishMeaning": "But the sound of that conch was so great that just as the stars disappear when the Sun rises;",
+      "verified": true
+    },
+    {
+      "verseNumber": 145,
+      "original": "तैसे तुरबंबाळु भंवते । कौरवदळी गाजत होते । ते हारपोनि नेणो केउते । गेले तेथ ॥1-145॥",
+      "marathiMeaning": "त्यामुळे कौरवांचा सैन्यामध्ये जे वाद्यांचे गजर होत होते, ते कोठे नाहीसे झाले, ते कळाले नाही.",
+      "englishMeaning": "So by this sound, the great tumult of drums of war in the army of Kauravas became inaudible, beyond recognition.",
+      "verified": true
+    },
+    {
+      "verseNumber": 146,
+      "original": "तैसाचि देखे येरे । निनादे अति गहिरे । देवदत्त धनुर्धरे । आस्फुरिला ॥1-146॥",
+      "marathiMeaning": "त्याचप्रमाणे अर्जुनानेही आपला देवदत्त नावाचा गंभीर आवाज करणारा शंख वाजविला.",
+      "englishMeaning": "Similarly the great archer, Arjuna blew his conch called Devdatta, the sound of which was very deep and vibrating.",
+      "verified": true
+    },
+    {
+      "verseNumber": 147,
+      "original": "ते दोन्ही शब्द अचाट । मिनले एकवट । तेथ ब्रह्मकटाह शतकूट । हो पाहत असे ॥1-147॥",
+      "marathiMeaning": "ह्या दोन शंखांचा अद्भुत नाद जेंव्हा एकत्र झाला, त्या वेळी ब्रह्मांडाचे शेकडो तुकडे होतात की काय, असे सर्वाना वाटू लागले.",
+      "englishMeaning": "These two sounds became one, which made one fear whether the whole universe was about to be shattered in hundreds of pieces.",
+      "verified": true
+    },
+    {
+      "verseNumber": 148,
+      "original": "तव भीमसेनु विसणैला । जैसा महाकाळु खवळला । तेणे पौण्ड्र आस्फुरिला । महाशंखु ॥1-148॥",
+      "marathiMeaning": "त्यावेळी भीमाला आवेश आला आणि तो महाकाळाप्रमाणे खवळला. त्याने आपला पौंड्र नावाचा महाशंख वाजविला.",
+      "englishMeaning": "In the next moment Bheemasena became agitated as if the God of death was tremendously angry; and he blew his great conch named Poundra.",
+      "verified": true
+    },
+    {
+      "verseNumber": 149,
+      "original": "तो महाप्रलयजलधरु । जैसा घडघडिला गहिंरु । तव अनंतविजयो युधिष्ठिरु । आस्फुरित असे ॥1-149॥",
+      "marathiMeaning": "त्या शंखांचा ध्वनी प्रलयकालचा मेघ गर्जावा, त्याप्रमाणे अतिगंभीर पणाने सर्वत्र पसरला. इतक्यात धर्मराजने 'अनंतविजय' नावाचा शंख वाजविला.",
+      "englishMeaning": "While the sound of that conch echoed and re-echoed like the thunder of the great clouds at the time of total destruction, Yudhishthira sounded his conch, which was named Ananta-Vijaya.",
+      "verified": true
+    },
+    {
+      "verseNumber": 150,
+      "original": "नकुळे सुघोषु । सहदेवे मणिपुष्पकु । जेणे नादे अंतकु । गजबजला ठाके ॥1-150॥",
+      "marathiMeaning": "नकुलाने 'सुघोष' आणि सहदेवाने 'मणीपुष्पक' शंख वाजविला. त्या महाभयंकर नादाने यमदेखील गोंधळून आश्चर्यचकित झाला.",
+      "englishMeaning": "Similarly Nakula sounded his conch Sughosha and Sahadeva, his conch Manipushpak, the sound of which conches made the God Yama greatly afraid.",
+      "verified": true
+    },
+    {
+      "verseNumber": 151,
+      "original": "तेथ भूपति होते अनेक । द्रुपद द्रौपदेयादिक । हा काशीपति देख । महाबाहु ॥1-151॥",
+      "marathiMeaning": "त्या पांडवसैन्यात द्रुपद राजा, द्रौपदीचे पाच पुत्र इत्यादी अनेक वीर, महाशक्तिशाली काशीराज होते.",
+      "englishMeaning": "There were many kings in the field, such as Drupada, the sons of Draupadi and the long - armed King of Kashi.",
+      "verified": true
+    },
+    {
+      "verseNumber": 152,
+      "original": "तेथ अर्जुनाचा सुतु । सात्यकि अपराजितु । धृष्टद्युम्नु नृपनाथु । शिखंडी हन ॥1-152॥",
+      "marathiMeaning": "त्याप्रमाणे अर्जुनाचा पुत्र अभिमन्यू, पराजित न होणारा सात्यकी, नृपश्रेष्ठ दृष्टदुम, शिखंडी,",
+      "englishMeaning": "The son of Arjuna, the invincible S�tyaki, Dhristadyumna who was a king and also Shikhandi.",
+      "verified": true
+    },
+    {
+      "verseNumber": 153,
+      "original": "विराटादि नृपवर । जे सैनिक मुख्य वीर । तिही नानाशंख निरंतर । आस्फुरिले ॥1-153॥",
+      "marathiMeaning": "तसेच विराट आणि इतर जे जे सेनापती होते, त्यांनी आपापली शंख वाजविण्यास प्रारंभ केला.",
+      "englishMeaning": "The kings like Vir�ta etc. who were the leading warriors in the army also blew various conches incessantly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 154,
+      "original": "तेणे महाघोषनिर्घाते । शेष कूर्म अवचिते । गजबजोनि भूभाराते । सांडू पाहती ॥1-154॥",
+      "marathiMeaning": "त्या शंखांचा महाध्वनी ऐकून शेष व कुर्मदेखील दचकून गेले आणि पृथ्वीचा भार टाकून देण्यास ते प्रवृत्त झाले",
+      "englishMeaning": "By that great sound, the Tortoise and the divine Serpent in the nether world were afraid and about to give up the burden of the earth.",
+      "verified": true
+    },
+    {
+      "verseNumber": 155,
+      "original": "तेथ तीन्ही लोक डळमळित । मेरु मांदार आंदोळित । समुद्रजळ उसळत । कैलासवेरी ॥1-155॥",
+      "marathiMeaning": "या महान नादामुळे सर्व त्रैलोक्य डलमळू लागले. मेरू व मांदार पर्वत पुढे-मागे हलू लागले आणि समुद्रातील पाण्याच्या लाटा कैलासापर्यंत उसळू लागल्या.",
+      "englishMeaning": "The three worlds began to tremble, the mountains Meru and Mandara began to shake and the water of the sea was raised as high as Kailasa.",
+      "verified": true
+    },
+    {
+      "verseNumber": 156,
+      "original": "पृथ्वीतळ उलथो पहात । आकाश असे आसुडत । तेथ सडा होत । नक्षत्रांचा ॥1-156॥",
+      "marathiMeaning": "पृथ्वी उलथू पाहत होती. आकाशाला मोठंमोठे धक्के बसत असल्याने नक्षत्रांचा सडा पडतो की काय, असे वाटू लागले.",
+      "englishMeaning": "The base of the earth was about to be upturned, the sky was about to be hit and the stars were about to be showered down.",
+      "verified": true
+    },
+    {
+      "verseNumber": 157,
+      "original": "सृष्टी गेली रे गेली । देवा मोकळवादी जाहली । ऐशी एक टाळी पिटली । सत्यलोकी ॥1-157॥",
+      "marathiMeaning": "सृष्टी गेली रे गेली, देव आता निराधार झाले, अशी सत्यलोकामध्ये एकच आरोळी उठली.",
+      "englishMeaning": "The gods ran here and there, shouting `Gone! Gone is this world!' and in the world of Brahma there was great ballyhoo to this effect.",
+      "verified": true
+    },
+    {
+      "verseNumber": 158,
+      "original": "दिहाचि दिन थोकला । जैसा प्रलयकाळ मांडला । तैसा हाहाकारु जाहला । तिन्ही लोकी ॥1-158॥",
+      "marathiMeaning": "दिवसाच सूर्य स्तब्ध झाला. प्रलयकाळाप्रमाणे तिन्ही लोकात मोठा हाहा:कार झाला.",
+      "englishMeaning": "Though it was day, the Sun as if disappeared and throughout the three worlds there was great cry apprehending annihilation.",
+      "verified": true
+    },
+    {
+      "verseNumber": 159,
+      "original": "ते देखोनि आदिपुरुषु विस्मितु । म्हणे झणे होय पा अंतु । मग लोपिला अद्‍भुतु । संभ्रमु तो ॥1-159॥",
+      "marathiMeaning": "ही परिस्तिथी पाहून श्रीकृष्ण विस्मित झाले, कदाचित सर्व सृष्टीचा नाश होईल, हे जाणून त्यांनी विलक्षण ध्वनी शांत केला.",
+      "englishMeaning": "At that time the primordial man, Lord Shri Krishna thought that perhaps the universe will come to an end and being somewhat surprised, He, by His great power made the whole panic subside.",
+      "verified": true
+    },
+    {
+      "verseNumber": 160,
+      "original": "म्हणौनि विश्व सांवरले । एर्‍हवी युगांत होते वोडवले । जै महाशंख आस्फुरिले । कृष्णादिकी ॥160॥",
+      "marathiMeaning": "त्यामुळे जग सावरले गेले; नाही तर श्रीकृष्णादिकांनी जेव्हा मोठे शंख वाजविले, त्याच वेळी महाप्रलंय होण्याची वेळ आली होती.",
+      "englishMeaning": "It was, therefore, that the whole world somehow became steady. Otherwise when Lord Krishna and others blew their conches, it was as if the age had come to an end.",
+      "verified": true
+    },
+    {
+      "verseNumber": 161,
+      "original": "तो घोष तरी उपसंहरला । परी पडसाद होता राहिला । तेणे दळभार विध्वंसिला । कौरवांचा ॥161॥",
+      "marathiMeaning": "तो महानाद शांत झाला; परंतु त्याचा प्रतिध्वनी जो मागे राहिला होता, त्यामुळे कौरव सैन्याची दाणादाण उडाली.",
+      "englishMeaning": "Though the original sound subsided, its echoes were resounding still, by which alone, the army of Kauravas was disturbed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 162,
+      "original": "जैसा गजघटाआंतु । सिंह लीला विदारितु । तैसा हृदयाते भेदितु । कौरवांचिया ॥162॥",
+      "marathiMeaning": "सिहं हत्तीच्या कळपात गेला, तर त्यांच्या समुदायाचे विदारण करतो, त्याप्रमाणे त्या प्रतिध्वनीने कौरव सैनेची हृदये विदीर्ण झाली.",
+      "englishMeaning": "Just as a lion tears apart the elephants by forcefully entering their group, this sound was tearing the hearts of Kauravas by fear.",
+      "verified": true
+    },
+    {
+      "verseNumber": 163,
+      "original": "तो गाजत जव आइकती । तव उभेचि हिये घालिती । एकमेकांते म्हणती । सावध रे सावध ॥163॥",
+      "marathiMeaning": "तो प्रचंड प्रतिध्वनी ऐकून कौरवांनी उभ्या-उभ्याने धैर्य सोडले, तरी पण एकमेकांना सावध रे सावध असे म्हणू लागले.",
+      "englishMeaning": "When they listened to the great deafening sound, they became extremely nervous though standing in the field; and started shouting warnings to others to be aware!",
+      "verified": true
+    },
+    {
+      "verseNumber": 164,
+      "original": "तेथ बळे प्रौढीपुरते । महारथी वीर होते । तिही पुनरपि दळाते । आवरिले ॥164॥",
+      "marathiMeaning": "त्या रणांगणावर बलाढ्य व धैर्ययुक्त महावीर होते. त्यांनी धीर देऊन पुनः सैन्याला सावरले.",
+      "englishMeaning": "However, those great warriors among them, who were brave of heart and strong in body, somehow controlled the army.",
+      "verified": true
+    },
+    {
+      "verseNumber": 165,
+      "original": "मग सरिसेपणे उठावले । दुणवटोनि उचलले । तया दंडी क्षोभले । लोकत्रय ॥165॥",
+      "marathiMeaning": "त्यावेळी ते सैन्य युद्ध करण्यासाठी एकदम तयार झाले आणि दुप्पट आवेशाने क्षुब्ध झाले. त्यामुळे त्रैलोक्य देखील क्षुब्ध झालेले दिसून आले.",
+      "englishMeaning": "Then they simultaneously rose with redoubled enthusiasm and advanced boldly towards their enemies and by their march the whole trinity of worlds was greatly disturbed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 166,
+      "original": "तेथ बाणवरी धर्नुधर । वर्षताती निरंतर । जैसे प्रळयात जलधर । अनिवार का ॥166॥",
+      "marathiMeaning": "प्रलयकालाच्या वेळी ज्याप्रमाणे मेघ अखंड वर्षाव करीत असतात, त्याप्रमाणे धनुर्विद्येतील प्रवीण योद्धे बाणांचा अखंड वर्षाव करू लागतात.",
+      "englishMeaning": "The warriors who were archers started tremendous war with their arrows which resembled the uncontrollable clouds pouring down at the time of final destruction.",
+      "verified": true
+    },
+    {
+      "verseNumber": 167,
+      "original": "ते देखलिया अर्जुने । संतोष घेऊनि मने । मग संभ्रमे दिठी सेने । घालीतसे ॥167॥",
+      "marathiMeaning": "हे दृश्य पाहून अर्जुनाच्या मनात संतोष झाला आणि त्याने उत्सुकतेने कौरवांच्या सैन्याकडे पहिले.",
+      "englishMeaning": "Seeing this however, Arjuna was eager and glad; and with some interest glanced at the army.",
+      "verified": true
+    },
+    {
+      "verseNumber": 168,
+      "original": "तव संग्रामी सज्ज जाहले । सकळ कौरव देखिले । तव लीलाधनुष्य उचलले । पंडुकुमरे ॥168॥",
+      "marathiMeaning": "त्यावेळी युद्धासाठी सज्ज झालेले कौरव त्याला दिसले. अर्जुनाने सहज लीलेने आपले धनुष्य उचलले.",
+      "englishMeaning": "He saw all the Kauravas ready to fight and so, the son of Pandu also lifted his bow slowly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 169,
+      "original": "ते वेळी अर्जुन म्हणतसे देवा । आता झडकरी रथु पेलावा । नेऊनि मध्ये घालावा । दोही दळा ॥169॥",
+      "marathiMeaning": "त्यावेळी अर्जुन म्हणाला, &#8221; हे देवा ! रथ लवकर हाक आणि दोन्ही सैन्याच्या मध्यभागी नेऊन उभा कर",
+      "englishMeaning": "At that time Arjuna said to Shrikrishna, \"O God! Now please drive the chariot quickly towards the middle of both the armies.",
+      "verified": true
+    },
+    {
+      "verseNumber": 170,
+      "original": "जव मी नावेक । हे सकळ वीर सैनिक । न्याहाळीन अशेख । झुंजते ते ॥170॥",
+      "marathiMeaning": "येथे युद्धासाठी जे आलेले आहेत, त्या वीर सैनिकांना मी थोडा वेळ पाहणार आहे, तोपर्यँत तू रथ येथे उभा कर.",
+      "englishMeaning": "So that I will carefully look at all the brave warriors who have gathered here for the fight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 171,
+      "original": "एथ आले असती आघवे । परी कवणेसी म्या झुंजावे । हे रणी लागे पहावे । म्हणौनिया ॥171॥",
+      "marathiMeaning": "येथे सर्व आले आहेत; पण मी या रणांगणात कोणाबरोबर लढावे, याचा विचार करणे जरूर आहे. म्हणून (मी पाहतो)",
+      "englishMeaning": "Actually all have assembled here, but in this war, it is necessary that I see those with whom I have to fight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 172,
+      "original": "बहुतकरूनि कौरव । हे आतुर दुःस्वभाव । वांटिवेवीण हांव । बांधिती झुंजी ॥172॥",
+      "marathiMeaning": "फार करून कौरव हे उतावळे व दुष्ट बुद्धीचे असून त्यांच्या राज्यात सुबत्ता असूनही ते निष्कारण युद्धाची हाव धरतात.",
+      "englishMeaning": "Mostly these Kauravas seem to be of an immature disposition and evil-minded, and therefore they have come to fight eventhough they are not brave enough.",
+      "verified": true
+    },
+    {
+      "verseNumber": 173,
+      "original": "झुंजाची आवडी धरिती । परी संग्रामी धीर नव्हती । हे सांगोनि रायाप्रती । काय संजयो म्हणे ॥173॥",
+      "marathiMeaning": "हे लढाईची हौस तर बाळगतात पण युद्धात टिकाव धरत नाहीत. इतके सांगून संजय धृतराष्ट्र राजाला पुढे म्हणाला &#8212;",
+      "englishMeaning": "They have eagerness to fight but they do not have the bravery which is necessary in war. Having reported to the King Dhritarashtra this speech of Arjuna, Sanjaya further said.",
+      "verified": true
+    },
+    {
+      "verseNumber": 174,
+      "original": "आइका अर्जुन इतुके बोलिला । तव श्रीकृष्णे रथु पेलिला । दोही सैन्यांमाजी केला । उभा तेणे ॥174॥",
+      "marathiMeaning": "हे राजा एका ! अर्जुन एवढे बोलला. इतक्यात श्रीकृष्णाने रथ हाकला व त्यांनी दोन्ही सैन्यामध्ये उभा केला.",
+      "englishMeaning": "Sir, please listen. No sooner did Arjuna say so, than Shrikrishna drove the chariot and placed it between both the armies.",
+      "verified": true
+    },
+    {
+      "verseNumber": 175,
+      "original": "जेथ भीष्मद्रोणादिक । जवळिकेचि सन्मुख । पृथिवीपति आणिक । बहुत आहाती ॥175॥",
+      "marathiMeaning": "ज्या ठिकाणी भीष्म, द्रोण इत्यादी आदिकरून आप्तसंबंधी व आणखी पुष्कळ राजे पुढे उभे होते,",
+      "englishMeaning": "Where nearby were Bheeshma, Drona and others including various kings.",
+      "verified": true
+    },
+    {
+      "verseNumber": 176,
+      "original": "तेथ स्थिर करूनिया रथु । अर्जुन असे पाहातु । तो दळभार समस्तु । संभ्रमेसी ॥176॥",
+      "marathiMeaning": "त्या ठिकाणी रथ थांबवून, अर्जुन तो सर्व सैन्यसमुदाय उत्सुकतेने पाहू लागला.",
+      "englishMeaning": "Having stopped the chariot, Arjuna started eagerly to look at the whole army.",
+      "verified": true
+    },
+    {
+      "verseNumber": 177,
+      "original": "मग देवा म्हणे देख देख । हे गुरुगोत्र अशेख । तव कृष्णमनी नावेक । विस्मो जाहला ॥177॥",
+      "marathiMeaning": "अर्जुन म्हणाला, हे देवा ! पाहा पाहा. हे सगळे रणांगणावर जमलेले आमचेच गोत्रज, भाहुबंध व गुरू आहेत. हे ऐकून श्रीकृष्णाच्या मनात क्षणभर अचंबा वाटला.",
+      "englishMeaning": "Then he said to the Lord, \"Behold! Behold! O God, these are our own members of family and teachers!\" Listening to these words, there was for a moment some sense of wonder in the mind of Shrikrishna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 178,
+      "original": "तो आपणया आपण म्हणे । एथ कायी कवण जाणे । हे मनी धरले येणे । परि काही आश्चर्य असे ॥178॥",
+      "marathiMeaning": "(श्रीकृष्ण ) विचार करू लागले, अर्जुनाच्या मनात काय आले, कोण जाणे; हे काहीतरी विलक्षणच असावे,",
+      "englishMeaning": "The Lord said to Himself, \"One does not know what is on his mind! Really, something must have happened.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 179,
+      "original": "ऐसी पुढील से घेतु । तो सहजे जाणे हृदयस्थु । परि उगा असे निवांतु । तिये वेळी ॥179॥",
+      "marathiMeaning": "(श्रीकृष्ण) ते सर्वाच्या हृदयामध्ये विराजमान असल्यामुळे त्यांनी ते सहज जाणले; परंतु त्यावेळी ते (काही न बोलता) स्तब्ध राहिले.",
+      "englishMeaning": "The Lord who can read everybody's mind had well surmised what was going to happen; but kept himself quiet.",
+      "verified": true
+    },
+    {
+      "verseNumber": 180,
+      "original": "तव तेथ पार्थु सकळ । पितृ पितामह केवळ । गुरु बंधु मातुळ । देखता जाहला ॥180॥",
+      "marathiMeaning": "त्यावेळी अर्जुनाने रणांगणावर आपले चुलते,, आजोबा, गुरू, बंधू, मामा यांना पहिले.",
+      "englishMeaning": "Arjuna saw all the elderly people of the rank of teachers, grand-fathers, preceptors, family- members, uncles, etc.",
+      "verified": true
+    },
+    {
+      "verseNumber": 181,
+      "original": "इष्ट मित्र आपुले । कुमरजन देखिले । हे सकळ असती आले । तयांमाजी ॥181॥",
+      "marathiMeaning": "आपले इष्टमित्र, मुलेबाळे हे सर्व त्या सैन्यात आले आहेत, असे त्याने पहिले.",
+      "englishMeaning": "He also saw his dear friends and younger persons of his family and among them were also his brothers-in-law.",
+      "verified": true
+    },
+    {
+      "verseNumber": 182,
+      "original": "सुहृज्जन सासरे । आणीकही सखे सोइरे । कुमर पौत्र धर्नुर्धरे । देखिले तेथ॥182॥",
+      "marathiMeaning": "आपले जिवलग मित्र, सासरे,नातेवाईक आणि नातूदेखील त्या रणांगणात आलेले अर्जुनाने पहिले.",
+      "englishMeaning": "He saw in that crowd the intimate friends, father-in-law, other kith and kin, sons and grand- sons also.",
+      "verified": true
+    },
+    {
+      "verseNumber": 183,
+      "original": "जया उपकार होते केले । की आपदी जे रक्षिले । हे असो वडील धाकुले । आदिकरूनि ॥183॥",
+      "marathiMeaning": "ज्यांच्यावर त्याने उपकार केले होते आणि संकटकाळात ज्याचे रक्षण केले होते, त्या लहान मोठ्या सर्वानाच अर्जुनाने पहिले.",
+      "englishMeaning": "He saw that there were those who were obliged by him or who were helped out of their difficulties; and also assembled, there were others, both elders and youngers.",
+      "verified": true
+    },
+    {
+      "verseNumber": 184,
+      "original": "ऐसे गोत्रचि दोही दळी । उदित जाले असे कळी । हे अर्जुने तिये वेळी । अवलोकिले ॥184॥",
+      "marathiMeaning": "असे हे सर्व कुळच दोन्ही सैन्यात लढाईस तयार झालेले आहे, त्यावेळी अर्जुनाने पहिले.",
+      "englishMeaning": "In this way, Arjuna saw in both the armies his own relatives ready to fight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 185,
+      "original": "तेथ मनी गजबज जाहली । आणि आपैसी कृपा आली । तेणे अपमाने निघाली । वीरवृत्ति ॥185॥",
+      "marathiMeaning": "त्या प्रसंगी (अर्जुनाच्या) मनात गडबड उडाली आणि (त्यामुळे त्याच्या मनात) सहजच करुणा उत्पन्न झाली. त्या अपमानामुळे अर्जुनाच्या अंगातील वीरवृत्ती निघून गेली.",
+      "englishMeaning": "Looking at them Arjuna's mind was disturbed and pity entered there. Feeling that the entry of pity in the mind of Arjuna is insulting, his bravery left his mind.",
+      "verified": true
+    },
+    {
+      "verseNumber": 186,
+      "original": "जिया उत्तम कुळींचिया होती । आणि गुणलावण्य आथी । तिया आणिकीते न साहती । सुतेजपणें॥186॥",
+      "marathiMeaning": "ज्या (स्त्रिया) उत्तम कुळातील असतात आणि गुणाने व रुपाने संपन्न असतात, त्यांना आपल्या स्वाभिमानामुळे दुसऱ्या कोणत्याही स्त्रियांचे वर्चस्व सहन होत नाही;",
+      "englishMeaning": "Because ladies of noble birth, who are accomplished and beautiful, cannot tolerate that any other woman should dominate their home.",
+      "verified": true
+    },
+    {
+      "verseNumber": 187,
+      "original": "नविये आवडीचेनि भरे । कामुक निजवनिता विसरे । मग पाडेवीण अनुसरे । भ्रमला जैसा ॥187॥",
+      "marathiMeaning": "ज्या प्रमाणे कामाने आसक्त झालेला पुरुष आपल्या स्व-पत्नीला विसरून दुसऱ्या स्त्रीची योग्यता न पाहता वेडा होऊन तिच्या नादी लागतो,",
+      "englishMeaning": "Just as a person who is passionate, being enamoured by a younger and attractive woman forgets his legally married wife and misbehaves errantly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 188,
+      "original": "की तपोबळे ऋद्धी । पातलिया भ्रंशे बुद्धी । मग तया विरक्तता सिद्धी । आठवेना ॥188॥",
+      "marathiMeaning": "किंवा तपोबलाने रिद्धी म्हणजेच (ऐश्वर्य) प्राप्त झाले असता (वैराग्यशाली पुरुषाची) बुद्धी भ्रम पावते; आणि मग त्याला वैराग्य (मोक्ष) सिद्धीची आठवणही राहत नाही.",
+      "englishMeaning": "Or a person who becomes prosperous by the power attained through his penance, gets his intellect spoiled and does not even remember his ascetic life of penance.",
+      "verified": true
+    },
+    {
+      "verseNumber": 189,
+      "original": "तैसे अर्जुना तेथ जाहले । असते पुरुषत्व गेले । जे अंतःकरण दिधले । कारुण्यासी ॥189॥",
+      "marathiMeaning": "त्याप्रमाणे अर्जुनाची त्या वेळी स्थिती झाली व त्याच्या हृदयात करुणा निर्माण झाली आणि त्याची वीरवृत्ती गेली.",
+      "englishMeaning": "Such was the case with Arjuna because he banished the bravery which was established earlier in his character and surrendered his mind to a sense of pity.",
+      "verified": true
+    },
+    {
+      "verseNumber": 190,
+      "original": "देखा मंत्रज्ञु बरळु जाय । मग तेथ का जैसा संचारु होय । तैसा तो धनुर्धर महामोहे । आकळिला ॥190॥",
+      "marathiMeaning": "ज्याप्रमाणे एखादा मांत्रिक मंत्राचा उच्चार करताना चुकला म्हणजे तो जसा भ्रमिष्ट होतो, त्याप्रमाणे अर्जुन अतिमोहामुळे व्याकुळ झाला.",
+      "englishMeaning": "Sirs, (Dnyaneshwar says) just as a person practising the chanting of mantras makes a grave mistake which results in the ghost retaliating and attacking himself, so was the great influence of confusion on the mind of the great archer, Arjuna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 191,
+      "original": "म्हणौनि असता धीरु गेला । हृदया द्रावो आला । जैसा चंद्रकळी शिवतला । सोमकांतु ॥191॥",
+      "marathiMeaning": "म्हणून अर्जुनाच्या अंगी असलेले धैर्य खचले आणि त्यांचे हृदय करुणेने पाझरले. ज्याप्रमाणे चांद्रकिरणांचे शिंपण झाल्याने चांद्रकांतमाणि पाझरू लागतो,",
+      "englishMeaning": "Thus the natural quality of steadfastness and determination left Arjuna and his mind was soft, like the lunar-stone being affected by the moon-rays becomes liquid. Thus being affected by pity and feeling sad-",
+      "verified": true
+    },
+    {
+      "verseNumber": 192,
+      "original": "तयापरी पार्थु । अतिस्नेहे मोहितु । मग सखेद असे बोलतु । श्रीअच्युतेसी ॥192॥",
+      "marathiMeaning": "त्याप्रमाणे पार्थ महाकरूणेने मोहून गेला आणि मग खेदयुक्त होऊन श्रीकृष्णाबरोबर बोलू लागला.",
+      "englishMeaning": "In this manner Partha being over-whelmed by too much compassion started to speak to Achyuta, with a pensive mood. -",
+      "verified": true
+    },
+    {
+      "verseNumber": 193,
+      "original": "तो म्हणे अवधारी देवा । म्या पाहिला हा मेळावा । तव गोत्र वर्गु आघवा । देखिला एथ ॥193॥",
+      "marathiMeaning": "अर्जुन म्हणाला, हे देवा ! माझे ऐका. मी हा सर्व समुदाय पहिला येथे मला माझे सर्व गोत्रज दिसत आहेत.",
+      "englishMeaning": "He said, \"O God, please listen. I have seen this gathering, where, it seems that everywhere there are relations only.",
+      "verified": true
+    },
+    {
+      "verseNumber": 194,
+      "original": "हे संग्रामी उदित । जहाले असती कीर समस्त । पण आपणपेया उचित । केवी होय ॥194॥",
+      "marathiMeaning": "हे सर्व जण लढाईला उत्सुक झाले आहेत, हे खरे; पण ते (यांच्याशी लढणे) आपल्याला कसे योग्य होईल?",
+      "englishMeaning": "It is true that all these are bent up on war but how will that be proper for us also?",
+      "verified": true
+    },
+    {
+      "verseNumber": 195,
+      "original": "येणे नांवेचि नेणो कायी । मज आपणपे सर्वथा नाही । मन बुद्धि ठायी । स्थिर नोहे ॥195॥",
+      "marathiMeaning": "यांच्याशी युद्ध करण्याच्या विचाराने मला काही सुचत नाही. काय होते आहे, हे कळत नाही. माझे मलाच भान नाही. माझे मन आणि बुद्धी स्थिर नाही.",
+      "englishMeaning": "By taking even the name of this fight, I am being confused. I am not at all aware of myself. My mind and intellect cannot remain steady.",
+      "verified": true
+    },
+    {
+      "verseNumber": 196,
+      "original": "देखे देह कांपत । तोंड असे कोरडे होत । विकळता उपजत । गात्रांसीही ॥196॥",
+      "marathiMeaning": "पाहा, माझा देह कापत आहे. तोंडाला कोरड पडली आहे आणि सगळ्या गात्रांना शिथिलता आलेली आहे.",
+      "englishMeaning": "See, my body is trembling, my mouth is dry and all my limbs are as if exhausted.",
+      "verified": true
+    },
+    {
+      "verseNumber": 197,
+      "original": "सर्वागा कांटाळा आला । अति संतापु उपनला । तेथ बेंबळ हातु गेला । गांडिवाचा ॥197॥",
+      "marathiMeaning": "माझ्या सर्वागावर रोमांच (काटा) उभा राहिला आहे, माझ्या मनाला अतिशय यातना होत आहेत आणि गांडीव धनुष्य धरवयाचा हात लुळा होऊन गेला आहे.",
+      "englishMeaning": "My hair all over my body are standing upright. My mind is full of sorrow and my hand which holds this bow Gandeeva has become as if paralysed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 198,
+      "original": "ते न धरतचि निष्टले । परि नेणेचि हातोनि पडिले । ऐसे हृदय असे व्यापिले । मोहे येणे ॥198॥",
+      "marathiMeaning": "हे धनुष्य हाती न धरल्याने गळून पडले; परंतु हातातून केंव्हा गळून पडून गेले, हेदेखील मला कळाले नाही, या मोहाने माझे हृदय असे घेरले आहे.",
+      "englishMeaning": "This bow has fallen down from my hand but I am not aware of it. My mind is so much confused.",
+      "verified": true
+    },
+    {
+      "verseNumber": 199,
+      "original": "जे वज्रापासोनि कठिण । दुर्धर अतिदारुण । तयाहून असाधारण । हे स्नेह नवल ॥199॥",
+      "marathiMeaning": "खरोखर माझे अंतःकरण वज्रापेक्षा कठीण आहे, कोणाला दाद न देणारे अतिखंबीर असे आहे; परंतु काय आश्चर्य, त्यापेक्षाही या आप्तेष्टांचा मोह आश्चर्यकारक आहे.",
+      "englishMeaning": "Actually, this Gandeeva is harder than Vajra, dangerous to the enemy, and very unbearable; but somehow my compassion and feeling of belonging has proved to be stronger than it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 200,
+      "original": "जेणे संग्रामी हरु जिंतिला । निवातकवचांचा ठावो फेडिला । तो अर्जुन मोहे कवळिला । क्षणामाजी ॥200॥",
+      "marathiMeaning": "ज्याने युद्धामध्ये शंकरांनाही जिंकले आणि निवातकवच नावाच्या राक्षसांचा ठावठिकानाही नाहीस केला, तो अर्जुन आप्तेष्ठांना पाहून एका क्षणामध्ये मोहाने ग्रासला गेला.",
+      "englishMeaning": "(Sanjaya Says) \"Arjuna, who defeated Lord Shankara in a battle and totally wiped out the demons Niwata-Kavachas, was completely over-whelmed by his affection, within one moment.",
+      "verified": true
+    },
+    {
+      "verseNumber": 201,
+      "original": "जैसा भ्रमर भेदी कोडे । भलतैसे काष्ठ कोरडे । परि कळिकेमाजी सांपडे । कोंवळिये ॥201॥",
+      "marathiMeaning": "भुंगा हा ज्याप्रमाणे वाटेल त्याप्रकारचे कोरडे लाकूड सहज लीलेने पोखरून टाकतो, परंतु कोवळ्या कळीमध्येंच अडकून पडतो.",
+      "englishMeaning": "Just as the blue-beetle easily penetrates any dry hard-wood by drilling into it, but becomes captive in the delicate bud of a lotus,",
+      "verified": true
+    },
+    {
+      "verseNumber": 202,
+      "original": "तेथ उत्तीर्ण होईल प्राणे । परि ते कमळदळ चिरू नेणे । तैसे कठिण कोवळेपणे । स्नेह देखा ॥202॥",
+      "marathiMeaning": "तो त्याठिकाणी प्राणास मूकेल; परंतु कमळाविषयीच्या स्नेहामूळे तो कमळ-कळी कोरून बाहेर पडत नाही. त्याप्रमाणे आपल्या आप्त लोकांची मोह-ममता कोवळी असली, तरी त्यातून बाहेर पडणे महाकठीण आहे.",
+      "englishMeaning": "and then even if there is danger of its death, it cannot break open the petal of the lotus; similarly this affection becomes hard to cut because of its delicate softness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 203,
+      "original": "हे आदिपुरुषाची माया । ब्रह्मेयाही नयेचि आया । म्हणौनि भुलविला ऐके राया । संजयो म्हणे ॥203॥",
+      "marathiMeaning": "संजय म्हणाला, हे धृतराष्ट्र राजा ! हा स्नेह म्हणजे परमात्म्याची माया आहे. ही ब्रह्मदेवालाही आकळली जात नाही; म्हणूनच या मायेने अर्जुनालाही मोहित केले आहे.",
+      "englishMeaning": "This attachment is the divine power of Adinarayana and even the god Brahma cannot understand it. Therefore, O King! She could confuse Arjuna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 204,
+      "original": "अवधारी मग तो अर्जुनु । देखोनि सकळ स्वजनु । विसरला अभिमानु । संग्रामींचा ॥204॥",
+      "marathiMeaning": "हे राजा ! मग तो अर्जुन (युद्धाला आलेले) सर्व आपलेच लोक आहेत असे पाहून, लढाईचा अभिमान (ईर्षा) विसरून गेला.",
+      "englishMeaning": "Sanjaya further said, \"Please listen. Then Arjuna having seen all his relatives, lost all his intention and determination to fight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 205,
+      "original": "कैसी नेणो सदयता । उपनली तेथे चित्ता । मग म्हणे कृष्णा आता । नसिजे एथ ॥205॥",
+      "marathiMeaning": "तेथे त्याच्या मनात कोठून दयाभाव उत्पन्न झाला कोण जाणे ! मग तो म्हणाला, हे कृष्णा, आपण येथे राहू नये, हे बरें.",
+      "englishMeaning": "One cannot define, how this pity entered and captured his mind. He then said to Lord Shrikrishna, \"It is better not to be here.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 206,
+      "original": "माझे अतिशय मन व्याकुळ । होतसे वाचा बरळ । जे वधावे हे सकळ । येणे नांवे ॥206॥",
+      "marathiMeaning": "ह्या सर्वास मारावयाचे हे मनात येताच त्याने माझे मन अतिशय व्याकुळ होते आणि तोंड हवे ते बरळु लागते.",
+      "englishMeaning": "My heart is tremendously disturbed and by the very concept that we have to kill all these, I am not able to utter even a word. The power of my speech is as if gone astray.",
+      "verified": true
+    },
+    {
+      "verseNumber": 207,
+      "original": "या कौरवा जरी वधावे । तरी युधिष्ठीरादिका का न वधावे । हे येरयेर आघवे । गोत्रज आमुचे॥207॥",
+      "marathiMeaning": "या कौरवाना मारणे जर योग्य असेल, तर धर्मराजादिकाचा वध करण्याला काय हरकत आहे? कारण की हे सर्व आणि आम्ही एकमेकांचे नातलग आहोत.",
+      "englishMeaning": "If it is right for us that we should kill Kauravas, then why not kill Dharma (Yudhishthira) etc.? Are they not from our own family?",
+      "verified": true
+    },
+    {
+      "verseNumber": 208,
+      "original": "म्हणोनि जळो हे झुंज । प्रत्यया न ये मज । एणे काय काज । महापापे ॥208॥",
+      "marathiMeaning": "याकरिता आग लागो या युद्धाला ! मला हे पसंत नाही. या महापापाची आम्हास काय गरज आहे?",
+      "englishMeaning": "Therefore I say, `Let this battle be abandoned! I cannot understand what business we have got to commit this great sin.",
+      "verified": true
+    },
+    {
+      "verseNumber": 209,
+      "original": "देवा बहुतापरी पाहता । एथ वोखटे होईल झुंजता । वर काही चुकविता । लाभु आथी ॥209॥",
+      "marathiMeaning": "हे देवा ! अनेक दृष्टीनी विचार केला असता (असे वाटते की) या वेळी युद्ध केले, तर (त्याचा परिणाम) वाईट होईल; पण ते जर टाळले तर काही लाभ होईल.",
+      "englishMeaning": "O God, considering all the angles I feel that it will be very undesirable to fight here. Rather, if at all something good will come out of anything, it will be by avoiding this battle.",
+      "verified": true
+    },
+    {
+      "verseNumber": 210,
+      "original": "तया विजयवृत्ती काही । मज सर्वथा काज नाही । एथ राज्य तरी कायी । हे पाहुनिया ॥210॥",
+      "marathiMeaning": "अशा प्रकारे विजय प्राप्त करण्याची मला मुळीच इच्छा नाही. गोत्रजांना ठार मारून मिळविलेले राज्य तरी काय करायचे?",
+      "englishMeaning": "I have nothing to do with the hope of gaining victory. Here, after seeing all this, I feel, what is the use of possessing a kingdom?\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 211,
+      "original": "या सकळांते वधावे । मग हे भोग भोगावे । ते जळोत आघवे । पार्थु म्हणे ॥211॥",
+      "marathiMeaning": "अर्जुन म्हणाला, या सर्वाना मारून जे भोग भोगावयाचे, त्या सगळ्यांना आग लागो !",
+      "englishMeaning": "Arjuna further said, \"If I have to kill all these persons and then enjoy all these pleasures, let those pleasures be burnt.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 212,
+      "original": "तेणे सुखेविण होईल । ते भलतैसे साहिजेल । वरी जीवितही वेचिजेल । याचिलागी ॥212॥",
+      "marathiMeaning": "त्या भोगांपासून मिळणाऱ्या सुखांच्या अभावी, जो प्रसंग येऊन पडेल, तो वाटेल तसा बिकट असेल तरीहि सहन करता येईल. इतकेच काय? त्यांच्या करिता आमचे प्राण खर्ची पडले तरी चालेल;",
+      "englishMeaning": "He further said, \"Whatever may happen in the event of our not getting those pleasures; it can very well be tolerated or even if I have to give up my life in that event, I will accept that fate.",
+      "verified": true
+    },
+    {
+      "verseNumber": 213,
+      "original": "परी यासी घातु कीजे । मग आपण राज्यसुख भोगिजे । हे स्वप्नीही मन माझे । करू न शके॥213॥",
+      "marathiMeaning": "परंतु त्यांचे प्राण घ्यावे आणि आपण राज्यसुख भोगावे, ही गोष्ट स्वप्नातदेखील माझ्या मनात येणार नाही.",
+      "englishMeaning": "But I cannot accept even in my dream enjoying the kingdom by killing these persons.",
+      "verified": true
+    },
+    {
+      "verseNumber": 214,
+      "original": "तरी आम्ही का जन्मावे । कवणलागी जियावे । जरी वडिला या चिंतावे । विरुद्ध मने ॥214॥",
+      "marathiMeaning": "जर या वडील माणसांचे अहित मानाने चिंतवायचे, तर आम्ही जन्माला येऊन तरी उपयोग काय व आम्ही जगावे तरी कोणासाठी?",
+      "englishMeaning": "If at all we are expected to have evil thoughts about our teachers, why are we at all born and for whom are we to live?",
+      "verified": true
+    },
+    {
+      "verseNumber": 215,
+      "original": "पुत्राते इच्छी कुळ । तयाचे कायि हेचि फळ । जे निर्दळिजे केवळ । गोत्र आपुले ॥215॥",
+      "marathiMeaning": "कुळातील लोक पुत्राची इच्छा करतात, त्याचे काय हेच फळ की, त्याने आपल्या आप्तेष्ठांचा केवळ वधच करावा?",
+      "englishMeaning": "Every family desires to have a male child. Then is it the right fruit of that, that we should totally wipe out our own family men?",
+      "verified": true
+    },
+    {
+      "verseNumber": 216,
+      "original": "हे मनीचि केवि धरिजे । आपण वज्राचेया होईजे । वरी घडे तरी कीजे । भले इया ॥216॥",
+      "marathiMeaning": "यांच्या वधाचा विचार आपण मनात तरी कसा आणावा? यांच्यासाठी वज्रासारखे कठोर तरी कसे व्हावे? उलटपक्षी झाल्यास आपण त्यांचे हितचं करांवे.",
+      "englishMeaning": "How can we even think to be hard and cruel like Vajra (thunder bolt) with these? On the contrary, we should try to do as much good to them as possible.",
+      "verified": true
+    },
+    {
+      "verseNumber": 217,
+      "original": "आम्ही जे जे जोडावे । ते समस्ती इही भोगावे । हे जीवितही उपकारावे । काजी यांच्या ॥217॥",
+      "marathiMeaning": "आम्ही जे जे मिळवावे, ते ते या सर्वानी (वास्तविक) भोगण्यासाठी आहे. यांच्या कामाकरिता आम्ही आपले प्राणहि खर्च करावेत.",
+      "englishMeaning": "It is right that these persons should enjoy the things whichever we will accomplish. We should even sacrifice our life for their welfare.",
+      "verified": true
+    },
+    {
+      "verseNumber": 218,
+      "original": "आम्ही दिगंतीचे भूपाळ । विभांडूनि सकळ । मग संतोषविजे कुळ । आपुले जे ॥218॥",
+      "marathiMeaning": "आम्ही देशोदेशीच्या राजांना जिंकावे आणि आपल्या कुळास संतुष्ट करावे.",
+      "englishMeaning": "Actually, it is proper for us to conquer the kings from all the ten directions and give satisfaction to our kinsmen.",
+      "verified": true
+    },
+    {
+      "verseNumber": 219,
+      "original": "तेचि हे समस्त । परी कैसे कर्म विपरीत । जे जाहले असती उद्यत । झुंजावया ॥219॥",
+      "marathiMeaning": "परंतू कर्माची गती किती विपरीत आहे, ते पाहा. तेच आमचे सर्व गोत्रज आपसात लढावयास तयार झाले आहेत !",
+      "englishMeaning": "Now how strange is the turn of desting, that these very kinsmen are assembled here with an intention to fight!",
+      "verified": true
+    },
+    {
+      "verseNumber": 220,
+      "original": "अंतौरिया कुमरे । सांडोनिया भांडारे । शस्त्राग्री जिव्हारे । आरोपुनी ॥220॥",
+      "marathiMeaning": "बायका, मुले, आपली सर्व संपत्ती या सर्वाना सोडून व तलवारीच्या धारेवर आपले प्राण ठेऊन जे युद्धासाठी तयार झाले आहेत.",
+      "englishMeaning": "By leaving behind their wives, children, money, property and everything and also putting their very life on the sharp edge of their weapons.",
+      "verified": true
+    },
+    {
+      "verseNumber": 221,
+      "original": "एसियाते कैसेनि मारू ? । कवणावरी शस्त्र धरू? । निजहृदया करू । घातु केवी ? ॥221॥",
+      "marathiMeaning": "अशांना मी मारू तरी कसा? मी कोणावर शास्त्रांचा प्रहार करू? (हे कौरव म्हणजे आम्हीच. आम्ही सारे एकाच कुळातील आहोत, त्यामुळे यांना मारणे म्हणजे आपलाच घात करणे होय. या दृष्टीने अर्जुन म्हणतो) आपल्या काळजाचा घात कसे करू?",
+      "englishMeaning": "How then can I kill each of these? Against whom should I brandish my weapons? How can I pierce my own heart?",
+      "verified": true
+    },
+    {
+      "verseNumber": 222,
+      "original": "हे नेणसी तू कवण । परी पैल भीष्म द्रोण । जयांचे उपकार असाधारण । आम्हा बहुत ॥222॥",
+      "marathiMeaning": "हे श्रीकृष्णा ! युद्धासाठी आमच्यासमोर कोण उभे आहेत, तू जाणत नाहीस काय? ज्यांचे आमच्यावर अनन्यसाधारण (असामान्य) उपकार आहेत, असे पितामह भीष्म व गुरू द्रोणचार्या, ते पलीकडे आहेत पाहा.",
+      "englishMeaning": "Perhaps, you might not have considered, who these people are! But these are Bheeshma and Drona standing here who have tremendously obliged us.",
+      "verified": true
+    },
+    {
+      "verseNumber": 223,
+      "original": "एथ शालक सासरे मातुळ । आणि बंधु की हे सकळ । पुत्र नातू केवळ । इष्टही असती ॥223॥",
+      "marathiMeaning": "या ठिकाणी मेव्हणे, सासरे, मामा आणि इतर सर्व बंधू, पुत्र, नातू आणि आप्तही आहेत",
+      "englishMeaning": "Here, the brothers-in-law, the fathers-in-law, uncles and our brothers, sons and grand-sons - are all our relations only.",
+      "verified": true
+    },
+    {
+      "verseNumber": 224,
+      "original": "अवधारी अति जवळिकेचे । हे सकळही सोयरे आमुचे । म्हणौनि दोष आथी वाचे । बोलिताचि ॥224॥",
+      "marathiMeaning": "हे देवा ऐक, येथे आमचे अतिशय जवळचे असे हे आमचे सोयरे आहेत; आणि म्हणूनच यांचा वध करावा, असे वाणीने नुसते बोलणे, हे सुद्धा पाप होईल.",
+      "englishMeaning": "O God, please consider that these are all very intimately connected relatives of ours, and, therefore even to talk anything against their well-being is to defile our speech.",
+      "verified": true
+    },
+    {
+      "verseNumber": 225,
+      "original": "हे वरी भलते करितु । आताचि येथे मारितु । परि आपण मने घातु । न चिंतावा॥225॥",
+      "marathiMeaning": "उलटपक्षी हे वाटेल ते करोत अथवा आम्हास मारोत; परंतु यांचा घात करण्याचा विचारदेखील मनातही आणणे बरे नाही.",
+      "englishMeaning": "Even if they do something quite wrong or even kill us, we should not even think of killing them.",
+      "verified": true
+    },
+    {
+      "verseNumber": 226,
+      "original": "त्रैलोक्यीचे अनकळित । जरी राज्य होईल प्राप्त । तरी हे अनुचित । नाचरे मी ॥226॥",
+      "marathiMeaning": "त्रैलोक्याचे / त्रिभूवनाचे राज्य जरी मिळणार असेल, तरी हे अनुचित कृत्य मी करणार नाही.",
+      "englishMeaning": "I am not willing to commit such a wrong action, even if there is possibility of total unhindered power over all the three worlds.",
+      "verified": true
+    },
+    {
+      "verseNumber": 227,
+      "original": "जरी आजि एथ ऐसे कीजे । तरी कवणाच्या मनी उरिजे? । सांगे मुख केवी पाहिजे । तुझे कृष्णा? ॥227॥",
+      "marathiMeaning": "जर असे अनुचित कृत्य आम्ही केले, तर मग आमच्याविषयी कोणाच्या मनात आदर राहील? अशा पापकर्मामुळे तुझे मुख तरी कसे पाहणार?",
+      "englishMeaning": "Who will have respect in their minds for us, if we commit this action here? And O Shrikrishna, will we be able to show you our face without shame?",
+      "verified": true
+    },
+    {
+      "verseNumber": 228,
+      "original": "जरी वधु करोनि गोत्रजांचा । तरी वसौटा होऊनि दोषांचा । मज जोडिलासि तु हातीचा । दूरी होसी ॥228॥",
+      "marathiMeaning": "जर मी गोत्रजांना ठार केले, तर मी सर्व दोषांचा आश्रयस्थान बनेन. असे झाल्यामुळे तुझ्याशी जोडलेला संबंध मी माझ्या हातानेच दूर केल्यासारखे होईल.",
+      "englishMeaning": "If I kill these kinsmen, then I will be the home of sins and I will lose you with whom I have become so intimate.",
+      "verified": true
+    },
+    {
+      "verseNumber": 229,
+      "original": "कुळहरणी पातके । तिये आंगी जडती अशेखे । तये वेळी तु कवणे के । देखावासी? ॥229॥",
+      "marathiMeaning": "कुळाचा नाश केल्यामूळे सर्व पातके लागतात. अशा प्रसंगी तुला कोणी कोठे शोधावे?",
+      "englishMeaning": "When all the sins of killing our own family-members will attach themselves to us, then how can we be lucky to see you?",
+      "verified": true
+    },
+    {
+      "verseNumber": 230,
+      "original": "जैसा उद्यानामाजी अनळु । संचारला देखोनि प्रबळु । मग क्षणभरी कोकिळु । स्थिर नोहे ॥230॥",
+      "marathiMeaning": "ज्याप्रमाणे बगीचाला भयंकर आग लागलेली पाहून कोकिळा तेथे क्षणभारहि थांबत नाही;",
+      "englishMeaning": "Just as the Cuckoo does not wait for a moment in a garden which is on fire;",
+      "verified": true
+    },
+    {
+      "verseNumber": 231,
+      "original": "का सकर्दम सरोवरु । अवलोकूनि चकोरु । न सेवितु अव्हेरु । करूनि निघे ॥231॥",
+      "marathiMeaning": "चिखलाने भरलेले सरोवर पाहून चकोर पक्षी तेथील पाण्याचे सेवन न करता त्या सरोवराचा त्याग करून तेथून निघून जातो;",
+      "englishMeaning": "and just as the bird Chakora does not pay heed to a muddy pond and goes away by discarding it;",
+      "verified": true
+    },
+    {
+      "verseNumber": 232,
+      "original": "तयापरी तु देवा । मज झकवू न येसी मावा । जरी पुण्याचा वोलावा । नाशिजैल ॥232॥",
+      "marathiMeaning": "त्याप्रमाणे हे देवा, जर माझ्या हृदयातील पुण्याचा (प्रेमाचा) ओलावा नाहीसा झाला, तर तू आपल्या मायेने मला चकवून माझ्याकडे येणार नाहीस.",
+      "englishMeaning": "Similarly, O God, if the water of my merits is dried up, then you will not come to bless me with your benevolence and kindness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 233,
+      "original": "म्हणोनि मी हे न करी । इये संग्रामी शस्त्र न धरी । हे किडाळ बहुती परी । दिसतसे ॥233॥",
+      "marathiMeaning": "म्हणून मी हे कृत्य करणार नाही; या लढाईमध्ये शस्त्र धरणार नाही. कारण हे युद्ध अनेक प्रकारांनी निंद्य आहे, असे मला दिसत आहे.",
+      "englishMeaning": "Therefore I will not commit this act. I will not even hold a weapon in this battle, because I see this thing is blame-worthy in many ways.",
+      "verified": true
+    },
+    {
+      "verseNumber": 234,
+      "original": "तुजसी अंतराय होईल । मग सांगे आमुचे काय उरेल? । तेणे दुःखे हिये फुटेल । तुजवीण कृष्णा ॥234॥",
+      "marathiMeaning": "हे श्रीकृष्णा ! युद्धाच्या पापामुळे तुझ्याशी ताटातूट होईल, तर मग तुझ्यावाचून आमचे या जगात काय राहील? त्या वियोग-दुःखानेच आमचे हृदय विदीर्ण होईल.",
+      "englishMeaning": "O God! If we will be estranged from you, tell me what will be our plight? Krishna, our hearts will be broken by separation from you.",
+      "verified": true
+    },
+    {
+      "verseNumber": 235,
+      "original": "म्हणौनि कौरव हे वधिजती । मग आम्ही भोग भोगिजती । हे असो मात अघडती । अर्जुन म्हणे ॥235॥",
+      "marathiMeaning": "ऐवढ्याकरिता या कौरवांचा वध करून आम्ही राज्याचे भोग भोगावेत, हे राहू दे; ही गोष्ट घडणे अशक्य आहे, असे अर्जुन म्हणाला.",
+      "englishMeaning": "Therefore, it is an impossible thing that these Kauravas should be killed and then we should enjoy the pleasures.",
+      "verified": true
+    },
+    {
+      "verseNumber": 236,
+      "original": "हे अभिमानमदे भुलले । जरी पा संग्रामा आले । तर्‍ही आम्ही हित आपुले । जाणावे लागे ॥236॥",
+      "marathiMeaning": "कौरव हे अभिमानांच्या मदाने बहकून गेले आहेत, त्यामुळे ते संग्राम करण्यासाठी आले आहेत; तरी पण आम्ही आपले हित (कशांत) आहे हे पहिले पाहिजे.",
+      "englishMeaning": "These are puffed-up by their pride and are intent upon war but we have to understand what is the best for us.",
+      "verified": true
+    },
+    {
+      "verseNumber": 237,
+      "original": "हे ऐसे कैसे करावे? । जे आपुले आपण मारावे? । जाणत जाणताचि सेवावे । काळकूट? ॥237॥",
+      "marathiMeaning": "आपलेच आप्तसंबंधी मारावे? हे असे भलतेच कसे करावे? काळकूट विष आहे, हे कळाले, तर ते कसे घ्यावे?",
+      "englishMeaning": "How can we do such a preposterous deed of killing our own kith and kin? Should we take poison knowingly, with our eyes open?",
+      "verified": true
+    },
+    {
+      "verseNumber": 238,
+      "original": "हा जी मार्गी चालता । पुढा सिंहु जाहला आवचिता । तो तव चुकविता । लाभु आथी ॥238॥",
+      "marathiMeaning": "महाराज रस्त्याने चालत असता अकस्मात सिंह आडवा आला, तर त्याला चुकवून जाण्यातच हित आहे.",
+      "englishMeaning": "You see, when a lion is seen crossing our way while we are walking, it is definitely safe for us to avoid him by getting aside.",
+      "verified": true
+    },
+    {
+      "verseNumber": 239,
+      "original": "असता प्रकाशु सांडावा । मग अंधकूप आश्रावा । तरी तेथ कवणु देवा । लाभु सांगे? ॥239॥",
+      "marathiMeaning": "प्रकाशाचा मार्ग सोडून अंधकारमय विहिरीत जाऊन बसणे, यामध्ये कोणता लाभ आहे? हे देवा ! तूच सांग बरे.",
+      "englishMeaning": "O God! What is the benefit of leaving a well-lit area and entering into a dark deep well?",
+      "verified": true
+    },
+    {
+      "verseNumber": 240,
+      "original": "का समोर अग्नि देखोनी । जरी न वचिजे वोसंडोनी । तरी क्षणा एका कवळूनी । जाळू सके ॥240॥",
+      "marathiMeaning": "किंवा समोर अग्निज्वाला प्रज्वलीत आहेत हे पाहून आपण बाजूने गेलो नाही, तर त्या अग्निज्वाला एका क्षणात आपणास घेरून जाळून टाकतील.",
+      "englishMeaning": "Suppose we see great fire in front of us and if we do not avoid it, it will, in a moment, burn us down.",
+      "verified": true
+    },
+    {
+      "verseNumber": 241,
+      "original": "तैसे दोष हे मूर्त ॥ अंगी वाजो असती पाहात । हे जाणताही केवी एथ । प्रवर्तावे? ॥241॥",
+      "marathiMeaning": "तसेच कुलक्षयामुळे होणारे मूर्तिमंत दोष आम्हाला लागतील, हे कळल्यावरही, आम्ही हे संहाराचे काम कसे बरे करावे?",
+      "englishMeaning": "Therefore, how should we be willing to commit such a wrong action when these demerits and blames are imminently going to fall upon us and we know it to be certain?",
+      "verified": true
+    },
+    {
+      "verseNumber": 242,
+      "original": "ऐसे पार्थु तिये अवसरी । म्हणे देवा अवधारी । या कल्मषाची थोरी । सांगेन तुज ॥242॥",
+      "marathiMeaning": "त्यावेळी असे बोलून पार्थ म्हणाला, देवा ऐका. मी तुम्हाला या पापाचे भयंकर परिणाम सांगतो.",
+      "englishMeaning": "Saying these things, Arjuna further said, \"O God! Please pay some attention. I wish to tell you how fearsome is this sin!\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 243,
+      "original": "जैसे कष्ठें काष्ठ मथिजे । तेथ वन्हि एक उपजे । तेणे काष्ठजात जाळिजे । प्रज्वळलेनि ॥243॥",
+      "marathiMeaning": "ज्याप्रमाणे लाकडावर लाकूड घासले असता तेथे अग्नी निर्माण होतो. तो अग्नी भडकला म्हणजे सर्व लाकडांना जाळून टाकतो.",
+      "englishMeaning": "When a piece of wood is rubbed vigorously on another piece, a little spark is produced but in no time, it flares up and burns down all the woods.",
+      "verified": true
+    },
+    {
+      "verseNumber": 244,
+      "original": "तैसा गोत्रींची परस्परे । जरी वधु घडे मत्सरे । तरी तेणे महादोषे घोरे । कुळचि नाशे ॥244॥",
+      "marathiMeaning": "त्याप्रमाणे कुळातील लोकांनी मत्सराने(द्वेषाने) परस्पराचा नाश केला, तर त्या भयंकर महादोषाने कुळच नाशाला पावतें.",
+      "englishMeaning": "Similarly when in one great family through malice and hatred, people kill each other, the whole family is destroyed by that great sin.",
+      "verified": true
+    },
+    {
+      "verseNumber": 245,
+      "original": "म्हणौनि येणे पापे । वंशजधर्मु लोपे । मग अधर्मुचि आरोपे । कुळामाजी ॥245॥",
+      "marathiMeaning": "म्हणून या पापाने वंशपरंपरागत आलेल्या कुलधर्मचा लोप होतो आणि मग कूळामध्ये अधर्मच वाढत जातो.",
+      "englishMeaning": "Therefore, if I commit this sin, the religion of family will disappear and throughout the family, evil will reign.",
+      "verified": true
+    },
+    {
+      "verseNumber": 246,
+      "original": "भावार्थ :- हे कृष्णा ! अधर्म वाढला, म्हणजे कुलस्त्रिया दुराचारी बनतात. हे वृष्णिकुलोत्पन्न कृष्णा ! कुलस्त्रिया बिघडल्या, की वर्णसंकर उत्पन्न होतो. ॥41॥ एथ सारासार विचारावे । कवणे काय आचारावे । आणि विधिनिषेध आघवे । पारुषती ॥246॥",
+      "marathiMeaning": "तेथे सारासार विचार नाहीसा होतो, कोणी कोणते आचरण करावे व कर्तव्य काय, अकर्तव्य काय, या सगळ्या गोष्टी लोप पावतात.",
+      "englishMeaning": "When such a state becomes predominant, it becomes impossible to know what is wrong and what is right and who should do what type of work and the very scope of indications and contra- indications about behaviour is nullified.",
+      "verified": true
+    },
+    {
+      "verseNumber": 247,
+      "original": "असता दीपु दवडिजे । मग अंधकारी राहाटिजे । तरी उजूचि का अडळिजे । जयापरी ॥247॥",
+      "marathiMeaning": "आपल्या जवळ असलेला दिवा विझवून अंधारात चालू लागलो, तर चांगल्या जागीही माणूस अडखळतो.",
+      "englishMeaning": "It is like throwing the lamp which is in one's hand, and walking in the dark. Then we are sure to fall.",
+      "verified": true
+    },
+    {
+      "verseNumber": 248,
+      "original": "तैसा कुळी कुळक्षयो होय । तये वेळी तो आद्यधर्मु जाय । मग आन काही आहे । पापावाचुनी? ॥248॥",
+      "marathiMeaning": "त्याप्रमाणे ज्या वेळी कुलक्षय होतो त्या वेळी कुळात परंपरागत चालत असलेल्या धर्माचा लोप होतो. मग तेथे पापवाचून दुसरे काय असणार.?",
+      "englishMeaning": "Similarly when there is destruction of the whole family, the basic religious observances are lost and then what else can there remain except sin?",
+      "verified": true
+    },
+    {
+      "verseNumber": 249,
+      "original": "जै यमनियम ठाकती । तेथ इंद्रिये सैरा राहाटती । म्हणौनि व्यभिचार घडती । कुळस्त्रियांसी ॥249॥",
+      "marathiMeaning": "ज्या वेळी इंद्रिये व मन यांचा निग्रह थांबतो, त्यावेळी इंद्रिये स्वैर (व्यवहार करतात) सुटतात म्हणून कुळस्त्रियाकडून व्यभिचार घडतो.",
+      "englishMeaning": "When the rules of conduct and self-control as to thought and sense-organs become loose, the sense organs run astray anywhere and in that spate, the noble virtuous women are also defiled.",
+      "verified": true
+    },
+    {
+      "verseNumber": 250,
+      "original": "उत्तम अधमी संचरती । ऐसे वर्णावर्ण मिसळती । तेथ समूळ उपडती । जातिधर्म ॥250॥",
+      "marathiMeaning": "उच्च वर्णाच्या स्त्रियांचा नीच वर्णाच्या लोकात संचार होतो. अशा रीतीने वर्णसंकर निर्माण होतो. त्यामुळे जातीधर्म मुळापासून उखडले जातात.",
+      "englishMeaning": "The higher castes mix-up with the lower castes and there is mixture of higher and lower races, thus uprooting the natural age-old rules of conduct postulated in the caste-system.",
+      "verified": true
+    },
+    {
+      "verseNumber": 251,
+      "original": "जैसी चोहटाचिये बळी । पाविजे सैरा काउळी । तैसी महापापे कुळी । संचरती ॥251॥",
+      "marathiMeaning": "ज्याप्रमाणे चव्हाट्यावर ठेवलेल्या बळीवर चारी बाजूनी कावळे येऊन पडतात, त्याप्रमाणे महापापे (अशा) कुळात सर्व बाजूनी प्रवेश करतात.",
+      "englishMeaning": "Then the greatest sins have their free sway in the families, just like a plate of food kept exposed in the open city square, is devoured freely by crows.",
+      "verified": true
+    },
+    {
+      "verseNumber": 252,
+      "original": "मग कुळा तया अशेखा । आणि कुळघातका । येरयेरा नरका । जाणे आथी ॥252॥",
+      "marathiMeaning": "मग त्या (वर्णसंकर) संपूर्ण कुळाला आणि कुळाचा घात करणाऱ्या अशा दोघांनाही नरकात जावे लागते.",
+      "englishMeaning": "Then, there is hell for the whole family as well as for those who destroy the tradition and the family.",
+      "verified": true
+    },
+    {
+      "verseNumber": 253,
+      "original": "देखे वंशवृद्धि समस्त । यापरी होय पतित । मग वोवांडिती स्वर्गस्थ । पूर्वपुरुष ॥253॥",
+      "marathiMeaning": "पाहा या प्रमाणे वंशात वाढलेली सर्व प्रजा अधोगतीला जाते; आणि स्वर्गात असलेले पूर्वज सहजच पतन पावतात.",
+      "englishMeaning": "And see how, when the whole continuance of the race is thus destroyed, the ancestors who are in heaven also fall down to hell.",
+      "verified": true
+    },
+    {
+      "verseNumber": 254,
+      "original": "जेथ नित्यादि क्रिया ठाके । आणि नैमित्तिक क्रिया पारुखे । तेथ कवणा तिळोदके । कवण अर्पी? ॥254॥",
+      "marathiMeaning": "ज्यावेळी रोज करावयाची धार्मिक कार्य (कृत्यें) बंद पडतात, विशेष प्रकारची करावयाची कर्मेही बंद पडतात. अशा परिस्थितीत पितरांना कोण बरे तिलोदक देणार?",
+      "englishMeaning": "This is because, when both the regular and occasional religious observances get lost, who would bother to offer sacred water to fore-fathers and to whom would he offer it?",
+      "verified": true
+    },
+    {
+      "verseNumber": 255,
+      "original": "तरी पितर काय करिती? । कैसेनि स्वर्गी वसती? । म्हणौनि तेही येती । कुळापासी ॥255॥",
+      "marathiMeaning": "असे झाल्यावर पितर तरी काय करणार? ते स्वर्गात कसे राहणार? म्हणून ते देखील नरकात पडलेल्या आपल्या (भ्रष्ट) कूळाजवळ येतात.",
+      "englishMeaning": "Then, what will be the fate of the ancestors? How can they retain their status in the heaven? So, those poor fore-fathers also come down to the level of their families.",
+      "verified": true
+    },
+    {
+      "verseNumber": 256,
+      "original": "जैसा नखाग्री व्याळु लागे । तो शिखांत व्यापी वेगे । तेवी आब्रह्म कुळ अवघे । आप्लविजे ॥256॥",
+      "marathiMeaning": "ज्याप्रमाणे नखाच्या टोकाला साप चावला म्हणजे त्याचे विष ताबडतोब (हा हा म्हणता) शेंडीपर्यंत सर्वत्र पसरते, त्याप्रमाणे एका कुळात पाप घडले, तर (ब्रम्हदेवापासूनचे पुढील सर्व) ते मूळ पुरुषापर्यंत सर्वास पापात बुडविते.",
+      "englishMeaning": "Just as when a serpent bites a man at the tip of his toe nail, the poison in no time, reaches the brain. Similarly by the stigma of this sin, the whole ancestral tree becomes defiled right up to the primordial patriarch.",
+      "verified": true
+    },
+    {
+      "verseNumber": 257,
+      "original": "देवा अवधारी आणीक एक । एथ घडे महापातक । जे संगदोषे हा लौकिक । भ्रंशु पावे ॥257॥",
+      "marathiMeaning": "हे देवा ! आणखीन एक गोष्ट ऎक, या वर्णसंकरामुळे आणखी एक महापातक घडते ते असे की, पतितांच्या संसर्गदोषाने इतर लोकांचे आचार-विचार भ्रष्ट होतात.",
+      "englishMeaning": "O God! Please listen to another great sin which is committed. By the downfall of one family, other families are also by association losers of the code of good conduct.",
+      "verified": true
+    },
+    {
+      "verseNumber": 258,
+      "original": "जैसा घरी आपुला । वानिवसे अग्नि लागला । तो आणिकाही प्रज्वळिला । जाळूनि घाली ॥258॥",
+      "marathiMeaning": "ज्याप्रमाणे आपल्या घराला अकस्मात अग्नि लागला (आग लागली) म्हणजे तो भडकलेला अग्नि दुसऱ्या घरांनाही जाळून भस्म करते.",
+      "englishMeaning": "Just as fire which burns one house spreads to other houses and turns them into ashes,",
+      "verified": true
+    },
+    {
+      "verseNumber": 259,
+      "original": "तैसिया तया कुळसंगती । जे जे लोक वर्तती । तेही बाधा पावती । निमित्ते येणे ॥259॥",
+      "marathiMeaning": "त्याप्रमाणे दुष्ट कुळाचा (संसर्गाने) संगतीमध्ये राहून जे जे लोक आपली कर्मे करतात, ते देखील त्या संसर्गदोषाने दूषित होऊन जातात.",
+      "englishMeaning": "Similarly the association of this family with other people causes them also to be sinners.",
+      "verified": true
+    },
+    {
+      "verseNumber": 260,
+      "original": "तैसे नाना दोषे सकळ । अर्जुन म्हणे ते कुळ । मग महाघोर केवळ । निरय भोगी ॥260॥",
+      "marathiMeaning": "अर्जुन म्हणतो, त्याप्रमाणे अनेक दोषामुंळे मग त्या सर्व कुळाला भयंकर अशा नरकयातना भोगावे लागतात.",
+      "englishMeaning": "Arjuna said that such a family beset by various defects and defaults, becomes worthy of only fearsome hell.",
+      "verified": true
+    },
+    {
+      "verseNumber": 261,
+      "original": "पडिलिया तिये ठायी । मग कल्पांतीही उकलु नाही । येसणे पतन कुळक्षयी । अर्जुन म्हणे ॥261॥",
+      "marathiMeaning": "अर्जुन पुढे म्हणाला, एकदा त्या नरकयातना भोगाव्या लागल्यानंतर (त्या ठिकाणी पडल्यानंतर) कल्पांतदेखील त्यांची सुटका होत नाही. इतके या कलक्षयापासून पतन होते.",
+      "englishMeaning": "He further said, \"Once that family falls into purgatory, it cannot escape from it even at the end of the Age. Such is the continuous degradation resultant by massacre of the whole family.",
+      "verified": true
+    },
+    {
+      "verseNumber": 262,
+      "original": "देवा हे विविध कानी ऐकिजे । परी अझुनिवरी त्रासु नुपजे । हृदय वज्राचे हे काय कीजे । अवधारी पा ॥262॥",
+      "marathiMeaning": "हे देवा ! नानाप्रकारची बोलणी कानांने ऐकतोस, पण अजूनपर्यंत तुला काही त्रास (शिसारी येत) होत नाही. तू आपले हृदय वज्रसारखे कठोर केले आहेस काय?",
+      "englishMeaning": "Even after listening to there various bad results, should we not fear sins? should we turn our hearts as cold and hard as steel? Think about it!",
+      "verified": true
+    },
+    {
+      "verseNumber": 263,
+      "original": "अपेक्षिजे राज्यसुख । जयालागी ते तव क्षणिक । ऐसे जाणतांही दोख । अव्हेरू ना? ॥263॥",
+      "marathiMeaning": "ज्या शरीरकरिता राज्यसुखाची इच्छा करायची, ते शरीर तर क्षणभंगुर आहे, असे कळत असतांनाही, अशा या घडणाऱ्या महापातकाचा त्याग करू नये काय?",
+      "englishMeaning": "When this body for which the pleasures of the kingdom are desired is itself impermanent, should we not abhor it, knowing the sin involved in it?",
+      "verified": true
+    },
+    {
+      "verseNumber": 264,
+      "original": "जे हे वडिल सकळ आपुले । वधावया दिठी सूदले । सांग पा काय थेंकुले । घडले आम्हा? ॥264॥",
+      "marathiMeaning": "हे जे समोर सर्व वाड-वडील जमले आहेत, त्यांचा वध करावा, या दृष्टीने त्यांच्या कडे पहिले, तरीसुद्धा थोडे पाप घडले काय? हे तूच सांगावे.",
+      "englishMeaning": "And please tell me, is it a negligible sin committed by us that, with an intention to kill we have stared at these elders?",
+      "verified": true
+    },
+    {
+      "verseNumber": 265,
+      "original": "आता यावरी जे जियावे । तयापासूनि हे बरवे । जे शस्त्र सांडुनि साहावे । बाण यांचे ॥265॥",
+      "marathiMeaning": "असे करून जगण्यापेक्षा आपण शस्त्रे टाकून कौरवाचे वार सहन करावेत, हे उत्तम !",
+      "englishMeaning": "Now, it is better to throw my weapons and suffer their arrows, than to live any longer.",
+      "verified": true
+    },
+    {
+      "verseNumber": 266,
+      "original": "तयावरी होय जितुके । ते मरणही वरी निके । परी येणे कल्मषे । चाड नाही ॥266॥",
+      "marathiMeaning": "असे केल्याने जितके दुःख भोगावे लागले तितके सहन करावे इतकेच काय; शेवटी मृत्यू जरी प्राप्त झाला, तरी (तथापि) तो अधिक चांगला; परंतु यांचे (तिथे जमलेल्या आप्तजनांचे) वध करून पातक करण्याची माझी इच्छा नाही.",
+      "englishMeaning": "It does not matter if death does meet me while doing so, but we do not dare commit such a sin.",
+      "verified": true
+    },
+    {
+      "verseNumber": 267,
+      "original": "ऐसे देखून सकळ । अर्जुने आपुले कुळ । मग म्हणे राज्य ते केवळ । निरयभोगु ॥267॥",
+      "marathiMeaning": "याप्रमाणे अर्जुनाने आपले सर्व कुळ पाहून म्हंटले की, यांचा नाश करून मिळविलेले राज्य म्हणजे केवळ नरकभोग आहे.",
+      "englishMeaning": "Seeing thus all his relations in front of him, Arjuna said- This enjoying the kingdom is only hell, and nothing else!",
+      "verified": true
+    },
+    {
+      "verseNumber": 268,
+      "original": "ऐसे तिये अवसरी । अर्जुन बोलिला समरी । संजयो म्हणे अवधारी । धृतराष्ट्राते ॥268॥",
+      "marathiMeaning": "संजय म्हणाला, हे धृतराष्टरा ! इकडे लक्ष दे. याप्रमाणे रणांगणावर उभा असलेला अर्जुन असे बोलला.",
+      "englishMeaning": "Sanjaya said to Dhritarashtra. \"O, king, this was what Arjuna said at that time on the battlefield. Now listen.",
+      "verified": true
+    },
+    {
+      "verseNumber": 269,
+      "original": "मग अत्यंत उद्वेगला । न धरत गहींवरु आला । तेथ उडी घातली खाला । रथौनिया ॥269॥",
+      "marathiMeaning": "मग अर्जुन अत्यंत खिन्न झाला व त्याला गहिवर आवरता आला नाही; मग त्याने रथावरून खाली उडी घातली. ॥269!!",
+      "englishMeaning": "Then Arjuna was much dejected and was so moved by compassion that he could not control himself and jumped down from the chariot.",
+      "verified": true
+    },
+    {
+      "verseNumber": 270,
+      "original": "जैसा राजकुमरु पदच्युतु । सर्वथा होय उपहतु । का रवि राहुग्रस्तु । प्रभाहीनु ॥270॥",
+      "marathiMeaning": "ज्याप्रमाणे अधिकारावरून दूर झालेला राजपुत्र सर्व दृष्टीने (प्रकारांनी) निस्तेज होतो किंवा जसा राहूने ग्रासलेला सूर्य तेजरहित होतो;",
+      "englishMeaning": "He looked like the king who becomes totally beaten when usurped from his throne, or like the Sun eclipsed by Rahu.",
+      "verified": true
+    },
+    {
+      "verseNumber": 271,
+      "original": "नातरी महासिद्धिसंभ्रमे । जिंतिला तापसु भ्रमे । मग आकळूनि कामे । दीनु कीजे ॥271॥",
+      "marathiMeaning": "अथवा, महासिद्धीच्या मोहाने पछाडलेला तपस्वी भुलून जातो (भुलतो) आणि मग तप सोडून कामनेच्या तडाक्यात सापडून दीन होतो.",
+      "englishMeaning": "Or, he looked like a monk caught in the overpowering desire to use occult faculties who becomes confused and pitiable by the lust for carnal pleasures.",
+      "verified": true
+    },
+    {
+      "verseNumber": 272,
+      "original": "तैसा तो धर्नुधरु । अत्यंत दुःखे जर्जरु । दिसे जेथ रहंवरु । त्यजिला तेणे ॥272॥",
+      "marathiMeaning": "त्याप्रमाणे अर्जुनाने जेंव्हा रथाचा त्याग केला, तेंव्हा तो धनुर्धारी अर्जुन दुःखाने फार पीडलेला (व्याप्त झालेला) दिसला.",
+      "englishMeaning": "Thus appeared Arjuna, completely squeezed by depression, sitting down on the ground beside his chariot.",
+      "verified": true
+    },
+    {
+      "verseNumber": 273,
+      "original": "मग धनुष्य बाण सांडिले । न धरत अश्रुपात आले । ऐसे ऐक राया वर्तले । संजयो म्हणे ॥273॥",
+      "marathiMeaning": "संजय म्हणाला, हे राजा (धृतराष्टरास) ! ऎक. तेथे (रणांगणावर) अशी गोष्ट घडली की, अर्जुनाने धनुष्यबाण टाकून दिले त्याला रडू आवरेनासे झाले. (म्हणजेच त्याच्या डोळ्यातून सारख्या अश्रुधारा वाहू लागल्या)",
+      "englishMeaning": "Then he threw down his bow and arrow, and tears started from his eyes being shed profusely. Listen, O king! It so happened!\" Thus said Sanjaya.",
+      "verified": true
+    },
+    {
+      "verseNumber": 274,
+      "original": "आता यापरी तो वैकुंठनाथु । देखोनि सखेद पार्थु । कवणेपरी परमार्थु । निरूपील ॥274॥",
+      "marathiMeaning": "आता यावर (पुढे) तो वैकुंठपती श्रीकृष्ण अर्जुनाला खिन्न, (दुःखी) झालेले पाहून कोणत्या प्रकारे परमार्थाचा उपदेश करतील,",
+      "englishMeaning": "Now, seeing Arjuna overwhelmed by sorrow, what will the Lord of Vaikuntha teach him in the spiritual life -",
+      "verified": true
+    },
+    {
+      "verseNumber": 275,
+      "original": "ते सविस्तर पुढारी कथा । अति सकौतुक ऐकता । ज्ञानदेव म्हणे आता । निवृत्तिदासु ॥275॥",
+      "marathiMeaning": "॥ एकूण ज्ञानेश्वरी ओव्या :- 275 ॥",
+      "englishMeaning": "will be a very interesting narration to listen to, further on!\" says Dnyandeva, the servant (disciple) of Saint Nivrutti.",
       "verified": true
     }
   ]
