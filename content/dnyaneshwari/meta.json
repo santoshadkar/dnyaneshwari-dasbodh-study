@@ -10,5 +10,5 @@
     "name": "Traditional Bhagavad Gita chapter titles (followed by Dnyaneshwari as its source text's structure)",
     "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
   },
-  "contentStatus": "Chapter 1 is fully populated and sourced (all 275 ovis; see chapter-01.json). Chapters 2-18 are still empty. Content is added and source-cited chapter-by-chapter in later phases; see each chapter-XX.json 'source' and 'status' fields."
+  "contentStatus": "Chapters 1-2 are fully populated and sourced (275 + 375 ovis; see chapter-01.json, chapter-02.json). Chapters 3-18 are still empty. Content is added and source-cited chapter-by-chapter in later phases; see each chapter-XX.json 'source' and 'status' fields."
 }
