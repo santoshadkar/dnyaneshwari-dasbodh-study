@@ -3,8 +3,1277 @@
   "chapterNumber": 5,
   "chapterTitleMarathi": "कर्मसंन्यासयोग",
   "chapterTitleEnglish": "Karma Sanyasa Yoga (The Yoga of Renunciation of Action)",
-  "source": null,
-  "numberingConvention": null,
-  "status": "empty",
-  "verses": []
+  "source": {
+    "name": "सार्थ ज्ञानेश्वरी (Sartha Dnyaneshwari) by Dhananjay Maharaj More — original ovi text and Marathi meaning",
+    "url": "https://96kulimaratha.com/shabdashodh-sartha-dnyaneshwari-adhyay-5/"
+  },
+  "englishSource": {
+    "name": "Dnyaneshwari, English translation by D. A. Ghaisas",
+    "url": "https://archive.org/download/Dnyadeva_vangmay/Dnyaneshwari-english-by-Ghaisas.pdf"
+  },
+  "numberingConvention": "Ovi numbers follow the Sartha Dnyaneshwari (96kulimaratha.com) edition; the chapter's own colophon confirms 180 ovis and 29 Gita shlokas. The Ghaisas English translation uses the same ovi numbering with no gaps or shifts for this chapter, and its wording was cross-checked against the Marathi for each ovi below.",
+  "status": "complete",
+  "note": "All 180 ovis are populated and cross-checked between the two sources. Like Chapter 4, this chapter's source markup has no <strong> emphasis tags; unlike Chapter 4, it does intersperse the underlying Sanskrit Bhagavad Gita shlokas (quoted verbatim, with the Gita's own chapter.verse numbering) between ovi markers, but these appear cleanly between one ovi's meaning and the next ovi's marker rather than interrupting an ovi's own text, so no shloka-lookahead logic was needed. These Sanskrit quotations are not counted as separate ovis and are not included as verse content here. The source's own markers had no typos or duplicates for this chapter (all 180 found on the first parser pass, unlike Chapters 3-4).",
+  "verses": [
+    {
+      "verseNumber": 1,
+      "original": "मग पार्थु श्रीकृष्णाते म्हणे । हा हो हे कैसे तुमचे बोलणे । एक होय तरी अंतःकरणे । विचारू ये ॥1॥",
+      "marathiMeaning": "मग अर्जुन भगवान श्रीकृष्णाला म्हणाला, ” अहो ! हे असे कसे तुमचे बोलणे ? तुम्ही एकच मार्ग सांगाल, तर त्यासंबंधी मनाने काही विचार करता येईल.",
+      "englishMeaning": "Then Partha said to Shrikrishna, \"My Lord, what type of talk is this? Had you spoken one thing definitely, my mind could have thought about it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 2,
+      "original": "मागा सकळ कर्माचा संन्यासु । तुम्हीचि निरोपिला होता बहुवसु । तरी कर्मयोगी केवी अतिरसु । पोखीतसा पुढती ॥2॥",
+      "marathiMeaning": "यापूर्वी तुम्ही कर्माचा त्याग करावा, हे विविध प्रकारे सांगितले होते; परंतु आता कर्मयोग आचरणासाठी अधिक उत्तेजन का देता ?",
+      "englishMeaning": "Earlier you told me the various ways by which we should give up actions; but then you are now sponsoring the yoga of action.",
+      "verified": true
+    },
+    {
+      "verseNumber": 3,
+      "original": "ऐसे द्व्यर्थ हे बोलता । आम्हा नेणतयांचिया चित्ता । आपुलिये चाडे अनंता । उमजू नोहे ॥3॥",
+      "marathiMeaning": "हे श्रीअनंता ! आपले असे दोन्ही मार्गाचे बोलणे ऐकून आम्हा अज्ञानी लोंकांच्या मनाला काही उलगडा होत नाही.",
+      "englishMeaning": "As your talk is a kind of `double-talk', we the ignorant cannot quite understand it according to our grasping power.",
+      "verified": true
+    },
+    {
+      "verseNumber": 4,
+      "original": "एके एकसाराते बोधिजे । तरी एकनिष्ठचि बोलिजे । हे आणिकी काय सांगिजे । तुम्हाप्रति ॥4॥",
+      "marathiMeaning": "ऐका. एका (सारभूत) तत्वाचा बोध करायचा असेल, तर ते एकच निश्चितपणे सांगितले पाहिजे. हे तुम्हाला दुसऱ्याने दुसऱ्यांनी सांगावयास पाहिजे काय ?",
+      "englishMeaning": "O Lord, please see what I say. If you have to advise about one thing which is essential, it is necessary that your talk should be in keeping with the said line of thought. It should not be involved. But it is not necessary that I should tell you about this.",
+      "verified": true
+    },
+    {
+      "verseNumber": 5,
+      "original": "तरी याचिलागी तुमते । म्या राऊळासी विनविले होते । जे हा परमार्थु ध्वनिते । न बोलावा ॥5॥",
+      "marathiMeaning": "याकरताच आपल्यासारख्या श्रेष्ठयाना मी विनंती केली होती की, परमार्थ हा गूढ अर्थाने सांगू नका.",
+      "englishMeaning": "For this reason only I had earlier requested you (My Guru) that the spiritual teaching should not be ambiguous.",
+      "verified": true
+    },
+    {
+      "verseNumber": 6,
+      "original": "परी मागील असो देवा । आता प्रस्तुती उकलु देखावा । सांगे दोहींमाजि बरवा । मार्गु कवण ॥6॥",
+      "marathiMeaning": "पण देवा ! मागील गोष्ट राहू दे. आता प्रस्तुत दोन्ही मार्गांपैकी कोणता मार्ग चांगला आहे, हे स्पष्ट करून सांगावे.",
+      "englishMeaning": "But my Lord, let that be. Now please explain to me which of the two paths is better.",
+      "verified": true
+    },
+    {
+      "verseNumber": 7,
+      "original": "जो परिणामीचा निर्वाळा । अचुंबितु ये फळा । आणि अनुष्ठिता प्रांजळा । सावियाचि ॥7॥",
+      "marathiMeaning": "जो मार्ग परिणामी अमृतमधुर आहे, ज्याचे फळ अचूक प्राप्त होते आणि जो आचरण करण्यास सहजच सरळ आहे,",
+      "englishMeaning": "That should be abiding to the end, should give exactly desired fruit and should be easy and clear to follow.",
+      "verified": true
+    },
+    {
+      "verseNumber": 8,
+      "original": "जैसे निद्रेचे सुख न मोडे । आणि मार्गु तरी बहुसाल सांडे । तैसे सोकासना सांगडे । सोहपे होय ॥8॥",
+      "marathiMeaning": "निद्रेचे सुख मध्येच भंग न पावता रस्ता तर पार करता आला पाहिजे, अशा सुखकारक वाहनासारखा जो सोयीचा असेल, तो मार्ग मला सांगावा.",
+      "englishMeaning": "It is just like a vehicle like Palakhi in which the traveller can sleep without disturbance and can go quite a distance. The path should be similar to that.",
+      "verified": true
+    },
+    {
+      "verseNumber": 9,
+      "original": "येणे अर्जुनाचेनि बोले । देवो मनी रिझले । मग होईल ऐके म्हणितले । संतोषोनिया ॥9॥",
+      "marathiMeaning": "असे अर्जुनाचे बोलणे ऐकून देवाच्या मनात प्रसन्नता तरारली आणि परम संतोषाने ते अर्जुनास म्हणाले, तू म्हणतोस त्याप्रमाणे होईल.",
+      "englishMeaning": "Upon this argument of Arjuna, the Lord was amused in his mind and then in a very happy mood, he said, \"Yes. It will be easy and comfortable.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 10,
+      "original": "देखा कामधेनु ऐसी माये । सदैवा जया होये । तो चंद्रुहि परी लाहे खेळावया ॥10॥",
+      "marathiMeaning": "श्रीज्ञानेश्वर महाराज म्हणतात, पाहा, ज्या दैववानाला (सुदैवाने ज्याला) कामधेनुसारखी आई लाभली आहे, त्याला आकाशातील चंद्रदेखील खेळायला मिळतो.",
+      "englishMeaning": "Dnyaneshwar says to the audience - \"Please see, if anyone has fortunately a mother like the Divine Cow, he may even get Moon to play with.",
+      "verified": true
+    },
+    {
+      "verseNumber": 11,
+      "original": "पाहे पा शंभूची प्रसन्नता । तया उपमन्यूचिया आर्ता । काय क्षीराब्धि दूधभाता । देईजेचिना ॥11॥",
+      "marathiMeaning": "असे पाहा की, शंकरांनी प्रसन्न होऊन उपमन्यूला त्याच्या इच्छेप्रमाणे दूधभात खाण्यासाठी दुधाचा सागर दिला.",
+      "englishMeaning": "Just see when the Lord Shankara was pleased with Upamanyu, did he not give him the whole sea of milk just to satisfy his need for having milk and rice?",
+      "verified": true
+    },
+    {
+      "verseNumber": 12,
+      "original": "तैसा औदार्याचा कुरुठा । कृष्ण आपु जाहलिया सुभटा । का सर्व सुखांचा वसौटा । तोचि नोहावा ॥12॥",
+      "marathiMeaning": "त्याप्रमाणे औदार्याचे घर असणारा भगवान श्रीकृष्ण अर्जुनाच्या अधीन झाल्यावर अर्जुन सर्वसुखाचे वसतिस्थान का बरे होणार नाही ?",
+      "englishMeaning": "Similarly when Shrikrishna who is the great store of generosity, becomes pleased with the great warrior Arjuna, why should not all the comforts and happiness be available to him?",
+      "verified": true
+    },
+    {
+      "verseNumber": 13,
+      "original": "एथ चमत्कारु कायसा । गोसावी लक्ष्मीकांताऐसा । आता आपुलिया सवेसा । मागावा की ॥13॥",
+      "marathiMeaning": "यामध्ये आश्चर्य ते काय आहे ? लक्ष्मीकांतसारखा मालक लाभल्यावर आता आपल्या इच्छेप्रमाणे मागितले पाहिजे.",
+      "englishMeaning": "Sirs, what wonder is there? When one gets the master like the spouse of goddess Laxmi in the form of Shrikrishna one should make demands as one pleases.",
+      "verified": true
+    },
+    {
+      "verseNumber": 14,
+      "original": "म्हणोनि अर्जुने म्हणितले । ते हांसोनि येरे दिधले । तेचि सांगेन बोलिले । काय कृष्णे ॥14॥",
+      "marathiMeaning": "म्हणून अर्जुनाने जे मागितले, ते श्रीकृष्णांनी त्याला प्रसन्न चित्ताने दिले. श्रीज्ञानेश्वर माऊली म्हणतात, श्रोतेहो, श्रीकृष्ण अर्जुनाला काय बोलले, तेच मी तुम्हाला आता सांगत आहे.",
+      "englishMeaning": "That is why, the Lord Shrikrishna happily gave Arjuna that knowledge which he wanted. I will tell you what Shrikrishna told him. Please listen.",
+      "verified": true
+    },
+    {
+      "verseNumber": 15,
+      "original": "तो म्हणे गा कुंतीसुता । हे संन्यासयोगु विचारिता । मोक्षकर तत्वता । दोनीहि होती ॥15॥",
+      "marathiMeaning": "भगवान श्रीकृष्ण म्हणाले, हे अर्जुना ! तात्विक दृष्टीने विचार केला, तर कर्मसंन्यास आणि कर्मयोग हे दोन्हीही मोक्षाची प्राप्ती करून देणारे आहेत.",
+      "englishMeaning": "The Lord said, \"My dear son of Kunti, both the yogas namely the yoga of renunciation and the yoga of action are leading to liberation.",
+      "verified": true
+    },
+    {
+      "verseNumber": 16,
+      "original": "तरी जाणा नेणा सकळा । हा कर्मयोगु कीर प्रांजळा । जैसी नाव स्त्रिया बाळा । तोयतरणी ॥16॥",
+      "marathiMeaning": "ज्याप्रमाणे नाव पुरुषांप्रमाणेच, स्त्रियांना आणि बालकांनाही पाण्यातून तरुण जाण्यास सोपे साधन आहे, त्याप्रमाणे जाणत्यांना, नेणत्यांना (हा संसाररुपी) भवसागर तरुण जाण्यासाठी हा निष्काम कर्मयोग सुलभ आहे.",
+      "englishMeaning": "However, the yoga of action is suitable for both the ignorant and the men of knowledge just as a ferry-boat is convenient to women and children also for crossing the waters.",
+      "verified": true
+    },
+    {
+      "verseNumber": 17,
+      "original": "तैसे सारासार पाहिजे । तरी सोहपा हाचि देखिजे । येणे संन्यासफळ लाहिजे । अनायासे ॥17॥",
+      "marathiMeaning": "सारासार विचार करून पहिले असता, निष्काम कर्मयोग फार सोपा आहे, त्याच्या आचरणाने कर्मसंन्यासाचे फळ अनायासे प्राप्त होते.",
+      "englishMeaning": "So, if we consider the pros and cons, this yoga of action is definitely easier because the result which one gets by the yoga of renunciation can be had very easily by this.",
+      "verified": true
+    },
+    {
+      "verseNumber": 18,
+      "original": "आता याचिलागी सांगेन । तुज संन्यासियाचे चिन्ह । मग सहजे हे अभिन्न । जाणसी तू ॥18॥",
+      "marathiMeaning": "याकरिता तुला कर्मसंन्यासाचे लक्षण सांगतो, मग हे दोन्ही मार्ग एकच आहेत, असे तू जाणशील.",
+      "englishMeaning": "Now I will, with that intention only, tell you the signs of a person of renunciation, so that you will know the similarity in both the paths.",
+      "verified": true
+    },
+    {
+      "verseNumber": 19,
+      "original": "तरी गेलियाचि से न करी । न पवता चाड न धरी । जो सुनिश्चळु अंतरी । मेरु जैसा ॥19॥",
+      "marathiMeaning": "जो होऊन गेलेल्या गोष्टीची आठवण काढत नाही, एखादी वस्तू प्राप्त झाली, तरी त्याचा आनंद मानत नाही, जो मेरुपर्वताप्रमाणे अंतर्यामी स्थिर असतो,",
+      "englishMeaning": "Thus, a man does not remember the things which are gone nor does he desire the things which he has not got, and his mind is as firm as mount Meru.",
+      "verified": true
+    },
+    {
+      "verseNumber": 20,
+      "original": "आणि मी माझे ऐसी आठवण । विसरले जयाचे अंतःकरण । पार्था तो संन्यासी जाण । निरंतर ॥20॥",
+      "marathiMeaning": "आणि हे पार्था ! ज्याच्या अंतःकरणात मी आणि माझे याचे स्मरणदेखील राहिलेले नसते, तो सदोदित संन्यासी आहे, असे जाणावे.",
+      "englishMeaning": "O Partha, such a man should be known as eternally a Sanyasi (renouncer) who has not an iota of feeling of `I' and `Mine'.",
+      "verified": true
+    },
+    {
+      "verseNumber": 21,
+      "original": "जो मने ऐसा जाहला । संगी तोचि सांडिला । म्हणोनि सुखे सुख पावला । अखंडित ॥21॥",
+      "marathiMeaning": "ज्याच्या मनाची अशी अवस्था झाली, त्याला विषयांची इच्छा सोडून जाते; म्हणून त्याला सहजसुखाने अखंड मोक्ष प्राप्त होतो.",
+      "englishMeaning": "The man who has attained this state, is abandoned by attachment itself and, therefore, he enjoys happiness without break.",
+      "verified": true
+    },
+    {
+      "verseNumber": 22,
+      "original": "आता गृहादिक आघवे । ते काही नलगे त्यजावे । जे घेते जाहले स्वभावे । निःसंगु म्हणऊनि ॥22॥",
+      "marathiMeaning": "अशी स्थिती असलेल्या माणसाला घर, प्रपंच वगैरे काही त्यागावे लागत नाही; कारण मी पणाच्या अभिमानाने प्रपंचाचा स्वीकार करणारे त्याचे मन अंतः करणापासून स्वभावतःच निःसंग झालेले असते.",
+      "englishMeaning": "Such a man has not to give up his house or anything else, because he understands that all those things are not related to him, and he remains unattached.",
+      "verified": true
+    },
+    {
+      "verseNumber": 23,
+      "original": "देखे अग्नि विझोनि जाये । मग जे रांखोंडी केवळु होये । तै ते कापुसे गिंवसू ये । जियापरी ॥23॥",
+      "marathiMeaning": "प्रज्वलित अग्नी विजून गेला, की त्याची राखच शिल्लक राहते. ती राख कापसानेदेखील धरून ठेवता येते.",
+      "englishMeaning": "For example, when the fire is extinguished, there remains only ash which can be held between our fingers while preparing cotton wicks.",
+      "verified": true
+    },
+    {
+      "verseNumber": 24,
+      "original": "तैसा असतेनि उपाधी । नाकळिजे जो कर्मबंधीं । जयाचीचे बुद्धी । संकल्पु नाही ॥24॥",
+      "marathiMeaning": "त्याप्रमाणे ज्याच्या बुद्धीत संकल्प निर्माण होत नाही, तो प्रपंचाच्या उपाधित असूनसुद्धा कर्मबंधात सापडत नाही.",
+      "englishMeaning": "Similarly, even if everything is around him in the family life, he does not get bound by his actions because his intellect does not become prey to projections and doubts.",
+      "verified": true
+    },
+    {
+      "verseNumber": 25,
+      "original": "म्हणोनि कल्पना जै सांडे । तैचि गा संन्यासु घडे । या कारणे दोनी सांगडे । संन्यासयोगु ॥25॥",
+      "marathiMeaning": "ज्यावेळी मनातील कल्पनेचा त्याग होतो, त्यावेळी संन्यास घडतो आणि म्हणूनच कर्मसंन्यास आणि कर्मयोग हे दोन्ही फलतः सारखेच आहेत.",
+      "englishMeaning": "Therefore when the mind is devoid of intentions and doubts, then the real renunciation takes place. For this reason, I say that both the renunciation of action and the yoga of action go together.",
+      "verified": true
+    },
+    {
+      "verseNumber": 26,
+      "original": "एऱ्हवी तरी पार्था । जे मूर्ख होती सर्वथा । ते सांख्यकर्मसंस्था । जाणती केवी ॥26॥",
+      "marathiMeaning": "एरव्ही तरी अर्जुना, जे विचाराने पूर्णपणे अज्ञानी आहेत, ते सांख्ययोग व कर्मयोग यांचे स्वरूप कसे जाणू शकतील ?",
+      "englishMeaning": "Otherwise, O Partha, how can those who are foolish know anything definitely about Saankhya and yoga?",
+      "verified": true
+    },
+    {
+      "verseNumber": 27,
+      "original": "सहजे ते अज्ञान । म्हणोनि म्हणती हे भिन्न । एऱ्हवी दीपाप्रती काई अनान । प्रकाशु आहाती ॥27॥",
+      "marathiMeaning": "ते स्वभावतः मूर्ख असतात, म्हणून या दोन मार्गांना भिन्न समजतात. एरवी प्रत्येक दिव्याचे प्रकाश काय वेगवेगळा असतो काय. ?",
+      "englishMeaning": "They are anyway ignorant only. Therefore they say that these two are different. For example, are there different lights in two similar lamps?",
+      "verified": true
+    },
+    {
+      "verseNumber": 28,
+      "original": "पै सम्यक् एके अनुभवे । जिही देखिले तत्व आघवे । ते दोन्हीतेही ऐक्यभावे । मानिती गा ॥28॥",
+      "marathiMeaning": "परंतु दोन्हीपैकी कोणत्याही एका मार्गाच्या साधनेत ज्यांनी परब्रह्मचा अनुभव घेतला आहे, ते लोक फलाच्या दृष्टीने दोन्ही मार्गांना एकच मानतात.",
+      "englishMeaning": "Those who have correctly realised the nature of Atman by their own experience do not make any difference between the two and take them to be one only.",
+      "verified": true
+    },
+    {
+      "verseNumber": 29,
+      "original": "आणि सांख्यी जे पाविजे । तेचि योगी गमिजे । म्हणोनि ऐक्यता दोहीते सहजे । इयापरी ॥29॥",
+      "marathiMeaning": "सांख्ययोगापासून जे फल प्राप्त होते, तेच कर्मयोगापासून होते; म्हणून या दोघांची अशा प्रकारे सहजच एकरूपता आहे.",
+      "englishMeaning": "And what is attained by Saankhyas is also reached by yogis and therefore such is their unity.",
+      "verified": true
+    },
+    {
+      "verseNumber": 30,
+      "original": "देखे आकाशा आणि अवकाशा । भेदु नाही जैसा । तैसे ऐक्य योगसंन्यासा । वोळखे जो ॥30॥",
+      "marathiMeaning": "असे पाहा की, आकाश आणि पोकळी यात जसा भेद नाही, तसा ज्ञानयोग आणि कर्मयोग यांमध्ये भेद नाही, हे ज्याला पटलेले असते,",
+      "englishMeaning": "For example, there is no difference between the space and the sky. Thus he who recognizes the unity of yoga and sanyasa, (path of action and path of renunciation),",
+      "verified": true
+    },
+    {
+      "verseNumber": 31,
+      "original": "तयासीचि जगी पाहले । आपणपे तेणेचि देखिले । जया सांख्ययोग जाणवले । भेदेविण ॥31॥",
+      "marathiMeaning": "ज्याने सांख्ययोग आणि कर्मयोग यामध्ये काही भिन्न भाव नाही, हे जाणले, त्याला ह्या जगतामध्ये ज्ञानसुर्याचा प्रकाश दिसतो आणि त्यालाच आत्मसाक्षात्कार होतो.",
+      "englishMeaning": "Really, sees the dawn of wisdom and he who understands both the paths of Saankhya and yoga to be undivided, really sees his own self.",
+      "verified": true
+    },
+    {
+      "verseNumber": 32,
+      "original": "जो युक्तिपंथे पार्था । चढे मोक्षपर्वता । तो महासुखाचा निमथा । वहिला पावे ॥32॥",
+      "marathiMeaning": "जो निष्काम कर्म करण्याच्या युक्तीने मोक्षरूपी पर्वतावर चढतो, तो आनंदरूपी शिखर त्वरेने प्राप्त करून घेतो.",
+      "englishMeaning": "Dear Partha, he who travels inwardly, on the path of yoga, performing his actions without attachment, reaches the peak of bliss very early.",
+      "verified": true
+    },
+    {
+      "verseNumber": 33,
+      "original": "येरा योगस्थिति जया सांडे । तो वायाचि गा हव्यासी पडे । परि प्राप्ति कही न घडे । संन्यासाची ॥33॥",
+      "marathiMeaning": "जो आपले अंतःकरण शुद्ध न करता कर्मयोगाचा त्याग करतो, तो व्यर्थच संन्यासी बनण्याचा प्रयत्न करतो; परंतु त्याला खऱ्या संन्यासाची प्राप्ती कधी होत नाही.",
+      "englishMeaning": "But he who cannot be successful in that yoga of action, in vain gets caught in craving for attainment of the state of renunciation but can never get it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 34,
+      "original": "जेणे भ्रांतीपासूनि हिरतले । गुरुवाक्ये मन धुतले । मग आत्मस्वरुपी घातले । हारौनिया ॥34॥",
+      "marathiMeaning": "ज्याने सर्व प्रकारच्या भ्रमापासून हिरावून घेतलेले मन सद्गुरुंच्या उपदेशाने शुद्ध केले आणि आत्मस्वरूपाच्या ठिकाणी स्थिर केले,",
+      "englishMeaning": "He has whisked his mind away from illusion and washed it in the waters of the advice given by his teacher and merged it into the Atman by completely controlling it,",
+      "verified": true
+    },
+    {
+      "verseNumber": 35,
+      "original": "जैसे समुद्री लवण न पडे । तव वेगळे अल्प आवडे । मग होय सिंधूचि एवढे । मिळे तेव्हा ॥35॥",
+      "marathiMeaning": "जोपर्यंत समुद्रात मीठ पडले नाही, तोपर्यन्त समुद्रपेक्षा भिन्न व अल्प वाटत असते. एकदा का ते मीठ समुद्रात पडले, की ते समुद्राएवढे होते.",
+      "englishMeaning": "For example, the moment a little salt falls into the sea it does not remain separate but by merging into the sea becomes as vast as sea.",
+      "verified": true
+    },
+    {
+      "verseNumber": 36,
+      "original": "तैसे संकल्पोनि काढिले । जयाचे मनचि चैतन्य जाहले । तेणे एकदेशिये परि व्यापिले । लोकत्रय ॥36॥",
+      "marathiMeaning": "त्याप्रमाणे ज्याने आपल्या मनातील सर्व प्रकारचे भ्रम काढले आहेत, ज्याचे मन चैतन्यस्वरूप झाले आहे, तो पुरुष देहाने परिच्छिन्न असला, तरी त्याने तिन्ही लोक व्यापलेले असतात.",
+      "englishMeaning": "- Similarly he who has freed his mind from projections of desires and whose mind has practically become spirit only, has himself, though being in one body, permeated the whole three worlds.",
+      "verified": true
+    },
+    {
+      "verseNumber": 37,
+      "original": "आता कर्ता कर्म करावे । हे खुंटले तया स्वभावे । आणि करी जऱ्ही आघवे । तऱ्ही अकर्ता तो ॥37॥",
+      "marathiMeaning": "मी कर्ता आहे, मी कर्म करतो, हा त्याचा स्वभाव नाहीसा झालेला असतो आणि त्याने सर्व कर्मे जरी केली, तरी तो अकर्ता असतो.",
+      "englishMeaning": "Then in his case, the sense that he is the doer and that he has to do something, ceases to exist and even if he performs everything, there is no awareness in him that he is the doer.",
+      "verified": true
+    },
+    {
+      "verseNumber": 38,
+      "original": "जे पार्था तया देही । मी ऐसा आठऊ नाही । तरी कर्तृत्व कैचे काई । उरे सांगे ॥38॥",
+      "marathiMeaning": "त्या आत्मज्ञानी पुरुषाच्या मनात/देहात मी पणाची आठवण नसते, तर मग कर्तृत्वाचा अहंकार कसा राहील, हे तूच सांग.",
+      "englishMeaning": "Dear Partha, since he does not even remember himself to be in his body, tell me how can there be the sense of doership in him? He however, who knows the reality of things, must realize, even though seeing, hearing, touching, smelling, eating or drinking, walking, sleeping, breathing, speaking, answering the calls of nature, grasping, and opening or closing the eyes, that he does nothing, knowing that it is the sense-organs that are moving among their objects. (8,9)",
+      "verified": true
+    },
+    {
+      "verseNumber": 39,
+      "original": "ऐसे तनुत्यागेवीण । अमूर्ताचे गुण । दिसती संपूर्ण । योगयुक्ता ॥39॥",
+      "marathiMeaning": "याप्रमाणे शरीराचा त्याग न करता त्या योगयुक्त पुरुषाच्या ठिकाणी अमूर्त ब्रम्हाचे सर्व गुण दिसून /अनुभवास येतात.",
+      "englishMeaning": "In this way, in the behaviour of Karmayogi the signs of pure abstract Brahman are visible though he does not give up his body.",
+      "verified": true
+    },
+    {
+      "verseNumber": 40,
+      "original": "एऱ्हवी आणिकांचिये परी । तोही एक शरीरी । अशेषाही व्यापारी । वर्ततु दिसे ॥40॥",
+      "marathiMeaning": "एरव्ही इतर सर्व सामान्य माणसाप्रमाणे तोही शरीरधारी दिसतो आणि सर्व व्यवहार करीत असलेला दिसतो.",
+      "englishMeaning": "In the ordinary course, he appears to be doing all sorts of work by bearing a body just like other ordinary men.",
+      "verified": true
+    },
+    {
+      "verseNumber": 41,
+      "original": "तोही नेत्री पाहे । श्रवणी ऐकतु आहे । परि तेथीचा सर्वथा नोहे । नवल देखे ॥41॥",
+      "marathiMeaning": "इतर सर्व लोकांप्रमाणे तोही डोळ्यांनी पाहतो, कानांनी ऐकतो; पण त्याकर्माचा मी कर्ता आहे, असे त्याला मुळीच वाटतं नाही, हे आश्चर्य आहे.",
+      "englishMeaning": "Karmayogi also, just like others, sees by his eyes and hears by his ears but the wonder is that he does not get involved in the actions.",
+      "verified": true
+    },
+    {
+      "verseNumber": 42,
+      "original": "स्पर्शासि तरी जाणे । परिमळु सेवी घ्राणे । अवसरोचित बोलणे । तयाहि आथी ॥42॥",
+      "marathiMeaning": "त्याला स्पर्श कळत असतो, नाकाने तो गंधाचा अनुभव घेत असतो, तसेच प्रसंगप्रमाणे तो बोलतही असतो.",
+      "englishMeaning": "He has the sense of touch and he enjoys smell by his nose and he can talk which is appropriate to the occasion.",
+      "verified": true
+    },
+    {
+      "verseNumber": 43,
+      "original": "आहाराते स्वीकारी । त्यजावे ते परिहरि । निद्रेचिया अवसरी । निदिजे सुखे ॥43॥",
+      "marathiMeaning": "तो आहाराचे सेवन करत असतो, जे त्यागावयाचे आहे ते तो त्यागतो, झोपेच्या वेळी सुखाने शांत झोप घेतो",
+      "englishMeaning": "He takes in his body what is to be taken, avoids those things which are forbidden and which are worth giving up and he sleeps happily when the time for it approaches.",
+      "verified": true
+    },
+    {
+      "verseNumber": 44,
+      "original": "आपुलेनि इच्छावशे । तोही गा चालतु दिसे । पै सकळ कर्म ऐसे । रहाटे कीर ॥44॥",
+      "marathiMeaning": "तो आपल्या इच्छेप्रमाणे चालत असतो, अशा प्रकारे तो सर्व कर्मे करत असतो.",
+      "englishMeaning": "He appears to be moving about according to his will and in this way he is actually performing all actions.",
+      "verified": true
+    },
+    {
+      "verseNumber": 45,
+      "original": "हे सांगो काई एकैक । देखे श्वासोच्छासादिक । आणि निमिषोन्निमिष । आदिकरुनि ॥45॥",
+      "marathiMeaning": "हे एकेक काय सांगावे ? पाहा, श्वास घेणे व सोडणे आणि डोळ्यांची उघडझाप करणे वगैरे सर्व कर्मे करतो",
+      "englishMeaning": "O Arjuna, what more should I tell? My Dear, breathing, and closing or opening his eyes etc. is all done by him.",
+      "verified": true
+    },
+    {
+      "verseNumber": 46,
+      "original": "पार्था तयाचे ठायी । हे आघवेचि आथि पाही । परि तो कर्ता नव्हे काही । प्रतीतिबळे ॥46॥",
+      "marathiMeaning": "हे पार्था ! ही सर्वच कर्मे तो करत असतो; परंतु आत्मज्ञानमुळे या सर्व कर्माचा कर्ता मात्र तो होत नाही.",
+      "englishMeaning": "But O Partha, he remains a non-doer because of his actual self-realization.",
+      "verified": true
+    },
+    {
+      "verseNumber": 47,
+      "original": "जै भ्रांती सेजे सुतला । तै स्वप्नसुखे भुतला । मग तो ज्ञानोदयी चेइला । म्हणोनिया ॥47॥",
+      "marathiMeaning": "जेंव्हा तो भ्रमाचा शय्येवर (भ्रांतिरुपी अंथरून) झोपी गेलेला असतो, तेंव्हा स्वप्नांच्या सुखाने भुलला होता, परंतु आत्मज्ञानाचा उदय झाल्यामुळे तो आपणास कर्माचा कर्ता मानत नाही.",
+      "englishMeaning": "For, as long as he was sleeping on the bed of illusion he was obsessed by the false pleasure of the dream, but now since the sun of wisdom has arisen, he has awakened and become very much aware of himself.",
+      "verified": true
+    },
+    {
+      "verseNumber": 48,
+      "original": "आता अधिष्ठानसंगती । अशेषाही इंद्रियवृत्ती । आपुलालिया अर्थी । वर्तत आहाती ॥48॥",
+      "marathiMeaning": "अधिष्ठान म्हणजे देहाच्या संगतीने सर्व इंद्रियांच्या वृत्ती आपापल्या विषयांकडे धाव घेत असतात.",
+      "englishMeaning": "When such a state is achieved, the senses function in their respective objects, having the Atman, as base.",
+      "verified": true
+    },
+    {
+      "verseNumber": 49,
+      "original": "दीपाचेनि प्रकाशे । गृहीचे व्यापार जैसे । देही कर्मजात तैसे । योगयुक्ता ॥49॥",
+      "marathiMeaning": "दिव्याच्या प्रकाशाच्या आधारे, घरातील सर्व व्यवहार ज्याप्रमाणे होत असतात, त्याप्रमाणे ज्ञानप्रकाश पसरला, तरी योगयुक्ताची सर्व कर्मे देहात सुरु असतात.",
+      "englishMeaning": "Just as various activities in a house take place in the light of a lamp, so the activities of Karmayogi go on in his body, without his being involved.",
+      "verified": true
+    },
+    {
+      "verseNumber": 50,
+      "original": "तो कर्मे करी सकळे । परी कर्मबंधा नाकळे । जैसे न सिपे जळी जळे । पद्मपत्र ॥50॥",
+      "marathiMeaning": "ज्याप्रमाणे कमळाचे पान सदैव पाण्यात असूनदेखील ते पाण्याने लिप्त होत नाही, त्याप्रमाणे तो सर्व कर्मे सदैव करून देखील कर्मबंधाने बध्द होत नाही.",
+      "englishMeaning": "He performs all actions but just as the leaf of a lotus is not touched by water though it is in it, so the Karmayogi is not affected by his actions, though he is performing them.",
+      "verified": true
+    },
+    {
+      "verseNumber": 51,
+      "original": "देखे बुध्दीची भाष नेणिजे । मनाचा अंकुर नुदैजे । ऐसा व्यापारु तो बोलिजे । शारीरु गा ॥51॥",
+      "marathiMeaning": "ज्याची बुद्धी हे चांगले, हे वाईट हि द्वैतभावना जाणत नाही, जेथे मनाला अंकुर उत्पन्न होत नाही, असे द्वैतभावणारहित व इच्छारहित कर्माला कायिक व्यवहार म्हणतात.",
+      "englishMeaning": "That action, where you need not take into consideration intellect at all, or to consider whether there are any thoughts in the mind, is called bodily action.",
+      "verified": true
+    },
+    {
+      "verseNumber": 52,
+      "original": "हेच मराठे परियेशी । तरी बाळकाची चेष्टा जैशी । योगिये कर्मे करिती तैशी । केवळा तनू ॥52॥",
+      "marathiMeaning": "हेच उदाहरण देऊन मराठी भाषेतून सांगत आहे. लहान बाळ हे ज्याप्रमाणे द्वैतभावणारहित व इच्छा रहित कर्म करते, त्याप्रमाणे योगी शरीराने कर्म करीत असतात.",
+      "englishMeaning": "I shall tell you the same thing in simpler terms. The yogis perform actions only by their bodies without having any desires just as a small child which makes various movements unintentionally.",
+      "verified": true
+    },
+    {
+      "verseNumber": 53,
+      "original": "मग पांचभौतिक संचले । जेव्हा शरीर असे निदेले । तेथ मनचि राहाटे एकले । स्वप्नी जेवी ॥53॥",
+      "marathiMeaning": "पंच महाभूतांनी बनलेले हे शरीर ज्यावेळी झोपी गेलेले असते, त्या वेळी एकटे मनच स्वप्नात भटकत असते.",
+      "englishMeaning": "When the physical body composed of the five elements goes into the yogic trance, then the mind functions singularly as if in a dream.",
+      "verified": true
+    },
+    {
+      "verseNumber": 54,
+      "original": "नवल ऐके धनुर्धरा । कैसा वासनेचा संसारा । देहा होऊ नेदी उजगरा । परि सुखदुःखे भोगी ॥54॥",
+      "marathiMeaning": "हे धनुर्धरा ! एक आश्चर्य पाहा. जागृत अवस्थेत या वासनेचा केवढा विस्तार आहे ! ही वासना देहाला जागे होऊ देत नाही; परंतु सुख दुःखाचा भोग भोगावयास लावते.",
+      "englishMeaning": "O Arjuna, the strange thing about the `desire' is that it is so skillful that it involves the body in pain and pleasure without letting the body know anything about it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 55,
+      "original": "इंद्रियांचा गावी नेणिजे । ऐसा व्यापारु जो निपजे । तो केवळु गा म्हणिजे । मानसाचा ॥55॥",
+      "marathiMeaning": "इंद्रियांना ज्याची माहितीदेखील नसते, असे जे कर्म निर्माण होते, त्यास मानसिक कर्म म्हणतात.",
+      "englishMeaning": "That action which is not known in the town (field) of senses is to be called psychological action.",
+      "verified": true
+    },
+    {
+      "verseNumber": 56,
+      "original": "योगिये तोही करिती । परि कर्मे तेणे न बंधिजती । जे सांडिली आहे संगती । अंहभावाची ॥56॥",
+      "marathiMeaning": "अंतःकरणाने योगी असणारे मानस कर्म करतात; परंतु ते कर्मानी बध्द होत नाहीत. कारण त्यांनी अहंकाराची संगती सोडून दिलेली असते.",
+      "englishMeaning": "The yogis also do this type of mental work but they are not bound by that action because they have left the company of egoism.",
+      "verified": true
+    },
+    {
+      "verseNumber": 57,
+      "original": "आता जाहालिया भ्रमहत । जैसे पिशाचाचे चित्त । मग इंद्रियांचे चेष्टित । विकळु दिसे ॥57॥",
+      "marathiMeaning": "एखाद्या मनुष्याचे चित्त भ्रमिष्ट झालेले असते किंवा पिशाच्याची बाधा झाल्यावर जसे चित्त असते, तसे त्याचे सर्व व्यवहार विसंगत दिसतात.",
+      "englishMeaning": "Now when a man becomes obsessed by something, his mind becomes as deranged as if he is a ghost and all his behaviour appears to be uncontrolled actions of senses.",
+      "verified": true
+    },
+    {
+      "verseNumber": 58,
+      "original": "स्वरूप तरी देखे । आळविले आइके । शब्दु बोले मुखे । परि ज्ञान नाही ॥58॥",
+      "marathiMeaning": "त्यास समोरचे रूप दिसत असते, कोणी हाक मारली तर ऐकूदेखील येते, तो स्वतः बोलतही असतो; परंतु या सर्व कर्माची त्याला जाणीव नसते.",
+      "englishMeaning": "He is able to see the shapes of things and people around him; he can hear if he is called; he can talk with his mouth but one cannot say that he is in contact with the physical reality of things.",
+      "verified": true
+    },
+    {
+      "verseNumber": 59,
+      "original": "हे असो काजेविण । जे जे काही कारण । ते केवळ कर्म जाण । इंद्रियांचे ॥59॥",
+      "marathiMeaning": "असो, त्यातील सूत्र असे आहे की, प्रयोजनावाचून जे जे काही केवळ विषयांशी संयोग पावून कर्म घडते, ते केवळ इंद्रियांचे कर्म जाणावे. असे तू समज.",
+      "englishMeaning": "Now further details are not necessary. In short when action takes place without apparent causation, it is called the activity of senses.",
+      "verified": true
+    },
+    {
+      "verseNumber": 60,
+      "original": "मग सर्वत्र जे जाणते । ते बुद्धीचे कर्म निरूते । वोळख अर्जुनाते । म्हणे हरि ॥60॥",
+      "marathiMeaning": "भगवान श्रीकृष्ण अर्जुनाला म्हणाले, सर्व विषयांचे जे ज्ञान होते, ते केवळ बुद्धीचे कर्म आहे, असे तू जाण.",
+      "englishMeaning": "Shrikrishna said to Arjuna, \"Whatever action is performed with full under-standing and responsibility, is called the action of intellect.''",
+      "verified": true
+    },
+    {
+      "verseNumber": 61,
+      "original": "ते बुद्धी धुरे करुनी । कर्म करिती चित्त देऊनी । परि ते नैष्कम्यापासुनी । मुक्त दिसती ॥61॥",
+      "marathiMeaning": "जे कर्मयोगी बुद्धीला पुढे करून चित्त देऊन कर्म करतात, नैष्कम्यर्य अवस्थेला गेलेल्या मुक्त पुरुषांपेक्षाही अधिक मुक्त दिसतात.",
+      "englishMeaning": "Then he further said, \"These people act with full application of mind and intellect but remain in the state of freedom because of their unattachment to action.",
+      "verified": true
+    },
+    {
+      "verseNumber": 62,
+      "original": "जे बुद्धीचिये ठावूनि देही । तया अंहकाराची सेचि नाही । म्हणोनि कर्म करिता पाही । चोखाळले ॥62॥",
+      "marathiMeaning": "कारण त्यांच्यामध्ये बुद्धिपासून देहापर्यंत कोठेही मीपणाच्या अहंकाराचे स्मरण नसते. म्हणून कर्म करीत असताही ते शुद्ध असतात.",
+      "englishMeaning": "This is because right from the level of intellect to the level of physical body, they have no memory of I-ness at all and therefore they remain pure while performing actions.",
+      "verified": true
+    },
+    {
+      "verseNumber": 63,
+      "original": "अगा करितेनवीण कर्म । तेचि ते नैष्कर्म्य । हे जाणती सुवर्म । गुरुगम्य जे ॥63॥",
+      "marathiMeaning": "अर्जुना ! कर्तेपणाचा अभिमान त्यागून जे कर्म केले जाते, तेच खरे नैशकर्म्य होय. हे सतगुरुकडून कळणारे खरे वर्म हे ज्ञानी पुरुष जाणत असतात.",
+      "englishMeaning": "O Arjuna, from their Guru, they have received the deep secret knowledge that to act without the sense of pride in doer-ship is to be free of action.",
+      "verified": true
+    },
+    {
+      "verseNumber": 64,
+      "original": "आता शांतरसाचे भरिते । सांडीत आहे पात्राते । जे बोलणे बोलापरौते । बोलवले ॥64॥",
+      "marathiMeaning": "आता या शांतरसाचे बोलणे आपल्या पात्राची मर्यादा सोडून उचंबळून येत आहे; कारण शांत रसाने बोलण्याच्या पलीकडे असलेले विचार माझ्याकडून बोलले जात आहेत.",
+      "englishMeaning": "Arjuna, the stream of the river of `peace' is in spate and is overflowing both the banks because, here I have told you that principle which cannot be expressed by speech.",
+      "verified": true
+    },
+    {
+      "verseNumber": 65,
+      "original": "एथ इंद्रियांचा पांगु । जया फिटला आहे चांगु । तयासीचि आथी लागु । परिसावया ॥65॥",
+      "marathiMeaning": "ज्याचा इंद्रियासंबंधीचा पराधीनपणा उत्तमप्रकारे नाहीसा झाला आहे, त्यालाच हे अनुभवाचे विचार ऐकण्याचा अधिकार आहे.",
+      "englishMeaning": "Dnyaneshwar says, \"Dear readers, only he whose senses have been fully quenched and is peaceful is eligible for this knowledge.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 66,
+      "original": "हा असो अतिप्रसंगु । न संडी पा कथालागु । होईल श्लोकसंगति भंगु । म्हणोनिया ॥66॥",
+      "marathiMeaning": "श्रोते म्हणाले, आता हे विषयातर पुरे करा. कथेचा मूळ संबध सोडू नका; कारण श्रोत्यांच्या संगतीचा भंग होऊन जाईल.",
+      "englishMeaning": "But listening to this lengthy talk, the listeners said, \"Enough of this protracted explanation. If you lose the thread of the narration, there will not remain the necessary connection with the original verse.",
+      "verified": true
+    },
+    {
+      "verseNumber": 67,
+      "original": "जे मना आकळिता कुवाडे । घाघुसिता बुद्धी नातुडे । ते दैवाचेनि सुरवाडे । सांगवले तुज ॥67॥",
+      "marathiMeaning": "जे मनाला आकलन करण्यास अत्यन्त कठीण आहे, बुद्धीने कितीही विचार केला, तरी सापडत नाही, ते तुला भाग्याच्या अनुकूलतेमुळे सांगता आले.",
+      "englishMeaning": "You have been lucky to tell in words that principle which becomes a riddle for the mind to solve; and which cannot be successfully determined by intellect.",
+      "verified": true
+    },
+    {
+      "verseNumber": 68,
+      "original": "जे शब्दातीत स्वभावे । ते बोलीचि जरी फावे । तरी आणिके काय करावे । सांगे कथा ॥68॥",
+      "marathiMeaning": "जे स्वभावतःच शब्दांच्या पलीकडे आहे, ते शब्दामध्ये जर सापडले, तर इतर आणखीन काय पाहिजे ? या करिता तुम्ही प्रस्तुत कथा सांगावी.",
+      "englishMeaning": "Dear, if you can have the skill to explain in so many words, the philosophy which is beyond the ken of speech, what more is there to be achieved? So, stop this and continue to tell further the subject in question.",
+      "verified": true
+    },
+    {
+      "verseNumber": 69,
+      "original": "हा आर्तिविशेषु श्रोतयांचा । जाणोनि दास निवृतीचा । म्हणे संवादु दोघांचा । परिसोनि परिसा ॥69॥",
+      "marathiMeaning": "ही श्रोत्यांची उत्कट अशी इच्छा जाणून निवृत्तींनाथांचे दास श्रीज्ञानेश्वर माऊली म्हणाले, तुम्ही एवढा वेळ भगवान श्रीकृष्ण व अर्जुनाचा सुखसंवाद ऐकलं आहे, पुढे तोच ऐका.",
+      "englishMeaning": "Knowing this eagerness of the listeners to hear the talk, Dnyandeva, the disciple of Nivrittinatha says - \"Sirs, please listen attentively to the dialogue between Shrikrishna and Arjuna.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 70,
+      "original": "मग कृष्ण म्हणे पार्थाते । आता प्राप्ताचे चिन्ह पुरते । सांगेन तुज निरुते । चित्त देई ॥70॥",
+      "marathiMeaning": "मग श्रीकृष्ण अर्जुनाला म्हणाले, कृतार्थ अवस्था प्राप्त झालेल्या पुरुषाचे लक्षण सांगतो, तरी एकाग्र चित्ताने ऐकावे.",
+      "englishMeaning": "Then Shrikrishna said to Partha - \"Dear, now I shall tell you the sign of recognizing the man who is the perfected yogi, an Adept! Please listen.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 71,
+      "original": "तरी आत्मयोगे आथिला । जो कर्मफळाशी विटला । तो घर रिघोनि वरिला । शांति जगी ॥71॥",
+      "marathiMeaning": "तरी या जगात जो आत्मज्ञानाने जो संपन्न झाला आहे, ज्याला कर्मफलाचा वीट आला आहे, त्याच्या घरात येऊन शांती त्याला वरते.",
+      "englishMeaning": "One who has attained unity with Atman and dropped totally the desire for fruit is, in this world, garlanded by peace in his own home.",
+      "verified": true
+    },
+    {
+      "verseNumber": 72,
+      "original": "येरु कर्मबधे किरीटी । अभिलाषाचिया गाठी । कळासला खुंटी । फळभोगाचा ॥72॥",
+      "marathiMeaning": "यापेक्षा दुसरा जो कर्मे करणारा आहे, तो इच्छेच्या दाव्याने फळाच्या खुंटयाला बांधला कर्मबंधाने बांधला जातो.",
+      "englishMeaning": "And O Arjuna, the crowned warrior, other who is not so united is tied to the pole of fruit by the rope of action which is having knots of passion.",
+      "verified": true
+    },
+    {
+      "verseNumber": 73,
+      "original": "जैसा फळाचिया हावे । तैसे कर्म करि आघवे । मग न कीजेचि येणे भावे । उपेक्षी जो ॥73॥",
+      "marathiMeaning": "फलाच्या इच्छेप्रमाणे कर्माचे आचरण करणाऱ्याप्रमाणे तोही सर्व कर्मे करतो; परंतु त्या कर्माचा मी कर्ता नाही, हे जाणून तो त्याकर्माची उपेक्षा करतो.",
+      "englishMeaning": "The yogi performs actions just like others who act with selfish hope, but he is indifferent to the action, with a feeling that he has not done anything.",
+      "verified": true
+    },
+    {
+      "verseNumber": 74,
+      "original": "तो जयाकडे वास पाहे । तेउती सुखाची सृष्टी होये । तो म्हणे तेथ राहे । महाबोधु ॥74॥",
+      "marathiMeaning": "तो ज्या मार्गाकडे बघेल, तेथे सृष्टीतील सत्य-शिव-सुंदरतेचे त्याला दर्शन होऊ लागते. तो म्हणेल, तेथे ब्रम्हज्ञान प्रकट होत असते.",
+      "englishMeaning": "Then there is showering of happiness in whatever direction he looks and there is the abode of self-knowledge where he resides.",
+      "verified": true
+    },
+    {
+      "verseNumber": 75,
+      "original": "नवद्वारे देही । तो असतुचि परि नाही । करितुचि न करी काही । फलत्यागी ॥75॥",
+      "marathiMeaning": "तो नवद्वारांच्या देहात राहूनदेखील त्याचे देहाशी तादात्म्य नसते. तो सर्व कर्मे करतो; परंतु त्याला फलाची इच्छा नसल्यामुळे तो काहीच करत नाही.",
+      "englishMeaning": "He who surrenders the fruit of actions, resides in the body of nine sense-organs, but really is not belonging to it and does not actually do anything though he performs various actions.",
+      "verified": true
+    },
+    {
+      "verseNumber": 76,
+      "original": "जैसा का सर्वेश्वरु । पाहिजे तव निर्व्यापारु । परि तोचि रची विस्तारु । त्रिभुवनाचा ॥76॥",
+      "marathiMeaning": "सूक्ष्म विचार केला, तर तो सर्वेश्वर वस्तुतः काहीच न करणारा आहे, परंतु मायेच्या उपधींचा आरोप त्यावर केला म्हणजे संपूर्ण त्रिभुवनाचा विस्तार तोच करतो, असे दिसून येते.",
+      "englishMeaning": "Just as the great Almighty is bereft of any action but He alone appears to be the creator of the universe, when He is with His Maya�",
+      "verified": true
+    },
+    {
+      "verseNumber": 77,
+      "original": "आणि कर्ता ऐसे म्हणिपे । तरी कवणे कर्मी न शिंपे । जे हातोपावो न लिंपे । उदासवृतीचा ॥77॥",
+      "marathiMeaning": "सर्वेश्वरास त्रिभुवनाचा कर्ता म्हणावे, तर कोणत्याही कर्माने तो लिप्त होत नाही; कारण तो उदासीन असल्यामुळे त्याच्या हाता- पायास कशाचेही संसर्ग होत नाही.",
+      "englishMeaning": "And if we say that He is the doer, He is not involved by anything because He has no hands and feet as such, to be attached and involved in any function. Such is His disinterestedness.",
+      "verified": true
+    },
+    {
+      "verseNumber": 78,
+      "original": "योगनिद्रा तरी न मोडे । अकर्तेपणा सळु न पडे । परि महाभूतांचे दळवाडे । उभारी भले ॥78॥",
+      "marathiMeaning": "त्याची स्वरूप स्थिती कधीच मोडत नाही, त्याच्या अकर्तेपणालाही कधीही विरोध निर्माण होत नाही, तरीपण तो पंचमहाभूतांचे समुदाय उत्तम प्रकारे निर्माण करतो.",
+      "englishMeaning": "His yogic trance is never disturbed, His being a non-doer is not affected but He erects the great armies of the five great elements.",
+      "verified": true
+    },
+    {
+      "verseNumber": 79,
+      "original": "जगाचा जीवी आहे । परि कवणाचा कही नोहे । जगचि हे होय जाये । तो शुद्धीहि नेणे ॥79॥",
+      "marathiMeaning": "तो परमात्मा विश्वातील सर्व प्राणीमात्रांना व्यापून असतो; परंतु कधीही कोणाचीही आसक्ती धरत नाही. हे विश्व उत्पन्न होते आणि नाहीसे होते, याची त्याला वार्ताही नसते.",
+      "englishMeaning": "He is in the innermost soul of the whole world, but does not belong to anybody at any place and time. The whole world comes into being and disappears but He is not even aware of all this happening.",
+      "verified": true
+    },
+    {
+      "verseNumber": 80,
+      "original": "पापपुण्ये अशेषे । पासीचि असतु न देखे । आणि साक्षीही होऊ न ठके । येरी गोठी कायसी ॥80॥",
+      "marathiMeaning": "प्राणिमात्राकडून होणारी सर्व पाप – पुण्य ही सर्व त्याच्या जवळ असूनदेखील तो त्यांना जाणत नाही. ऐवढेच काय, तो त्यांच्या साक्षीदेखील होऊन राहत नाही, मग इतर गोष्टीबद्दल काय बोलावे ?",
+      "englishMeaning": "Eventhough all the sins and merits are nearest to him, he does not turn his attention to them. Not only this, but he even refuses to be a witness to all this. Then why talk of any other things?",
+      "verified": true
+    },
+    {
+      "verseNumber": 81,
+      "original": "पै मूर्तीचेनि मेळे । तो मूर्तचि होऊनि खेळे । परि अमूर्तपण न मैळे । दादुलयाचे ॥81॥",
+      "marathiMeaning": "तो परमात्मा देहाच्या संगतीने साकार होतो आणि अनेक प्रकारचा लिलाविलास करतो (सगुण स्वरूपाच्या संगतीने तो (देह धारण करून) सगुण होऊन क्रीडा करतो); परंतु त्या ईश्वराचा निराकारपणा थोडाही मलिन होत नाही.",
+      "englishMeaning": "He, being in the company of a particular body acts according to the occasions but his abstract nature does not ever get disturbed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 82,
+      "original": "तो सृजी पाळी संहारी । ऐसे बोलती जे चराचरी । ते अज्ञान गा अवधारी । पंडुकुमरा ॥82॥",
+      "marathiMeaning": "हे अर्जुना ! तो परमात्मा जगाला उत्पन्न करतो आणि जगाचा नाश करतो. त्याच्या कर्तृत्वाविषयी जे बोलले जाते, ते केवळ अज्ञान होय, हे तू लक्षात ठेव.",
+      "englishMeaning": "`He creates, protects and destroys' - so they say; but O The son of Pandu, know that it is simply the greatest ignorance in the world.",
+      "verified": true
+    },
+    {
+      "verseNumber": 83,
+      "original": "ते अज्ञान जै समूळ तुटे । तै भ्रांतीचे मसैरे फिटे । मग अकर्तृत्व प्रगटे । ईश्वराचे ॥83॥",
+      "marathiMeaning": "जेंव्हा ते अज्ञान पूर्णपणे नाहीसे होते, तेंव्हा विषभ्रमाची काजळी दूर होते. असे झाले, म्हणजे परमेश्वराचे अकर्तेपन स्पष्टपणे समजू लागते.",
+      "englishMeaning": "When that ignorance is rooted out totally, and when the blemish of delusion is washed clean, then the man will experience that the God is not the doer.",
+      "verified": true
+    },
+    {
+      "verseNumber": 84,
+      "original": "एथ ईश्वरु एकु अकर्ता । ऐसे मानले जरी चित्ता । तरी तोचि मी हे स्वभावता । आदीचि आहे ॥84॥",
+      "marathiMeaning": "आता ईश्वर अकर्ता आहे, हे जर चित्ताला पटले, तर पूर्वीपासून स्वभावतः तो ईश्वर मीच आहे, असा अभेदाचा अनुभव येतो.",
+      "englishMeaning": "Now if the mind understands that only god is alone the non-doer, then it is already a proven thing that `I am that God'.",
+      "verified": true
+    },
+    {
+      "verseNumber": 85,
+      "original": "ऐसेनि विवेके उदो चित्ती । तयासी भेदु कैचा त्रिजगती । देखे आपुलिया प्रतीति । जगचि मुक्त ॥85॥",
+      "marathiMeaning": "अशा विवेकाचा उदय ज्याच्या चित्तात होतो, त्याला त्रैलोक्यात भेद कसा बरे दिसू शकेल ? तो आपल्या अनुभवाने संपूर्ण जगच मुक्त आहे, असे पाहतो.",
+      "englishMeaning": "When once this understanding shines forth in the consciousness, where has the sense of separateness any scope in the three worlds? Then this man sees the whole world in his Atman, in its free state, by his inner realization.",
+      "verified": true
+    },
+    {
+      "verseNumber": 86,
+      "original": "जैशी पूर्वदिशेच्या राउळी । उदयाचि सूर्ये दिवाळी । की येरीही दिशा तियेचि काळी । काळिमा नाही ॥86॥",
+      "marathiMeaning": "ज्याप्रमाणे पूर्वदिशेच्या राऊळी सूर्य उदय पावताच प्रकाशाची दिवाळी सुरु होते आणि इतर दिशांतील अंधकारही नाहीसा होतो,",
+      "englishMeaning": "This is like the happening at sunrise. At sunrise there is the festival of lights in the east; but there is no darkness in other directions also at the same time.",
+      "verified": true
+    },
+    {
+      "verseNumber": 87,
+      "original": "बुद्धिनिश्चये आत्मज्ञान । ब्रह्मरुप भावी आपणा आपण । ब्रह्मनिष्ठा राखे पूर्ण । तत्परायण अहर्निशी ॥87॥",
+      "marathiMeaning": "ज्याच्या बुद्धीचा निश्चय आत्मज्ञानासंबधी आहे आणि जे आपणास ब्रम्हरूप मानू लागतो, तसेच रात्रंदिवस ब्रम्हपरायन होऊन आपली ब्रम्हस्थिती पूर्णपणे राखतो,",
+      "englishMeaning": "When the intellect is firm and by self-realization there is conviction that he is Brahman and there is total identification continuously with that Brahman.",
+      "verified": true
+    },
+    {
+      "verseNumber": 88,
+      "original": "ऐसे व्यापक ज्ञान भले । जयांचिया हृदयाते गिंवसित आले । तयांची समता दृष्टि बोले । विशेषू काई ॥88॥",
+      "marathiMeaning": "असे सर्व व्यापक श्रेष्ठ ज्ञान ज्याच्या हृदयाचा शोध करीत आले आहे, त्याची सर्व विश्वासम्बधी समतादृष्टी शब्दाने विशेष काय वर्णन करावी ?",
+      "englishMeaning": "He should be called having equilibrium of vision because of the knowledge of omnipresence. Brahman is fully developed in his heart. What further should I tell?",
+      "verified": true
+    },
+    {
+      "verseNumber": 89,
+      "original": "एक पापियाचा आपणपेचि पा जैसे । ते देखती विश्व तैसे । हे बोलणे कायसे । नवलु एथ ॥89॥",
+      "marathiMeaning": "ते जसे आपणास ब्रम्हरूप मानतात, त्याचप्रमाणे विश्वदेखील ब्रम्हरूप आहे, असे जाणतात, हे येथे सांगण्यात मोठे नवल ते काय ?",
+      "englishMeaning": "What wonder is it if I say that such men know the whole universe as their Atman?",
+      "verified": true
+    },
+    {
+      "verseNumber": 90,
+      "original": "परी दैव जैसे कवतिके । कहीचि दैन्य न देखे । का विवेकु हा नोळखे । भ्रांतीते जेवी ॥90॥",
+      "marathiMeaning": "परंतु भाग्य जसे कौतुकानेदेखील दारिद्राकडे पाहत नाही, किंवा विवेक हा ज्याप्रमाणे भ्रांतीला जाणत नाही,",
+      "englishMeaning": "But fortune itself can never, even for entertainment, see the misery; and the discrimination cannot recognize the delusion.",
+      "verified": true
+    },
+    {
+      "verseNumber": 91,
+      "original": "नातरी अंधकाराची वानी । जैसा सूर्यो न देखे स्वप्नी । अमृत नायके कानी । मृत्युकथा ॥91॥",
+      "marathiMeaning": "किंवा सूर्य जसा स्वप्नात देखील अंधकारचे स्वरूप पाहत नाही अथवा अमृताच्या कानावर कधी मृत्यूची वार्ताही येत नाही,",
+      "englishMeaning": "Or the Sun cannot see the sample of darkness even in dream or the word `death' is never heard by nectar.",
+      "verified": true
+    },
+    {
+      "verseNumber": 92,
+      "original": "हे असो संतापु कैसा । चंद्रु न स्मरे जैसा । भूती भेदु नेणती तैसा । ज्ञानिये ते ॥92॥",
+      "marathiMeaning": "हे राहू दे; उष्णता कशी असते हे ज्याप्रमाणे चंद्राला आठवूनही लक्षात येणार नाही, त्याप्रमाणे आत्मज्ञानी पुरुष सर्व भूतमात्रांच्या ठिकाणी कोणत्याही प्रकारचा भेद पाहत नाही.",
+      "englishMeaning": "Or the Moon never remembers heat. Similarly the men of wisdom, having self-knowledge can never see any separateness in all the beings.",
+      "verified": true
+    },
+    {
+      "verseNumber": 93,
+      "original": "मग हा मशकु हा गजु । की हा श्वपचु हा द्विपु । पैल इतरु हा आत्मजु । हे उरेल के ॥93॥",
+      "marathiMeaning": "मग त्याच्या ठिकाणी हे चिलट आहे आणि हा हत्ती, हा चांडाल आणि हा ब्राम्हण आहे, अथवा हा आपला मुलगा आणि हा परका, असा भेद त्यांच्या अंगी कसा बरे राहील. ? (अर्थात राहणार नाही)",
+      "englishMeaning": "Then where is the difference in considering a mosquito or an elephant or a man of low caste or a Brahmin or somebody as our near relative or a stranger?",
+      "verified": true
+    },
+    {
+      "verseNumber": 94,
+      "original": "ना तरी हे धेनु हे श्वान । एक गुरु एक हीन । हे असो कैचे स्वप्न । जागतया ॥94॥",
+      "marathiMeaning": "किंवा ही गाय, हा कुत्रा अथवा हा एक थोर आणि हा नीच आहे, हे सगळे राहू दे. जागा असलेल्या माणसास स्वप्न कसे बरे पडणार.",
+      "englishMeaning": "Similarly to differentiate between a cow and a dog or someone great or lowly is just like a dream to a person who is awake in the unity of all.",
+      "verified": true
+    },
+    {
+      "verseNumber": 95,
+      "original": "एथ भेदु तरी की देखा । जरि अंहभावा उरला होआवा । तो आधीचि नाही आघवा । आता विषमु काई ॥95॥",
+      "marathiMeaning": "आणि अंतः करणात अहंकार असेल, तर विश्वात अनेक प्रकारचे भेद दिसतात; परंतु तो अहंकारच नाहीसा झाला, तर भेदभाव कुठला. (कोणत्याच प्रकारचे भेद दिसणार नाही)",
+      "englishMeaning": "If there is ego, then only the sense of separateness becomes evident but when that ego is not there from the beginning, where is the question of differentia-tion?",
+      "verified": true
+    },
+    {
+      "verseNumber": 96,
+      "original": "म्हणोनि सर्वत्र सदा सम । ते आपणचि अद्वय ब्रह्म । हे संपूर्ण जाणे वर्म । समदृष्टीचे ॥96॥",
+      "marathiMeaning": "म्हणून सर्व ठिकाणी, सर्वकाळ सम असणारे ते अद्वय ब्रम्ह आपणच आहोत, हे समदृष्टीचे तत्व, ते तो सम्पूर्ण जाणतो.",
+      "englishMeaning": "Please understand that to see everything with equanimity means that the man himself is Brahman which is only one without a second, and therefore he is impartial to everything.",
+      "verified": true
+    },
+    {
+      "verseNumber": 97,
+      "original": "जिही विषयसंगु न सांडिता । इंद्रियाते न दंडिता । परि भोगिली निसंगता । कामेविण ॥97॥",
+      "marathiMeaning": "ज्यांनी विषयांचा समंध न सोडता, इंद्रियांचे दमन न करता, निरिच्छ असल्यामुळे अलिप्तता भोगली;",
+      "englishMeaning": "He does not run away from objects of senses, does not punish his sense-organs but enjoys the unattached state, being without any desire.",
+      "verified": true
+    },
+    {
+      "verseNumber": 98,
+      "original": "जिही लोकांचेनि आधारे । लौकिकेची व्यापारे । परि सांडिले निदसुरे । लौकिकु हे ॥98॥",
+      "marathiMeaning": "जे लोकांना अनुसरून, लोक जे करतात त्याप्रमाणे व्यवहार करतात; (उदरनिर्वाहासाठी लौकिक व्यवहार करतात)",
+      "englishMeaning": "They behave just like other ordinary people outwardly but have dropped the attraction towards all objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 99,
+      "original": "जैसा जनामाजी खेचरु । असतुचि जना नोहे गोचरु । तैसा शरीरी परि संसारु । नोळखे तयाते ॥99॥",
+      "marathiMeaning": "ज्याप्रमाणे पिशाच्य जगात वावरत असून जगाला दिसत नाहीत, त्याप्रमाणे तो देहधारी असूनही संसारी लोक त्याला ओळखत नाहीत. (समदृष्टी असलेला आत्मज्ञानी व्यक्तीला)",
+      "englishMeaning": "For example, there may be an astral being among people but it is invisible to ordinary sight. Similarly such a man is within his body but the people at large do not recognize him.",
+      "verified": true
+    },
+    {
+      "verseNumber": 100,
+      "original": "हे असो पवनाचेनि मेळे । जैसे जळीचि जळ लोळे । ते आणिके म्हणती वेगळे । कल्लोळ हे ॥100॥",
+      "marathiMeaning": "हे असू दे, वास्तविक पाहता वाऱ्यामुळे पाण्यावरच पाणी लाटरूपाने खेळत असते. परंतु सामान्य लोक या लाटा पाण्यापेक्षा वेगळ्या आहेत, असे म्हणतात.",
+      "englishMeaning": "For example, by being in contact with wind, it is water which moves upon water but people name it as a wave.",
+      "verified": true
+    },
+    {
+      "verseNumber": 101,
+      "original": "तैसे नाम रुप तयाचे । एऱ्हवी ब्रह्मचि तो साचे । मन साम्या आले जयाचे । सर्वत्र गा ॥101॥",
+      "marathiMeaning": "त्याप्रमाणे त्यांचे शरीर आणि नाव जगाप्रमाणे असले, तरीदेखील साक्षात ब्रम्हरूप आहेत, आणि त्यांचे मन सर्व ठिकाणी साम्याप्रत झालेले असते.",
+      "englishMeaning": "Similarly his name and shape appear to be different but essentially he is truly Brahman only. This is the state of the man whose mind is in equilibrium in all circumstances.",
+      "verified": true
+    },
+    {
+      "verseNumber": 102,
+      "original": "ऐसेनि समदृष्टी जो होये । तया पुरुषा लक्षणही आहे । अर्जुना संक्षेपे सांगेन पाहे । अच्युत म्हणे ॥102॥",
+      "marathiMeaning": "भगवान श्रीकृष्ण म्हणाले, हे अर्जुना ! अशी ज्यांची विश्वात्मक समदृष्टी झालेली असते, त्या पुरुषाचे लक्षण तुला संक्षेपाने सांगतो, तरी तू एक.",
+      "englishMeaning": "O Arjuna, there is some quality by which such a man can be recognised, which I will tell you in brief - so said Achyuta, the Lord Shrikrishna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 103,
+      "original": "तरी मृगजळाचेनि पूरे । जैसे न लोटिजे का गिरिवरे । तैसा शुभाशुभी न विकरे । पातला जो ॥103॥",
+      "marathiMeaning": "ज्याप्रमाणे मृगजलाच्या पुराणे डोंगर वाहून जात नाही, त्याप्रमाणे चांगल्या अथवा वाईट गोष्टी प्राप्त झाली असता तिच्यापासून विकार पावत नाही,",
+      "englishMeaning": "Such a man does not get disturbed either in happy circumstances or unpleasant ones, just as a mountain is not moved by the spate of a mirage.",
+      "verified": true
+    },
+    {
+      "verseNumber": 104,
+      "original": "तोचि तो निरुता । समदृष्टी तत्वता । हरि म्हणे पंडुसुता । तोचि ब्रह्म ॥104॥",
+      "marathiMeaning": "भगवान श्रीकृष्ण म्हणाले, हे अर्जुना ! तोच खरा समदृष्टीचा पुरुष होय आणि तोच ब्रम्हाशी एकरूप झालेला होय. (तोच खरा समदृष्टीचा होय असे तू जाण)",
+      "englishMeaning": "Hari said, \"O the son of Pandu, he is truly a man with an impartial outlook and he is Brahman, the Absolute.",
+      "verified": true
+    },
+    {
+      "verseNumber": 105,
+      "original": "जो आपणपे सांडुनि कही । इंद्रियग्रामावरी येणेचि नाही । तो विषय न सेवी हे काई । विचित्र येथ ॥105॥",
+      "marathiMeaning": "जो आत्मस्वरूपाला सोडून केंव्हाही इंद्रियरूपी गावात / इंद्रियांच्या आधीन येत / होत नाही (म्हणजे इंद्रयांशी तादात्म्य करीत नाही), त्याने विषयांचे सेवन केले नाही, यात आश्चर्य ते काय आहे.",
+      "englishMeaning": "When the man does not leave his state of eternal Brahman and does not come down to the level of his senses, does not enjoy the sense objects, obviously. There is nothing surprising in it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 106,
+      "original": "सहजे स्वसुखाचेनि अपारे । सुरवाडे अंतरे । रचिला म्हणऊनि बाहिरे । पाउल न घली ॥106॥",
+      "marathiMeaning": "अपरिमित अशा स्वाभाविक असलेल्या आत्मसुखाच्या विपुलतेने अंतः करणातच स्थिर झाल्यामुळे तो बाहेर पाऊल टाकीत नाही.",
+      "englishMeaning": "He is naturally engrossed in the limitless self-bliss and his mind is completely satisfied in it. Therefore he does not step outside.",
+      "verified": true
+    },
+    {
+      "verseNumber": 107,
+      "original": "सांगे कुमुददळाचेनि ताटे । जो जेविला चंद्रकिरणे चोखटे । तो चकोरु काई वाळुवंटे । चुंबितु आहे ॥107॥",
+      "marathiMeaning": "सांग बरे, कमळाच्या पाकळीच्या पात्रावर जो चकोर पक्षी शुद्ध शीतल चंद्रकिरणाचे सेवन / भोजन करतो, तो वाळवंटातील वाळूचे खडे चाटीत बसेल काय ?",
+      "englishMeaning": "For example, please tell me; will the Chakor bird who has drunk the nectar-like moon-rays from the dish of lotus petals, ever go to taste the desert-sand?",
+      "verified": true
+    },
+    {
+      "verseNumber": 108,
+      "original": "तैसे आत्मसुख उपाइले । जयासि आपणपेचि फावले । तया विषयो सहजे सांडवले । म्हणो क ई ॥108॥",
+      "marathiMeaning": "त्याप्रमाणे ज्याला स्वतःच आपल्या ठिकाणी आत्मानंद / उत्कृष्ट आत्मसुख प्राप्त झाला, त्याच्याकडून विषयांचा त्याग सहजच घडतो, हे काय सांगावयास पाहिजे काय ?",
+      "englishMeaning": "Similarly, should we make a special mention that the sense objects are dropped very easily by a man who has very naturally attained the self-bliss of its own accord?",
+      "verified": true
+    },
+    {
+      "verseNumber": 109,
+      "original": "एऱ्हवी तरी कौतुके । विचारुनि पाहे पा निके । या विषयांचेनि सुखे । झकविती कवण ॥109॥",
+      "marathiMeaning": "एरवी सहज कौतुकाने थोडा विचार करून पाहा की, या विषयाच्या सुखाने कोण बरे फसतात. ?",
+      "englishMeaning": "Just consider for fun's sake the men who are subjected to deception by the pleasures accrued from sense objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 110,
+      "original": "जिही आपणपे नाही देखिले । तेचि इही इंद्रियार्थी रंजले । जैसे रंकु का आळुकैले । तुषाते सेवी ॥110॥",
+      "marathiMeaning": "ज्यांनी आपल्या आत्मसुखाचा अनुभव घेतला नाही, ते इंद्रियाकडून प्राप्त होणाऱ्या विषयात रंगून जातात. ज्याप्रमाणे भुकेने व्याकुळ झालेला मनुष्य कोंडा देखील खातो.",
+      "englishMeaning": "Those who have not even a glimpse of Atman only get attracted to the objects of senses, just as a starving man may eat anything like husk, etc.",
+      "verified": true
+    },
+    {
+      "verseNumber": 111,
+      "original": "नातरी मृगे तृषापीडिते । संभ्रमे विसरोनि जळांते । मग तोयबुद्धी बरडीते । ठाकूनि येती ॥111॥",
+      "marathiMeaning": "किंवा तहानेने व्याकुळ झालेली हरणे भ्रमामुळे खऱ्या पाण्याला विसरून जातात आणि मृगजळाला पाणी समजून माळरानावर धावत येऊन पोहचतात.",
+      "englishMeaning": "Or the deer being very thirsty, runs wildly in vast land, thinking that there is water, though it is mirage.",
+      "verified": true
+    },
+    {
+      "verseNumber": 112,
+      "original": "तैसे आपणपे नाही दिठे । जयाते स्वसुखाचे सदा खरांटे । तयासीचि विषय हे गोमटे । आवडती ॥112॥",
+      "marathiMeaning": "त्याप्रमाणे ज्यांना आत्मस्वरूप पाहण्याची दृष्टी नसते आणि ज्याला स्वरूप- आनंदाची सदैव कमतरता असते, त्यांना हे विषय सुखरूप वाटतात.",
+      "englishMeaning": "Similarly, one who has not seen himself and has total shortage of self-bliss, only likes the sense-objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 113,
+      "original": "एऱ्हवी विषयी काइ सुख आहे । हे बोलणेचि सारिखे नोहे । तरी विद्युत्स्फुरणे का न पाहे । जगामाजी ॥113॥",
+      "marathiMeaning": "एरव्ही विषयांमध्ये सुख आहे, हे म्हणणे बोलण्याच्या सुद्धा योग्यतेचे नाही. नाहीतरी विजेच्या चमकण्याने जगामध्ये का उजडत नाही.",
+      "englishMeaning": "Anyway to say that there is happiness in sense objects is better not stated. Because if there were any happiness there, people would have also done their usual activities in the light of lightning in the sky.",
+      "verified": true
+    },
+    {
+      "verseNumber": 114,
+      "original": "सांगे वातवर्षआतपु धरे । ऐसे अभ्रछायाचि जरी सरे । तरी त्रिमाळिके धवळारे । करावी का ॥114॥",
+      "marathiMeaning": "सांग बरे, वारा, पाऊस, ऊन, यांच्यापासून रक्षण करण्याचे काम जर ढगांच्या सावलीने होत असेल, तर मजबूत / तीन माजल्यांची चुनेगच्ची घरे बांधण्याचा खटाटोप का करावा ? ?",
+      "englishMeaning": "My dear, where is the necessity to build three-storied buildings if by the shadow of the clouds, there would have been protection from wind, rain and sun?",
+      "verified": true
+    },
+    {
+      "verseNumber": 115,
+      "original": "म्हणोनि विषयसुख जे बोलिजे । ते नेणता गा वाया जल्पिजे । जैसे महूर का म्हणिजे । विषकंदाते ॥115॥",
+      "marathiMeaning": "विषयांचे स्वरूप न कळल्यामुळे विषयात सुख आहे, असे व्यर्थ बोलले जाते; म्हणून का विषाच्या कांद्याला मधुर म्हणावे ?",
+      "englishMeaning": "Therefore the \"happiness from sense-objects\" is a misnomer, a thoughtless ignorant talk, like calling a poisonous root as sweet.",
+      "verified": true
+    },
+    {
+      "verseNumber": 116,
+      "original": "नातरी भौमा नाम मंगळु । रोहिणीते म्हणती जळु । तैसा सुखप्रवादु बरळु । विषयिकु हा ॥116॥",
+      "marathiMeaning": "भूमिपुत्र (मंगळ) हा सर्व ग्रहात पीडाकारक दिसून येतो, तरीपण त्याला मंगळ असे म्हणतात; किंवा मृगजळालाच जल असे म्हणतात. त्याप्रमाणे विषयापासून मिळणाऱ्या अनुभवाला सुख असे म्हणणे व्यर्थ आहे.",
+      "englishMeaning": "For example, the planet mars is called mangal (auspicious) and mirage is called Mrugajala (water). Similarly ``Pleasure or happiness is derived from sense objects.'' is a false statement.",
+      "verified": true
+    },
+    {
+      "verseNumber": 117,
+      "original": "हे असो आघवी बोली । सांग पा सर्पफणीची साउली । ते शीतल होईल केतुली । मूषकासी ॥117॥",
+      "marathiMeaning": "हे सर्व बोलणे राहुं दे. असे सांग की, नागाच्या फणीची छाया उंदराला कितपत शीतल होऊ शकेल ?",
+      "englishMeaning": "All this talk is senseless. Tell me� How much cool can the shadow of the hood of a serpent be for a rat?",
+      "verified": true
+    },
+    {
+      "verseNumber": 118,
+      "original": "जैसा आमिषकवळु पांडवा । मीनु न सेवी तवचि बरवा । तैसा विषयसंगु आघवा । निभ्रांत जाणे ॥118॥",
+      "marathiMeaning": "जोपर्यंत गळाला लावलेल्या मांसाच्या तुकड्यास मासा तोंड लावीत नाही, तोपर्यन्त तो ठीक असतो. त्याप्रमाणे सर्व विषयांची आपला संबंध येत नाही, तोपर्यंतच बरे, हे, पांडवा, तू निःसंशय समजून घे.",
+      "englishMeaning": "O son of Pandu, so long as the fish does not bite the bait, it is safe. Similar is the case without doubt, about the contact with the sense-objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 119,
+      "original": "हे विरक्ताचिये दिठी । जै न्याहाळिजे किरीटी । तै पांडुरोगाचिये पुष्टि- । सारिखे दिसे ॥119॥",
+      "marathiMeaning": "वीरक्त पुरुषाच्या दृष्टीने हे विषयसुख जेंव्हा पहिले जाते, तेंव्हा पंडुरोगात येणाऱ्या लठ्ठपणासारखे वरून चांगले, पण आतून घातक दिसू लागते.",
+      "englishMeaning": "If seen with the eyes of an ascetic, O the crowned one, all these appear like the false obesity of a patient of anemia.",
+      "verified": true
+    },
+    {
+      "verseNumber": 120,
+      "original": "म्हणोनि विषयभोगी जे सुख । ते साद्यंतचि जाण दुःख । परि काय कीजे मूर्ख । न सेविता न सरे ॥120॥",
+      "marathiMeaning": "म्हणून विषयभोगात जे सुख मानले जाते, ते प्रारंभापासून शेवटपर्यंत दुःखदायक आहे. परंतु अज्ञानी लोक काय करणार ? सवयीमुळे त्यांना विषयसेवन केल्याशिवाय चालत नाही.",
+      "englishMeaning": "Thus whatever is appearing as pleasure in the enjoyment of sense-objects should be known as pain from start to end, but what can the stupid people do in this? They cannot help indulging in it.",
+      "verified": true
+    },
+    {
+      "verseNumber": 121,
+      "original": "ते अंतर नेणती बापुडे । म्हणोनि अगत्य सेवणे घडे । सांगे पूयपंकीचे किडे । काय चिळसी घेती ॥121॥",
+      "marathiMeaning": "ते बिचारी अज्ञानी, विषयांच्या आतले दुःख स्वरूप जाणत नाहीत, म्हणून त्यांच्या कडून विषयसेवन घडत असते. पुवाच्या चिखलातील किड्याना पुवाची कधी किळस येते काय ?",
+      "englishMeaning": "They do not know the inner truth and, therefore, they are compelled to enjoy the objects. Please tell me - do the worms in the pus or mud ever feel disgusted about it?",
+      "verified": true
+    },
+    {
+      "verseNumber": 122,
+      "original": "तया दुःखिया दुःखचि जिव्हार । ते विषयकर्दमीचे दर्दुर । ते भोगजळीचे जलचर । सांडिती केवी ॥122॥",
+      "marathiMeaning": "त्या दुःखी लोकांचे दुःख हेच जीवन बनलेले असते. कारण, ते विषयरुपी चिखलात राहणारे बेडूक असतात, भोगरूपी पाण्यातील जलचर असतात, तर मग ते विषयांचे सेवन कसे बरे सोडतील. ?",
+      "englishMeaning": "To those who are suffering, that suffering is the heart of the matter, a matter of great interest. They are frogs in the mud of objects. They are the aquatic animals in the waters of indulgence. How can they be free of them?",
+      "verified": true
+    },
+    {
+      "verseNumber": 123,
+      "original": "आणि दुःखयोनि जिया आहाती । तिया निरर्थका तरी नव्हती । जरी विषयांवरी विरक्ती । धरिती जीव ॥123॥",
+      "marathiMeaning": "जर विषयांच्या ठिकाणी जीवमात्र हे विरक्ती धारण करतील, तर मग जेवढ्या म्हणून दुःख दायक योनी आहेत, तेवढ्या व्यर्थ होणार नाहीत का ?",
+      "englishMeaning": "Though these objects cause pain, they will be ineffective if at all these Jeevas will hold dislike about them in their mind.",
+      "verified": true
+    },
+    {
+      "verseNumber": 124,
+      "original": "नातरी गर्भवासादि संकट । का जन्ममरणीचे कष्ट । हे विसांवेवीण वाट । वाहावी कवणे ॥124॥",
+      "marathiMeaning": "अथवा गर्भवासात होणारी दुःख, जन्म मरणाचे कष्ट हा मार्ग अविश्रांतपणे कोणी बरे चालवा ?",
+      "englishMeaning": "Otherwise who would have been eager to seek the path of continuous calamities and troubles right from the life in the womb to the tremendous pain both at the time of birth and death?",
+      "verified": true
+    },
+    {
+      "verseNumber": 125,
+      "original": "जरी विषयी विषयो सांडिजेल । तरी महादोषी के वसिजेल । आणि संसारु हा शब्दु नव्हेल । लटिका जगी ॥125॥",
+      "marathiMeaning": "जर विषयासक्त लोकांनी विषय सोडून दिले, तर मग महापातकांनी कोठे बरे राहावे ? आणि मग संसार हा शब्द खोटा ठरणार नाही का ?",
+      "englishMeaning": "Further, if the souls who are attached to the objects will give up those objects, where can the `poor great sin' find a place to stay? Then the word \"Sansar\" (worldly life) would have been false and disappeared from the world.",
+      "verified": true
+    },
+    {
+      "verseNumber": 126,
+      "original": "म्हणोनि अविद्याजात नाथिले । ते तिहीचि साच दाविले । जिही सुखबुद्धी घेतले । विषयदुःख ॥126॥",
+      "marathiMeaning": "म्हणून ज्यांनी, विषयापासून होणारे दुःखच सुख मानले / स्वीकारले. त्यांनीच मिथ्या असलेले सर्व अज्ञान, ते खरे आहे, असे दाखविले.",
+      "englishMeaning": "Actually, only those who are habituated to derive pleasure from these objects and have accepted the suffering inherent in them, have given validity to this tremendous illusion.",
+      "verified": true
+    },
+    {
+      "verseNumber": 127,
+      "original": "या कारणे गा सुभटा । हा विचारिता विषय वोखटा । तू झणे कही या वाटा । विसरोनि जाशी ॥127॥",
+      "marathiMeaning": "अर्जुना, यामुळेच विचार करून पहिले, तर ते विषय वाईट आहेत. तू कधी चुकून त्यामार्गाला जाशील तर जाऊ नकोस.",
+      "englishMeaning": "Therefore, O the great warrior, the \"sense object\" is totally false. Therefore never turn towards that path even by oversight.",
+      "verified": true
+    },
+    {
+      "verseNumber": 128,
+      "original": "पै याते विरक्त पुरुष । त्यजिती का जैसे विष । निराशा तया दुःख । दाविले नावडे ॥128॥",
+      "marathiMeaning": "जे विरक्त पुरुष आहेत, ते या विषयांस, जसे काही विषच आहे, असे समजून त्याचा त्याग करतात.",
+      "englishMeaning": "Those who are austere in their desirelessness avoid the sensual pleasures as if it is poison and as they are desireless, they do not feel the resultant pain.",
+      "verified": true
+    },
+    {
+      "verseNumber": 129,
+      "original": "ज्ञानियांच्या हन ठायी । याची मातुही कीर नाही । देही देहभावो जिही । स्ववश केले ॥129॥",
+      "marathiMeaning": "आत्मज्ञानी पुरुषाच्या अंतःकरणात, दुःखरूप विषयांची गोष्टसुद्धा नसते; कारण त्यांनी देहात असतानाच काम-क्रोधादी वृत्ती स्वाधीन केलेल्या असतात.",
+      "englishMeaning": "Those men of wisdom who have brought under control the various tendencies of their body are not even aware of the pains resulting from indulgence in sense-objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 130,
+      "original": "जयाते बाह्याची भाष । नेणिजेचि निःशेष । अंतरी सुख । एक आथी ॥130॥",
+      "marathiMeaning": "जे बाह्य विषयांच्या उपभोगाची भाषा मुळीच जाणत नाहीत, त्यांच्या हृदयात ब्रम्हसुखच नांदत असते.",
+      "englishMeaning": "In the hearts of those, there is unbroken happiness reigning, who do not know even what is the meaning and nature of the outer objects.",
+      "verified": true
+    },
+    {
+      "verseNumber": 131,
+      "original": "परि ते वेगळेपणे भोगिजे । जैसे पक्षिये फळ चुंबिजे । तैसे नव्हे तेथ विसरिजे । भोगितेपणही ॥131॥",
+      "marathiMeaning": "ब्रम्हसुखाचा अनुभव वेगळ्या पद्धतीने घ्यावा लागतो. पक्षी ज्याप्रमाणे फळाला झोंबतो, तेंव्हा भोक्ता, भोग्य आणि भोग त्रिपुटी असते; पण तशी त्रिपुटी ब्रम्हानंदात नाही. कारण त्या अवस्थेमध्ये भोकतेपणही विसरावा लागतो.",
+      "englishMeaning": "But even their way of enjoying this inner happiness is quite different. They do not enjoy the bliss like birds eating fruit but they forget their role of the enjoyer.",
+      "verified": true
+    },
+    {
+      "verseNumber": 132,
+      "original": "भोगी अवस्था एक उठी । ते अंहकाराचा अचळु लोटी । मग सुखेसि आंठी । गाढेपणे ॥132॥",
+      "marathiMeaning": "त्या भोगांमध्ये वृत्तीची एक अशी अवस्था निर्माण होते की, ती अहंकाराचे वस्त्र दूर सारते आणि मग तो जीव ब्रम्हसुखाचा दृढ आलिंगन देतो.",
+      "englishMeaning": "While they are enjoying the Inner bliss or Atman, they enter such a state that it removes the veil of ego and embraces the total unity very firmly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 133,
+      "original": "तिये आलिंगनमेळी । होय आपेआप कवळी । तेथ जळ जैसे जळी । वेगळे न दिसे ॥133॥",
+      "marathiMeaning": "जसे पाण्यात पाणी टाकले असता ते वेगळे दिसत नाही, तसे त्या अलिंगणात, मिळणात आपलीच आपल्या स्वरूपाशी मिठी पडलेली असते.",
+      "englishMeaning": "In that tight embrace of oneness, the soul becomes one with the Paramatman in such a deep sense as water mixing with water.",
+      "verified": true
+    },
+    {
+      "verseNumber": 134,
+      "original": "का आकाशी वायु हारपे । तेथ दोन्ही हे भाष लोपे । तैसे सुखचि उरे स्वरुपे । सुरती तिये ॥134॥",
+      "marathiMeaning": "अथवा आकाशात वायूचा लय झाल्यानंतर आकाश व वायू हे दोन आहेत, ही भेदाची भाषा संपून जाते, त्याप्रमाणे ऐक्य अवस्था आणि ब्रम्हसुख ही भेदाची भाषा संपून फक्त आनंदच स्वरूपाने शिल्लक राहतो.",
+      "englishMeaning": "When the soul is united with the totality of Paramatman, there remains only bliss in the shape of Atman. It is like the unity of the sky in its aloneness when the wind merges in the sky and one cannot point out as \"this is wind\" and \"this is the sky.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 135,
+      "original": "ऐसी द्वैताची भाष जाय । मग म्हणो जरी एकचि होय । तरी तेथ साक्षी कवणु आहे । जाणते जे ॥135॥",
+      "marathiMeaning": "अशी द्वैताची गोष्टच गेली, म्हणजे ऐक्य होते. असे जर म्हणावे, तर तसे ऐक्य जाणून, ” ऐक्य आहे ” असे म्हणणारा तेथे साक्षी तरी कोण आहे ?",
+      "englishMeaning": "If we say that the language of duality comes to an end and only unity remains, how can there be an observer who looks and knows that state?",
+      "verified": true
+    },
+    {
+      "verseNumber": 136,
+      "original": "म्हणोनि असो हे आघवे । एथ न बोलणे काय बोलावे । ते खुणाचि पावेल स्वभावे । आत्माराम ॥136॥",
+      "marathiMeaning": "म्हणून हे सर्व बोलणे असू द्या. जो प्रत्येक्ष अनुभवाचा विषय आहे, त्याबद्दल शब्दांनी काय बरे बोलावे ? आत्मस्वरूपाच्या ठिकाणी जे ऐक्य पावलेले ब्राम्हनिष्ठ पुरुष आहेत, ते या सूक्ष्म विचारतील खरे वर्म सहज जणतील.",
+      "englishMeaning": "Therefore, I will stop this talk. How can one talk about that thing which cannot be spoken in words? Only he who has realized himself will understand everything by this somewhat unclear indication.",
+      "verified": true
+    },
+    {
+      "verseNumber": 137,
+      "original": "जे ऐसेनि सुखे मातले । आपणपाचि आपण गुंतले । ते मी जाणे निखळ वोतले । साम्यरसाचे ॥137॥",
+      "marathiMeaning": "जे अशा सुखाने परिपूर्ण संपन्न झाले आहेत, जे आपल्या स्वरूपाच्या ठिकाणी रममाण झाले आहेत, ते पूर्णपणे साम्यरसाचे ओतलेले पुतळे आहेत, असे मी समजतो.",
+      "englishMeaning": "Those who are fully satisfied by such happiness and are involved into themselves inwardly are according to me the images of the homogeneity of Brahman.",
+      "verified": true
+    },
+    {
+      "verseNumber": 138,
+      "original": "ते आनंदाचे अनुकार । सुखाचे अंकुर । की महाबोधे विहार । केले जैसे ॥138॥",
+      "marathiMeaning": "ते ब्राम्हनिष्ठ पुरुष आनंदाचे प्रतिबिंब आहेत, सुखाचे अंकुर आहेत किंवा त्यांच्या रूपाने महाबोधाने जणू क्रीडा केलेली आहे.",
+      "englishMeaning": "They are the formation of bliss. They are the offshoots of happiness or the playground of supreme enlightenment.",
+      "verified": true
+    },
+    {
+      "verseNumber": 139,
+      "original": "ते विवेकाचे गाव । की परब्रह्मीचे स्वभाव । नातरी अळंकारले अवयव । ब्रह्मविद्येचे ॥139॥",
+      "marathiMeaning": "ते विवेकाचे संपूर्ण गाव आहे, आणि प्ररब्रह्मच्या ठिकाणचे स्वभाव अथवा ब्रम्हविद्येचे सुशोभित केलेले अवयव आहेत.",
+      "englishMeaning": "They are the towns of discretion or the very nature of absolute Brahman or the ornamented limbs of the science of Brahman.",
+      "verified": true
+    },
+    {
+      "verseNumber": 140,
+      "original": "ते सत्त्वाचे सात्त्विक । की चैतन्याचे आंगिक । हे बहु असो एकैक । वानिसी काई ॥140॥",
+      "marathiMeaning": "ते शुद्धत्वाचे (सत्वगुणातला मूर्तिमंत सात्विक पणा आहेत. ते चैत्यन्याच्या शरीराची बांधेसुद ठेवणं आहेत. यावर सद्गुरू निवृत्तीनाथ म्हणाले, हे बोलण्याचा विस्तार असू दे. ब्राम्हनिष्ठ पुरुषांची एक – एक लक्षणे किती म्हणून वर्णन करणार आहेस ?",
+      "englishMeaning": "They are the essence of piousness, or they are the embodiment of spirit.'' Here the listeners said, \"Enough! Why are you describing each and every- thing?",
+      "verified": true
+    },
+    {
+      "verseNumber": 141,
+      "original": "तू संतस्तवनी रतसी । तरी कथेची से न करिसी । की निराळी बोल देखसी । सनागर ॥141॥",
+      "marathiMeaning": "पाहा निवृत्तीनाथ पुढे काय म्हणत आहेत.",
+      "englishMeaning": "You go astray and dwell at length in the praise of saints and forget the continuity of the subject under reference and you are inspired to use beautiful words while propounding that which is having no form or facets.",
+      "verified": true
+    },
+    {
+      "verseNumber": 142,
+      "original": "परि तो रसातिशयो मुकुळी । मग ग्रंथार्थदीपु उजळी । करी साधुहृदयराउळी । मंगळ उखा ॥142॥",
+      "marathiMeaning": "परंतु आता हा रसाचा विस्तार आवरता घे; आणि ग्रँथाचा अर्थरूपी दिवा प्रज्वलीत कर व सज्जनांच्या अंतःकरणरूपी मंदिरात मंगलकारक दिवसाचा प्रातःकाल कर.",
+      "englishMeaning": "But now control your inspiration of indulgence in highly flowery language and brighten the lamp of the meaning of the book itself, and let the auspicious dawn come into existence in the hearts of the saints.\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 143,
+      "original": "ऐसा श्रीगुरुचा उवायिला । निवृत्तिदासासी पातला । मग तो म्हणे कृष्ण बोलिला । तेचि आइका ॥143॥",
+      "marathiMeaning": "हे सद्गुरू निवृत्तींनाथांचे विचार ज्ञानेश्वरांनी मानले. मग ज्ञानेश्वर माऊली म्हणाले, ते भगवान श्रीकृष्ण काय म्हणाले, ते आता ऐका.",
+      "englishMeaning": "Thus the servant of Nivruttinath got the message from the Guru. Therefore, now please listen to what Shrikrishna said to Arjuna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 144,
+      "original": "अर्जुना अंनत सुखाच्या डोही । एकसरा तळुचि घेतला जिही । मग स्थिराऊनी तेही । तेचि जाहले ॥144॥",
+      "marathiMeaning": "अर्जुना ! अनंत सुखाच्या डोहात उडी मारून एकदम तळ गाठला, ते तेथेच स्थिर होऊन आत्मस्वरूप बनले.",
+      "englishMeaning": "(Shrikrishna said-) `O Arjuna, those who delve deep in the pond of self-bliss and reach the very bottom of it, become united with that state and remain there only.",
+      "verified": true
+    },
+    {
+      "verseNumber": 145,
+      "original": "अथवा आत्मप्रकाशे चोखे । जो पापियाचा आपणपेचि विश्व देखे । तो देहेचि परब्रह्म सुखे । मानू येईल ॥145॥",
+      "marathiMeaning": "हृदयामध्ये शुद्ध आत्मप्रकाश पसरला, की संपूर्ण विश्व आपलेच स्वरूप आहे, असे जो पाहत असतो, तो मनुष्य देहासह परब्रम्ह झाला, असे सहज मानता येईल.",
+      "englishMeaning": "We can also say safely that he who sees all the universe in himself in the light of his inner light, has himself, by his own body become Brahman.",
+      "verified": true
+    },
+    {
+      "verseNumber": 146,
+      "original": "जे साचोकारे परम । ना ते अक्षर निःसीम । जिये गावीचे निष्काम । अधिकारिये ॥146॥",
+      "marathiMeaning": "जे खरोखरच परममश्रेष्ठ अथवा अविनाशी व अमर्याद असे ब्रम्हसुख, त्याचे अधिकार निरिच्छ होतात,",
+      "englishMeaning": "That Absolute Brahman, which is the supreme truth, imperishable and limitless is the great treasure of those desireless persons who are the only authorities there.",
+      "verified": true
+    },
+    {
+      "verseNumber": 147,
+      "original": "जे महर्षी वाढले । विरक्ता भागा फिटले । जे निःसंशया पिकले । निरंतर ॥147॥",
+      "marathiMeaning": "जे थोर ऋषिकरिता काढून ठेवले आहे किंवा विरक्तांच्या वाट्याला आले व सदैव संशयरहित पुरुषास सर्व काळ टिकले आहे.",
+      "englishMeaning": "That is the special fortune in the lot of great sages, and only the desireless persons partake of it. It becomes the ripe fruit which those who have banished all doubt, eternally enjoy.",
+      "verified": true
+    },
+    {
+      "verseNumber": 148,
+      "original": "जिही विषयांपासोनि हिरतले । चित्त आपुले आपण जिंतिले । ते निश्चित जेथ सुतले । चेतीचिना ॥148॥",
+      "marathiMeaning": "ज्याने आपले चित्त विषयापासून हिराहून घेतले आहे आणि आपल्या स्वाधीन करून ठेवले आहे, असे पुरुष निश्चयाने त्या स्वरूपात लीन झाले असता पुनः पूर्ववृत्तीवर येत नाहीत.",
+      "englishMeaning": "Those who have whisked away their mind from sense-objects and have kept it under perfect control, remain eternally peaceful in that state from which they are not at all disturbed.",
+      "verified": true
+    },
+    {
+      "verseNumber": 149,
+      "original": "ते परब्रह्म निर्वाण । जे आत्मविदांचे कारण । तेचि ते पुरुष जाण । पंडुकुमरा ॥149॥",
+      "marathiMeaning": "हे पांडुकुमरा ! आत्मज्ञानाचे फल असे ते मोक्षरूप परब्रम्ह आहे. आत्मज्ञानी पुरुष ते परब्रम्हच होतात, असे तू जाण.",
+      "englishMeaning": "``O the son of Pandu, that state is called \"The eternal rest in the Absolute Brahman\", and these men become themselves that Brahman which is the final goal for the men of self-knowledge.",
+      "verified": true
+    },
+    {
+      "verseNumber": 150,
+      "original": "ते ऐसे कैसेनि जाहले । जे देहीचि ब्रह्मत्वा आले । हे ही पुससी तरी भले । संक्षेपे सांगो ॥150॥",
+      "marathiMeaning": "हे पुरुष देह असताना ब्रहत्वास कशाने पावेल, हे जर विचारत असशील, तर उत्तमच आहे. तुला ती साधने संक्षेपाने सांगतो.",
+      "englishMeaning": "You will ask how they reached this state, how they became Brahman while living in the physical body. Therefore, I will tell you that also, in short.",
+      "verified": true
+    },
+    {
+      "verseNumber": 151,
+      "original": "तरी वैराग्यचेनि आधारे । जिही विषय दवडुनि बाहिरे । शरीरी एकंदरे । केले मन ॥151॥",
+      "marathiMeaning": "ज्यांनी वैराग्याच्या आधाराने सर्व विषयांना मनातून बाहेर घालविले आहे व मन अंतर्मुख केले,",
+      "englishMeaning": "So, those who, taking the support of desirelessness, have kept the objects of senses away and out of their `being', and have concentrated their mind in one place within their body.",
+      "verified": true
+    },
+    {
+      "verseNumber": 152,
+      "original": "सहजे तिही संधी भेटी । जेथ भ्रुपल्लवा पडे गाठी । तेथ पाठमोरी दिठी । पारुखोनिया ॥152॥",
+      "marathiMeaning": "त्यांचा प्राण इडा-पिंगळा सोडून सुषुम्नामध्ये नेला जातो आणि स्वरूपामध्ये आणि स्वरूपामध्ये दृष्टी मागे वळवून स्थिर केली जाते.",
+      "englishMeaning": "Having turned back their vision, into the place where the two eyebrows meet each other, very smoothly.",
+      "verified": true
+    },
+    {
+      "verseNumber": 153,
+      "original": "सांडूनि दक्षिण वाम । प्राणापानसम । चित्तेसी व्योम- । गामिये करिती ॥153॥",
+      "marathiMeaning": "उजव्या म्हणजे पिंगळा व डाव्या म्हणजे इडा नाकपुडीतून वाहत असलेल्या वायूची गती म्हणजे रेचक-पूरक बंद करून, कुंभक करून प्राण व अपान यांची सुषुम्नेत समगती म्हणजे ऐक्य करून चित्तास ते व्यमोगामी म्हणजे मुर्धन्योकाशकडे जाणारे करतात.",
+      "englishMeaning": "Leaving both the right and the left side of the nose, have kept the inhaling and exhaling very smooth and equal, in the center, and turned them from the mind up to the inner cerebral cavity;",
+      "verified": true
+    },
+    {
+      "verseNumber": 154,
+      "original": "तेथ जैसी रथ्योदके सकळे । घेऊनि गंगा समुद्री मिळे । मग एकैक वेगळे । निवडु नये ॥154॥",
+      "marathiMeaning": "जशी गंगानदी ही रस्त्यातून वाहणारे सर्व पाणी आपल्यामध्ये सामावून घेऊन सागरात मिळते, तेंव्हा त्या सागरामध्ये हे रस्त्यावरचे अशुद्ध पाणी आणि गंगेचे शुद्ध पाणी असा भेद करता येत नाही.",
+      "englishMeaning": "There, just as when all the big and small streams meet the sea, it is not possible to distinguish them separately.",
+      "verified": true
+    },
+    {
+      "verseNumber": 155,
+      "original": "तैसी वासनांतराची विवंचना । मग आपैसी पारुखे अर्जुना । जे वेळी गगनी लयो मना । पवने कीजे ॥155॥",
+      "marathiMeaning": "त्याप्रमाणे हे अर्जुना ! ज्यावेळी मनाचा प्राण – अपणाच्या निरोधाने",
+      "englishMeaning": "Similarly, O Arjun, the different desires and their classification etc; comes automatically to an end when the mind is merged by the wind (breath) into the cerebral space called inner sky.",
+      "verified": true
+    },
+    {
+      "verseNumber": 156,
+      "original": "जेथ हे संसारचित्र उमटे । तो मनोरुपु पटु फाटे । जैसे सरोवर आटे । मग प्रतिमा नाही ॥156॥",
+      "marathiMeaning": "ज्या मनोरुप पटावरती संसाररूपी अनेक प्रकारची चित्रे उमटत असतात, तो पटच फाटून जातो. ज्याप्रमाणे सरोवर आटल्यावर त्यात प्रतिबिंब दिसत नाही,",
+      "englishMeaning": "Then, the very screen of mind on which the world is reflected, is torn. Just as there is no reflection in a lake when water in it is dried up;",
+      "verified": true
+    },
+    {
+      "verseNumber": 157,
+      "original": "तैसे मन येथ मुद्दल जाय । मग अंहभावादिक के आहे । म्हणोनि शरीरेंचि ब्रह्म होये । अनुभवी तो ॥157॥",
+      "marathiMeaning": "त्याप्रमाणे मनाचा मनपणाच नाहीसा झाला, तर कोणत्याही प्रकारचे अहंभाव, भ्रम वगैरे कसे शिल्लक राहतील ? म्हणून तो अनुभवी पुरुष देहधारी असतानाच ब्रम्हरूप होतो.",
+      "englishMeaning": "Similarly when the `capital' which is mind is gone where are the other senses such as \"I and mine?'' So, the man who experiences this becomes Brahman by his body itself.",
+      "verified": true
+    },
+    {
+      "verseNumber": 158,
+      "original": "आम्ही मागा हन सांगितले । जे देहीचि ब्रह्मत्व पावले । ते येणे मार्गे आले । म्हणऊनिया ॥158॥",
+      "marathiMeaning": "जे पुरुष देहधारी असतानाच ब्रम्हस्वरूपाला प्राप्त झाले, ते ह्या योगमार्गाने आले, म्हणून आम्ही याआधी मार्गविषयक निरूपण केले आहे.",
+      "englishMeaning": "Those whom we described earlier to have become Brahman while living in their body, really reach that state by following this path only.",
+      "verified": true
+    },
+    {
+      "verseNumber": 159,
+      "original": "आणि यमनियमांचे डोंगर । अभ्यासाचे सागर । क्रमोनि हे पार । पातले ते ॥159॥",
+      "marathiMeaning": "ते पुरुष यम, नियम यांचे पर्वत ओलांडून, आणि योग- अभ्यासाचा सागर ओलांडून मोक्षाला प्राप्त झालेले असतात.",
+      "englishMeaning": "They have climbed and passed beyond the mountains of strict rules of conduct, and have crossed the seas of constant practice, and reached this shore.",
+      "verified": true
+    },
+    {
+      "verseNumber": 160,
+      "original": "तिही आपणपे करुनि निर्लेप । प्रंपचाचे घेतले माप । मग साचाचेचि रुप । होऊनि ठेले ॥160॥",
+      "marathiMeaning": "त्यांनी आपले अंतःकरण पूर्ण शुद्ध करून प्रपंचाला जाणून घेतलेले असते; आणि विश्वाचे सत्य अधिष्ठान जे परब्रम्ह, याच्याशी ते एकरूप होऊन राहिलेले असतात.",
+      "englishMeaning": "They have sized up the mundane life by keeping themselves aloof and have then become the very personification of peace and remained eternally in that state.",
+      "verified": true
+    },
+    {
+      "verseNumber": 161,
+      "original": "ऐसा योगयुक्तीचा उद्देशु । जेथ बोलिला हृषीकेशु । तेथ अर्जुनु सुदंशु । म्हणोनि चमत्कारला ॥161॥",
+      "marathiMeaning": "जेंव्हा भगवान श्रीकृष्णांनी योग मार्गाचा अभिप्राय अशा रीतीने थोडक्यात सांगितला. तेंव्हा अर्जुन मर्मज्ञ असल्याकारणाने आश्चर्यचकित झाला.",
+      "englishMeaning": "Thus the Lord Hrisheekesha spoke about the aim of the practice of yoga, which, Arjuna, being very alert, listened to with wonder.",
+      "verified": true
+    },
+    {
+      "verseNumber": 162,
+      "original": "ते देखिलिया कृष्णे जाणितले । मग हांसोनि पार्थाते म्हणितले । ते काई पा चित्त उवाइले । इये बोली तुझे ॥162॥",
+      "marathiMeaning": "श्रीकृष्णानी अर्जुनाच्या मनाची ही अवस्था जाणली व मग हसून अर्जुनाला म्हणाले, ‘आमच्या बोलण्याने तुझे चित्त प्रसन्न झाले का ?",
+      "englishMeaning": "The Lord Shrikrishna saw and understood this state of Partha and asked him smilingly \"Is your mind satisfied with all this description?\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 163,
+      "original": "तव अर्जुन म्हणे देवो । परचित्तलक्षणांचा रावो । भला जाणितला जी भावो । मानसु माझा ॥163॥",
+      "marathiMeaning": "तेंव्हा अर्जुन म्हणाला, ” हे देवा ! दुसऱ्याच्या मनातील भावभावना जाणणारे तुम्ही राजे आहात; त्यामुळे तुम्ही माझ्या मनातील भाव उत्तम प्रकारे जाणल",
+      "englishMeaning": "Upon this Arjuna said - \"O Lord, you are the most accomplished one in reading the minds of others, and you have surely well understood my feelings.",
+      "verified": true
+    },
+    {
+      "verseNumber": 164,
+      "original": "म्या जे काही विवरुनि पुसावे । ते आधीचि कळले देवे । तरी बोलिले तेचि सांगावे । विवळ करुनि ॥164॥",
+      "marathiMeaning": "हे देवा ! मी काही चिंतन करून तुम्हाला विचारावे, ते तुम्ही आधीच जाणलेले आहे. तरी आता आपण मागे जे योगासंबंधी सांगितले, तेच आता अधिक स्पष्ट करून सांगावे.",
+      "englishMeaning": "It so happens that whatever I wish to ask, the Lord already knows. But I request you to please explain again in simpler terms what you have told.",
+      "verified": true
+    },
+    {
+      "verseNumber": 165,
+      "original": "एऱ्हवी तरी अवधारा । जो दाविला तुम्ही अनुसारा । तो पव्हण्याहूनि पायउतारा । सोहपा जैसा ॥165॥",
+      "marathiMeaning": "एरवीसुद्धा असा विचार करा की, तुम्ही जो योगशास्त्राचा मार्ग सांगितला, तो पोहून जाण्यापेक्षा पायउताराने जाणे जसे सोपे असते,",
+      "englishMeaning": "Anyway, the path which you have advised is easier, just like wading through a shallow stream which is easier than swimming.",
+      "verified": true
+    },
+    {
+      "verseNumber": 166,
+      "original": "तैसा सांख्याहूनि प्रांजळा । तरी आम्हासारिखिया अभोळा । एथ आहाति काही परि काळा । तो साहो ये वर ॥166॥",
+      "marathiMeaning": "तसा हा अष्टांगयोग सांख्ययोगा पेक्षा सोपा आहे. परंतु आमच्यासारख्या दुर्बलांना तो राजयोग समजण्यास काही काळ विलंब लागेल; पण तो विलंब सहन करता येईल.",
+      "englishMeaning": "So, compared to the path of knowledge in Sankhya philosophy, this path is easier for weak- willed persons like me; and it is not a matter to worry about, if some time is required to find it out.",
+      "verified": true
+    },
+    {
+      "verseNumber": 167,
+      "original": "म्हणोनि एक वेळ देवा । तोचि पडताळा घेयावा । विस्तरेल तरी सांगावा । साद्यंतुचि ॥167॥",
+      "marathiMeaning": "म्हणून हे देवा ! एक वेळ त्या अष्टांगयोगाचा अनुवाद करावा. जरी त्याचा विस्तार झाला,तरी चालेल; परंतु तो योगमार्ग आरंभापासून शेवटपर्यंत सांगावा.",
+      "englishMeaning": "Therefore, O Lord, please re-iterate the same advice and make it more elaborate, if it is not much trouble to you.",
+      "verified": true
+    },
+    {
+      "verseNumber": 168,
+      "original": "तव कृष्ण म्हणती हो का । तुज हा मार्ग गमला निका । तरी काय जाहले ऐकिजो का । सुखे बोलो ॥168॥",
+      "marathiMeaning": "तेव्हा भगवान श्रीकृष्ण म्हणाले, असे का !! तुला हा मार्ग चांगला वाटतो, तर सांगायला आमची काय हरकत आहे ? ऐक, आम्ही तो तो आनंदाने सांगतो.",
+      "englishMeaning": "Upon this, the Lord Shrikrishna said - Oh! So you really found this path of action to be easier! Then what trouble is there for me to tell you again? I will happily tell. Please listen again.",
+      "verified": true
+    },
+    {
+      "verseNumber": 169,
+      "original": "अर्जुना तु परिससी । परिसोनि अनुष्ठिसी । तरी आम्हासीचि वानी कायसी । सांगावयाची ॥169॥",
+      "marathiMeaning": "हे अर्जुना ! तू ऐकतोस आणि त्याप्रमाणे आचरण करतोस करतोस, असे असताना आम्ही तुला सांगण्याची कमतरता का बरे करावी ?",
+      "englishMeaning": "O Arjuna, if you are listening to this advice and going to actually follow it in your life, then what trouble is there for us to repeat it?\"",
+      "verified": true
+    },
+    {
+      "verseNumber": 170,
+      "original": "आधीच चित्त मायेचे । वरी मिष जाहले पढियंताचे । आता ते अद्भुतपण स्नेहाचे । कवण जाणे ॥170॥",
+      "marathiMeaning": "(ज्ञानेश्वर माऊली म्हणतात. ) आगोदरच आईचे अंतःकरणं,त्यात आवडत्या लेकाराचे आवडतेपणाचे निमित्त झाले; मग त्या ममतेच्या अद्भूततेची कल्पना कोणाला येईल ?",
+      "englishMeaning": "Dnyaneshwar says - \"The heart of Shrikrishna was already full of kindness. Over and above, the reason of all the talk was that Arjuna was very dear to him. Now, who will know fully the wonderous manifestation of that great affection?",
+      "verified": true
+    },
+    {
+      "verseNumber": 171,
+      "original": "ते म्हणो कारुण्यरसाची वृष्टि । की नवया स्नेहाची सृष्टि । हे असे नेणिजे दृष्टी । हरीची वानू ॥171॥",
+      "marathiMeaning": "त्या अद्भुत प्रेमाला करुण्यरूपी जलाचा वर्षाव म्हणता येईल अथवा नूतन प्रेमाची सृष्टी म्हणता येईल. परंतु हे असो, श्रीकृष्णाच्या कृपादृष्टीचे वर्णन कोणत्या शब्दात करावे, हे कळत नाही.",
+      "englishMeaning": "Should I describe the loving gaze which Shrikrishna turned towards Arjuna, as the shower of nectar or the creation of wonderful friendliness? I cannot really describe the glance of Lord Hari, accurately enough.",
+      "verified": true
+    },
+    {
+      "verseNumber": 172,
+      "original": "जे अमृताची वोतली । की प्रेमचि पिऊन मातली । म्हणोनि अर्जुनमोहे गुंतली । निघो नेणे ॥172॥",
+      "marathiMeaning": "ही कृपादृष्टी अमृताच्या मुशीत ओतली अथवा प्रेम पिऊन मस्त झाली होती, म्हणून अर्जुनाविषयीच्या मोहमध्ये गुंतली असून तिला बाहेर येता येईना.",
+      "englishMeaning": "Was it full of nectar, or was it beyond limits of rationality because it had the love, and therefore it was so madly in love with Arjuna that it did not know how to turn away?",
+      "verified": true
+    },
+    {
+      "verseNumber": 173,
+      "original": "हे बहु जे जे जल्पिजेल । तेथे कथेसि फाकु होईल । परि स्नेह रुपा नयेल । बोलवरी ॥173॥",
+      "marathiMeaning": "या कृपादृष्टीसंबंधी जास्त बोलावे, तर कथेचे विषयातर होईल. श्रीकृष्ण व अर्जुन यांच्या अलौकिक प्रेमाचे वर्णन शब्दांनी करता येणार नाही.",
+      "englishMeaning": "But let this be. Whatever I talk further will be a diversion from the main story, but even then, it will not be an apt description of the love which Shrikrishna had for Arjuna.",
+      "verified": true
+    },
+    {
+      "verseNumber": 174,
+      "original": "म्हणोनि विसुरा काय येणे । तो ईश्वरु आकळावा कवणे । जो आपुले मान नेणे । आपणचि ॥174॥",
+      "marathiMeaning": "म्हणून हा विचार का बरे करावा ? जो ईश्वर आपल्या अनंत स्वरूपाचे मोजमाप आपणच करू शकत नाही, तो ईश्वर कोणी बरे आकलन करावा. ?",
+      "englishMeaning": "But what is so strange about my inability? Who can ever describe the nature of God completely, when He Himself cannot do so?",
+      "verified": true
+    },
+    {
+      "verseNumber": 175,
+      "original": "तरी मागीला ध्वनीआंतु । मज गमला सावियाचि मोहितु । जे बलात्कारे असे म्हणतु । परिस बापा ॥175॥",
+      "marathiMeaning": "तरी मागे सांगितलेल्या अभिप्रायावरून असे वाटते की, श्रीकृष्ण सहज मोहित बलात्काराने अर्जुनास असे म्हणेल की, ” अरे बाबा ! मी सांगतो, ते ऐक. “",
+      "englishMeaning": "But I feel that there is enough evidence of his being indulgent and involved in Arjuna through intense love, judged by his earlier talk of emphatically entreating Arjuna to listen again.",
+      "verified": true
+    },
+    {
+      "verseNumber": 176,
+      "original": "अर्जुना जेणे भेदे । तुझे का चित्त बोधे । तैसे तैसे विनोदे । निरुपिजेल ॥176॥",
+      "marathiMeaning": "हे अर्जुना ! ज्या प्रकाराने तुझ्या चित्ताला पटेल, त्या त्या प्रकाराने तुला कौतुकाने सोप्या मनोरंजक भाषेत सांगेन.",
+      "englishMeaning": "Thus, Shrikrishna said - \"Arjuna, in whatever ways your mind will follow what I say, I will tell you happily at length everything in so many ways",
+      "verified": true
+    },
+    {
+      "verseNumber": 177,
+      "original": "तो काइसया नाम योगु । तयाचा कवण उपेगु । अथवा अधिकारप्रसंगु । कवणा येथ ॥177॥",
+      "marathiMeaning": "तो योग कशाला म्हणतात ? त्या योगाचा उपयोग काय ? आणि त्याचा अधिकार कोणाला प्राप्त होतो ?",
+      "englishMeaning": "As to what is the path of action, and of what use it is, and who is eligible to learn this subject",
+      "verified": true
+    },
+    {
+      "verseNumber": 178,
+      "original": "ऐसे जे जे काही । उक्त असे इये ठाई । ते आघवेचि पाही । सांगेन आता ॥178॥",
+      "marathiMeaning": "याप्रमाणे जे जे काही या बाबतीत (शास्त्रात) सांगितले असेल, ते सर्वच मी तुला आता सांगेन, पाहा.",
+      "englishMeaning": "will all be explained by me now, whichever is described earlier.",
+      "verified": true
+    },
+    {
+      "verseNumber": 179,
+      "original": "तू चित्त देऊनि अवधारी । ऐसे म्हणोनि श्रीहरी । बोलिजेल ते पुढारी । कथा आहे ॥179॥",
+      "marathiMeaning": "तू मन लावून ऐक. असे म्हणून भगवान श्रीहरी जे बोलले ती कथा पुढे आहे, ती सांगण्यात येईल.",
+      "englishMeaning": "You will please listen to it with attention.\" (Thus saying, Shri Hari will tell him further, which is to be described now.)",
+      "verified": true
+    },
+    {
+      "verseNumber": 180,
+      "original": "श्रीकृष्ण अर्जुनासी संगु । न सांडोनि सांगेल योगु । तो व्यक्त करु प्रसंगु । म्हणे निवृत्तिदासु ॥180॥",
+      "marathiMeaning": "अर्जुनाशी असलेल्या द्वैत न मोडता श्रीकृष्णाने अर्जुनाला जो राजयोग सांगितला, तो प्रसंग आम्ही स्पष्ट करून सांगतो, असे निवृत्तींनाथांचे शिष्य श्रीज्ञानेश्वर माऊली म्हणाले.",
+      "englishMeaning": "We will describe clearly how Shrikrishna will explain the yoga to Arjuna without breaking the continuity of the subject - so says the servant of Nivrutti (i.e. saint Dnyaneshwara.)",
+      "verified": true
+    }
+  ]
 }
